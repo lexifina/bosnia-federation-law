@@ -1,0 +1,11 @@
+# UPUTSTVO O NAČINU VOĐENJA POSTUPKA STICANJA I PRESTANKA DRŽAVLJANSTVA FEDERACIJE BOSNE I HERCEGOVINE I VOĐENJU EVIDENCIJA TOG DRŽAVLJANSTVA
+
+Naslov: UPUTSTVO O NAČINU VOĐENJA POSTUPKA STICANJA I PRESTANKA DRŽAVLJANSTVA FEDERACIJE BOSNE I HERCEGOVINE I VOĐENJU EVIDENCIJA TOG DRŽAVLJANSTVA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTARNJIH/UNUTRAŠNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 8/02 (28.2.2002.), akt 30 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YvpCEUZQaB8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
