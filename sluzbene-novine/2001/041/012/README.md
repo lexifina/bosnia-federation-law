@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU OSNOVICE I STOPE ČLANSKOG DOPRINOSA, NAČINU I ROKOVIMA PLAĆANJA DOPRINOSA PRIVREDNOJ KOMORI UNSKO-SANSKOG KANTONA BIHAĆ ZA 2001. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU OSNOVICE I STOPE ČLANSKOG DOPRINOSA, NAČINU I ROKOVIMA PLAĆANJA DOPRINOSA PRIVREDNOJ KOMORI UNSKO-SANSKOG KANTONA BIHAĆ ZA 2001. GODINU
+
+Donosilac: PRIVREDNA KOMORA UNSKO-SANSKOG KANTONA.
+
+Službene novine Federacije BiH broj 41/01 (2.10.2001.), akt 12 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/unekAxhBINI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
