@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU ODLUKE O RAZRJEŠENJU ČLANA KOMISIJE ZA VRIJEDNOSNE PAPIRE U FEDERACIJI BOSNE I HERCEGOVINE IZ REDA INOZEMNIH STRUČNJAKA
+
+Naslov: ODLUKU O POTVRĐIVANJU ODLUKE O RAZRJEŠENJU ČLANA KOMISIJE ZA VRIJEDNOSNE PAPIRE U FEDERACIJI BOSNE I HERCEGOVINE IZ REDA INOZEMNIH STRUČNJAKA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 35/01 (4.8.2001.), akt 1 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/iiENa5ZuyEQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
