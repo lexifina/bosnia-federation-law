@@ -1,0 +1,11 @@
+# UREDBU O USLOVIMA, NAČINU I PROGRAMU POLAGANJA ISPITA OPĆEG ZNANJA I STRUČNOG ISPITA ZA DRŽAVNE SLUŽBENIKE U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: UREDBU O USLOVIMA, NAČINU I PROGRAMU POLAGANJA ISPITA OPĆEG ZNANJA I STRUČNOG ISPITA ZA DRŽAVNE SLUŽBENIKE U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 3/05 (14.1.2005.), akt 2 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/y8tBxLDegIo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
