@@ -1,0 +1,11 @@
+# NAPUTAK O PRIKUPLJANJU PODATAKA ZA USPOSTAVU EVIDENCIJE O ZAOSTALIM NEIZMIRENIM OBVEZAMA U PERIODU OD TRAVNJA 1996. GODINE DO 31. PROSINCA 2002. GODINE
+
+Naslov: NAPUTAK O PRIKUPLJANJU PODATAKA ZA USPOSTAVU EVIDENCIJE O ZAOSTALIM NEIZMIRENIM OBVEZAMA U PERIODU OD TRAVNJA 1996. GODINE DO 31. PROSINCA 2002. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANCIJA/FINANSIJA.
+
+Službene novine Federacije BiH broj 8/03 (28.2.2003.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/e0qJKrwix5I=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
