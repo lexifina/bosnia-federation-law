@@ -1,0 +1,11 @@
+# PRAVILNIK O VRSTAMA, NAČINU I OBIMU MJERENJA I ISPITIVANJA ISKORIŠTENE VODE, ISPUŠTENE OTPADNE VODE I IZVAĐENOG MATERIJALA IZ VODOTOKA
+
+Naslov: PRAVILNIK O VRSTAMA, NAČINU I OBIMU MJERENJA I ISPITIVANJA ISKORIŠTENE VODE, ISPUŠTENE OTPADNE VODE I IZVAĐENOG MATERIJALA IZ VODOTOKA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 48/98 (28.12.1998.), akt 1 od 1 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/P2Eo7h563lo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
