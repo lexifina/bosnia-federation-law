@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SU U UPORABI U VETERINARSTVU KOJIMA JE UKINUTO ODOBRENJE ZA STAVLJANJE U PROMET
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SU U UPORABI U VETERINARSTVU KOJIMA JE UKINUTO ODOBRENJE ZA STAVLJANJE U PROMET
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 6/03 (17.2.2003.), akt 4 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qNsrAgztz5k76kjn45hydIFA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
