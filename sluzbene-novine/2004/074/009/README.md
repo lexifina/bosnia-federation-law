@@ -1,0 +1,11 @@
+# ODLUKU O ČUVANJU I KORIŠTENJU DOKUMENTACIJE UNUTARNJEG PLATNOG PROMETA, NASTALE PRIJE NJEGOVOG PRIJENOSA U NADLEŽNOST KOMERCIJALNIH BANAKA
+
+Naslov: ODLUKU O ČUVANJU I KORIŠTENJU DOKUMENTACIJE UNUTARNJEG PLATNOG PROMETA, NASTALE PRIJE NJEGOVOG PRIJENOSA U NADLEŽNOST KOMERCIJALNIH BANAKA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 74/04 (25.12.2004.), akt 9 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0khhKQNbMWc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
