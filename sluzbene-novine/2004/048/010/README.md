@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU ZA PRUŽANJE FINANCIJSKE POMOĆI SIL "SODA INVEST LUKAVAC" D.O.O.
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU ZA PRUŽANJE FINANCIJSKE POMOĆI SIL "SODA INVEST LUKAVAC" D.O.O.
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 48/04 (18.9.2004.), akt 10 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/D14ekVwM7gztz5k76kjn45hI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
