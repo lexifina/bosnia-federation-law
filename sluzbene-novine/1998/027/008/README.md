@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI MEĐUNARODNOM UDRUŽENJU"NJEMAČKO-BOSANSKOHERCEGOVAČKO KULTURNO DRUŠTVO" KARLSRUHE DA SJEDIŠTE UREDA IMA U SARAJEVU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI MEĐUNARODNOM UDRUŽENJU"NJEMAČKO-BOSANSKOHERCEGOVAČKO KULTURNO DRUŠTVO" KARLSRUHE DA SJEDIŠTE UREDA IMA U SARAJEVU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 27/98 (6.7.1998.), akt 8 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NFK4yPWLSaA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
