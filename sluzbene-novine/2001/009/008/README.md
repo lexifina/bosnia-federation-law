@@ -1,0 +1,11 @@
+# UPUTSTVO O IZMJENI I DOPUNI UPUTSTVA O OBAVEZI BANKE PRILIKOM OTVARANJA BANKOVNOG RAČUNA ZA OBAVLJANJE UNUTARNJIH PLATNIH TRANSAKCIJA
+
+Naslov: UPUTSTVO O IZMJENI I DOPUNI UPUTSTVA O OBAVEZI BANKE PRILIKOM OTVARANJA BANKOVNOG RAČUNA ZA OBAVLJANJE UNUTARNJIH PLATNIH TRANSAKCIJA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 9/01 (23.3.2001.), akt 8 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3Lc7gigMyQM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
