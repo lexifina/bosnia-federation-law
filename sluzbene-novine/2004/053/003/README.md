@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 3/04. O IZMJENAMA I DOPUNAMA ODLUKE O UTVRĐIVANJU TARIFE NAKNADA CENTRALNE BANKE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 3/04. O IZMJENAMA I DOPUNAMA ODLUKE O UTVRĐIVANJU TARIFE NAKNADA CENTRALNE BANKE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 53/04 (12.10.2004.), akt 3 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9cvCIgGxpOo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
