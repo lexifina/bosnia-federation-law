@@ -1,0 +1,11 @@
+# ODLUKU O NAČINU OBAVJEŠTAVANJA BIRAČA NA KOJE SE ODNOSI ODREDBA ČLANA 19.8. STAV 3. IZBORNOGA ZAKONA BOSNE I HERCEGOVINE A U VEZI S MOGUĆNOSTI OSTVARIVANJA PRAVA GLASA
+
+Naslov: ODLUKU O NAČINU OBAVJEŠTAVANJA BIRAČA NA KOJE SE ODNOSI ODREDBA ČLANA 19.8. STAV 3. IZBORNOGA ZAKONA BOSNE I HERCEGOVINE A U VEZI S MOGUĆNOSTI OSTVARIVANJA PRAVA GLASA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 38/02 (9.8.2002.), akt 7 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bEAUl2KSBAk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
