@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRENJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ (IDA) ZA DRUGI PROJEKT PODRŠKE ZAPOŠLJAVANJU
+
+Naslov: ODLUKU O ODOBRENJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ (IDA) ZA DRUGI PROJEKT PODRŠKE ZAPOŠLJAVANJU
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 7/05 (2.2.2005.), akt 1 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TnTohz4nh78h77QKgztz5k76kjn45hU0NI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
