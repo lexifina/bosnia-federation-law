@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU OSNOVICE I STOPE ZA OBRAČUN ČLANARINE OPŠTEG UDRUŽENJA SAMOSTALNIH PREVOZNIKA U DRUMSKOM SAOBRAĆAJU SARAJEVO ZA 1997. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU OSNOVICE I STOPE ZA OBRAČUN ČLANARINE OPŠTEG UDRUŽENJA SAMOSTALNIH PREVOZNIKA U DRUMSKOM SAOBRAĆAJU SARAJEVO ZA 1997. GODINU
+
+Donosilac: OPŠTE UDRUŽENJE SAMOSTALNIH PREVOZNIKA U DRUMSKOM SAOBRAĆAJU.
+
+Službene novine Federacije BiH broj 4/97 (22.2.1997.), akt 12 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hf3ZtwAGx2Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
