@@ -1,0 +1,11 @@
+# ODLUKU O JEDNOKRATNOJ POTPORI IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2001. GODINU FEDERALNOM MINISTARSTVU OBRAZOVANJA, NAUKE, KULTURE I SPORTA
+
+Naslov: ODLUKU O JEDNOKRATNOJ POTPORI IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2001. GODINU FEDERALNOM MINISTARSTVU OBRAZOVANJA, NAUKE, KULTURE I SPORTA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/01 (8.10.2001.), akt 5 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fQXzsE1Xpxk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
