@@ -1,0 +1,11 @@
+# ISPRAVAKA
+
+Naslov: ISPRAVAKA
+
+Donosilac: ISPRAVKE.
+
+Službene novine Federacije BiH broj 22/98 (2.6.1998.), akt 7 od 7 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fiOFfHHX6Dg=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
