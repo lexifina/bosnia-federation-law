@@ -1,0 +1,11 @@
+# ODLUKU O FINANSIRANJU KOORDINACIONOG ODBORA INSTITUCIJA ZA REVIZIJU I SEKRETARIJATA KOORDINACIONOG ODBORA ZA 2003. GODINU
+
+Naslov: ODLUKU O FINANSIRANJU KOORDINACIONOG ODBORA INSTITUCIJA ZA REVIZIJU I SEKRETARIJATA KOORDINACIONOG ODBORA ZA 2003. GODINU
+
+Donosilac: KOORDINACIJSKI/KOORDINACIONI ODBOR VRHOVNIH INSTITUCIJA ZA REVIZIJU BIH.
+
+Službene novine Federacije BiH broj 50/04 (25.9.2004.), akt 7 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/n8fmpYNjT0g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
