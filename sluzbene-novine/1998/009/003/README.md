@@ -1,0 +1,11 @@
+# UPUTSTVO O NAČINU PRIJAVLJIVANJA, POTREBNIM PODACIMA I DOKUMENTACIJI I O POSTUPKU REVIZIJE PRETHODNO IZVRŠENE VLASNIČKE TRANSFORMACIJE
+
+Naslov: UPUTSTVO O NAČINU PRIJAVLJIVANJA, POTREBNIM PODACIMA I DOKUMENTACIJI I O POSTUPKU REVIZIJE PRETHODNO IZVRŠENE VLASNIČKE TRANSFORMACIJE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 9/98 (25.3.1998.), akt 3 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CLBC2uP0GcU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
