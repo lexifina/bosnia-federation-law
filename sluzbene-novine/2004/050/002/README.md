@@ -1,0 +1,11 @@
+# ODLUKU O RASPOREĐIVANJU SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU OPĆINAMA SA POZICIJE "TRANSFER KANTONIMA I NIŽIM NIVOIMA VLASTI"
+
+Naslov: ODLUKU O RASPOREĐIVANJU SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU OPĆINAMA SA POZICIJE "TRANSFER KANTONIMA I NIŽIM NIVOIMA VLASTI"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/04 (25.9.2004.), akt 2 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/n8fmpYNjT0g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
