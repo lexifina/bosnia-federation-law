@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003.GODINU FEDERALNOM MINISTARSTVU PRAVDE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003.GODINU FEDERALNOM MINISTARSTVU PRAVDE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 24/03 (10.6.2003.), akt 11 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/28OvLu4ld4k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
