@@ -1,0 +1,11 @@
+# UREDBU O DOPUNI UREDBE O VRŠENJU OVLAŠĆENJA I OBAVEZA ORGANA FEDERACIJE BOSNE I HERCEGOVINE U PRIVREDNIM DRUŠTVIMA PO OSNOVU DRŽAVNOG KAPITALA
+
+Naslov: UREDBU O DOPUNI UREDBE O VRŠENJU OVLAŠĆENJA I OBAVEZA ORGANA FEDERACIJE BOSNE I HERCEGOVINE U PRIVREDNIM DRUŠTVIMA PO OSNOVU DRŽAVNOG KAPITALA
+
+Donosilac: PREDSJEDNIK/DOPREDSJEDNIK FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/00 (16.10.2000.), akt 10 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xNem39DltNY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
