@@ -1,0 +1,11 @@
+# SAOPŠTENJE O KOEFICIJENTIMA ZA VALORIZACIJU PLATA IZ RANIJIH GODINA PREMA PROSJEKU PLATA U 1997. GODINI
+
+Naslov: SAOPŠTENJE O KOEFICIJENTIMA ZA VALORIZACIJU PLATA IZ RANIJIH GODINA PREMA PROSJEKU PLATA U 1997. GODINI
+
+Donosilac: DRUŠTVENI FOND ZA PENZIJSKO I INVALIDSKO OSIGURANJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/98 (31.5.1998.), akt 18 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7gov5Vwi8hY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
