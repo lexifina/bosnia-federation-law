@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2002. GODINU FEDERALNOM ZAVODU ZA STATISTIKU
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2002. GODINU FEDERALNOM ZAVODU ZA STATISTIKU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/02 (14.10.2002.), akt 4 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/B1GKyyJNbIA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
