@@ -1,0 +1,11 @@
+# SPISAK STRANIH SORTI POLJOPRIVREDNOG BILJA ZA KOJE JE ODOBRENO UVOĐENJE U PROIZVODNJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: SPISAK STRANIH SORTI POLJOPRIVREDNOG BILJA ZA KOJE JE ODOBRENO UVOĐENJE U PROIZVODNJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 25/02 (15.6.2002.), akt 20 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EZwnoWBVPNY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
