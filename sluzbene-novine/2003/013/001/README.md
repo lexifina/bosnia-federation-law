@@ -1,0 +1,11 @@
+# ODLUKU O STUPANJU NA SNAGU ZAKONA O AMANDMANIMA I DOPUNAMA ZAKONA O POSTUPKU UPISA PRAVNIH LICA U SUDSKI REGISTAR ("SLUŽBENE NOVINE FEDERACIJE BIH", BR. 4/00, 19/00, 49/00 I 32/01)
+
+Naslov: ODLUKU O STUPANJU NA SNAGU ZAKONA O AMANDMANIMA I DOPUNAMA ZAKONA O POSTUPKU UPISA PRAVNIH LICA U SUDSKI REGISTAR ("SLUŽBENE NOVINE FEDERACIJE BIH", BR. 4/00, 19/00, 49/00 I 32/01)
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službene novine Federacije BiH broj 13/03 (2.4.2003.), akt 1 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0uhACNmXBN4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
