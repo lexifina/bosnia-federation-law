@@ -1,0 +1,11 @@
+# RJEŠENJE DISPOZITIV RJEŠENJA BEZ OBRAZLOŽENJA JE OBJAVLJEN U "SLUŽBENIM NOVINAMA FEDERACIJE BIH", BROJ 57/04. O DAVANJU SAGLASNOSTI ZA PRIMJENU CBT MEHANIZMA
+
+Naslov: RJEŠENJE DISPOZITIV RJEŠENJA BEZ OBRAZLOŽENJA JE OBJAVLJEN U "SLUŽBENIM NOVINAMA FEDERACIJE BIH", BROJ 57/04. O DAVANJU SAGLASNOSTI ZA PRIMJENU CBT MEHANIZMA
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službene novine Federacije BiH broj 61/04 (6.11.2004.), akt 18 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/t0gztz5k76kjn45hirvjf8Dc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
