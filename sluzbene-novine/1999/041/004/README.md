@@ -1,0 +1,11 @@
+# ODLUKU O POMILOVANJU OSUĐENE OSOBE
+
+Naslov: ODLUKU O POMILOVANJU OSUĐENE OSOBE
+
+Donosilac: PREDSJEDNIK FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 41/99 (7.10.1999.), akt 4 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vmoDMX9rqvo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
