@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O TEHNIČKO-EKSPLOATACIONIM USLOVIMA ZA MOTORNA VOZILA KOJIMA SE OBAVLJAJU POJEDINE VRSTE PRIJEVOZA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O TEHNIČKO-EKSPLOATACIONIM USLOVIMA ZA MOTORNA VOZILA KOJIMA SE OBAVLJAJU POJEDINE VRSTE PRIJEVOZA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 3/05 (14.1.2005.), akt 7 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/y8tBxLDegIo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
