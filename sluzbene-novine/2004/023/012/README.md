@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENOM SMANJENJU STOPE POREZA NA PROMET OSOBNIH AUTOMOBILA PROIZVEDENIH NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PRIVREMENOM SMANJENJU STOPE POREZA NA PROMET OSOBNIH AUTOMOBILA PROIZVEDENIH NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/04 (3.5.2004.), akt 12 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rIDxKcW2dkQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
