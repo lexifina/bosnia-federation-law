@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENOM SMANJENJU STOPE POREZA NA PROMET PUTNIČKIH AUTOMOBILA PROIZVEDENIH NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PRIVREMENOM SMANJENJU STOPE POREZA NA PROMET PUTNIČKIH AUTOMOBILA PROIZVEDENIH NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/00 (30.9.2000.), akt 2 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/b2dohz4nh78h77kLBEpMY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
