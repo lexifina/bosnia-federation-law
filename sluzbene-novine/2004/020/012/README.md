@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU PREDSJEDNIKA I ČLANOVA ODBORA ZA REVIZIJU RUDNIKA MRKOG UGLJA "ĐURĐEVIK" U ĐURĐEVIKU, DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU
+
+Naslov: ODLUKU O IMENOVANJU PREDSJEDNIKA I ČLANOVA ODBORA ZA REVIZIJU RUDNIKA MRKOG UGLJA "ĐURĐEVIK" U ĐURĐEVIKU, DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INSDUSTRIJE SKUPŠTINA DRUŠTVA RUDNIK MRKOG UGLJA "ĐURĐEVIK".
+
+Službene novine Federacije BiH broj 20/04 (15.4.2004.), akt 12 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ALohz4nh78h77YOPZphAI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
