@@ -1,0 +1,11 @@
+# PRAVILNIK O VETERINARSKO - ZDRAVSTVENIM USLOVIMA KOJE TREBAJU ISPUNJAVATI OBJEKTI ZA PROIZVODNJU, PROMET I SKLADIŠTENJE HRANE ZA ŽIVOTINJE
+
+Naslov: PRAVILNIK O VETERINARSKO - ZDRAVSTVENIM USLOVIMA KOJE TREBAJU ISPUNJAVATI OBJEKTI ZA PROIZVODNJU, PROMET I SKLADIŠTENJE HRANE ZA ŽIVOTINJE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 47/03 (18.9.2003.), akt 2 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yIOxFuUwg8U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
