@@ -1,0 +1,11 @@
+# ODLUKU O ODREĐIVANJU POLJOPRIVREDNIH I PREHRAMBENIH PROIZVODA ZA KOJE SE PRI NJIHOVOM UVOZU U 1997. GODINI PLAĆA POSEBNA PRISTOJBA I O VISINI TE PRISTOJBE
+
+Naslov: ODLUKU O ODREĐIVANJU POLJOPRIVREDNIH I PREHRAMBENIH PROIZVODA ZA KOJE SE PRI NJIHOVOM UVOZU U 1997. GODINI PLAĆA POSEBNA PRISTOJBA I O VISINI TE PRISTOJBE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 19/97 (30.8.1997.), akt 2 od 2 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Sohz4nh78h77UMJDe8qpM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
