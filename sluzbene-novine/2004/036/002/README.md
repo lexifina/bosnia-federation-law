@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O ŠTAMPANJU, PLAĆANJU, EVIDENTIRANJU L RUKOVANJU POREZNIM MARKICAMA ZA OBILJEŽAVANJE DUHANSKIH PRERAĐEVINA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O ŠTAMPANJU, PLAĆANJU, EVIDENTIRANJU L RUKOVANJU POREZNIM MARKICAMA ZA OBILJEŽAVANJE DUHANSKIH PRERAĐEVINA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 36/04 (6.7.2004.), akt 2 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CAwi4bkrhTI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
