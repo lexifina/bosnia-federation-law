@@ -1,0 +1,11 @@
+# UPUTSTVO O NAČINU ORGANIZACIJE POVRATKA RASELJENIH OSOBA I IZBJEGLICA-POVRATNIKA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: UPUTSTVO O NAČINU ORGANIZACIJE POVRATKA RASELJENIH OSOBA I IZBJEGLICA-POVRATNIKA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO ZA SOCIJALNU POLITIKU, RASELJENE OSOBE I IZBJEGLICE.
+
+Službene novine Federacije BiH broj 6/98 (9.3.1998.), akt 11 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZFFbktbvd74=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
