@@ -1,0 +1,11 @@
+# UREDBU O UVJETIMA ZADUŽIVANJA I IZDAVANJA GARANCIJA FEDERACIJE, ŽUPANIJA, GRADOVA, OPĆINA I INSTITUCIJA JAVNOG SEKTORA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: UREDBU O UVJETIMA ZADUŽIVANJA I IZDAVANJA GARANCIJA FEDERACIJE, ŽUPANIJA, GRADOVA, OPĆINA I INSTITUCIJA JAVNOG SEKTORA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 36/02 (1.8.2002.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Abw5eSQQCqQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
