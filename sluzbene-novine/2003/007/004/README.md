@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O ŠTAMPANJU, PLAĆANJU, EVIDENTIRANJU I RUKOVANJU POREZNIM MARKICAMA ZA OBILJEŽAVANJE DUHANSKIH PRERAĐEVINA
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O ŠTAMPANJU, PLAĆANJU, EVIDENTIRANJU I RUKOVANJU POREZNIM MARKICAMA ZA OBILJEŽAVANJE DUHANSKIH PRERAĐEVINA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 7/03 (25.2.2003.), akt 4 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qohz4nh78h777Y9CFt66s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
