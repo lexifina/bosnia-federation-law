@@ -1,0 +1,11 @@
+# UPUTSTVO O UVJETIMA, NAČINU I ROKOVIMA POD KOJIM SE MOGU ZAKLJUČITI KOMPENZACIONI POSLOVI
+
+Naslov: UPUTSTVO O UVJETIMA, NAČINU I ROKOVIMA POD KOJIM SE MOGU ZAKLJUČITI KOMPENZACIONI POSLOVI
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 7/95 (9.12.1995.), akt 12 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xe4gztz5k76kjn45hTEC2uEQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
