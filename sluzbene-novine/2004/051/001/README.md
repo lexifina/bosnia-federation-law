@@ -1,0 +1,11 @@
+# PRAVILNIK O USLOVIMA, POSTUPKU I DOKUMENTACIJI ZA UPIS U PREGLED BANAKA, SUPSIDIJARNIH LICA, FILIJALA I PREDSTAVNIŠTAVA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O USLOVIMA, POSTUPKU I DOKUMENTACIJI ZA UPIS U PREGLED BANAKA, SUPSIDIJARNIH LICA, FILIJALA I PREDSTAVNIŠTAVA U BRČKO DISTRIKTU BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 51/04 (2.10.2004.), akt 1 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hQbwN4mGNwo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
