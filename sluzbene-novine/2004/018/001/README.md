@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O KRITERIJIMA I POSTUPKU ZA UTVRĐIVANJE TJELESNE I DUŠEVNE SPOSOBNOSTI LICA ZA OBAVLJANJE FIZIČKE I TEHNIČKE ZAŠTITE
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O KRITERIJIMA I POSTUPKU ZA UTVRĐIVANJE TJELESNE I DUŠEVNE SPOSOBNOSTI LICA ZA OBAVLJANJE FIZIČKE I TEHNIČKE ZAŠTITE
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 18/04 (3.4.2004.), akt 1 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77dMegztz5k76kjn45hw3hBZo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
