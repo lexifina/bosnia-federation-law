@@ -1,0 +1,11 @@
+# KOLEKTIVNI UGOVOR ZA DJELATNOST OSNOVNOG OBRAZOVANJA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: KOLEKTIVNI UGOVOR ZA DJELATNOST OSNOVNOG OBRAZOVANJA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: SAMOSTALNI SINDIKAT OSNOVNOG OBRAZOVANJA I ODGOJA BOSNE I HERCEGOVINE I FEDERALNO MINISTARSTVO OBRAZOVANJA, NAUKE, KULTURE I SPORTA.
+
+Službene novine Federacije BiH broj 53/00 (24.12.2000.), akt 25 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UK1ohz4nh78h77eX0b6y0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
