@@ -1,0 +1,11 @@
+# UPUTSTVO O POSTUPKU I NAČINU IZDAVANJA RJEŠENJA KOJIM SE ODOBRAVA UVOZ SJEMENA I SADNOG MATERIJALA POLJOPRIVREDNOG I ŠUMSKOG BILJA
+
+Naslov: UPUTSTVO O POSTUPKU I NAČINU IZDAVANJA RJEŠENJA KOJIM SE ODOBRAVA UVOZ SJEMENA I SADNOG MATERIJALA POLJOPRIVREDNOG I ŠUMSKOG BILJA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 14/97 (16.6.1997.), akt 2 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/D3kRRmohz4nh78h77UqMk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
