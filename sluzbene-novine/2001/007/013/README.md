@@ -1,0 +1,11 @@
+# ODLUKU O STAVLJANJU VAN SNAGE DIJELA ODLUKE O POMILOVANJU PRAVOMOĆNO OSUĐENIH OSOBA NA IZDRŽAVANJU KAZNE ZATVORA BROJ 01-594/00 OD 8. 11. 2000. GODINE
+
+Naslov: ODLUKU O STAVLJANJU VAN SNAGE DIJELA ODLUKE O POMILOVANJU PRAVOMOĆNO OSUĐENIH OSOBA NA IZDRŽAVANJU KAZNE ZATVORA BROJ 01-594/00 OD 8. 11. 2000. GODINE
+
+Donosilac: PREDSJEDNIK/DOPREDSJEDNIK FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 7/01 (9.3.2001.), akt 13 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yU1PoN50Ztg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
