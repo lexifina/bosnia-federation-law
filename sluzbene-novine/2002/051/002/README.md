@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2002. GODINU ZA MEĐUNARODNU KONFERENCIJU "DJECA - ŽRTVE RATA I MIRA"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2002. GODINU ZA MEĐUNARODNU KONFERENCIJU "DJECA - ŽRTVE RATA I MIRA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 51/02 (17.10.2002.), akt 2 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/35Bg5PNfwKg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
