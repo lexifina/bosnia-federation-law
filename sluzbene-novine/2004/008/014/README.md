@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU UPLATE JAVNIH PRIHODA BUDŽETA I VANBUDŽETSKIH FONDOVA NA TERITORIJI FEDERACIJE BOSNE L HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU UPLATE JAVNIH PRIHODA BUDŽETA I VANBUDŽETSKIH FONDOVA NA TERITORIJI FEDERACIJE BOSNE L HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 8/04 (13.2.2004.), akt 14 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZkxsvQwtvgztz5k76kjn45hY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
