@@ -1,0 +1,11 @@
+# ODLUKU O NAMJERI ODABIRA PRIHVATANJA NOVOG PARTNERA ZA SANACIJU ENERGOPETROL DD SARAJEVO PUTEM PRIVATIZACIJE ILI DOKAPITALIZACIJE
+
+Naslov: ODLUKU O NAMJERI ODABIRA PRIHVATANJA NOVOG PARTNERA ZA SANACIJU ENERGOPETROL DD SARAJEVO PUTEM PRIVATIZACIJE ILI DOKAPITALIZACIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/04 (30.10.2004.), akt 4 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ln8e6lu8PDc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
