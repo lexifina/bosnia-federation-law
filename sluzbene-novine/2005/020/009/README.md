@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U KOMISIJU ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI
+
+Naslov: RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U KOMISIJU ZA KOORDINACIJU PITANJA MLADIH U BOSNI I HERCEGOVINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/05 (30.3.2005.), akt 9 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0BICocGPDuw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
