@@ -1,0 +1,11 @@
+# UREDBU O OSNUTKU REGIONALNIH CENTARA ZA SKRB I KOORDINACIJU POVRATA RASELJENIH OSOBA - PROGNANIKA I IZBJEGLICA NA PODRUČJE I SA PODRUČJA REPUBLIKE SRPSKE
+
+Naslov: UREDBU O OSNUTKU REGIONALNIH CENTARA ZA SKRB I KOORDINACIJU POVRATA RASELJENIH OSOBA - PROGNANIKA I IZBJEGLICA NA PODRUČJE I SA PODRUČJA REPUBLIKE SRPSKE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/01 (3.7.2001.), akt 1 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hoI40sj1ohz4nh78h77no=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
