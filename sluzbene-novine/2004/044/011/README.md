@@ -1,0 +1,11 @@
+# ZAKLJUČAK O PROGLAŠENJU NEUSPJELIM POSTUPKA ZA POPUNU UPRAŽNJENIH POZICIJA U REGULIRANIM TIJELIMA VLADE ZENIČKO-DOBOJSKOG KANTONA - MINISTARSTVA ZA PRIVREDU
+
+Naslov: ZAKLJUČAK O PROGLAŠENJU NEUSPJELIM POSTUPKA ZA POPUNU UPRAŽNJENIH POZICIJA U REGULIRANIM TIJELIMA VLADE ZENIČKO-DOBOJSKOG KANTONA - MINISTARSTVA ZA PRIVREDU
+
+Donosilac: VLADA ZENIČKO-DOBOJSKOG KANTONA.
+
+Službene novine Federacije BiH broj 44/04 (21.8.2004.), akt 11 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hDw9toFAKD0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
