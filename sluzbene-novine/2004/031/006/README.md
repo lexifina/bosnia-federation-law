@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU FEDERALNOM MINISTARSTVU OBRAZOVANJA I NAUKE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU FEDERALNOM MINISTARSTVU OBRAZOVANJA I NAUKE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 31/04 (5.6.2004.), akt 6 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ibnq0LfAY10=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
