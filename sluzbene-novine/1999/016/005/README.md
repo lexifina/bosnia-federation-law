@@ -1,0 +1,11 @@
+# ODLUKU O VISINI DOPRINOSA ZA PENZIJSKO I INVALIDSKO OSIGURANJE ZA LICA OSIGURANA U ODREĐENIM OKOLNOSTIMA
+
+Naslov: ODLUKU O VISINI DOPRINOSA ZA PENZIJSKO I INVALIDSKO OSIGURANJE ZA LICA OSIGURANA U ODREĐENIM OKOLNOSTIMA
+
+Donosilac: DRUŠTVENI FOND ZA PENZIJSKO I INVALIDSKO OSIGURANJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/99 (4.5.1999.), akt 5 od 5 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UeUCgfObyYY=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
