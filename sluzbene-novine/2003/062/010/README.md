@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003. GODINU ZA SUFINANCIRANJE PROJEKTA "RAZVITAK I ZAŠTITA ŠUMA (ŠUME 2)"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003. GODINU ZA SUFINANCIRANJE PROJEKTA "RAZVITAK I ZAŠTITA ŠUMA (ŠUME 2)"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 62/03 (12.12.2003.), akt 10 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EOSqdtRnmkE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
