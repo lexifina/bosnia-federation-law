@@ -1,0 +1,11 @@
+# ODLUKU I
+
+Naslov: ODLUKU I
+
+Donosilac: POVJERENSTVO ZA OČUVANJE NACIONALNIH SPOMENIKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 68/02 (30.12.2002.), akt 54 od 57 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tYmB0Mz8o5Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
