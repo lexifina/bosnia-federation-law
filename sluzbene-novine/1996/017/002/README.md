@@ -1,0 +1,11 @@
+# RJEŠENJE O POSTAVLJENJU GLAVNOG FEDERALNOG INSPEKTORA U FEDERALNOM MINISTARSTVU PRAVDE
+
+Naslov: RJEŠENJE O POSTAVLJENJU GLAVNOG FEDERALNOG INSPEKTORA U FEDERALNOM MINISTARSTVU PRAVDE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 17/96 (12.9.1996.), akt 2 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/w8QIBHtHPYo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
