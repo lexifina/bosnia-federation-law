@@ -1,0 +1,11 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 2/02 (21.1.2002.), akt 12 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/V7hC9m9Q5F0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
