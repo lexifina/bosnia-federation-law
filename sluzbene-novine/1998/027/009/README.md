@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI MEĐUNARODNOM UDRUŽENJU "MEĐUNARODNA KONFEDERACIJA SLOBODNIH SINDIKATA" BRISEL DA SJEDIŠTE PREDSTAVNIŠTVA IMA U SARAJEVU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI MEĐUNARODNOM UDRUŽENJU "MEĐUNARODNA KONFEDERACIJA SLOBODNIH SINDIKATA" BRISEL DA SJEDIŠTE PREDSTAVNIŠTVA IMA U SARAJEVU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 27/98 (6.7.1998.), akt 9 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NFK4yPWLSaA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
