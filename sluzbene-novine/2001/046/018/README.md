@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE FEDERALNOM MINISTARSTVU PROSTORNOG UREĐENJA I OKOLICE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE FEDERALNOM MINISTARSTVU PROSTORNOG UREĐENJA I OKOLICE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 46/01 (25.10.2001.), akt 18 od 46 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pIoQ5brMLwc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
