@@ -1,0 +1,11 @@
+# NAREDBU O ZABRANI UVOZA U FEDERACIJU BOSNE I HERCEGOVINE I PROVOZA PREKO TERITORIJE FEDERACIJE BOSNE I HERCEGOVINE POŠILJAKA GOVEDA
+
+Naslov: NAREDBU O ZABRANI UVOZA U FEDERACIJU BOSNE I HERCEGOVINE I PROVOZA PREKO TERITORIJE FEDERACIJE BOSNE I HERCEGOVINE POŠILJAKA GOVEDA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 30/01 (12.7.2001.), akt 15 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DjhKE0I3ohz4nh78h77XI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
