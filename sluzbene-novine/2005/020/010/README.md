@@ -1,0 +1,11 @@
+# INSTRUKCIJU O NAČINU IZBORA I POSTAVLJENJA DRŽAVNIH SLUŽBENIKA U GRADSKOJ UPRAVI GRADA MOSTARA PO INTERNOM OGLASU OBJAVLJENOM 28. 10. 2004. GODINE
+
+Naslov: INSTRUKCIJU O NAČINU IZBORA I POSTAVLJENJA DRŽAVNIH SLUŽBENIKA U GRADSKOJ UPRAVI GRADA MOSTARA PO INTERNOM OGLASU OBJAVLJENOM 28. 10. 2004. GODINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/05 (30.3.2005.), akt 10 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0BICocGPDuw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
