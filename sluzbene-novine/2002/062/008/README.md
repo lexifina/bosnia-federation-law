@@ -1,0 +1,11 @@
+# RJEŠENJE O UTVRĐIVANJU TROŠKOVA OBUKE I POLAGANJA ISPITA RADI STICANJA CERTIFIKATA ZA OBAVLJANJE POSLOVA FIZIČKE ILI TEHNIČKE ZAŠTITE LJUDI I IMOVINE
+
+Naslov: RJEŠENJE O UTVRĐIVANJU TROŠKOVA OBUKE I POLAGANJA ISPITA RADI STICANJA CERTIFIKATA ZA OBAVLJANJE POSLOVA FIZIČKE ILI TEHNIČKE ZAŠTITE LJUDI I IMOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTARNJIH/UNUTRAŠNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 62/02 (14.12.2002.), akt 8 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EKRAtwknf1A=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
