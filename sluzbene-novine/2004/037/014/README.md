@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USVAJANJU PROGRAMA UTROŠKA SREDSTAVA S KRITERIJIMA RASPODJELE SREDSTAVA TEKUĆIH TRANSFERA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU FEDERALNOM MINISTARSTVU KULTURE I SPORTA
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USVAJANJU PROGRAMA UTROŠKA SREDSTAVA S KRITERIJIMA RASPODJELE SREDSTAVA TEKUĆIH TRANSFERA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU FEDERALNOM MINISTARSTVU KULTURE I SPORTA
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 37/04 (10.7.2004.), akt 14 od 30 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rvUVgztz5k76kjn45hvzSL9U=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
