@@ -1,0 +1,11 @@
+# RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA UPRAVNOG ODBORA OSNOVNE ŠKOLE "ĆAMIL SIJARIĆ" NEMILA U ZENICI
+
+Naslov: RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA UPRAVNOG ODBORA OSNOVNE ŠKOLE "ĆAMIL SIJARIĆ" NEMILA U ZENICI
+
+Donosilac: VLADA ZENIČKO-DOBOJSKOG KANTONA.
+
+Službene novine Federacije BiH broj 7/04 (6.2.2004.), akt 15 od 16 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DnEu0yg9cQQ=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
