@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 40/04. O IZMJENAMA ODLUKE O UTVRĐIVANJU I ODRŽAVANJU OBVEZNIH PRIČUVA I UTVRĐIVANJU NAKNADE NA IZNOS PRIČUVE
+
+Naslov: ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 40/04. O IZMJENAMA ODLUKE O UTVRĐIVANJU I ODRŽAVANJU OBVEZNIH PRIČUVA I UTVRĐIVANJU NAKNADE NA IZNOS PRIČUVE
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 60/04 (2.11.2004.), akt 1 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Hw44BY5gVm4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
