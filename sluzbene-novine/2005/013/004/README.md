@@ -1,0 +1,11 @@
+# ODLUKU O UTROŠKU DIJELA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2005. GODINU SA POZICIJE "TRANSFER ZA PRESTRUKTURIRANJE INDUSTRIJE I RUDARSTVA"
+
+Naslov: ODLUKU O UTROŠKU DIJELA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2005. GODINU SA POZICIJE "TRANSFER ZA PRESTRUKTURIRANJE INDUSTRIJE I RUDARSTVA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 13/05 (9.3.2005.), akt 4 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yPgztz5k76kjn45he5NgVQLk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
