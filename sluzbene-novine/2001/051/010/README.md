@@ -1,0 +1,11 @@
+# ODLUKU O IZDVAJANJU SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2001. GODINU ZA IZRADU STUDIJE IZVODLJIVOSTI "INDUSTRIJSKA ZONA ZENICA-1"
+
+Naslov: ODLUKU O IZDVAJANJU SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2001. GODINU ZA IZRADU STUDIJE IZVODLJIVOSTI "INDUSTRIJSKA ZONA ZENICA-1"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 51/01 (30.11.2001.), akt 10 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0wrflPa90Z8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
