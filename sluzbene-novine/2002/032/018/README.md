@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENOM UKIDANJU STOPE POREZA NA PROMET NA PROIZVODE KOJI ĆE SE STAVLJATI U PROMET U CILJU RADNOG PREUSMJERAVANJA DEMOBILIZIRANIH VOJAKA
+
+Naslov: ODLUKU O PRIVREMENOM UKIDANJU STOPE POREZA NA PROMET NA PROIZVODE KOJI ĆE SE STAVLJATI U PROMET U CILJU RADNOG PREUSMJERAVANJA DEMOBILIZIRANIH VOJAKA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/02 (16.7.2002.), akt 18 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LdbJaBawQK0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
