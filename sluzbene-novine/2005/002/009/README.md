@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU PREDSJEDNIKA I ČLANOVA ODBORA ZA REVIZIJU ELEKTRONSKOG RAČUNARSKOG CENTRA ZDRAVSTVA I PENZIJSKOG OSIGURANJA, D.O.O. SARAJEVO
+
+Naslov: RJEŠENJE O RAZRJEŠENJU PREDSJEDNIKA I ČLANOVA ODBORA ZA REVIZIJU ELEKTRONSKOG RAČUNARSKOG CENTRA ZDRAVSTVA I PENZIJSKOG OSIGURANJA, D.O.O. SARAJEVO
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 2/05 (9.1.2005.), akt 9 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/127HtnGshcg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
