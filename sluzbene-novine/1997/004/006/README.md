@@ -1,0 +1,11 @@
+# PRAVILNIK O OBRAČUNAVANJU I PLAĆANJU POSEBNOG POREZA NA BEZALKOHOLNA PIĆA, ISKAZIVANJU I DOSTAVLJANJU IZVJEŠTAJA
+
+Naslov: PRAVILNIK O OBRAČUNAVANJU I PLAĆANJU POSEBNOG POREZA NA BEZALKOHOLNA PIĆA, ISKAZIVANJU I DOSTAVLJANJU IZVJEŠTAJA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 4/97 (22.2.1997.), akt 6 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hf3ZtwAGx2Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
