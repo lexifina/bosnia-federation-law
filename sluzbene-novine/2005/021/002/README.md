@@ -1,0 +1,11 @@
+# UREDBU O MJERILIMA, KRITERIJIMA I NAČINU IZGRADNJE SKLONIŠTA I TEHNIČKIM NORMATIVIMA ZA KONTROLU ISPRAVNOSTI SKLONIŠTA
+
+Naslov: UREDBU O MJERILIMA, KRITERIJIMA I NAČINU IZGRADNJE SKLONIŠTA I TEHNIČKIM NORMATIVIMA ZA KONTROLU ISPRAVNOSTI SKLONIŠTA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/05 (4.4.2005.), akt 2 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ER0yMX5vIQc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
