@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 48/00 (10.11.2000.), akt 14 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YgxzaWV6O7g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
