@@ -1,0 +1,11 @@
+# LISTU ROBA, USLUGA I RADOVA POSEBNE NAMJENE, INTERESA I OKOLNOSTI ZA BH TELECOM D.D. SARAJEVO KOJI SU IZUZETI OD PRIMJENE UREDBE O POSTUPKU NABAVKE ROBA, VRŠENJU USLUGA I USTUPANJU RADOVA
+
+Naslov: LISTU ROBA, USLUGA I RADOVA POSEBNE NAMJENE, INTERESA I OKOLNOSTI ZA BH TELECOM D.D. SARAJEVO KOJI SU IZUZETI OD PRIMJENE UREDBE O POSTUPKU NABAVKE ROBA, VRŠENJU USLUGA I USTUPANJU RADOVA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 28/04 (26.5.2004.), akt 9 od 10 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HI6xRRD73u8=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
