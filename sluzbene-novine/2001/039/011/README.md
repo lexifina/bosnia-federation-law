@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU NOVČANIH IZNOSA KOJI ĆE SE NAPLAĆIVATI U TOKU CIJELOG MJESECA OKTOBRA 2001. GODINE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE ZA "DJEČIJU NEDJELJU"
+
+Naslov: ODLUKU O UTVRĐIVANJU NOVČANIH IZNOSA KOJI ĆE SE NAPLAĆIVATI U TOKU CIJELOG MJESECA OKTOBRA 2001. GODINE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE ZA "DJEČIJU NEDJELJU"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 39/01 (10.9.2001.), akt 11 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pMnYvuanJiE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
