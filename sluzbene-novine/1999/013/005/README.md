@@ -1,0 +1,11 @@
+# PRAVILNIK O REGISTRACIJI I OZNAČAVANJU MOTORNIH I PRIKLJUČNIH VOZILA FEDERALNOG MINISTARSTVA ODBRANE I VOJSKE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O REGISTRACIJI I OZNAČAVANJU MOTORNIH I PRIKLJUČNIH VOZILA FEDERALNOG MINISTARSTVA ODBRANE I VOJSKE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO ODBRANE.
+
+Službene novine Federacije BiH broj 13/99 (13.4.1999.), akt 5 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UX4kysFz9RM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
