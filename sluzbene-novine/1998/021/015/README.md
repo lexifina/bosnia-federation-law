@@ -1,0 +1,11 @@
+# ISPRAVKA RJEŠENJA O DAVANJU SAGLASNOSTI ZA IMENOVANJE KOMISIJE FEDERALNOG MINISTARSTVA FINANSIJA-FINANCIJA ZA VOĐENJE PREKRŠAJNOG POSTUPKA
+
+Naslov: ISPRAVKA RJEŠENJA O DAVANJU SAGLASNOSTI ZA IMENOVANJE KOMISIJE FEDERALNOG MINISTARSTVA FINANSIJA-FINANCIJA ZA VOĐENJE PREKRŠAJNOG POSTUPKA
+
+Donosilac: ISPRAVKE.
+
+Službene novine Federacije BiH broj 21/98 (31.5.1998.), akt 15 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7gov5Vwi8hY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
