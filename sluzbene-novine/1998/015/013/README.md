@@ -1,0 +1,11 @@
+# UPUTSTVO O NAČINU RADA I POSTUPANJU FINANSIJSKE POLICIJE-FINANCIJSKE POLICIJE I O NAČINU POSTUPANJA S PRIVREMENO I STALNO ODUZETOM ROBOM
+
+Naslov: UPUTSTVO O NAČINU RADA I POSTUPANJU FINANSIJSKE POLICIJE-FINANCIJSKE POLICIJE I O NAČINU POSTUPANJA S PRIVREMENO I STALNO ODUZETOM ROBOM
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 15/98 (23.4.1998.), akt 13 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tKjCZzBGLtI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
