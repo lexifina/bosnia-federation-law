@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU ANEKSA O TURISTIČKOJ SARADNJI UZ SPORAZUM O POSEBNIM ODNOSIMA IZMEĐU FEDERACIJE BOSNE I HERCEGOVINE I REPUBLIKE HRVATSKE
+
+Naslov: ODLUKU O ODOBRAVANJU ANEKSA O TURISTIČKOJ SARADNJI UZ SPORAZUM O POSEBNIM ODNOSIMA IZMEĐU FEDERACIJE BOSNE I HERCEGOVINE I REPUBLIKE HRVATSKE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 17/00 (15.5.2000.), akt 4 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AXE8DKRkg3o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
