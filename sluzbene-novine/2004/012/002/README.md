@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O OSNOVNIM ZAHTJEVIMA O KVALITETI, PAKOVANJU I DEKLARISANJU SJEMENA POLJOPRIVREDNOG BILJA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O OSNOVNIM ZAHTJEVIMA O KVALITETI, PAKOVANJU I DEKLARISANJU SJEMENA POLJOPRIVREDNOG BILJA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 12/04 (5.3.2004.), akt 2 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Sdgztz5k76kjn45hCoEx0Ew4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
