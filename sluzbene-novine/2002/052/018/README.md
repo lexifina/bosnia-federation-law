@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANA I ZAMJENIKA ČLANOVA KOMISIJE ZA POLAGANJE STRUČNOG ISPITA ZA DJELATNIKE MEĐUNARODNOG OTPREMNIŠTVA U SVEZI SA CARINJENJEM ROBE
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANA I ZAMJENIKA ČLANOVA KOMISIJE ZA POLAGANJE STRUČNOG ISPITA ZA DJELATNIKE MEĐUNARODNOG OTPREMNIŠTVA U SVEZI SA CARINJENJEM ROBE
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 52/02 (28.10.2002.), akt 18 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7rLn0p2ocas=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
