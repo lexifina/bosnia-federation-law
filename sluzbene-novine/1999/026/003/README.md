@@ -1,0 +1,11 @@
+# PRAVILNIK O NAČINU REALIZACIJE PROGRAMA DOPUNSKOG OBRAZOVANJA LICA KOJA SU ZAVRŠILA TEHNIČKU ILI SRODNU ŠKOLU ZA UPIS NA DRUGE VISOKOŠKOLSKE USTANOVE
+
+Naslov: PRAVILNIK O NAČINU REALIZACIJE PROGRAMA DOPUNSKOG OBRAZOVANJA LICA KOJA SU ZAVRŠILA TEHNIČKU ILI SRODNU ŠKOLU ZA UPIS NA DRUGE VISOKOŠKOLSKE USTANOVE
+
+Donosilac: FEDERALNO MINISTARSTVO OBRAZOVANJA I NAUKE/ZNANOSTI.
+
+Službene novine Federacije BiH broj 26/99 (2.7.1999.), akt 3 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lUXBxCXsg5E=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
