@@ -1,0 +1,11 @@
+# ODLUKU O MINIMUMU USLOVA ZA IZDAVANJE DOZVOLE ZA OBAVLJANJE UNUTRAŠNJEG PLATNOG PROMETA FILIJALAMA BANAKA SA SJEDIŠTEM U REPUBLICI SRPSKOJ
+
+Naslov: ODLUKU O MINIMUMU USLOVA ZA IZDAVANJE DOZVOLE ZA OBAVLJANJE UNUTRAŠNJEG PLATNOG PROMETA FILIJALAMA BANAKA SA SJEDIŠTEM U REPUBLICI SRPSKOJ
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 50/01 (24.11.2001.), akt 8 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/T59w255j3F4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
