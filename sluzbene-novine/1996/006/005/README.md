@@ -1,0 +1,11 @@
+# RJEŠENJE O POSTAVLJENJU GLAVNOG FEDERALNOG ŠUMARSKOG INSPEKTORA U FEDERALNOM MINISTARSTVU POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA
+
+Naslov: RJEŠENJE O POSTAVLJENJU GLAVNOG FEDERALNOG ŠUMARSKOG INSPEKTORA U FEDERALNOM MINISTARSTVU POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 6/96 (15.5.1996.), akt 5 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/K0FtU1P5FQg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
