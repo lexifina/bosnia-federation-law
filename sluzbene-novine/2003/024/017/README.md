@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003.GODINU ZA FONDACIJU "PRAVDA ZA BOSNU I HERCEGOVINU"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003.GODINU ZA FONDACIJU "PRAVDA ZA BOSNU I HERCEGOVINU"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 24/03 (10.6.2003.), akt 17 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/28OvLu4ld4k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
