@@ -1,0 +1,11 @@
+# ODLUKU O UNUTRAŠNJOJ PRERASPODJELI SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003. GODINU INSTITUCIJI OMBUDSMENA/OMBUDSMANA
+
+Naslov: ODLUKU O UNUTRAŠNJOJ PRERASPODJELI SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003. GODINU INSTITUCIJI OMBUDSMENA/OMBUDSMANA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 60/03 (5.12.2003.), akt 15 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/u6WCCVoudoE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
