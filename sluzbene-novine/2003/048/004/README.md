@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003. GODINU FEDERALNOM TUŽILAŠTVU - FEDERALNOM TUŽITELJSTVU
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2003. GODINU FEDERALNOM TUŽILAŠTVU - FEDERALNOM TUŽITELJSTVU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 48/03 (26.9.2003.), akt 4 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ligdw1vt5Qw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
