@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O NAČINU RASPOLAGANJA NOVČANIM SREDSTVIMA PRODAJOM PODUZEĆA I BANAKA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O NAČINU RASPOLAGANJA NOVČANIM SREDSTVIMA PRODAJOM PODUZEĆA I BANAKA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/04 (3.5.2004.), akt 7 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rIDxKcW2dkQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
