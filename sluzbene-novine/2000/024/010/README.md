@@ -1,0 +1,11 @@
+# SPORAZUM O MEĐUSOBNIM PRAVIMA I OBAVEZAMA U SPROVOĐENJU PENZIJSKOG I INVALIDSKOG OSIGURANJA
+
+Naslov: SPORAZUM O MEĐUSOBNIM PRAVIMA I OBAVEZAMA U SPROVOĐENJU PENZIJSKOG I INVALIDSKOG OSIGURANJA
+
+Donosilac: DRUŠTVENI FOND ZA PENZIJSKO I INVALIDSKO OSIGURANJE BOSNE I HERCEGOVINE ZAVOD MIROVINSKOG I INVALIDSKOG OSIGURANJA MOSTAR JAVNI FOND ZA PENZIJSKO I.
+
+Službene novine Federacije BiH broj 24/00 (30.6.2000.), akt 10 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NvWwblcY67U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
