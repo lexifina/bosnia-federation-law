@@ -1,0 +1,11 @@
+# PRAVILNIK O USLOVIMA ZA ODREĐIVANJE ZONA SANITARNE ZAŠTITE I ZAŠTITNIH MJERA ZA IZVORIŠTA VODA KOJE SE KORISTE ILI PLANIRAJU DA KORISTE ZA PIĆE
+
+Naslov: PRAVILNIK O USLOVIMA ZA ODREĐIVANJE ZONA SANITARNE ZAŠTITE I ZAŠTITNIH MJERA ZA IZVORIŠTA VODA KOJE SE KORISTE ILI PLANIRAJU DA KORISTE ZA PIĆE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 51/02 (17.10.2002.), akt 11 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/35Bg5PNfwKg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
