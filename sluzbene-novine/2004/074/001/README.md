@@ -1,0 +1,11 @@
+# ZAKLJUČAK O POTREBI RASPISIVANJA JOŠ JEDNOGA (ČETVRTOGA) JAVNOG POZIVA ZA UPIS DIONICA
+
+Naslov: ZAKLJUČAK O POTREBI RASPISIVANJA JOŠ JEDNOGA (ČETVRTOGA) JAVNOG POZIVA ZA UPIS DIONICA
+
+Donosilac: PREDSTAVNIČKI/ZASTUPNIČKI DOM PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 74/04 (25.12.2004.), akt 1 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0khhKQNbMWc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
