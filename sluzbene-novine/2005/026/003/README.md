@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU FEDERALNE KOMISIJE ZA PROCJENU ŠTETE
+
+Naslov: RJEŠENJE O IMENOVANJU FEDERALNE KOMISIJE ZA PROCJENU ŠTETE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 26/05 (27.4.2005.), akt 3 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3QSDlbyohz4nh78h77Q60=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
