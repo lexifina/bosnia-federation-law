@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ (IDA) ZA PROJEKAT RESTRUKTURIRANJA OBRAZOVANJA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ (IDA) ZA PROJEKAT RESTRUKTURIRANJA OBRAZOVANJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 30/05 (25.5.2005.), akt 7 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UStbsiyNWgztz5k76kjn45hQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
