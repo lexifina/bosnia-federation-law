@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRENJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA EVROPSKE BANKE ZA OBNOVU I RAZVOJ (EBRD) ZA REGIONALNI PROGRAM RAZVOJA CESTA
+
+Naslov: ODLUKU O ODOBRENJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA EVROPSKE BANKE ZA OBNOVU I RAZVOJ (EBRD) ZA REGIONALNI PROGRAM RAZVOJA CESTA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 30/05 (25.5.2005.), akt 5 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UStbsiyNWgztz5k76kjn45hQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
