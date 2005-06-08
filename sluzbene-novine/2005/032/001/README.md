@@ -1,0 +1,11 @@
+# NALOG ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 28/04 KOJIM SE PRODUŽAVA OBUSTAVA SVIH ISPLATA SA UTVRĐENIH BUDŽETSKIH POZICIJA ZA STRANAČKO FINANSIRANJE HDZ-A
+
+Naslov: NALOG ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 28/04 KOJIM SE PRODUŽAVA OBUSTAVA SVIH ISPLATA SA UTVRĐENIH BUDŽETSKIH POZICIJA ZA STRANAČKO FINANSIRANJE HDZ-A
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službene novine Federacije BiH broj 32/05 (8.6.2005.), akt 1 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/5KZniBpxmo0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
