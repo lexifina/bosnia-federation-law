@@ -1,0 +1,11 @@
+# INSTRUKCIJU O PLANIRANJU I KORIŠTENJU SREDSTAVA SA POSEBNIH TRANSAKCIJSKIH RAČUNA OTVORENIH KAO PODRAČUNA U OKVIRU JEDINSTVENOG RAČUNA TREZORA
+
+Naslov: INSTRUKCIJU O PLANIRANJU I KORIŠTENJU SREDSTAVA SA POSEBNIH TRANSAKCIJSKIH RAČUNA OTVORENIH KAO PODRAČUNA U OKVIRU JEDINSTVENOG RAČUNA TREZORA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 41/05 (13.7.2005.), akt 13 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/joCzcxucjYo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
