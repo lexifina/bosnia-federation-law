@@ -1,0 +1,11 @@
+# RJEŠENJE RJEŠENJE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 30/05 OBRAZLOŽENJE
+
+Naslov: RJEŠENJE RJEŠENJE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 30/05 OBRAZLOŽENJE
+
+Donosilac: USTAVNI SUD BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 55/05 (14.9.2005.), akt 14 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wpeMEILfTUA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
