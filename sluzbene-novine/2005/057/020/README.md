@@ -1,0 +1,11 @@
+# ISPRAVKA ODLUKE O LISTI ESENCIJALNIH LIJEKOVA NEOPHODNIH ZA OSIGURANJE ZDRAVSTVENE ZAŠTITE U OKVIRU STANDARDA OBVEZNOG ZDRAVSTVENOG OSIGURANJA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ISPRAVKA ODLUKE O LISTI ESENCIJALNIH LIJEKOVA NEOPHODNIH ZA OSIGURANJE ZDRAVSTVENE ZAŠTITE U OKVIRU STANDARDA OBVEZNOG ZDRAVSTVENOG OSIGURANJA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: ISPRAVKE.
+
+Službene novine Federacije BiH broj 57/05 (28.9.2005.), akt 20 od 20 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/SU973PbPvQo=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
