@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR KANDIDATA ZA UPRAŽNJENE POZICIJE ČLANOVA NADZORNIH ODBORA PRIVREDNIH DRUŠTAVA "KRIVAJA" D.D. ZAVIDOVIĆI I "BH GAS" D.O.O. SARAJEVO
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR KANDIDATA ZA UPRAŽNJENE POZICIJE ČLANOVA NADZORNIH ODBORA PRIVREDNIH DRUŠTAVA "KRIVAJA" D.D. ZAVIDOVIĆI I "BH GAS" D.O.O. SARAJEVO
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 58/05 (5.10.2005.), akt 4 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/a3gztz5k76kjn45hPICOQnxw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
