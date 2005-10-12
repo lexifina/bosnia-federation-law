@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA POPISIVANJE I EVIDENTIRANJE STALNIH SREDSTAVA I NJIHOVO KNJIGOVODSTVENO USAGLAŠAVANJE SA STVARNIM STANJEM
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA POPISIVANJE I EVIDENTIRANJE STALNIH SREDSTAVA I NJIHOVO KNJIGOVODSTVENO USAGLAŠAVANJE SA STVARNIM STANJEM
+
+Donosilac: FED. MINIST. RASELJENIH OSOBA I IZBJEGLICA.
+
+Službene novine Federacije BiH broj 59/05 (12.10.2005.), akt 15 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VeAthC2L32w=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
