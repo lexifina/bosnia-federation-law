@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA RASPODJELE SREDSTAVA ZA OČUVANJE, KONZERVIRANJE I OBNAVLJANJE KULTURNO-POVIJESNE BAŠTINE, OSTVARENIH OD ČLANARINA U TURISTIČKIM ZAJEDNICAMA ZA PERIOD 4. 7 - 31. 12. 2004. GODINE
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA RASPODJELE SREDSTAVA ZA OČUVANJE, KONZERVIRANJE I OBNAVLJANJE KULTURNO-POVIJESNE BAŠTINE, OSTVARENIH OD ČLANARINA U TURISTIČKIM ZAJEDNICAMA ZA PERIOD 4. 7 - 31. 12. 2004. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 63/05 (2.11.2005.), akt 13 od 32 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/IVXRS2opPcc=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
