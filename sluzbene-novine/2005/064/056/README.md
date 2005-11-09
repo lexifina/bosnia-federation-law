@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU KOMISIJE ZA UTVRĐIVANJE ISPUNJENOSTI USLOVA ZA IZDAVANJE ODOBRENJA ZA RAD ZDRAVSTVENIM USTANOVAMA KOJE OBAVLJAJU LJEKARSKE PREGLEDE VAZDUHOPLOVNOG I OSTALOG STRUČNOG OSOBLJA
+
+Naslov: RJEŠENJE O FORMIRANJU KOMISIJE ZA UTVRĐIVANJE ISPUNJENOSTI USLOVA ZA IZDAVANJE ODOBRENJA ZA RAD ZDRAVSTVENIM USTANOVAMA KOJE OBAVLJAJU LJEKARSKE PREGLEDE VAZDUHOPLOVNOG I OSTALOG STRUČNOG OSOBLJA
+
+Donosilac: ŠPD "UNSKO-SANSKE ŠUME" D.O.O..
+
+Službene novine Federacije BiH broj 64/05 (9.11.2005.), akt 56 od 67 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45h0AZBt3fDek=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
