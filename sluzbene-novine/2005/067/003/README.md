@@ -1,0 +1,11 @@
+# OBAVJEŠTENJE O ODLUCI VISOKOG PREDSTAVNIKA DA UKINE ZABRANU IZREČENU IVANU DAMJANOVIĆU ODLUKOM VISOKOG PREDSTAVNIKA OD 7. SEPTEMBRA 1999. GODINE
+
+Naslov: OBAVJEŠTENJE O ODLUCI VISOKOG PREDSTAVNIKA DA UKINE ZABRANU IZREČENU IVANU DAMJANOVIĆU ODLUKOM VISOKOG PREDSTAVNIKA OD 7. SEPTEMBRA 1999. GODINE
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službene novine Federacije BiH broj 67/05 (30.11.2005.), akt 3 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sSohz4nh78h77H5t28Xos=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
