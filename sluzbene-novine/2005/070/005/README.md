@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 74/05 O PREUZIMANJU NADLEŽNOSTI NAD ŠTAMPANJEM I IZDAVANJEM PORESKIH I KONTROLNIH MARKICA
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 74/05 O PREUZIMANJU NADLEŽNOSTI NAD ŠTAMPANJEM I IZDAVANJEM PORESKIH I KONTROLNIH MARKICA
+
+Donosilac: BOSNA I HERCEGOVINA UPRAVA ZA INDIREKTNO OPOREZIVANJE.
+
+Službene novine Federacije BiH broj 70/05 (15.12.2005.), akt 5 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Owx9Karxogztz5k76kjn45hE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
