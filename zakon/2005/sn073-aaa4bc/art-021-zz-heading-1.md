@@ -1,0 +1,1 @@
+# Utvrđivanje osposobljenosti za plovidbu
