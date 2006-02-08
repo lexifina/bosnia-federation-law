@@ -1,0 +1,11 @@
+# PRAVILNIK O OSNOVNIM ELEMENTIMA KOJE MORA SADRŽAVATI STRUČNO MIŠLJENJE U POSTUPKU POSREDOVANJA PRIJE POKRETANJA POSTUPKA ZA RAZVOD BRAKA
+
+Naslov: PRAVILNIK O OSNOVNIM ELEMENTIMA KOJE MORA SADRŽAVATI STRUČNO MIŠLJENJE U POSTUPKU POSREDOVANJA PRIJE POKRETANJA POSTUPKA ZA RAZVOD BRAKA
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 5/06 (8.2.2006.), akt 12 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/e7jSLE58XHM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
