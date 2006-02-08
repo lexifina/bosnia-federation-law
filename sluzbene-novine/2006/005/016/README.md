@@ -1,0 +1,11 @@
+# UPUTSTVO UPUTSTVO JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 92/05. O IZMJENI I DOPUNI UPUTSTVA O PROVOĐENJU PRIJEVREMNIH IZBORA ZA OPĆINSKOG NAČELNIKA
+
+Naslov: UPUTSTVO UPUTSTVO JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 92/05. O IZMJENI I DOPUNI UPUTSTVA O PROVOĐENJU PRIJEVREMNIH IZBORA ZA OPĆINSKOG NAČELNIKA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 5/06 (8.2.2006.), akt 16 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/e7jSLE58XHM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
