@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI ODLUKE O IZBORU PREDSJEDAVAJUĆEG I POTPREDSJEDAVAJUĆIH DOMA NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENI ODLUKE O IZBORU PREDSJEDAVAJUĆEG I POTPREDSJEDAVAJUĆIH DOMA NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 13/06 (22.3.2006.), akt 3 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/aIa8Few8MZw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
