@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA ZAKLJUČIVANJE UGOVORA ZA KONSULTANTSKE USLUGE U SVRHU INSTITUCIONALNE PODRŠKE AGENCIJI ZA PRIVATIZACIJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA ZAKLJUČIVANJE UGOVORA ZA KONSULTANTSKE USLUGE U SVRHU INSTITUCIONALNE PODRŠKE AGENCIJI ZA PRIVATIZACIJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 15/06 (29.3.2006.), akt 31 od 86 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BfJhNCPuAa4=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
