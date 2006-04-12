@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA LIJEKOVE KOJI SE UPOTREBLJAVAJU U VETERINARSTVU
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA LIJEKOVE KOJI SE UPOTREBLJAVAJU U VETERINARSTVU
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 17/06 (12.4.2006.), akt 17 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cdiT1ZtjyLo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
