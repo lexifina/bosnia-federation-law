@@ -1,0 +1,11 @@
+# PRAVILNIK O VISINI I NAČINU ISPLATE OPRAVDANIH TROŠKOVA I MJESEČNE NAKNADE OSOBI KOJA VRŠI NADZOR NAD OSTVARIVANJEM RODITELJSKOG STARANJA
+
+Naslov: PRAVILNIK O VISINI I NAČINU ISPLATE OPRAVDANIH TROŠKOVA I MJESEČNE NAKNADE OSOBI KOJA VRŠI NADZOR NAD OSTVARIVANJEM RODITELJSKOG STARANJA
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 18/06 (17.4.2006.), akt 6 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZGPC46Nb6LE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
