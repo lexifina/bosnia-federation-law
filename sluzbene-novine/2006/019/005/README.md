@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 28/06> O POTVRĐIVANJU I OVJERAVANJU REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE ISTOČNI DRVAR
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 28/06> O POTVRĐIVANJU I OVJERAVANJU REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE ISTOČNI DRVAR
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 19/06 (19.4.2006.), akt 5 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ajJAK6t9abw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
