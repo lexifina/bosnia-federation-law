@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2006. GODINU FEDERALNOJ UPRAVI CIVILNE ZAŠTITE ZA UČEŠĆE U FINANCIRANJU "PROGRAM DEMINIRANJA 2006/2007" - FAZA VIII
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2006. GODINU FEDERALNOJ UPRAVI CIVILNE ZAŠTITE ZA UČEŠĆE U FINANCIRANJU "PROGRAM DEMINIRANJA 2006/2007" - FAZA VIII
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/06 (4.5.2006.), akt 14 od 28 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/eVVgTuXPe4A=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
