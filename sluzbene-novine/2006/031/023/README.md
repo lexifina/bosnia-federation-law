@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA UTROŠKA INVESTICIJSKIH SREDSTAVA RAZVOJA ZA IZGRADNJU AUTOPUTA SARAJEVO-ZENICA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2006. GODINU FEDERALNOM MINISTARSTVU PROMETA I KOMUNIKACIJA
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA UTROŠKA INVESTICIJSKIH SREDSTAVA RAZVOJA ZA IZGRADNJU AUTOPUTA SARAJEVO-ZENICA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2006. GODINU FEDERALNOM MINISTARSTVU PROMETA I KOMUNIKACIJA
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 31/06 (21.6.2006.), akt 23 od 41 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/h37PoaJzUPw=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
