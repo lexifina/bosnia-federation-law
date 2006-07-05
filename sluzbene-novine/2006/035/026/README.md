@@ -1,0 +1,11 @@
+# UPUTSTVO O POSTUPKU IZMIRENJA DUGA PO OSNOVU DOPRINOSA ZA PENZIJSKO I INVALIDSKO OSIGURANJE I DOPRINOSA ZA OSIGURANJE OD NEZAPOSLENOSTI
+
+Naslov: UPUTSTVO O POSTUPKU IZMIRENJA DUGA PO OSNOVU DOPRINOSA ZA PENZIJSKO I INVALIDSKO OSIGURANJE I DOPRINOSA ZA OSIGURANJE OD NEZAPOSLENOSTI
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 35/06 (5.7.2006.), akt 26 od 54 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ug60xHx5PFw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
