@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE JAVNOG OGLASA ZA POPUNJAVANJE RADNIH MJESTA NAMJEŠTENIKA U FEDERALNOM MINISTARSTVU OKOLIŠA I TURIZMA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE JAVNOG OGLASA ZA POPUNJAVANJE RADNIH MJESTA NAMJEŠTENIKA U FEDERALNOM MINISTARSTVU OKOLIŠA I TURIZMA
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 35/06 (5.7.2006.), akt 29 od 54 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ug60xHx5PFw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
