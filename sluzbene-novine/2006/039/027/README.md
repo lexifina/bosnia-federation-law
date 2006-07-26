@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE JAVNOG OGLASA ZA PRIJEM PRIPRAVNIKA U FEDERALNOM MINISTARSTVU UNUTRAŠNJIH POSLOVA - FEDERALNOM MINISTARSTVU UNUTARNJIH POSLOVA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE JAVNOG OGLASA ZA PRIJEM PRIPRAVNIKA U FEDERALNOM MINISTARSTVU UNUTRAŠNJIH POSLOVA - FEDERALNOM MINISTARSTVU UNUTARNJIH POSLOVA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTARNJIH/UNUTRAŠNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 39/06 (26.7.2006.), akt 27 od 41 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CMWzpc9nwfw=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
