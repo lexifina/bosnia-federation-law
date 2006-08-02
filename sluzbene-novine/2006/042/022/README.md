@@ -1,0 +1,11 @@
+# ODLUKU O RASPODJELI SREDSTAVA "PODRŠKA ZAPOŠLJAVANJU INVALIDNIH LICA" UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2006. GODINU FEDERALNOM MINISTARSTVU RADA I SOCIJALNE POLITIKE
+
+Naslov: ODLUKU O RASPODJELI SREDSTAVA "PODRŠKA ZAPOŠLJAVANJU INVALIDNIH LICA" UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2006. GODINU FEDERALNOM MINISTARSTVU RADA I SOCIJALNE POLITIKE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 42/06 (2.8.2006.), akt 22 od 33 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sHHepkE7yJU=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
