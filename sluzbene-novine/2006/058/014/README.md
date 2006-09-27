@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU RADNE GRUPE ZA PROVOĐENJE AKTIVNOSTI NA PRIPREMI PRIJEDLOGA UGOVORA ZAMJENE DUGA BOSNE I HERCEGOVINE PREMA VELIKOJ SOCIJALISTIČKOJ NARODNOJ LIBIJSKOJ DŽAMAHIRIJI ZA UDIO U DRŽAVNOM KAPITALU "BOSNALIJEK" D.D. SARAJEVO
+
+Naslov: RJEŠENJE O IMENOVANJU RADNE GRUPE ZA PROVOĐENJE AKTIVNOSTI NA PRIPREMI PRIJEDLOGA UGOVORA ZAMJENE DUGA BOSNE I HERCEGOVINE PREMA VELIKOJ SOCIJALISTIČKOJ NARODNOJ LIBIJSKOJ DŽAMAHIRIJI ZA UDIO U DRŽAVNOM KAPITALU "BOSNALIJEK" D.D. SARAJEVO
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 58/06 (27.9.2006.), akt 14 od 26 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zVBPhOFthpQ=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
