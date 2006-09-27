@@ -1,0 +1,11 @@
+# PRIOPĆENJE PRIOPĆENJE JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 76/06. O STAVLJANJU U OPTJECAJ KOVANOG NOVCA APOENA 1 KONVERTIBILNE MARKE DODATNO KOVANOG U 2006.
+
+Naslov: PRIOPĆENJE PRIOPĆENJE JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 76/06. O STAVLJANJU U OPTJECAJ KOVANOG NOVCA APOENA 1 KONVERTIBILNE MARKE DODATNO KOVANOG U 2006.
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/06 (27.9.2006.), akt 6 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zVBPhOFthpQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
