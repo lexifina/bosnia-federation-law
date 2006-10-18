@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU DIREKTORA ODJELA ZA INTERNU REVIZIJU
+
+Naslov: ODLUKU O IMENOVANJU DIREKTORA ODJELA ZA INTERNU REVIZIJU
+
+Donosilac: RUDNICI "KREKA" U TUZLI, D.O.O. ODBOR ZA REVIZIJU.
+
+Službene novine Federacije BiH broj 62/06 (18.10.2006.), akt 67 od 69 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/c8Owkl5es4k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
