@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE INTERNOG OGLASA ZA POPUNJAVANJE RADNIH MJESTA NAMJEŠTENIKA U FEDERALNOM MINISTARSTVU OKOLIŠA I TURIZMA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE INTERNOG OGLASA ZA POPUNJAVANJE RADNIH MJESTA NAMJEŠTENIKA U FEDERALNOM MINISTARSTVU OKOLIŠA I TURIZMA
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 62/06 (18.10.2006.), akt 53 od 69 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/c8Owkl5es4k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
