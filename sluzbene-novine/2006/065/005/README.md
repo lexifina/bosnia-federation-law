@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU PRODAJE/NABAVKE PO PRINCIPU "STARO ZA NOVO" PUTNIČKOG VOZILA ZA POTREBE FEDERALNOG MINISTARSTVA ENERGIJE, RUDARSTVA I INDUSTRIJE
+
+Naslov: ODLUKU O ODOBRAVANJU PRODAJE/NABAVKE PO PRINCIPU "STARO ZA NOVO" PUTNIČKOG VOZILA ZA POTREBE FEDERALNOG MINISTARSTVA ENERGIJE, RUDARSTVA I INDUSTRIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 65/06 (1.11.2006.), akt 5 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hVNFZ4RDIwg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
