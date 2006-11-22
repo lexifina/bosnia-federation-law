@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE OTVORENOG POSTUPKA NABAVKE GORIVA, MAZIVA, LOŽ-ULJA I MLAZNOG GORIVA ZA HELIKOPTER
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE OTVORENOG POSTUPKA NABAVKE GORIVA, MAZIVA, LOŽ-ULJA I MLAZNOG GORIVA ZA HELIKOPTER
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTARNJIH/UNUTRAŠNJIH POSLOVA FEDERALNA UPRAVA POLICIJE.
+
+Službene novine Federacije BiH broj 71/06 (22.11.2006.), akt 42 od 53 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/eXmhaBknZE0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
