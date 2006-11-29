@@ -1,0 +1,11 @@
+# POSLOVNIK O POSTUPKU I MJERAMA GENDER CENTRA FEDERACIJE BOSNE I HERCEGOVINE U VEZI S POVREDAMA ZAKONA O RAVNOPRAVNOSTI SPOLOVA U BOSNI I HERCEGOVINI
+
+Naslov: POSLOVNIK O POSTUPKU I MJERAMA GENDER CENTRA FEDERACIJE BOSNE I HERCEGOVINE U VEZI S POVREDAMA ZAKONA O RAVNOPRAVNOSTI SPOLOVA U BOSNI I HERCEGOVINI
+
+Donosilac: GENDER CENTAR FBIH.
+
+Službene novine Federacije BiH broj 73/06 (29.11.2006.), akt 12 od 53 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ir16uoSljOA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
