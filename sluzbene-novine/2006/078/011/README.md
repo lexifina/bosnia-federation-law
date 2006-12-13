@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O RADU DRŽAVNE REGULATORNE KOMISIJE ZA ELEKTRIČNU ENERGIJU
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O RADU DRŽAVNE REGULATORNE KOMISIJE ZA ELEKTRIČNU ENERGIJU
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službene novine Federacije BiH broj 78/06 (13.12.2006.), akt 11 od 46 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/woSohz4nh78h77XqYU9CM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
