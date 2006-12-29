@@ -1,0 +1,11 @@
+# UPUTSTVO O ROKOVIMA IZBORNIH AKTIVNOSTI ZA ODRŽAVANJE PRIJEVREMENIH IZBORA ZA NAČELNIKE OPĆINA NOVO SARAJEVO, ZVORNIK I KALESIJA/OSMACI
+
+Naslov: UPUTSTVO O ROKOVIMA IZBORNIH AKTIVNOSTI ZA ODRŽAVANJE PRIJEVREMENIH IZBORA ZA NAČELNIKE OPĆINA NOVO SARAJEVO, ZVORNIK I KALESIJA/OSMACI
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 82/06 (29.12.2006.), akt 12 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WLAEObZz0pM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
