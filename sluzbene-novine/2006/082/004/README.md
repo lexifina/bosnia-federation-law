@@ -1,0 +1,11 @@
+# RJEŠENJE O USKLAĐENOSTI SHEMA NA KOJIMA SE PODNOSE FINANSIJSKI IZVJEŠTAJI SA ZAKONOM O RAČUNOVODSTVU I REVIZIJI U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O USKLAĐENOSTI SHEMA NA KOJIMA SE PODNOSE FINANSIJSKI IZVJEŠTAJI SA ZAKONOM O RAČUNOVODSTVU I REVIZIJI U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 82/06 (29.12.2006.), akt 4 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WLAEObZz0pM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
