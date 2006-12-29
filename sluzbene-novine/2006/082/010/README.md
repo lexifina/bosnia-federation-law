@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU CENTRALNE KOMISIJE ZA POPIS 2006. GODINE
+
+Naslov: RJEŠENJE O OBRAZOVANJU CENTRALNE KOMISIJE ZA POPIS 2006. GODINE
+
+Donosilac: FEDER. ZAVOD ZA PROGRAMIRANJE RAZVOJA.
+
+Službene novine Federacije BiH broj 82/06 (29.12.2006.), akt 10 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WLAEObZz0pM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
