@@ -1,0 +1,11 @@
+# PRAVILNIK O SADRŽAJU I NAČINU OBAVLJANJA INSPEKCIJSKOG NADZORA U OBLASTI ZAŠTITE I SPAŠAVANJA IZ MJERODAVNOSTI FEDERALNE I KANTONALNIH UPRAVA CIVILNE ZAŠTITE
+
+Naslov: PRAVILNIK O SADRŽAJU I NAČINU OBAVLJANJA INSPEKCIJSKOG NADZORA U OBLASTI ZAŠTITE I SPAŠAVANJA IZ MJERODAVNOSTI FEDERALNE I KANTONALNIH UPRAVA CIVILNE ZAŠTITE
+
+Donosilac: FEDERALNA UPRAVA CIVILNE ZAŠTITE.
+
+Službene novine Federacije BiH broj 3/07 (17.1.2007.), akt 4 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EMkpGDohz4nh78h77y9pE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
