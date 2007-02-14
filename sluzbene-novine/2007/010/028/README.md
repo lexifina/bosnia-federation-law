@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU STALNE KOMISIJE ZA PRAĆENJE UTROŠKA GRANT SREDSTAVA "TRANSFERA ZA POTICAJ I RAZVOJ PODUZETNIŠTVA I OBRTA" U 2005. I 2006. GODINI
+
+Naslov: RJEŠENJE O OBRAZOVANJU STALNE KOMISIJE ZA PRAĆENJE UTROŠKA GRANT SREDSTAVA "TRANSFERA ZA POTICAJ I RAZVOJ PODUZETNIŠTVA I OBRTA" U 2005. I 2006. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO RAZVOJA, PODUZETNIŠTVA I OBRTA.
+
+Službene novine Federacije BiH broj 10/07 (14.2.2007.), akt 28 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/h6enAb8HpXQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
