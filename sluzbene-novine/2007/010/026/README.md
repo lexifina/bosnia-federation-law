@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU RADNE GRUPE ZA PRIPREMU TEKSTA ZAKONA O OSNIVANJU INSTITUTA ZA MEDICINSKO VJEŠTAČENJE I POSTUPKU MEDICINSKOG VJEŠTAČENJA
+
+Naslov: RJEŠENJE O FORMIRANJU RADNE GRUPE ZA PRIPREMU TEKSTA ZAKONA O OSNIVANJU INSTITUTA ZA MEDICINSKO VJEŠTAČENJE I POSTUPKU MEDICINSKOG VJEŠTAČENJA
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 10/07 (14.2.2007.), akt 26 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/h6enAb8HpXQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
