@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS STALNIH SREDSTAVA I SITNOG INVENTARA, POPIS NOVČANIH SREDSTAVA-GOTOVOG NOVCA U BLAGAJNI I ZA POPIS OBAVEZA I POTRAŽIVANJA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS STALNIH SREDSTAVA I SITNOG INVENTARA, POPIS NOVČANIH SREDSTAVA-GOTOVOG NOVCA U BLAGAJNI I ZA POPIS OBAVEZA I POTRAŽIVANJA
+
+Donosilac: FEDERALNI ZAVOD ZA GEOLOGIJU.
+
+Službene novine Federacije BiH broj 10/07 (14.2.2007.), akt 50 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/h6enAb8HpXQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
