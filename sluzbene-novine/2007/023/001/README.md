@@ -1,0 +1,11 @@
+# NALOG NALOG JE OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 22/07. O PROVEDBI ODLUKE USTAVNOG SUDA BOSNE I HERCEGOVINE U APELACIJI MILORADA BILBIJE I OSTALIH, BR. AP - 953/05
+
+Naslov: NALOG NALOG JE OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 22/07. O PROVEDBI ODLUKE USTAVNOG SUDA BOSNE I HERCEGOVINE U APELACIJI MILORADA BILBIJE I OSTALIH, BR. AP - 953/05
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službene novine Federacije BiH broj 23/07 (2.4.2007.), akt 1 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Vpe08QYzb00=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
