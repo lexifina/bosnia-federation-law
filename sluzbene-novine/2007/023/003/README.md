@@ -1,0 +1,11 @@
+# ODLUKU O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I Č LANOVA RADNIH TIJELA DOMA NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I Č LANOVA RADNIH TIJELA DOMA NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/07 (2.4.2007.), akt 3 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Vpe08QYzb00=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
