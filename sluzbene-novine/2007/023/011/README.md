@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU UPRAVNOG TIJELA ZA PRIPREMU I IZRADU PRIJEDLOGA STRATEGIJE PRELASKA NA DEVETOGODIŠNJE OBAVEZNO OBRAZOVANJE
+
+Naslov: RJEŠENJE O OBRAZOVANJU UPRAVNOG TIJELA ZA PRIPREMU I IZRADU PRIJEDLOGA STRATEGIJE PRELASKA NA DEVETOGODIŠNJE OBAVEZNO OBRAZOVANJE
+
+Donosilac: FEDERALNO MINISTARSTVO OBRAZOVANJA I NAUKE/ZNANOSTI.
+
+Službene novine Federacije BiH broj 23/07 (2.4.2007.), akt 11 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Vpe08QYzb00=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
