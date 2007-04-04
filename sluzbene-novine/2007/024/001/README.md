@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA FONDA ZA MEĐUNARODNI RAZVOJ OPEC ZA PROJEKT SARAJEVSKE ZAOBILAZNICE
+
+Naslov: ODLUKU O ODOBRAVANJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA FONDA ZA MEĐUNARODNI RAZVOJ OPEC ZA PROJEKT SARAJEVSKE ZAOBILAZNICE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 24/07 (4.4.2007.), akt 1 od 59 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UDxILh5Wfnw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
