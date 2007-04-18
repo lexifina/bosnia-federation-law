@@ -1,0 +1,11 @@
+# ODLUKU KOJOM SE DONOSI ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KRIVIČNOM POSTUPKU FEDERACIJE BOSNE I HERCEGOVINE ("SLUŽBENE NOVINE FEDERACIJE BIH", BR. 35/03, 37/03, 56/03, 78/04, 28/05 I 55/06)
+
+Naslov: ODLUKU KOJOM SE DONOSI ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KRIVIČNOM POSTUPKU FEDERACIJE BOSNE I HERCEGOVINE ("SLUŽBENE NOVINE FEDERACIJE BIH", BR. 35/03, 37/03, 56/03, 78/04, 28/05 I 55/06)
+
+Donosilac: VISOKI PREDSTAVNIK ZA BOSNU I HERCEGOVINU.
+
+Službene novine Federacije BiH broj 27/07 (18.4.2007.), akt 1 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h7793wMcv1NVY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
