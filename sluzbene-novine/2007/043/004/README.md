@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU PRODAJE/NABAVE PO PRINCIPU "STARO ZA NOVO" PUTNIČKIH VOZILA ZA POTREBE FEDERALNOG MINISTARSTVA ENERGIJE, RUDARSTVA I INDUSTRIJE
+
+Naslov: ODLUKU O ODOBRAVANJU PRODAJE/NABAVE PO PRINCIPU "STARO ZA NOVO" PUTNIČKIH VOZILA ZA POTREBE FEDERALNOG MINISTARSTVA ENERGIJE, RUDARSTVA I INDUSTRIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/07 (20.6.2007.), akt 4 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VZKWA7eZPOk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
