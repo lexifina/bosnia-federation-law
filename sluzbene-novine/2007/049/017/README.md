@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE ZAJMA EVROPSKE BANKE ZA OBNOVU I RAZVOJ (EBRD) ZA FINANSIRANJE PROJEKTA "REKONSTRUKCIJA PUTEVA"
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE ZAJMA EVROPSKE BANKE ZA OBNOVU I RAZVOJ (EBRD) ZA FINANSIRANJE PROJEKTA "REKONSTRUKCIJA PUTEVA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 49/07 (18.7.2007.), akt 17 od 58 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/m1TZBzHOQ14=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
