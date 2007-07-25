@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU ZA FINANSIRANJE KULTURNIH DRUŠTAVA ZA I. I II. KVARTAL
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU ZA FINANSIRANJE KULTURNIH DRUŠTAVA ZA I. I II. KVARTAL
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/07 (25.7.2007.), akt 18 od 48 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/moNzpaNQLII=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
