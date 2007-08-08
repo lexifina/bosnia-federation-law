@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE DODATNOG KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ ZA PROJEKT RAZVOJA I ZAŠTITE ŠUMA
+
+Naslov: ODLUKU O ODOBRAVANJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE DODATNOG KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ ZA PROJEKT RAZVOJA I ZAŠTITE ŠUMA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 53/07 (8.8.2007.), akt 4 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/g4MimiMJSNQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
