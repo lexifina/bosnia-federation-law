@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USLOVIMA I NAČINU KORIŠTENJA SREDSTAVA OSTVARENIH PO OSNOVU POSEBNOG POREZA ZA ZAŠTITU OD PRIRODNIH I DRUGIH NESREĆA
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USLOVIMA I NAČINU KORIŠTENJA SREDSTAVA OSTVARENIH PO OSNOVU POSEBNOG POREZA ZA ZAŠTITU OD PRIRODNIH I DRUGIH NESREĆA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 61/07 (10.9.2007.), akt 1 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/iBN4Cu9v7R0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
