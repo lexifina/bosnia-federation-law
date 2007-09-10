@@ -1,0 +1,11 @@
+# KOLEKTIVNI UGOVOR ELEKTROPRIVREDNE DJELATNOSTI U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: KOLEKTIVNI UGOVOR ELEKTROPRIVREDNE DJELATNOSTI U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: SINDIKAT ELEKTROENERGETSKIH RADNIKA BIH, NEZAVISNI SINDIKAT ZAPOSLENIKA JP ELEKTROPRIVREDA HZ HERCEG BOSNE D.D. MOSTAR, FEDERALNO MINISTARSTVO ENERG.
+
+Službene novine Federacije BiH broj 61/07 (10.9.2007.), akt 3 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/iBN4Cu9v7R0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
