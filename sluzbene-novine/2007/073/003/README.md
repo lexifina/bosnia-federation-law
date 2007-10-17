@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRIJEDLOG SPORAZUMA O SUFINANSIRANJU OBNOVE DEVASTIRANIH STAMBENIH ZGRADA NA PODRUČJU GRADA MOSTARA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRIJEDLOG SPORAZUMA O SUFINANSIRANJU OBNOVE DEVASTIRANIH STAMBENIH ZGRADA NA PODRUČJU GRADA MOSTARA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 73/07 (17.10.2007.), akt 3 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7iXyEjXU2IQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
