@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU FEDERALNOM MINISTARSTVU OKOLIŠA I TURIZMA
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU FEDERALNOM MINISTARSTVU OKOLIŠA I TURIZMA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/07 (29.10.2007.), akt 4 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fBIjZFss9NU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
