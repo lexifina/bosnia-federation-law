@@ -1,0 +1,11 @@
+# ODLUKU O IZUZIMANJU IZ PRIVATIZACIJE I PREDAJI NA UPRAVLJANJE JP "ELEKTROPRIVREDA BIH" D.D. SARAJEVO STALNOG SREDSTVA U VLASNIŠTVU IP "KRIVAJA" D.O.O. ZAVIDOVIĆI
+
+Naslov: ODLUKU O IZUZIMANJU IZ PRIVATIZACIJE I PREDAJI NA UPRAVLJANJE JP "ELEKTROPRIVREDA BIH" D.D. SARAJEVO STALNOG SREDSTVA U VLASNIŠTVU IP "KRIVAJA" D.O.O. ZAVIDOVIĆI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 83/07 (21.11.2007.), akt 2 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UZ5SIoiMVXU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
