@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU POVJERENSTVA/KOMISIJE ZA PRIPREMU I PROVEDBU PROGRAMA OBUKE U CILJU PROVOĐENJA ZAKONSKIH OBVEZA ZA DOBIVANJE OKOLIŠNE DOZVOLE
+
+Naslov: RJEŠENJE O IMENOVANJU POVJERENSTVA/KOMISIJE ZA PRIPREMU I PROVEDBU PROGRAMA OBUKE U CILJU PROVOĐENJA ZAKONSKIH OBVEZA ZA DOBIVANJE OKOLIŠNE DOZVOLE
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 85/07 (28.11.2007.), akt 16 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AbYoHy5bcgQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
