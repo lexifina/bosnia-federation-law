@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 94/07 O POTVRĐIVANJU I OBJAVI REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE DONJI VAKUF
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 94/07 O POTVRĐIVANJU I OBJAVI REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE DONJI VAKUF
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 89/07 (12.12.2007.), akt 5 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LonF5LEgKgs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
