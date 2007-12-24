@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU U SVRHU IZGRADNJE SARAJEVSKE OBILAZNICE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU U SVRHU IZGRADNJE SARAJEVSKE OBILAZNICE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 93/07 (24.12.2007.), akt 4 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wS2tU93qLuM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
