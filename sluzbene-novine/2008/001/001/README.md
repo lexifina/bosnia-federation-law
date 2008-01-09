@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O IZDAVANJU, PUŠTANJU U TEČAJ, DISTRIBUCIJI, POVLAČENJU IZ UPOTREBE I ZAMJENI FEDERALNIH UPRAVNIH TAKSENIH MARAKA
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O IZDAVANJU, PUŠTANJU U TEČAJ, DISTRIBUCIJI, POVLAČENJU IZ UPOTREBE I ZAMJENI FEDERALNIH UPRAVNIH TAKSENIH MARAKA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 1/08 (9.1.2008.), akt 1 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/k7ZtszniNHw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
