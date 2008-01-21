@@ -1,0 +1,11 @@
+# STATISTIKU OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 3/08 TRŽIŠTA OSIGURANJA U BOSNI I HERCEGOVINI ZA 2006. GODINU U PREGLEDU SU RADI KOMPARACIJE DATI I PODACI ZA 2004. I 2005. GODINU.
+
+Naslov: STATISTIKU OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 3/08 TRŽIŠTA OSIGURANJA U BOSNI I HERCEGOVINI ZA 2006. GODINU U PREGLEDU SU RADI KOMPARACIJE DATI I PODACI ZA 2004. I 2005. GODINU.
+
+Donosilac: AGENCIJA ZA OSIGURANJE U BIH.
+
+Službene novine Federacije BiH broj 3/08 (21.1.2008.), akt 7 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WvNPZo45R5k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
