@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA KREDITANSTALT F�R WIEDERAUFBAU, FRANKFURT NA MAJNI ("KFW") ZA PROJEKT OBNOVE HIDROELEKTRANE RAMA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA KREDITANSTALT F�R WIEDERAUFBAU, FRANKFURT NA MAJNI ("KFW") ZA PROJEKT OBNOVE HIDROELEKTRANE RAMA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 5/08 (30.1.2008.), akt 2 od 60 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OQohz4nh78h77ecW0KkoA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
