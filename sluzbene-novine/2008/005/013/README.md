@@ -1,0 +1,11 @@
+# PRAVILNIK O VREMENU LOVA LOVOSTAJEM ZAŠTIĆENE DIVLJAČI I POPIS VRSTA PTICA I SISARA KOJE SE SMATRAJU KORISNIM ZA POLJOPRIVREDU I ŠUMARSTVO
+
+Naslov: PRAVILNIK O VREMENU LOVA LOVOSTAJEM ZAŠTIĆENE DIVLJAČI I POPIS VRSTA PTICA I SISARA KOJE SE SMATRAJU KORISNIM ZA POLJOPRIVREDU I ŠUMARSTVO
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 5/08 (30.1.2008.), akt 13 od 60 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OQohz4nh78h77ecW0KkoA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
