@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SUGLASNOSTI NA UGOVOR O NAČINU IZMIRENJA DUGA ZA ISPORUČENU ELEKTRIČNU ENERGIJU ZAKLJUČENOG IZMEĐU JP ELEKTROPRIVREDA BIH D.D. SARAJEVO I "IGMAN" D.D. KONJIC
+
+Naslov: ODLUKU O DAVANJU SUGLASNOSTI NA UGOVOR O NAČINU IZMIRENJA DUGA ZA ISPORUČENU ELEKTRIČNU ENERGIJU ZAKLJUČENOG IZMEĐU JP ELEKTROPRIVREDA BIH D.D. SARAJEVO I "IGMAN" D.D. KONJIC
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 5/08 (30.1.2008.), akt 11 od 60 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OQohz4nh78h77ecW0KkoA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
