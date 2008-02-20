@@ -1,0 +1,11 @@
+# PRAVILNIK O ŽIVOTINJSKOM OTPADU I DRUGIM NEOPASNIM MATERIJALIMA PRIRODNOG PORIJEKLA KOJI SE MOGU KORISTITI U POLJOPRIVREDNE SVRHE
+
+Naslov: PRAVILNIK O ŽIVOTINJSKOM OTPADU I DRUGIM NEOPASNIM MATERIJALIMA PRIRODNOG PORIJEKLA KOJI SE MOGU KORISTITI U POLJOPRIVREDNE SVRHE
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 8/08 (20.2.2008.), akt 5 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2MhaQPDQi0I=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
