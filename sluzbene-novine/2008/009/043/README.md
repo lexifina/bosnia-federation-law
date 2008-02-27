@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU KOMISIJE ZA IZRADU PRAVILNIKA SA CJENOVNIKOM USLUGA KOJE VRŠI CENTAR ZA FORENZIKU I PODRŠKU - ODJELJENJE KRIMINALISTIČKE TEHNIKE
+
+Naslov: RJEŠENJE O OBRAZOVANJU KOMISIJE ZA IZRADU PRAVILNIKA SA CJENOVNIKOM USLUGA KOJE VRŠI CENTAR ZA FORENZIKU I PODRŠKU - ODJELJENJE KRIMINALISTIČKE TEHNIKE
+
+Donosilac: JP TELEVIZIJA SARAJEVO.
+
+Službene novine Federacije BiH broj 9/08 (27.2.2008.), akt 43 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oNAiCXDF6PQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
