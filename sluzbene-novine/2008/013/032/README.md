@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU POVJERENSTVA/KOMISIJE ZA PRIPREMU I PROVEDBU PROGRAMA REALIZACIJE PROJEKTA "OBUKA O PROBLEMATICI OKOLIŠNIH ZAKONA I IZDAVANJA OKOLIŠNIH DOZVOLA U 2008. GODINI"
+
+Naslov: RJEŠENJE O IMENOVANJU POVJERENSTVA/KOMISIJE ZA PRIPREMU I PROVEDBU PROGRAMA REALIZACIJE PROJEKTA "OBUKA O PROBLEMATICI OKOLIŠNIH ZAKONA I IZDAVANJA OKOLIŠNIH DOZVOLA U 2008. GODINI"
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 13/08 (19.3.2008.), akt 32 od 43 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4Epya5GQsqs=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
