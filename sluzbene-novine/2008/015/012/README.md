@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 15/08 (26.3.2008.), akt 12 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AIbDIuHTGcY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
