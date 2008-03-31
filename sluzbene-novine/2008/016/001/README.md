@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA FEDERALNOJ DIREKCIJI ROBNIH REZERVI IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2008. GODINU
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA FEDERALNOJ DIREKCIJI ROBNIH REZERVI IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2008. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/08 (31.3.2008.), akt 1 od 53 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4H7HPe8hEAw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
