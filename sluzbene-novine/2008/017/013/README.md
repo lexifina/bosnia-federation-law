@@ -1,0 +1,11 @@
+# PRAVILNIK O UVJETIMA I KRITERIJIMA KOJE MORA ISPUNJAVATI PRAVNO LICE ZA IZRADU DOKUMENTACIJE NA OSNOVU KOJE SE IZDAJU VODNI AKTI
+
+Naslov: PRAVILNIK O UVJETIMA I KRITERIJIMA KOJE MORA ISPUNJAVATI PRAVNO LICE ZA IZRADU DOKUMENTACIJE NA OSNOVU KOJE SE IZDAJU VODNI AKTI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 17/08 (2.4.2008.), akt 13 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CjHNN1gOlXc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
