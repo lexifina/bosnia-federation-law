@@ -1,0 +1,11 @@
+# RJEŠENJE o imenovanju stalne Komisije za javne nabavke
+
+Naslov: RJEŠENJE o imenovanju stalne Komisije za javne nabavke
+
+Donosilac: FED. MINIST. RASELJENIH OSOBA I IZBJEGLICA.
+
+Službene novine Federacije BiH broj 18/08 (9.4.2008.), akt 28 od 68 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/v58u0eQn5N8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
