@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU KOMISIJ E ZA PROVOĐENJE POSEBNOG ISPITA ZA UPIS OVLAŠTENJA ZA TIP VAZDUHOPLOVA L 410 U DOZVOLU VAZDUHOPLOVNOG MEHANIČARA ZA ODRŽAVANJE
+
+Naslov: RJEŠENJE O FORMIRANJU KOMISIJ E ZA PROVOĐENJE POSEBNOG ISPITA ZA UPIS OVLAŠTENJA ZA TIP VAZDUHOPLOVA L 410 U DOZVOLU VAZDUHOPLOVNOG MEHANIČARA ZA ODRŽAVANJE
+
+Donosilac: FEDERALNA DIREKCIJA ZA CIVILNU AVIJACIJU.
+
+Službene novine Federacije BiH broj 18/08 (9.4.2008.), akt 60 od 68 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/v58u0eQn5N8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
