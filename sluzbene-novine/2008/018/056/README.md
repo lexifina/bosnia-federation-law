@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O UTVRĐIVANJU VRSTE I VISINE NAKNADA ZA USLUGE REGISTRA VRIJEDNOSNIH PAPIRA U FEDERACIJI BOSNE i HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O UTVRĐIVANJU VRSTE I VISINE NAKNADA ZA USLUGE REGISTRA VRIJEDNOSNIH PAPIRA U FEDERACIJI BOSNE i HERCEGOVINE
+
+Donosilac: REGISTAR VRIJEDNOSNIH PAPIRA U FEDERACIJI BIH.
+
+Službene novine Federacije BiH broj 18/08 (9.4.2008.), akt 56 od 68 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/v58u0eQn5N8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
