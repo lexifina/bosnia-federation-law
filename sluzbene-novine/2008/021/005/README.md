@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU STRUČNE KOMISIJE ZA PRAĆENJE I VREDNOVANJE PRIMJENE KONCEPCIJE DEVETOGODIŠNJE OSNOVNE ŠKOLE I NOVIH NASTAVNIH PROGRAMA
+
+Naslov: RJEŠENJE O OBRAZOVANJU STRUČNE KOMISIJE ZA PRAĆENJE I VREDNOVANJE PRIMJENE KONCEPCIJE DEVETOGODIŠNJE OSNOVNE ŠKOLE I NOVIH NASTAVNIH PROGRAMA
+
+Donosilac: FEDERALNO MINISTARSTVO OBRAZOVANJA I NAUKE/ZNANOSTI.
+
+Službene novine Federacije BiH broj 21/08 (23.4.2008.), akt 5 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zPmGGR2Hals=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
