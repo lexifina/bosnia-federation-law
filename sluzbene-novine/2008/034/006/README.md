@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA FONDA ZA MEĐUNARODNI RAZVOJ (OPEC) ZA PROJEKT REKONSTRUKCIJE ŽELJEZNICA
+
+Naslov: ODLUKU O ODOBRAVANJU ODLUKE O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA FONDA ZA MEĐUNARODNI RAZVOJ (OPEC) ZA PROJEKT REKONSTRUKCIJE ŽELJEZNICA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 34/08 (11.6.2008.), akt 6 od 60 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/uohz4nh78h77TsFyly8xY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
