@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU VISINE BORAVIŠNE TAKSE ZA FIZIČKA LICA KOJA SU REGISTROVANA ZA PRUŽANJE USLUGA SMJEŠTAJA U DOMAĆINSTVU ZA 2009. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU VISINE BORAVIŠNE TAKSE ZA FIZIČKA LICA KOJA SU REGISTROVANA ZA PRUŽANJE USLUGA SMJEŠTAJA U DOMAĆINSTVU ZA 2009. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 44/08 (16.7.2008.), akt 6 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zGlzgUW4R5Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
