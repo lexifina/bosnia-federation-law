@@ -1,0 +1,11 @@
+# ODLUKU O PRISTUPANJU IZRADI PROSTORNOG PLANA PODRUČJA POSEBNIH OBILJEŽJA OD ZNAČAJA ZA FEDERACIJU BOSNE I HERCEGOVINE - "AUTOCESTA NA KORIDORU Vc" 2008. DO 2028. GODINE
+
+Naslov: ODLUKU O PRISTUPANJU IZRADI PROSTORNOG PLANA PODRUČJA POSEBNIH OBILJEŽJA OD ZNAČAJA ZA FEDERACIJU BOSNE I HERCEGOVINE - "AUTOCESTA NA KORIDORU Vc" 2008. DO 2028. GODINE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 48/08 (6.8.2008.), akt 8 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GhgG5sYB6oU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
