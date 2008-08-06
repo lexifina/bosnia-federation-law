@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA JAVNE NABAVKE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA JAVNE NABAVKE
+
+Donosilac: FEDERALNA DIREKCIJA ZA CIVILNU AVIJACIJU.
+
+Službene novine Federacije BiH broj 48/08 (6.8.2008.), akt 29 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GhgG5sYB6oU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
