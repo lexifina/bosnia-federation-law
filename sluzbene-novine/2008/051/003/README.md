@@ -1,0 +1,11 @@
+# UREDBU O IZMJENAMA I DOPUNAMA UREDBE O TEHNIČKIM SVOJSTVIMA KOJE GRAĐEVINE MORAJU ZADOVOLJAVATI U POGLEDU SIGURNOSTI TE NAČINU KORIŠTENJA I ODRŽAVANJA GRAĐEVINA
+
+Naslov: UREDBU O IZMJENAMA I DOPUNAMA UREDBE O TEHNIČKIM SVOJSTVIMA KOJE GRAĐEVINE MORAJU ZADOVOLJAVATI U POGLEDU SIGURNOSTI TE NAČINU KORIŠTENJA I ODRŽAVANJA GRAĐEVINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 51/08 (20.8.2008.), akt 3 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JhLNOpsohz4nh78h77gztz5k76kjn45hpY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
