@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU KOMISIJE ZA IZRADU PRIRUČNIKA ZA RAD NA FISFU SISTEMU U TREZORU
+
+Naslov: RJEŠENJE O FORMIRANJU KOMISIJE ZA IZRADU PRIRUČNIKA ZA RAD NA FISFU SISTEMU U TREZORU
+
+Donosilac: FEDERALNO MINISTARSTVO FINANCIJA/FINANSIJA.
+
+Službene novine Federacije BiH broj 52/08 (27.8.2008.), akt 16 od 62 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/H5mxqcSxrIg=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
