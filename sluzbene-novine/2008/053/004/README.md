@@ -1,0 +1,11 @@
+# UPUTSTVO UPUTSTVO JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 69/08> O NAČINU PAKOVANJA IZBORNOG MATERIJALA ZA PROVEDBU LOKALNIH IZBORA 2008. GODINE
+
+Naslov: UPUTSTVO UPUTSTVO JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 69/08> O NAČINU PAKOVANJA IZBORNOG MATERIJALA ZA PROVEDBU LOKALNIH IZBORA 2008. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 53/08 (1.9.2008.), akt 4 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7WQqO1tOFPA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
