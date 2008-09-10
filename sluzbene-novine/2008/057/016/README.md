@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU KOMISIJE ZA PROVOĐENJE ISPITA ZA STICANJE DOZVOLE KONTROLORA VAZDUŠNOG SAOBRAĆAJA I UPIS OVLAŠTENJA/ ODOBRENJA ADI/AIR/GMC LQ SARAJEVO
+
+Naslov: RJEŠENJE O FORMIRANJU KOMISIJE ZA PROVOĐENJE ISPITA ZA STICANJE DOZVOLE KONTROLORA VAZDUŠNOG SAOBRAĆAJA I UPIS OVLAŠTENJA/ ODOBRENJA ADI/AIR/GMC LQ SARAJEVO
+
+Donosilac: FEDERALNA DIREKCIJA ZA CIVILNU AVIJACIJU.
+
+Službene novine Federacije BiH broj 57/08 (10.9.2008.), akt 16 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qgztz5k76kjn45hs7K6ZLS5g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
