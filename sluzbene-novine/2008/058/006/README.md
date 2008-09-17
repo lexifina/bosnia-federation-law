@@ -1,0 +1,11 @@
+# NAREDBU O ORGANIZOVANJU STRUČNOG PREGLEDA BILJA RADI UTVRĐIVANJA PROŠIRENOSTI DUHANOVOG ŠTITASTOG MOLJCA - BEMISIA TABACI (GENNADIUS)
+
+Naslov: NAREDBU O ORGANIZOVANJU STRUČNOG PREGLEDA BILJA RADI UTVRĐIVANJA PROŠIRENOSTI DUHANOVOG ŠTITASTOG MOLJCA - BEMISIA TABACI (GENNADIUS)
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 58/08 (17.9.2008.), akt 6 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KhG3GHQVdhc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
