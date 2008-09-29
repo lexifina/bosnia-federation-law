@@ -1,0 +1,11 @@
+# ODLUKU O VERIFICIRANJU OBAVEZA PRIJAŠNJEG FEDERALNOG MINISTARSTVA ODBRANE-FEDERALNOG MINISTARSTVA OBRANE ZA PERIOD 2003. - 2005. GODINE
+
+Naslov: ODLUKU O VERIFICIRANJU OBAVEZA PRIJAŠNJEG FEDERALNOG MINISTARSTVA ODBRANE-FEDERALNOG MINISTARSTVA OBRANE ZA PERIOD 2003. - 2005. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 60/08 (29.9.2008.), akt 11 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xKRZNcKL1qY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
