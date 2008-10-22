@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA ODLUKE O UTVRĐIVANJU IGMANA, BJELAŠNICE, TRESKAVICE I KANJONA RIJEKE RAKITNICE (VISOČICA) PODRUČJEM OD ZNAČAJA ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O UTVRĐIVANJU IGMANA, BJELAŠNICE, TRESKAVICE I KANJONA RIJEKE RAKITNICE (VISOČICA) PODRUČJEM OD ZNAČAJA ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 66/08 (22.10.2008.), akt 1 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lDVqnLz1qFs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
