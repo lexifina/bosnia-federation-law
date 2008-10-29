@@ -1,0 +1,11 @@
+# ODLUKU O PRIHVATANJU PONUDA U POSTUPKU ODABIRA I PRIHVATANJA STRATEŠKOG PARTNERA ZA POVEĆANJE OSNOVNOG KAPITALA - DOKAPITALIZACIJU JP "B&H AIRLINES" D.O.O. SARAJEVO
+
+Naslov: ODLUKU O PRIHVATANJU PONUDA U POSTUPKU ODABIRA I PRIHVATANJA STRATEŠKOG PARTNERA ZA POVEĆANJE OSNOVNOG KAPITALA - DOKAPITALIZACIJU JP "B&H AIRLINES" D.O.O. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 69/08 (29.10.2008.), akt 3 od 59 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/XPS3luZHghc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
