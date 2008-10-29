@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU STALNE KOMISIJE ZA INTERNU KONTROLU I NADZOR U FEDERALNOM MINISTARSTVU OBRAZOVANJA I NAUKE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU STALNE KOMISIJE ZA INTERNU KONTROLU I NADZOR U FEDERALNOM MINISTARSTVU OBRAZOVANJA I NAUKE
+
+Donosilac: FEDERALNO MINISTARSTVO OBRAZOVANJA I NAUKE/ZNANOSTI.
+
+Službene novine Federacije BiH broj 69/08 (29.10.2008.), akt 35 od 59 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/XPS3luZHghc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
