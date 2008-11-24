@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU POVJERENSTVA ZA POPIS STALNIH SREDSTAVA, SITNOG INVENTARA, MATERIJALA, OBVEZA, POTRAŽIVANJA I NOVČANIH SREDSTAVA U BLAGAJNI
+
+Naslov: RJEŠENJE O IMENOVANJU POVJERENSTVA ZA POPIS STALNIH SREDSTAVA, SITNOG INVENTARA, MATERIJALA, OBVEZA, POTRAŽIVANJA I NOVČANIH SREDSTAVA U BLAGAJNI
+
+Donosilac: УСТАВНИ СУД ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 74/08 (24.11.2008.), akt 14 od 16 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LAqxiU52wrI=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
