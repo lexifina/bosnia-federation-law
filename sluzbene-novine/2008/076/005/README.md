@@ -1,0 +1,11 @@
+# SAOPĆENJE SAOPĆENJE JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 95/08. O STAVLJANJU U OPTICAJ NOVČANICA KONVERTIBILNE MARKE U APOENIMA OD 10 KM I 20 KM, DODATNO ŠTAMPANIH U 2008. GODINI
+
+Naslov: SAOPĆENJE SAOPĆENJE JE OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 95/08. O STAVLJANJU U OPTICAJ NOVČANICA KONVERTIBILNE MARKE U APOENIMA OD 10 KM I 20 KM, DODATNO ŠTAMPANIH U 2008. GODINI
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/08 (1.12.2008.), akt 5 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LE5banjKbPw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
