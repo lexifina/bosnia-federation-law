@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PUNOMOĆI ZA ZASTUPANJE KOD ZAKLJUČIVANJA UGOVORA O PRIPAJANJU DRUŠTVA "RIVA TRPANJ" D.O.O. ZA POSLOVANJE NEKRETNINAMA I USLUGE I DRUŠTVA "ŠUNJIĆ" D.O.O. TRPANJ
+
+Naslov: ODLUKU O DAVANJU PUNOMOĆI ZA ZASTUPANJE KOD ZAKLJUČIVANJA UGOVORA O PRIPAJANJU DRUŠTVA "RIVA TRPANJ" D.O.O. ZA POSLOVANJE NEKRETNINAMA I USLUGE I DRUŠTVA "ŠUNJIĆ" D.O.O. TRPANJ
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 78/08 (10.12.2008.), akt 14 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DOgJ8WY3uvI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
