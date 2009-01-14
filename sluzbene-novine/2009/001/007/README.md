@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 1/09. O IZDAVANJU PRIVREMENE LICENCE ZA DJELATNOST MEĐUNARODNE TRGOVINE ELEKTRIČNOM ENERGIJOM
+
+Naslov: ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 1/09. O IZDAVANJU PRIVREMENE LICENCE ZA DJELATNOST MEĐUNARODNE TRGOVINE ELEKTRIČNOM ENERGIJOM
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službene novine Federacije BiH broj 1/09 (14.1.2009.), akt 7 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3mgscihhsPk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
