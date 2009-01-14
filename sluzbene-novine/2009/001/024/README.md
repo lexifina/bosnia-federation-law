@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA NABAVE PUTEM POSTUPKA - OTVORENI POSTUPAK ZA IZBOR NAJPOVOLJNIJEG PONUĐAČA ZA NABAVU, ISPORUKU I MONTAŽU UREDSKOG NAMJEŠTAJA I UGOSTITELJSKE OPREME, PO LOTOVIMA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA NABAVE PUTEM POSTUPKA - OTVORENI POSTUPAK ZA IZBOR NAJPOVOLJNIJEG PONUĐAČA ZA NABAVU, ISPORUKU I MONTAŽU UREDSKOG NAMJEŠTAJA I UGOSTITELJSKE OPREME, PO LOTOVIMA
+
+Donosilac: OPĆINA ČITLUK.
+
+Službene novine Federacije BiH broj 1/09 (14.1.2009.), akt 24 od 27 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3mgscihhsPk=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
