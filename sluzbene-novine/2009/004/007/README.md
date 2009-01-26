@@ -1,0 +1,11 @@
+# ODLUKU O PRIJENOSU UDJELA FEDERACIJE BOSNE I HERCEGOVINE U RUDNICIMA UGLJA U FEDERACIJI BOSNE I HERCEGOVINE NA JP ELEKTROPRIVREDA BIH D.D. - SARAJEVO
+
+Naslov: ODLUKU O PRIJENOSU UDJELA FEDERACIJE BOSNE I HERCEGOVINE U RUDNICIMA UGLJA U FEDERACIJI BOSNE I HERCEGOVINE NA JP ELEKTROPRIVREDA BIH D.D. - SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 4/09 (26.1.2009.), akt 7 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vL4a5ugYfv8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
