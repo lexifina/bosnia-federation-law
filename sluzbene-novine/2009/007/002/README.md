@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O ODOBRAVANJU PRIJENOSA KUVAJTSKE KREDITNE LINIJE SA BOR BANKE DD NA RAZVOJNU BANKU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O ODOBRAVANJU PRIJENOSA KUVAJTSKE KREDITNE LINIJE SA BOR BANKE DD NA RAZVOJNU BANKU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 7/09 (4.2.2009.), akt 2 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OyEc0cJaD3k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
