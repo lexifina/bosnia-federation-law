@@ -1,0 +1,11 @@
+# ODLUKU O KONAČNOM IMENOVANJU DIREKTORA
+
+Naslov: ODLUKU O KONAČNOM IMENOVANJU DIREKTORA
+
+Donosilac: JAVNA ZDRAVSTVENA USTANOVA CENTAR ZA FIZIKALNU MEDICINU, REHABILITACIJU I BANJSKO LIJEČENJE "ILIDŽA" GRADAČAC.
+
+Službene novine Federacije BiH broj 10/09 (18.2.2009.), akt 32 od 32 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/6POW3tX2Dzo=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
