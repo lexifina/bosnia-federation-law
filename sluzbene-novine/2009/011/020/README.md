@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O USLOVIMA RADA, ORGANIZACIONIM I DRUGIM USLOVIMA ZA RAD STANICA ZA TEHNIČKI PREGLED VOZILA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O USLOVIMA RADA, ORGANIZACIONIM I DRUGIM USLOVIMA ZA RAD STANICA ZA TEHNIČKI PREGLED VOZILA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 11/09 (23.2.2009.), akt 20 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RFIAHazRohz4nh78h77G8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
