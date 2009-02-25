@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 12/09 O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA ZA GRADSKO VIJEĆE GRADA SARAJEVA
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 12/09 O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA ZA GRADSKO VIJEĆE GRADA SARAJEVA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 12/09 (25.2.2009.), akt 14 od 62 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EJECIsisr9c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
