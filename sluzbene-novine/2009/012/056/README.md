@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA PROVOĐENJE REDOVNOG POTPUNOG POPISA U FEDERALNOM MINISTARSTVU UNUTRAŠNJIH POSLOVA - FEDERALNOJ UPRAVI POLICIJE U 2008. GODINI
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA PROVOĐENJE REDOVNOG POTPUNOG POPISA U FEDERALNOM MINISTARSTVU UNUTRAŠNJIH POSLOVA - FEDERALNOJ UPRAVI POLICIJE U 2008. GODINI
+
+Donosilac: JP TELEVIZIJA SARAJEVO.
+
+Službene novine Federacije BiH broj 12/09 (25.2.2009.), akt 56 od 62 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EJECIsisr9c=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
