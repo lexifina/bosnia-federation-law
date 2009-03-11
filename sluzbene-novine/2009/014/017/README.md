@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O OCJENJIVANJU RADA DRŽAVNIH SLUŽBENIKA U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O OCJENJIVANJU RADA DRŽAVNIH SLUŽBENIKA U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 14/09 (11.3.2009.), akt 17 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/43MKEI1Kohz4nh78h77XM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
