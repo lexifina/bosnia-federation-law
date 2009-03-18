@@ -1,0 +1,11 @@
+# ODLUKU O RASPODJELI SREDSTAVA OD 3,05% IZ ČLANA 1. STAV 1. TAČKA A) ZAKONA O IZMJENAMA O DOPUNAMA ZAKONA O PRIPADNOSTI JAVNIH PRIHODA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O RASPODJELI SREDSTAVA OD 3,05% IZ ČLANA 1. STAV 1. TAČKA A) ZAKONA O IZMJENAMA O DOPUNAMA ZAKONA O PRIPADNOSTI JAVNIH PRIHODA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/09 (18.3.2009.), akt 16 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qU9A4lOulEY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
