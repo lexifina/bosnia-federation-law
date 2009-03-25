@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA KUVAJTSKOG FONDA ZA ARAPSKI EKONOMSKI RAZVOJ ZA PROJEKT AUTOPUT KAKANJ - DONJA GRAČANICA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA KUVAJTSKOG FONDA ZA ARAPSKI EKONOMSKI RAZVOJ ZA PROJEKT AUTOPUT KAKANJ - DONJA GRAČANICA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 18/09 (25.3.2009.), akt 9 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Oy3lUvuXCk8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
