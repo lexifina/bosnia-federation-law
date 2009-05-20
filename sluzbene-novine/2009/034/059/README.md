@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSTUPKU ISPLATE NADOKNADE ŠTETE ZA NEŠKODLJIVO UKLONJENE SEROPOZITIVNE ŽIVOTINJE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSTUPKU ISPLATE NADOKNADE ŠTETE ZA NEŠKODLJIVO UKLONJENE SEROPOZITIVNE ŽIVOTINJE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 34/09 (20.5.2009.), akt 59 od 83 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YGuVH2fWEVU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
