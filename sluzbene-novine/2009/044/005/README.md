@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 52/09. O DOPUNAMA PREČIŠĆENOG TEKSTA ODLUKE O UTVRĐIVANJU TARIFE NAKNADA CENTRALNE BANKE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 52/09. O DOPUNAMA PREČIŠĆENOG TEKSTA ODLUKE O UTVRĐIVANJU TARIFE NAKNADA CENTRALNE BANKE BOSNE I HERCEGOVINE
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 44/09 (13.7.2009.), akt 5 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nAIe3Td0QP0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
