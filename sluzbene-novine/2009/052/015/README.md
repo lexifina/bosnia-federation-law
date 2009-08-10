@@ -1,0 +1,11 @@
+# PRAVILNIK O OBAVLJANJU KONTROLE IZVRŠENJA OBAVEZA IZ KUPOPRODAJNIH UGOVORA U POSTUPKU PRIVATIZACIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O OBAVLJANJU KONTROLE IZVRŠENJA OBAVEZA IZ KUPOPRODAJNIH UGOVORA U POSTUPKU PRIVATIZACIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA PRIVATIZACIJU FBIH.
+
+Službene novine Federacije BiH broj 52/09 (10.8.2009.), akt 15 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Hv1gztz5k76kjn45hWZTLZYc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
