@@ -1,0 +1,11 @@
+# PRAVILNIK O JEDINSTVENOM REGISTRU BRANILACA I KORISNIKA PRAVA IZ OBLASTI BRANILAČKO-INVALIDSKE ZAŠTITE
+
+Naslov: PRAVILNIK O JEDINSTVENOM REGISTRU BRANILACA I KORISNIKA PRAVA IZ OBLASTI BRANILAČKO-INVALIDSKE ZAŠTITE
+
+Donosilac: FEDERALNO MINISTARSTVO ZA PITANJA BORACA/BRANITELJA I INVALIDA ODBRAMBENO-OSLOBODILAČKOG/DOMOVINSKOG RATA.
+
+Službene novine Federacije BiH broj 53/09 (12.8.2009.), akt 52 od 66 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bNVpIiAi1Do=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
