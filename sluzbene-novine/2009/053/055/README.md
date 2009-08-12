@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O PRIVREMENOM REPROGRAMU KREDITNIH OBAVEZA FIZIČKIH LICA I POSTUPANJE BANAKA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O PRIVREMENOM REPROGRAMU KREDITNIH OBAVEZA FIZIČKIH LICA I POSTUPANJE BANAKA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 53/09 (12.8.2009.), akt 55 od 66 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bNVpIiAi1Do=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
