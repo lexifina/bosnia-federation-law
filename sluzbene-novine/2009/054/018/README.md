@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU STRUČNOG ODBORA ZA POSLOVE OCJENE VALIDNOSTI DOKUMENTACIJE NEOPHODNE ZA IZDAVANJE OVLAŠTENJA ZA OBAVLJANJE POSLOVA PROJEKTOVANJA I IZVOĐENJA RADOVA
+
+Naslov: RJEŠENJE O IMENOVANJU STRUČNOG ODBORA ZA POSLOVE OCJENE VALIDNOSTI DOKUMENTACIJE NEOPHODNE ZA IZDAVANJE OVLAŠTENJA ZA OBAVLJANJE POSLOVA PROJEKTOVANJA I IZVOĐENJA RADOVA
+
+Donosilac: FEDERALNO MINISTARSTVO PROSTORNOG UREĐENJA I OKOLINE.
+
+Službene novine Federacije BiH broj 54/09 (17.8.2009.), akt 18 od 21 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kQ42mZgztz5k76kjn45hd7HA=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
