@@ -1,0 +1,11 @@
+# UREDBU O INSPEKCIJSKOM NADZORU NAD PROVOĐENJEM ZAKONA O TURISTIČKOJ DJELATNOSTI KOJI PROVODI FEDERALNA UPRAVA ZA INSPEKCIJSKE POSLOVE
+
+Naslov: UREDBU O INSPEKCIJSKOM NADZORU NAD PROVOĐENJEM ZAKONA O TURISTIČKOJ DJELATNOSTI KOJI PROVODI FEDERALNA UPRAVA ZA INSPEKCIJSKE POSLOVE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/09 (9.9.2009.), akt 1 od 125 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gTC2DaX6SDQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
