@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSEBNIM USLOVIMA ZA PROIZVODNJU LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSEBNIM USLOVIMA ZA PROIZVODNJU LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 60/09 (23.9.2009.), akt 10 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3IJapEPylhI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
