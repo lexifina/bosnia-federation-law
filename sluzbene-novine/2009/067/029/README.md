@@ -1,0 +1,11 @@
+# ODLUKU O PRVOJ EMISIJI OBVEZNICA FEDERACIJE BOSNE I HERCEGOVINE ZA IZMIRENJE OBAVEZA PO OSNOVU VERIFIKOVANIH RAČUNA STARE DEVIZNE ŠTEDNJE
+
+Naslov: ODLUKU O PRVOJ EMISIJI OBVEZNICA FEDERACIJE BOSNE I HERCEGOVINE ZA IZMIRENJE OBAVEZA PO OSNOVU VERIFIKOVANIH RAČUNA STARE DEVIZNE ŠTEDNJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 67/09 (26.10.2009.), akt 29 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CJzIvCnO9pg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
