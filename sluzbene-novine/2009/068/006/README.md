@@ -1,0 +1,11 @@
+# ZAKON ZAKON OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 84/09 O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVAMA SIGURNOSTI SAOBRAĆAJA NA PUTEVIMA U BOSNI I HERCEGOVINI
+
+Naslov: ZAKON ZAKON OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 84/09 O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVAMA SIGURNOSTI SAOBRAĆAJA NA PUTEVIMA U BOSNI I HERCEGOVINI
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 68/09 (28.10.2009.), akt 6 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/IzifYcO6z9c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
