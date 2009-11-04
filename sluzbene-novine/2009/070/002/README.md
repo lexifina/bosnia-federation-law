@@ -1,0 +1,11 @@
+# PRAVILNIK O VRSTI NAPRAVA, SREDSTVIMA I OPREMI KOJIMA SE OBAVLJAJU POSLOVI TEHNIČKE ZAŠTITE I NAČINU NJIHOVE UGRADNJE I PROJEKTIRANJA
+
+Naslov: PRAVILNIK O VRSTI NAPRAVA, SREDSTVIMA I OPREMI KOJIMA SE OBAVLJAJU POSLOVI TEHNIČKE ZAŠTITE I NAČINU NJIHOVE UGRADNJE I PROJEKTIRANJA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 70/09 (4.11.2009.), akt 2 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/c4WDeWMohz4nh78h778VM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
