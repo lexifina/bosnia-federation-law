@@ -1,0 +1,11 @@
+# METODOLOGIJU METODOLOGIJA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 86/09 ZA IZRADU PROCJENE UGROŽENOSTI BOSNE I HERCEGOVINE OD PRIRODNIH ILI DRUGIH NESREĆA
+
+Naslov: METODOLOGIJU METODOLOGIJA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 86/09 ZA IZRADU PROCJENE UGROŽENOSTI BOSNE I HERCEGOVINE OD PRIRODNIH ILI DRUGIH NESREĆA
+
+Donosilac: MINISTARSTVO BEZBJEDNOSTI BIH.
+
+Službene novine Federacije BiH broj 70/09 (4.11.2009.), akt 7 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/c4WDeWMohz4nh78h778VM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
