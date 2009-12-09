@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU KOMISIJE ZA PROVOĐENJE POSTUPKA ISPUNJENOSTI USLOVA ZA NOSTRIFIKACIJU ATPL(A) DOZVOLE, IR/ME I OVLAŠTENJA ZA LETENJA NA TIPU AVIONA FALCON 20/200
+
+Naslov: RJEŠENJE O FORMIRANJU KOMISIJE ZA PROVOĐENJE POSTUPKA ISPUNJENOSTI USLOVA ZA NOSTRIFIKACIJU ATPL(A) DOZVOLE, IR/ME I OVLAŠTENJA ZA LETENJA NA TIPU AVIONA FALCON 20/200
+
+Donosilac: ŠPD "UNSKO-SANSKE ŠUME" D.O.O..
+
+Službene novine Federacije BiH broj 77/09 (9.12.2009.), akt 46 od 52 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vnk54FS1JzA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
