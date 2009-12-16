@@ -1,0 +1,11 @@
+# PRAVILNIK O USLOVIMA I NAČINU KORIŠTENJA SREDSTAVA OSTVARENIH OD ZAMJENE, ZAKUPA I KONCESIJE POLJOPRIVREDNOG ZEMLJIŠTA U VLASNIŠTVU DRŽAVE
+
+Naslov: PRAVILNIK O USLOVIMA I NAČINU KORIŠTENJA SREDSTAVA OSTVARENIH OD ZAMJENE, ZAKUPA I KONCESIJE POLJOPRIVREDNOG ZEMLJIŠTA U VLASNIŠTVU DRŽAVE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 78/09 (16.12.2009.), akt 17 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2hcYGZce4EE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
