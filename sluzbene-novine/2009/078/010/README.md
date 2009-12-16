@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2009. GODINU FEDERALNOJ UPRAVI CIVILNE ZAŠTITE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2009. GODINU FEDERALNOJ UPRAVI CIVILNE ZAŠTITE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 78/09 (16.12.2009.), akt 10 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2hcYGZce4EE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
