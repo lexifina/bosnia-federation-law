@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 2/10 O IZDAVANJU LICENCE ZA DJELATNOST MEĐUNARODNE TRGOVINE ELEKTRIČNOM ENERGIJOM
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 2/10 O IZDAVANJU LICENCE ZA DJELATNOST MEĐUNARODNE TRGOVINE ELEKTRIČNOM ENERGIJOM
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službene novine Federacije BiH broj 1/10 (13.1.2010.), akt 15 od 58 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Psohz4nh78h77rR8I76Z0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
