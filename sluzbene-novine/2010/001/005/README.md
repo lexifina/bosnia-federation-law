@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE U FEDERALNOM MINISTARSTVU ENERGIJE, RUDARSTVA I INDUSTRIJE ZA PROVOĐENJE REDOVNOG POPISA U 2009. GODINI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE U FEDERALNOM MINISTARSTVU ENERGIJE, RUDARSTVA I INDUSTRIJE ZA PROVOĐENJE REDOVNOG POPISA U 2009. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 1/10 (13.1.2010.), akt 5 od 58 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Psohz4nh78h77rR8I76Z0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
