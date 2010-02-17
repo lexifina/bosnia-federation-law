@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA ODLUKE O RASPODJELI I NAČINU TROŠENJA NOVČANIH SREDSTAVA KOJA SE IZDVAJAJU ZA STRUČNU INSTITUCIJU "INSTITUT ZA PRIVREDNI INŽENJERING" D.O.O. ZENICA
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O RASPODJELI I NAČINU TROŠENJA NOVČANIH SREDSTAVA KOJA SE IZDVAJAJU ZA STRUČNU INSTITUCIJU "INSTITUT ZA PRIVREDNI INŽENJERING" D.O.O. ZENICA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 7/10 (17.2.2010.), akt 1 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/R0FyXvDxnJM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
