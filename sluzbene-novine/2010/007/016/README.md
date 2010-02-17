@@ -1,0 +1,11 @@
+# UREDBA O GENERALNOM SEKRETARIJATU VLADE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: UREDBA O GENERALNOM SEKRETARIJATU VLADE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: URED VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA ZAKONODAVSTVO I USKLAĐENOST SA PROPISIMA EVROPSKE/EUROPSKE UNIJE.
+
+Službene novine Federacije BiH broj 7/10 (17.2.2010.), akt 16 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/R0FyXvDxnJM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
