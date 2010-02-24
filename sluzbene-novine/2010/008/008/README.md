@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE PRVOG PROGRAMSKOG KREDITA MEĐUNARODNE BANKE ZA OBNOVU I RAZVOJ ZA RAZVOJNE POLITIKE ZA JAVNU POTROŠNJU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE PRVOG PROGRAMSKOG KREDITA MEĐUNARODNE BANKE ZA OBNOVU I RAZVOJ ZA RAZVOJNE POLITIKE ZA JAVNU POTROŠNJU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 8/10 (24.2.2010.), akt 8 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gHdmdGuGdNI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
