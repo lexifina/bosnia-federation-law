@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU FEDERALNOM ZAVODU ZA PROGRAMIRANJE RAZVOJA
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU FEDERALNOM ZAVODU ZA PROGRAMIRANJE RAZVOJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 8/10 (24.2.2010.), akt 5 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gHdmdGuGdNI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
