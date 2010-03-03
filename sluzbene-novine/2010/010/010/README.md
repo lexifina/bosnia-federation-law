@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA PRAVILNIKA O NAKNADI PUTNIH TROŠKOVA ZA SLUŽBENA PUTOVANJA SUDIJA, TUŽILACA I STRUČNIH SARADNIKA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA PRAVILNIKA O NAKNADI PUTNIH TROŠKOVA ZA SLUŽBENA PUTOVANJA SUDIJA, TUŽILACA I STRUČNIH SARADNIKA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VISOKO SUDSKO I TUŽILAČKO VIJEĆE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 10/10 (3.3.2010.), akt 10 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/J6VeUrw9Et4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
