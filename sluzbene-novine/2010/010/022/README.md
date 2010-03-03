@@ -1,0 +1,11 @@
+# PRAVILNIK PRAVILNIK JE OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 12/10. O NAČINU I POSTUPKU USKLAĐIVANJA I REGISTROVANJA REDOVA VOŽNJE MEĐUENTITETSKIH AUTOBUSKIH LINIJA BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK PRAVILNIK JE OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 12/10. O NAČINU I POSTUPKU USKLAĐIVANJA I REGISTROVANJA REDOVA VOŽNJE MEĐUENTITETSKIH AUTOBUSKIH LINIJA BOSNE I HERCEGOVINE
+
+Donosilac: MINISTARSTVO KOMUNIKACIJA I PROMETA BIH.
+
+Službene novine Federacije BiH broj 10/10 (3.3.2010.), akt 22 od 37 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/J6VeUrw9Et4=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
