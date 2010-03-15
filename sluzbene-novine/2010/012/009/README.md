@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ ZA PROJEKT PODRŠKE MREŽAMA SOCIJALNE SIGURNOSTI I ZAPOŠLJAVANJA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE KREDITA MEĐUNARODNE ASOCIJACIJE ZA RAZVOJ ZA PROJEKT PODRŠKE MREŽAMA SOCIJALNE SIGURNOSTI I ZAPOŠLJAVANJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 12/10 (15.3.2010.), akt 9 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ufbo3uD4moE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
