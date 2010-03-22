@@ -1,0 +1,11 @@
+# PRAVILNIK O OBRAČUNAVANJU I PLAĆANJU NAKNADE ZA MELIORACIJSKU ODVODNJU I NAVODNJAVANJE
+
+Naslov: PRAVILNIK O OBRAČUNAVANJU I PLAĆANJU NAKNADE ZA MELIORACIJSKU ODVODNJU I NAVODNJAVANJE
+
+Donosilac: ФЕДЕРАЛНО МИНИСТАРСТВО ПОЉОПРИВРЕДЕ, ВОДОПРИВРЕДЕ И ШУМАРСТВА.
+
+Službene novine Federacije BiH broj 14/10 (22.3.2010.), akt 13 od 26 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dD0moWFE8Ko=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
