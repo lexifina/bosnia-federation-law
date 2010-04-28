@@ -1,0 +1,11 @@
+# SPISAK SPISAK OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 24/10 MEDICINSKIH SREDSTAVA ZA KOJA SU IZDATE POTVRDE ZA UPIS U REGISTAR MEDICINSKIH SREDSTAVA
+
+Naslov: SPISAK SPISAK OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 24/10 MEDICINSKIH SREDSTAVA ZA KOJA SU IZDATE POTVRDE ZA UPIS U REGISTAR MEDICINSKIH SREDSTAVA
+
+Donosilac: AGENCIJA ZA LIJEKOVE I MEDICINSKA SREDSTVA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/10 (28.4.2010.), akt 28 od 64 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YwmsNmetmjw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
