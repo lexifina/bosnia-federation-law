@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU UTROŠKA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2009. GODINU ZA FINANSIRANJE UDRUŽENJA "CENTAR EVROPSKOG PUTA U BIH"
+
+Naslov: ODLUKU O ODOBRAVANJU UTROŠKA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2009. GODINU ZA FINANSIRANJE UDRUŽENJA "CENTAR EVROPSKOG PUTA U BIH"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/10 (28.4.2010.), akt 14 od 64 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YwmsNmetmjw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
