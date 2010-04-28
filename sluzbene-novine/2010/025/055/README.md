@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O JEDINSTVENIM KRITERIJIMA I POSTUPKU IZBORA I PRIJEMA PRIPRAVNIKA VII. STEPENA STRUČNE SPREME U ORGANE DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O JEDINSTVENIM KRITERIJIMA I POSTUPKU IZBORA I PRIJEMA PRIPRAVNIKA VII. STEPENA STRUČNE SPREME U ORGANE DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/10 (28.4.2010.), akt 55 od 64 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YwmsNmetmjw=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
