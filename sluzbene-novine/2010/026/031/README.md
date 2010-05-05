@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU KOMISIJE ZA PROVOĐENJE INTERNOG OGLASA ZA POPUNU UPRAŽNJENIH RADNIH MJESTA NAMJEŠTENIKA U FEDERALNOJ UPRAVI POLICIJE FEDERALNOG MINISTARSTVA UNUTRAŠNJIH POSLOVA
+
+Naslov: RJEŠENJE O FORMIRANJU KOMISIJE ZA PROVOĐENJE INTERNOG OGLASA ZA POPUNU UPRAŽNJENIH RADNIH MJESTA NAMJEŠTENIKA U FEDERALNOJ UPRAVI POLICIJE FEDERALNOG MINISTARSTVA UNUTRAŠNJIH POSLOVA
+
+Donosilac: JP TELEVIZIJA SARAJEVO.
+
+Službene novine Federacije BiH broj 26/10 (5.5.2010.), akt 31 od 35 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PpJohz4nh78h779v3olGA=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
