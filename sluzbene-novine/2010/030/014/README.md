@@ -1,0 +1,11 @@
+# ODLUKU O ZAKUPU POSLOVNIH PROSTORA ZA SMJEŠTAJ FEDERALNIH MINISTARSTAVA KOJA IMAJU SJEDIŠTE U MOSTARU, ZA PERIOD JANUAR-JUNI BUDŽETSKE 2010. GODINE
+
+Naslov: ODLUKU O ZAKUPU POSLOVNIH PROSTORA ZA SMJEŠTAJ FEDERALNIH MINISTARSTAVA KOJA IMAJU SJEDIŠTE U MOSTARU, ZA PERIOD JANUAR-JUNI BUDŽETSKE 2010. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 30/10 (26.5.2010.), akt 14 od 74 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bDRb2H5Zs2A=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
