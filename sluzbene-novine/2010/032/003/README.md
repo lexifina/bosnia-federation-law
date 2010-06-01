@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O DAVANJU SAGLASNOSTI NA KRITERIJUME KREDITIRANJA IZ SREDSTAVA JAPANSKIH GRANTOVA I MALEZIJSKE DONACIJE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O DAVANJU SAGLASNOSTI NA KRITERIJUME KREDITIRANJA IZ SREDSTAVA JAPANSKIH GRANTOVA I MALEZIJSKE DONACIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/10 (1.6.2010.), akt 3 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ajwcsocuYvo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
