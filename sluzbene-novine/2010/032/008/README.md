@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU FEDERALNOM MINISTARSTVU RADA I SOCIJALNE POLITIKE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU FEDERALNOM MINISTARSTVU RADA I SOCIJALNE POLITIKE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/10 (1.6.2010.), akt 8 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ajwcsocuYvo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
