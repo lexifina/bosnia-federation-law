@@ -1,0 +1,11 @@
+# ODLUKU O PRIPREMI I IZGRADNJI VE 1 PODVELEŽJE 46 MW I VE 2 PODVELEŽJE 24 MW
+
+Naslov: ODLUKU O PRIPREMI I IZGRADNJI VE 1 PODVELEŽJE 46 MW I VE 2 PODVELEŽJE 24 MW
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 33/10 (7.6.2010.), akt 4 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PssoMohz4nh78h77BY1nE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
