@@ -1,0 +1,11 @@
+# ZAKON O IZMJENAMA ZAKONA O DRUŠTVIMA ZA OSIGURANJE U PRIVATNOM OSIGURANJU
+
+Naslov: ZAKON O IZMJENAMA ZAKONA O DRUŠTVIMA ZA OSIGURANJE U PRIVATNOM OSIGURANJU
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 36/10 (16.6.2010.), akt 2 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lZP43g0lj20=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
