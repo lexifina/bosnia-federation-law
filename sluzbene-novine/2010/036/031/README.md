@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU KARAHASANOVIĆ DR. ZEHRE ZA DIREKTORA JZU DOM ZDRAVLJA GRAČANICA
+
+Naslov: ODLUKU O IMENOVANJU KARAHASANOVIĆ DR. ZEHRE ZA DIREKTORA JZU DOM ZDRAVLJA GRAČANICA
+
+Donosilac: KOMISIJA ZA VRŠENJE NEPOSREDNOG UVIDA U RJEŠAVANJE PRAVA PREMA ZAKONU O PRIJEVREMENOM POVOLJNIJEM PENZIONISANJU BORACA ODBRAMBENO - OSLOBODILAČKOG RAT.
+
+Službene novine Federacije BiH broj 36/10 (16.6.2010.), akt 31 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lZP43g0lj20=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
