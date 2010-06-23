@@ -1,0 +1,11 @@
+# ZAKON ZAKON OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 48/10 O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVAMA SIGURNOSTI SAOBRAĆAJA NA PUTEVIMA U BOSNI I HERCEGOVINI
+
+Naslov: ZAKON ZAKON OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 48/10 O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVAMA SIGURNOSTI SAOBRAĆAJA NA PUTEVIMA U BOSNI I HERCEGOVINI
+
+Donosilac: PARLAMENTARNA SKUPŠTINA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/10 (23.6.2010.), akt 8 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PdXwpgdvaM8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
