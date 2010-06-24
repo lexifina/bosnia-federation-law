@@ -1,0 +1,1 @@
+# PARTNERSTVO
