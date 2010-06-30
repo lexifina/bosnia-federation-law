@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 50/10. O ZAKLJUČIVANJU I POTVRĐIVANJU CENTRALNOG BIRAČKOG SPISKA SA STANJEM NA DAN 04.05.2010. GODINE U 24.00 SATA
+
+Naslov: ODLUKU ODLUKA JE OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 50/10. O ZAKLJUČIVANJU I POTVRĐIVANJU CENTRALNOG BIRAČKOG SPISKA SA STANJEM NA DAN 04.05.2010. GODINE U 24.00 SATA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 38/10 (30.6.2010.), akt 7 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/26eAWsMohz4nh78h77hnM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
