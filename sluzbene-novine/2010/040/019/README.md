@@ -1,0 +1,11 @@
+# PRAVILNIK O RAZVRSTAVANJU I MINIMALNIM USLOVIMA UGOSTITELJSKIH OBJEKATA IZ SKUPINA "RESTORANI", "BAROVI", "CATERING OBJEKTI" I "OBJEKTI JEDNOSTAVNIH USLUGA"
+
+Naslov: PRAVILNIK O RAZVRSTAVANJU I MINIMALNIM USLOVIMA UGOSTITELJSKIH OBJEKATA IZ SKUPINA "RESTORANI", "BAROVI", "CATERING OBJEKTI" I "OBJEKTI JEDNOSTAVNIH USLUGA"
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 40/10 (14.7.2010.), akt 19 od 85 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45h0ROMhsKFVw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
