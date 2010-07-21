@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNI PRAVILNIKA O NAČINU I USLOVIMA IZDAVANJA, OBNAVLJANJA I ODUZIMANJA LICENCI OVLAŠTENIM REVIZORIMA I DRUŠTVIMA ZA REVIZIJU
+
+Naslov: PRAVILNIK O DOPUNI PRAVILNIKA O NAČINU I USLOVIMA IZDAVANJA, OBNAVLJANJA I ODUZIMANJA LICENCI OVLAŠTENIM REVIZORIMA I DRUŠTVIMA ZA REVIZIJU
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 42/10 (21.7.2010.), akt 27 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/10naAmfZpJ4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
