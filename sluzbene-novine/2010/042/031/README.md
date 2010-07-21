@@ -1,0 +1,11 @@
+# PRAVILNIK O SADRŽAJU ZAHTJEVA, PROSPEKTA I UGOVORA O UPRAVLJANJU ZATVORENOG INVESTICIJSKOG FONDA SA JAVNOM PONUDOM
+
+Naslov: PRAVILNIK O SADRŽAJU ZAHTJEVA, PROSPEKTA I UGOVORA O UPRAVLJANJU ZATVORENOG INVESTICIJSKOG FONDA SA JAVNOM PONUDOM
+
+Donosilac: KOMISIJA ZA VRIJEDNOSNE PAPIRE FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 42/10 (21.7.2010.), akt 31 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/10naAmfZpJ4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
