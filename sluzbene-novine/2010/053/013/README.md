@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O RAZVRSTAVANJU, MINIMALNIM UVJETIMA I KATEGORIZACIJI UGOSTITELJSKIH OBJEKATA U SELJAČKOM DOMAĆINSTVU
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O RAZVRSTAVANJU, MINIMALNIM UVJETIMA I KATEGORIZACIJI UGOSTITELJSKIH OBJEKATA U SELJAČKOM DOMAĆINSTVU
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 53/10 (25.8.2010.), akt 13 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mlbQnBYsZFQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
