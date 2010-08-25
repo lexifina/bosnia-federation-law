@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O RAZVRSTAVANJU, MINIMALNIM UVJETIMA I KATEGORIZACIJI UGOSTITELJSKIH OBJEKATA IZ SKUPINE HOTELI
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O RAZVRSTAVANJU, MINIMALNIM UVJETIMA I KATEGORIZACIJI UGOSTITELJSKIH OBJEKATA IZ SKUPINE HOTELI
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 53/10 (25.8.2010.), akt 11 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mlbQnBYsZFQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
