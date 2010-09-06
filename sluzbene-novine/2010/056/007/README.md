@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O TEHNIČKO - EKSPLOATACIONIM USLOVIMA ZA VOZILA KOJIMA SE OBAVLJAJU POJEDINE VRSTE PRIJEVOZA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O TEHNIČKO - EKSPLOATACIONIM USLOVIMA ZA VOZILA KOJIMA SE OBAVLJAJU POJEDINE VRSTE PRIJEVOZA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 56/10 (6.9.2010.), akt 7 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sSBNwPoalJg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
