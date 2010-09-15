@@ -1,0 +1,11 @@
+# PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O OBRASCIMA POJEDINAČNIH AKATA KOJI SE KORISTE ZA PROVOĐENJE ZAKONA O AGENCIJAMA ZA ZAŠTITU LJUDI I IMOVINE
+
+Naslov: PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O OBRASCIMA POJEDINAČNIH AKATA KOJI SE KORISTE ZA PROVOĐENJE ZAKONA O AGENCIJAMA ZA ZAŠTITU LJUDI I IMOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 58/10 (15.9.2010.), akt 12 od 51 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nJogGNaUqpo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
