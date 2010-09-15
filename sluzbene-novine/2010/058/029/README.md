@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA IZRADU PRAVILNIKA O POSTUPKU ISPITIVANJA ISPRAVNOSTI OTKOPNE METODE, TEHNOLOGIJE I POSTROJENJA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA IZRADU PRAVILNIKA O POSTUPKU ISPITIVANJA ISPRAVNOSTI OTKOPNE METODE, TEHNOLOGIJE I POSTROJENJA
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 58/10 (15.9.2010.), akt 29 od 51 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nJogGNaUqpo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
