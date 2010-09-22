@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU ČLANA ŠKOLSKOG ODBORA STRUČNE ZANATSKE ŠKOLE U ZENICI
+
+Naslov: RJEŠENJE O RAZRJEŠENJU ČLANA ŠKOLSKOG ODBORA STRUČNE ZANATSKE ŠKOLE U ZENICI
+
+Donosilac: VLADA ZENIČKO-DOBOJSKOG KANTONA.
+
+Službene novine Federacije BiH broj 60/10 (22.9.2010.), akt 13 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/FmMEgztz5k76kjn45hqCuDtg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
