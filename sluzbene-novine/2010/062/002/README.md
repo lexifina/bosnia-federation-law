@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA DOKUMENT "STRATEGIJA UNAPRJEĐENJA SEKSUALNOG I REPRODUKTIVNOG ZDRAVLJA I PRAVA U FEDERACIJI BOSNE I HERCEGOVINE"
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA DOKUMENT "STRATEGIJA UNAPRJEĐENJA SEKSUALNOG I REPRODUKTIVNOG ZDRAVLJA I PRAVA U FEDERACIJI BOSNE I HERCEGOVINE"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 62/10 (27.9.2010.), akt 2 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cmiAity1dQc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
