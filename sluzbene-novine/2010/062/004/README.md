@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU FEDERALNOM MINISTARSTVU PROSTORNOG UREĐENJA
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU FEDERALNOM MINISTARSTVU PROSTORNOG UREĐENJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 62/10 (27.9.2010.), akt 4 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cmiAity1dQc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
