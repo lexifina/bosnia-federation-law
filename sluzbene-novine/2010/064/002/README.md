@@ -1,0 +1,11 @@
+# PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O OBUCI RADI STICANJA CERTIFIKATA ZA OBAVLJANJE POSLOVA FIZIČKE ILI TEHNIČKE ZAŠTITE LJUDI I IMOVINE
+
+Naslov: PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O OBUCI RADI STICANJA CERTIFIKATA ZA OBAVLJANJE POSLOVA FIZIČKE ILI TEHNIČKE ZAŠTITE LJUDI I IMOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 64/10 (6.10.2010.), akt 2 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KHslLoWgohz4nh78h77Mo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
