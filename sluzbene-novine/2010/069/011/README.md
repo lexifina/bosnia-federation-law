@@ -1,0 +1,11 @@
+# PRAVILNIK O SISTEMU NAPLATE CESTARINE NA AUTOCESTAMA, BRZIM CESTAMA I OBJEKTIMA S NAPLATOM U FEDERACIJI BIH
+
+Naslov: PRAVILNIK O SISTEMU NAPLATE CESTARINE NA AUTOCESTAMA, BRZIM CESTAMA I OBJEKTIMA S NAPLATOM U FEDERACIJI BIH
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 69/10 (25.10.2010.), akt 11 od 43 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7ohz4nh78h77B7xYniZAA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
