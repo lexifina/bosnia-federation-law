@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA IZBORA ČLANOVA U UPRAVNE ODBORE U KLINIČKOM CENTRU UNIVERZITETA U SARAJEVU I KLINIČKOJ BOLNICI MOSTAR
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA IZBORA ČLANOVA U UPRAVNE ODBORE U KLINIČKOM CENTRU UNIVERZITETA U SARAJEVU I KLINIČKOJ BOLNICI MOSTAR
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 75/10 (17.11.2010.), akt 14 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/L1ORugio1Gc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
