@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJA ZA PROVOĐENJE REDOVNOG POTPUNOG POPISA U FEDERALNOM MINISTARSTVU UNUTRAŠNJIH POSLOVA - FEDERALNOM MINISTARSTVU UNUTARNJIH POSLOVA U 2010. GODINI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJA ZA PROVOĐENJE REDOVNOG POTPUNOG POPISA U FEDERALNOM MINISTARSTVU UNUTRAŠNJIH POSLOVA - FEDERALNOM MINISTARSTVU UNUTARNJIH POSLOVA U 2010. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTARNJIH/UNUTRAŠNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 79/10 (1.12.2010.), akt 4 od 23 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TmzBBpyKntU=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
