@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O NASTAVKU RADA STALNE KOMISIJE ZA PRIZNAVANJE I ZAŠTITU SORTI RATARSKOG I POVRTLARSKOG BILJA U F BIH
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O NASTAVKU RADA STALNE KOMISIJE ZA PRIZNAVANJE I ZAŠTITU SORTI RATARSKOG I POVRTLARSKOG BILJA U F BIH
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 84/10 (15.12.2010.), akt 93 od 136 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NVOU9RVB4DA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
