@@ -1,0 +1,11 @@
+# RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA JKP "KOMRAD" D.O.O. BIHAĆ
+
+Naslov: RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA JKP "KOMRAD" D.O.O. BIHAĆ
+
+Donosilac: OPĆINA BIHAĆ.
+
+Službene novine Federacije BiH broj 2/11 (12.1.2011.), akt 25 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GafjTnkxohz4nh78h7758=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
