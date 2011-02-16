@@ -1,0 +1,11 @@
+# ODLUKU O SUFINANSIRANJU NAJNIŽIH PENZIJA OSTVARENIH POD POVOLJNIJIM UVJETIMA, ČIJI JE IZNOS U ISPLATI ZA JANUAR 2011. GODINE MANJI OD IZNOSA NAJNIŽE PENZIJE PO ZAKONU O PENZIJSKOM I INVALIDSKOM OSIGURANJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O SUFINANSIRANJU NAJNIŽIH PENZIJA OSTVARENIH POD POVOLJNIJIM UVJETIMA, ČIJI JE IZNOS U ISPLATI ZA JANUAR 2011. GODINE MANJI OD IZNOSA NAJNIŽE PENZIJE PO ZAKONU O PENZIJSKOM I INVALIDSKOM OSIGURANJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 7/11 (16.2.2011.), akt 11 od 28 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JXj9cwoOVFo=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
