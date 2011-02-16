@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSTUPKU PODNOŠENJA POREZNIH PRIJAVA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O POSTUPKU PODNOŠENJA POREZNIH PRIJAVA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 7/11 (16.2.2011.), akt 6 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JXj9cwoOVFo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
