@@ -1,0 +1,11 @@
+# ODLUKU O NAČINU KNJIŽENJA UPLAĆENIH NOVČANIH SREDSTAVA KOJA SE DODJELJUJU IZ PASIVNOG PODBILANSA PRIVREDNIM DRUŠTVIMA SA VEĆINSKIM DRŽAVNIM KAPITALOM U 2010. I 2011. GODINI
+
+Naslov: ODLUKU O NAČINU KNJIŽENJA UPLAĆENIH NOVČANIH SREDSTAVA KOJA SE DODJELJUJU IZ PASIVNOG PODBILANSA PRIVREDNIM DRUŠTVIMA SA VEĆINSKIM DRŽAVNIM KAPITALOM U 2010. I 2011. GODINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 9/11 (2.3.2011.), akt 6 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cIrgztz5k76kjn45hbg0nW4g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
