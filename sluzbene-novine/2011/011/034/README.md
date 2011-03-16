@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU STRUČNOG POVJERENSTVA ZA OCJENU ISPUNJAVANJA UVJETA ZA DOBIVANJE DOZVOLE ZA UPRAVLJANJE AMBALAŽOM I AMBALAŽNIM OTPADOM
+
+Naslov: RJEŠENJE O IMENOVANJU STRUČNOG POVJERENSTVA ZA OCJENU ISPUNJAVANJA UVJETA ZA DOBIVANJE DOZVOLE ZA UPRAVLJANJE AMBALAŽOM I AMBALAŽNIM OTPADOM
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 11/11 (16.3.2011.), akt 34 od 47 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WTLH0p17mXA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
