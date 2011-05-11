@@ -1,0 +1,11 @@
+# ODLUKU ŽZ_ENOT ENTRY-CIR = ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 34/11 O RASPISIVANJU I ODRŽAVANJU PRIJEVREMENIH IZBORA ZA NAČELNIKE OPĆINA SANSKI MOST I ILIDŽA
+
+Naslov: ODLUKU ŽZ_ENOT ENTRY-CIR = ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 34/11 O RASPISIVANJU I ODRŽAVANJU PRIJEVREMENIH IZBORA ZA NAČELNIKE OPĆINA SANSKI MOST I ILIDŽA
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/11 (11.5.2011.), akt 6 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/8Z8ZtWZBqe4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
