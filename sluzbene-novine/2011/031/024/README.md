@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA JAVNE NABAVKE KANCELARIJSKOG MATERIJALA PUTEM KONKURENTSKOG ZAHTJEVA ZA DOSTAVLJANJE PONUDA SA DODATNOM OBJAVOM OBAVIJESTI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA JAVNE NABAVKE KANCELARIJSKOG MATERIJALA PUTEM KONKURENTSKOG ZAHTJEVA ZA DOSTAVLJANJE PONUDA SA DODATNOM OBJAVOM OBAVIJESTI
+
+Donosilac: FEDERALNI ZAVOD ZA POLJOPRIVEDU.
+
+Službene novine Federacije BiH broj 31/11 (30.5.2011.), akt 24 od 28 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Idwm8FxnZTM=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
