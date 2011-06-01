@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI I OVLAŠTENJA ZA POTPISIVANJE SPORAZUMA O IZMJENAMA SPORAZUMA O NAČINU IZMIRENJA DUGOVANJA IP "KRIVAJA" D.O.O. ZAVIDOVIĆI
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI I OVLAŠTENJA ZA POTPISIVANJE SPORAZUMA O IZMJENAMA SPORAZUMA O NAČINU IZMIRENJA DUGOVANJA IP "KRIVAJA" D.O.O. ZAVIDOVIĆI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/11 (1.6.2011.), akt 7 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NWsOd4rsFOU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
