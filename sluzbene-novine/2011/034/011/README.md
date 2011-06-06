@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA PRIHODA I RASHODA FEDERALNE DIREKCIJE ZA CIVILNO ZRAKOPLOVSTVO - FEDERALNE DIREKCIJE ZA CIVILNU AVIJACIJU ZA 2011. GODINU
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA PRIHODA I RASHODA FEDERALNE DIREKCIJE ZA CIVILNO ZRAKOPLOVSTVO - FEDERALNE DIREKCIJE ZA CIVILNU AVIJACIJU ZA 2011. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 34/11 (6.6.2011.), akt 11 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bIVfwvPwB7Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
