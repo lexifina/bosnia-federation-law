@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU PRIJENOSA PRAVA VLASNIŠTVA NA MOTORNOM VOZILU SA FEDERALNOG MINISTARSTVA POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA NA KANTONALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA POSAVSKOG KANTONA
+
+Naslov: ODLUKU O ODOBRAVANJU PRIJENOSA PRAVA VLASNIŠTVA NA MOTORNOM VOZILU SA FEDERALNOG MINISTARSTVA POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA NA KANTONALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA POSAVSKOG KANTONA
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 34/11 (6.6.2011.), akt 25 od 56 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bIVfwvPwB7Q=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
