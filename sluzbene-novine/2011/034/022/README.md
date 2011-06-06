@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU IZVJEŠTAJA O REALIZACIJI BILANSA ENERGETSKIH POTREBA FEDERACIJE BOSNE I HERCEGOVINE U 2010. GODINI
+
+Naslov: ODLUKU O USVAJANJU IZVJEŠTAJA O REALIZACIJI BILANSA ENERGETSKIH POTREBA FEDERACIJE BOSNE I HERCEGOVINE U 2010. GODINI
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 34/11 (6.6.2011.), akt 22 od 56 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bIVfwvPwB7Q=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
