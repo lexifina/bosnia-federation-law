@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "PRETIS" D.D. VOGOŠĆA O RAZRJEŠENJU GENERALNOG DIREKTORA DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "PRETIS" D.D. VOGOŠĆA O RAZRJEŠENJU GENERALNOG DIREKTORA DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 36/11 (13.6.2011.), akt 1 od 54 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JJSmDavxKq4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
