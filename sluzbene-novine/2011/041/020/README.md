@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O KRITERIJIMA ZA RASPODJELU DIJELA SREDSTAVA OSTVARENOG PROMETA LUTRIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O KRITERIJIMA ZA RASPODJELU DIJELA SREDSTAVA OSTVARENOG PROMETA LUTRIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 41/11 (6.7.2011.), akt 20 od 43 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WyBCUNmk0cU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
