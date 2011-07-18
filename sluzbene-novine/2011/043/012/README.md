@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU VISINE OSNOVICE ZA ODREĐIVANJE MJESEČNIH NOVČANIH DODATAKA DOBITNIKA RATNIH PRIZNANJA I ODLIČJA I ČLANOVA NJIHOVIH OBITELJI, ZA 2011. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU VISINE OSNOVICE ZA ODREĐIVANJE MJESEČNIH NOVČANIH DODATAKA DOBITNIKA RATNIH PRIZNANJA I ODLIČJA I ČLANOVA NJIHOVIH OBITELJI, ZA 2011. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/11 (18.7.2011.), akt 12 od 86 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gWe2yM0EHK0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
