@@ -1,0 +1,11 @@
+# ZAKLJUČAK ZAKLJUČAK OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 50/11
+
+Naslov: ZAKLJUČAK ZAKLJUČAK OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 50/11
+
+Donosilac: KONKURENCIJSKO VIJEĆE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 45/11 (25.7.2011.), akt 17 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lTBM2oBPYohz4nh78h77M=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
