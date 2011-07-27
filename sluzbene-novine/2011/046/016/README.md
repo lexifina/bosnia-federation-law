@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 54/11 O ODGAĐANJU PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE TRAVNIK ZAKAZANIH ZA NEDJELJU 24. 07. 2011. GODINE
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 54/11 O ODGAĐANJU PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE TRAVNIK ZAKAZANIH ZA NEDJELJU 24. 07. 2011. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 46/11 (27.7.2011.), akt 16 od 83 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sCwev6AdKohz4nh78h77I=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
