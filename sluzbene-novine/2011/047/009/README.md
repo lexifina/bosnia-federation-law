@@ -1,0 +1,11 @@
+# SPISAK SPISAK OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 29/11 LIJEKOVA KOJIMA JE UKINUTA DOZVOLA ZA STAVLJANJE U PROMET NA TRŽIŠTE BOSNE I HERCEGOVINE
+
+Naslov: SPISAK SPISAK OBJAVLJEN U "SLUŽBENOM GLASNIKU BIH", BROJ 29/11 LIJEKOVA KOJIMA JE UKINUTA DOZVOLA ZA STAVLJANJE U PROMET NA TRŽIŠTE BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA LIJEKOVE I MEDICINSKA SREDSTVA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 47/11 (28.7.2011.), akt 9 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/QuReUiUdrgk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
