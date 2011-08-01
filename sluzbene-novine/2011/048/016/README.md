@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRIJEDLOG ZA PRIVREMENO IMENOVANJE KANDIDATA NA UPRAŽNJENE POZICIJE ZA DVA ČLANA NADZORNOG ODBORA "AGROKOMERC" D.D. VELIKA KLADUŠA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRIJEDLOG ZA PRIVREMENO IMENOVANJE KANDIDATA NA UPRAŽNJENE POZICIJE ZA DVA ČLANA NADZORNOG ODBORA "AGROKOMERC" D.D. VELIKA KLADUŠA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 48/11 (1.8.2011.), akt 16 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jMstixlBRJI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
