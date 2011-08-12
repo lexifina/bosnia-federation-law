@@ -1,0 +1,11 @@
+# ZAKON O MATIČNOJ EVIDENCIJI O OSIGURANICIMA, OBVEZNICIMA UPLATE DOPRINOSA I KORISNICIMA PRAVA IZ PENZIJSKOG I INVALIDSKOG OSIGURANJA
+
+Naslov: ZAKON O MATIČNOJ EVIDENCIJI O OSIGURANICIMA, OBVEZNICIMA UPLATE DOPRINOSA I KORISNICIMA PRAVA IZ PENZIJSKOG I INVALIDSKOG OSIGURANJA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 52/11 (12.8.2011.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/63JppDCljp0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
