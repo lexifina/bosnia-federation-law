@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 60/11 O POTVRĐIVANJU REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE ILIDŽA ODRŽANIH DANA 26.06.2011. GODINE
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 60/11 O POTVRĐIVANJU REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE ILIDŽA ODRŽANIH DANA 26.06.2011. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 57/11 (7.9.2011.), akt 5 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nCCQutzxdKo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
