@@ -1,0 +1,11 @@
+# ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 70/11 O POTVRĐIVANJU REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE TRAVNIK ODRŽANIH DANA 07.08.2011. GODINE
+
+Naslov: ODLUKU ODLUKA OBJAVLJENA U "SLUŽBENOM GLASNIKU BIH", BROJ 70/11 O POTVRĐIVANJU REZULTATA PRIJEVREMENIH IZBORA ZA NAČELNIKA OPĆINE TRAVNIK ODRŽANIH DANA 07.08.2011. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 60/11 (14.9.2011.), akt 3 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/v0gztz5k76kjn45h9bmQQzdY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
