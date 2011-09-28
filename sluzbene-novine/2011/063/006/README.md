@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2011. GODINU FEDERALNOM MINISTARSTVU PROMETA I KOMUNIKACIJA
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2011. GODINU FEDERALNOM MINISTARSTVU PROMETA I KOMUNIKACIJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 63/11 (28.9.2011.), akt 6 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vkS2VUFlaes=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
