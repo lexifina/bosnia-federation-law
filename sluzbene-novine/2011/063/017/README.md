@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP HRVATSKE TELEKOMUNIKACIJE D.D. MOSTAR ZA RAZRJEŠENJE PREDSJEDNIKA UPRAVE-DIREKTORA U JP HRVATSKE TELEKOMUNIKACIJE D.D. MOSTAR
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP HRVATSKE TELEKOMUNIKACIJE D.D. MOSTAR ZA RAZRJEŠENJE PREDSJEDNIKA UPRAVE-DIREKTORA U JP HRVATSKE TELEKOMUNIKACIJE D.D. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 63/11 (28.9.2011.), akt 17 od 22 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vkS2VUFlaes=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
