@@ -1,0 +1,11 @@
+# UPUTSTVO UPUTSTVO OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 52/11 ZA SNIMANJE KOLIČINA RAZMIJENJENIH POŠTANSKIH POŠILJAKA U MEĐUOPERATERSKOM PROMETU
+
+Naslov: UPUTSTVO UPUTSTVO OBJAVLJENO U "SLUŽBENOM GLASNIKU BIH", BROJ 52/11 ZA SNIMANJE KOLIČINA RAZMIJENJENIH POŠTANSKIH POŠILJAKA U MEĐUOPERATERSKOM PROMETU
+
+Donosilac: AGENCIJA ZA POŠTANSKI PROMET BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 64/11 (3.10.2011.), akt 20 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/R4G2Notv9QE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
