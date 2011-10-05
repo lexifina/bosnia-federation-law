@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU PRIVREMENOG UPRAVNOG ODBORU JAVNE USTANOVE "DOM MLADIH" TUZLA O KONAČNOM IMENOVANJU DIREKTORA USTANOVE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU PRIVREMENOG UPRAVNOG ODBORU JAVNE USTANOVE "DOM MLADIH" TUZLA O KONAČNOM IMENOVANJU DIREKTORA USTANOVE
+
+Donosilac: OPĆINA TUZLA.
+
+Službene novine Federacije BiH broj 65/11 (5.10.2011.), akt 12 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wGgztz5k76kjn45hl4Bso0nY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
