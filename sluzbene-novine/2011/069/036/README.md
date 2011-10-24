@@ -1,0 +1,11 @@
+# ODLUKU O PRIJENOSU OKONČANOG PROJEKTA LOKALNA CESTA U MZ BRDO I MZ RATKOVIĆI IZ PROGRAMA INVESTIRANJA SREDSTAVA NAPLAĆENIH IZDVAJANJEM GSM LICENCE ZA 2009. I DIJELA SREDSTAVA ZA 2010. GODINU
+
+Naslov: ODLUKU O PRIJENOSU OKONČANOG PROJEKTA LOKALNA CESTA U MZ BRDO I MZ RATKOVIĆI IZ PROGRAMA INVESTIRANJA SREDSTAVA NAPLAĆENIH IZDVAJANJEM GSM LICENCE ZA 2009. I DIJELA SREDSTAVA ZA 2010. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 69/11 (24.10.2011.), akt 36 od 82 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/olZ1wpjnaoM=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
