@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU PREDSJEDNIKA I ČLANOVA RADNE GRUPE ZA ANALIZU STANJA I UTVRĐIVANJE MJERA ZA PRIMOPREDAJU POSLOVNIH PROSTORA U ZGRADI JP GEODETSKI ZAVOD FEDERACIJE BIH D.O.O. SARAJEVO V. BROJ 326/2011 OD 18.04.2011. GODINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU PREDSJEDNIKA I ČLANOVA RADNE GRUPE ZA ANALIZU STANJA I UTVRĐIVANJE MJERA ZA PRIMOPREDAJU POSLOVNIH PROSTORA U ZGRADI JP GEODETSKI ZAVOD FEDERACIJE BIH D.O.O. SARAJEVO V. BROJ 326/2011 OD 18.04.2011. GODINE
+
+Donosilac: ВЛАДА ФЕДЕРАЦИЈЕ БОСНЕ И ХЕРЦЕГОВИНЕ.
+
+Službene novine Federacije BiH broj 73/11 (2.11.2011.), akt 5 od 15 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VaOE1ISZM40=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
