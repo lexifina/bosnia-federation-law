@@ -1,0 +1,11 @@
+# PRAVILNIK O ORGANIZACIJI I BLIŽIM USLOVIMA PROSTORA, MEDICINSKO-TEHNIČKE OPREME I STRUČNOG KADRA, KOJE TREBAJU ISPUNJAVATI CENTRI ZA MENTALNO ZDRAVLJE U ZAJEDNICI, KAO I EDUKACIJI IZ OBLASTI ZLOUPOTREBE PSIHOAKTIVNIH SUPSTANCI
+
+Naslov: PRAVILNIK O ORGANIZACIJI I BLIŽIM USLOVIMA PROSTORA, MEDICINSKO-TEHNIČKE OPREME I STRUČNOG KADRA, KOJE TREBAJU ISPUNJAVATI CENTRI ZA MENTALNO ZDRAVLJE U ZAJEDNICI, KAO I EDUKACIJI IZ OBLASTI ZLOUPOTREBE PSIHOAKTIVNIH SUPSTANCI
+
+Donosilac: ФЕДЕРАЛНО МИНИСТАРСТВО ЗДРАВСТВА.
+
+Službene novine Federacije BiH broj 73/11 (2.11.2011.), akt 8 od 15 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VaOE1ISZM40=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
