@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA RAZRJEŠENJE DUŽNOSTI IZVRŠNOG DIREKTORA ZA DISTRIBUCIJU ELEKTRIČNE ENERGIJE JP "ELEKTROPRIVREDA HZ HB" D.D. MOSTAR
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA RAZRJEŠENJE DUŽNOSTI IZVRŠNOG DIREKTORA ZA DISTRIBUCIJU ELEKTRIČNE ENERGIJE JP "ELEKTROPRIVREDA HZ HB" D.D. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 74/11 (4.11.2011.), akt 9 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0r39PdMBNI8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
