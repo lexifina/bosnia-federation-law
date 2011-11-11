@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O RAZVRSTAVANJU, MINIMALNIM UVJETIMA I KATEGORIZACIJI UGOSTITELJSKIH OBJEKATA IZ SKUPINE HOTELI
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O RAZVRSTAVANJU, MINIMALNIM UVJETIMA I KATEGORIZACIJI UGOSTITELJSKIH OBJEKATA IZ SKUPINE HOTELI
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 76/11 (11.11.2011.), akt 4 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9iVfVfH0Gso=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
