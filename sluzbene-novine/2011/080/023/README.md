@@ -1,0 +1,11 @@
+# PRAVILNIK O UVJETIMA, POSTUPKU I OSNOVU ZA IZDAVANJE UVJERENJA DOBITNICIMA RATNIH PRIZNANJA MINISTARSTVA UNUTRAŠNJIH POSLOVA
+
+Naslov: PRAVILNIK O UVJETIMA, POSTUPKU I OSNOVU ZA IZDAVANJE UVJERENJA DOBITNICIMA RATNIH PRIZNANJA MINISTARSTVA UNUTRAŠNJIH POSLOVA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 80/11 (30.11.2011.), akt 23 od 53 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/prnU5JV1i4g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
