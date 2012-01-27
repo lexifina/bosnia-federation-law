@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA JAVNE NABAVKE DOMA NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA JAVNE NABAVKE DOMA NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 8/12 (27.1.2012.), akt 2 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/HScdgn6b0Uk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
