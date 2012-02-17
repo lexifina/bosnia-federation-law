@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU I IMENOVANJU VRŠIOCA DUŽNOSTI ČLANA NADZORNOG ODBORA JAVNE USTANOVE "CENTAR ZA SPORT I REKREACIJU" SARAJEVO
+
+Naslov: RJEŠENJE O RAZRJEŠENJU I IMENOVANJU VRŠIOCA DUŽNOSTI ČLANA NADZORNOG ODBORA JAVNE USTANOVE "CENTAR ZA SPORT I REKREACIJU" SARAJEVO
+
+Donosilac: OPĆINA CENTAR SARAJEVO.
+
+Službene novine Federacije BiH broj 15/12 (17.2.2012.), akt 11 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7NRb6nohz4nh78h77FoIg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
