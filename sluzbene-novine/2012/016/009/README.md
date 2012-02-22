@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2012. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2012. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 16/12 (22.2.2012.), akt 9 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nM3hYXy7ptI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
