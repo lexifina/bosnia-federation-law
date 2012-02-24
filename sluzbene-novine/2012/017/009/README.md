@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU STANJA PRIRODNE NESREĆE NA PODRUČJU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PRESTANKU STANJA PRIRODNE NESREĆE NA PODRUČJU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 17/12 (24.2.2012.), akt 9 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/V0x5YHxlgztz5k76kjn45hHw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
