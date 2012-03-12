@@ -1,0 +1,11 @@
+# ZAKLJUČAK O ZAHTJEVU ZA PREISPITIVANJE RJEŠENJA
+
+Naslov: ZAKLJUČAK O ZAHTJEVU ZA PREISPITIVANJE RJEŠENJA
+
+Donosilac: KONKURENCIJSKO VIJEĆE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 22/12 (12.3.2012.), akt 4 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77TbxgqnloQ4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
