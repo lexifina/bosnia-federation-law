@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O ROTACIJI DIREKTORA KAZNENO-POPRAVNOG ZAVODA ZATVORENOG I POLUOTVORENOG TIPA U ZENICI, MOSTARU, SARAJEVU I BIHAĆU
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O ROTACIJI DIREKTORA KAZNENO-POPRAVNOG ZAVODA ZATVORENOG I POLUOTVORENOG TIPA U ZENICI, MOSTARU, SARAJEVU I BIHAĆU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 24/12 (16.3.2012.), akt 2 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/t2xYlw6DyjU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
