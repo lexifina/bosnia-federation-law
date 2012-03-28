@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA NASTAVAK AKTIVNOSTI NA REFORMI INSTITUCIONALNOG TRETMANA MALOLJETNIKA U SUKOBU SA ZAKONOM
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA NASTAVAK AKTIVNOSTI NA REFORMI INSTITUCIONALNOG TRETMANA MALOLJETNIKA U SUKOBU SA ZAKONOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 27/12 (28.3.2012.), akt 14 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1pLgztz5k76kjn45hvGJgztz5k76kjn45hqYo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
