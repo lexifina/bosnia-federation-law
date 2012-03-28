@@ -1,0 +1,11 @@
+# PRAVILNIK O FINANSIJSKOM IZVJEŠTAVANJU I GODIŠNJEM OBRAČUNU BUDŽETA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O FINANSIJSKOM IZVJEŠTAVANJU I GODIŠNJEM OBRAČUNU BUDŽETA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 27/12 (28.3.2012.), akt 15 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1pLgztz5k76kjn45hvGJgztz5k76kjn45hqYo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
