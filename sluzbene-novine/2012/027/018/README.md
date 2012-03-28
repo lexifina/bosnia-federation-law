@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA JAVNE NABAVKE FEDERALNOG MINISTARSTVA OKOLIŠA I TURIZMA (NABAVKA KANCELARIJSKOG MATERIJALA)
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA JAVNE NABAVKE FEDERALNOG MINISTARSTVA OKOLIŠA I TURIZMA (NABAVKA KANCELARIJSKOG MATERIJALA)
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 27/12 (28.3.2012.), akt 18 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1pLgztz5k76kjn45hvGJgztz5k76kjn45hqYo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
