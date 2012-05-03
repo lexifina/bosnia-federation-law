@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA TROGODIŠNJI PLAN POSLOVANJA JAVNOG PREDUZEĆA AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR ZA PERIOD 2012. - 2014. GODINA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA TROGODIŠNJI PLAN POSLOVANJA JAVNOG PREDUZEĆA AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR ZA PERIOD 2012. - 2014. GODINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/12 (3.5.2012.), akt 73 od 103 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ghEOs927Ia8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
