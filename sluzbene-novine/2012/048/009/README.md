@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA ZAKLJUČIVANJE SPORAZUMA O SARADNJI U PODRUČJU PROFESIONALNE REHABILITACIJE I ZAPOŠLJAVANJU LICA SA INVALIDITETOM
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA ZAKLJUČIVANJE SPORAZUMA O SARADNJI U PODRUČJU PROFESIONALNE REHABILITACIJE I ZAPOŠLJAVANJU LICA SA INVALIDITETOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 48/12 (1.6.2012.), akt 9 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/poNvFTiEg8U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
