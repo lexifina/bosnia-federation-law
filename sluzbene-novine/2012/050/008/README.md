@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU PREGOVARAČKOG TIMA ZA PREGOVORE SA KONZORCIJEM INA-MOL A VEZANO ZA PROVOĐENJE UGOVORA O DOKAPITALIZACIJI ENERGOPETROL D.D. SARAJEVO
+
+Naslov: RJEŠENJE O IMENOVANJU PREGOVARAČKOG TIMA ZA PREGOVORE SA KONZORCIJEM INA-MOL A VEZANO ZA PROVOĐENJE UGOVORA O DOKAPITALIZACIJI ENERGOPETROL D.D. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/12 (8.6.2012.), akt 8 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/SjWKV0uLT6k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
