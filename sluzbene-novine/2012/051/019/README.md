@@ -1,0 +1,11 @@
+# RJEŠENJE O PRODUŽENJU VAŽNOSTI PRIVREMENO OBUSTAVLJENOG ODRŽAVANJA POLASKA ILI VOZNOG REDA I PRIVREMENO REGISTRIRANIH VOZNIH REDOVA
+
+Naslov: RJEŠENJE O PRODUŽENJU VAŽNOSTI PRIVREMENO OBUSTAVLJENOG ODRŽAVANJA POLASKA ILI VOZNOG REDA I PRIVREMENO REGISTRIRANIH VOZNIH REDOVA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 51/12 (13.6.2012.), akt 19 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Eohz4nh78h77KPiCQUxgg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
