@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINAMA PRIVREDNOG DRUŠTVA ARCELORMITTAL ZENICA D.O.O.
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINAMA PRIVREDNOG DRUŠTVA ARCELORMITTAL ZENICA D.O.O.
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 52/12 (15.6.2012.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Qr1xV4GoVvA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
