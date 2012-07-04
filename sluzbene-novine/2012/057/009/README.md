@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR NAJPOVOLJNIJEG PONUĐAČA ZA NABAVKU: "PROGRAM PODRŠKE EDUKACIJE TURISTIČKIH VODIČA I ŠTAMPANJA PRIRUČNIKA ZA 2012. GODINU"
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR NAJPOVOLJNIJEG PONUĐAČA ZA NABAVKU: "PROGRAM PODRŠKE EDUKACIJE TURISTIČKIH VODIČA I ŠTAMPANJA PRIRUČNIKA ZA 2012. GODINU"
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 57/12 (4.7.2012.), akt 9 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ErAEKomtxHE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
