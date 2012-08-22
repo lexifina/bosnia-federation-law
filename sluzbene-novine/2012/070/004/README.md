@@ -1,0 +1,11 @@
+# PRAVILNIK O USLOVIMA ZA VATROGASNE PRISTUPE I PROLAZE ZA STAMBENE I DRUGE ZGRADE I OBJEKTE I ZA SVE PROSTORE KOJI SE SMATRAJU GRAĐEVINAMA POGLAVLJE I
+
+Naslov: PRAVILNIK O USLOVIMA ZA VATROGASNE PRISTUPE I PROLAZE ZA STAMBENE I DRUGE ZGRADE I OBJEKTE I ZA SVE PROSTORE KOJI SE SMATRAJU GRAĐEVINAMA POGLAVLJE I
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 70/12 (22.8.2012.), akt 4 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/16BBwohz4nh78h77tT0N8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
