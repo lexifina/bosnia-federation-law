@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRODAJU IMOVINE ISKAZANE U PASIVNOM PODBILANSU PRIVREDNOG DRUŠTVA "KTK VISOKO" D.D. VISOKO U KRAGUJEVCU, REPUBLIKA SRBIJA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRODAJU IMOVINE ISKAZANE U PASIVNOM PODBILANSU PRIVREDNOG DRUŠTVA "KTK VISOKO" D.D. VISOKO U KRAGUJEVCU, REPUBLIKA SRBIJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 81/12 (21.9.2012.), akt 4 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AgNwqAytT8o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
