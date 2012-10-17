@@ -1,0 +1,11 @@
+# PRAVILNIK O NAČINU UTVRĐIVANJA USLOVA ZA ODREĐIVANJE ZONA SANITARNE ZAŠTITE I ZAŠTITNIH MJERA ZA IZVORIŠTA VODE ZA JAVNO VODOSNABDIJEVANJE STANOVNIŠTVA
+
+Naslov: PRAVILNIK O NAČINU UTVRĐIVANJA USLOVA ZA ODREĐIVANJE ZONA SANITARNE ZAŠTITE I ZAŠTITNIH MJERA ZA IZVORIŠTA VODE ZA JAVNO VODOSNABDIJEVANJE STANOVNIŠTVA
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 88/12 (17.10.2012.), akt 11 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LEuypSVhnWA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
