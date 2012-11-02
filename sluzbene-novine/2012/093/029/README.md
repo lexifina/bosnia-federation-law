@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU STRUČNOG ODBORA ZA ENERGETSKU EFIKASNOST
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU STRUČNOG ODBORA ZA ENERGETSKU EFIKASNOST
+
+Donosilac: FEDERALNO MINISTARSTVO PROSTORNOG UREĐENJA I OKOLINE.
+
+Službene novine Federacije BiH broj 93/12 (2.11.2012.), akt 29 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/wY46DnZBCt0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
