@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UTVRĐIVANJU KVALITETA TEČNIH NAFTNIH GORIVA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UTVRĐIVANJU KVALITETA TEČNIH NAFTNIH GORIVA
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 94/12 (7.11.2012.), akt 6 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jS6Bgztz5k76kjn45haOzL9s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
