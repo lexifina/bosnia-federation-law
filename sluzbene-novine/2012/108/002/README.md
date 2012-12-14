@@ -1,0 +1,11 @@
+# ODLUKU O PROMJENI NAMJENE ŠUMSKOG ZEMLJIŠTA U GRAĐEVINSKO U SVRHU IZGRADNJE DIJELA MAGISTRALNE CESTE M - 18 SARAJEVO - TUZLA, DIONICA KLADANJ - PODPAKLENIK - POTEZ KARAULA
+
+Naslov: ODLUKU O PROMJENI NAMJENE ŠUMSKOG ZEMLJIŠTA U GRAĐEVINSKO U SVRHU IZGRADNJE DIJELA MAGISTRALNE CESTE M - 18 SARAJEVO - TUZLA, DIONICA KLADANJ - PODPAKLENIK - POTEZ KARAULA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 108/12 (14.12.2012.), akt 2 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AW3Zgztz5k76kjn45hKvknFU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
