@@ -1,0 +1,11 @@
+# RJEŠENJE O PONIŠTENJU RJEŠENJA O RAZRJEŠENJU PREDSJEDNIKA UPRAVNOG ODBORA FAKULTETA ZDRAVSTVENIH STUDIJA U SARAJEVU, BROJ 02-05-22540-32.6/12 OD 26.07.2012. GODINE
+
+Naslov: RJEŠENJE O PONIŠTENJU RJEŠENJA O RAZRJEŠENJU PREDSJEDNIKA UPRAVNOG ODBORA FAKULTETA ZDRAVSTVENIH STUDIJA U SARAJEVU, BROJ 02-05-22540-32.6/12 OD 26.07.2012. GODINE
+
+Donosilac: VLADA KANTONA SARAJEVO.
+
+Službene novine Federacije BiH broj 2/13 (9.1.2013.), akt 51 od 65 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tWT9Wj9GFgA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
