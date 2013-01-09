@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA RAZRJEŠENJE DUŽNOSTI ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JAVNOG PREDUZEĆA ELEKTROPRIVREDA BiH D.D. SARAJEVO
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA RAZRJEŠENJE DUŽNOSTI ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JAVNOG PREDUZEĆA ELEKTROPRIVREDA BiH D.D. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 2/13 (9.1.2013.), akt 16 od 65 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tWT9Wj9GFgA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
