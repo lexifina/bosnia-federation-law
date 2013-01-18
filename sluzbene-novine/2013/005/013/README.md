@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA IZGRADNJU REGIONALNOG VODOVODA "PLAVA VODA"
+
+Naslov: ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA IZGRADNJU REGIONALNOG VODOVODA "PLAVA VODA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 5/13 (18.1.2013.), akt 13 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Tgztz5k76kjn45hgRuRNWyyk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
