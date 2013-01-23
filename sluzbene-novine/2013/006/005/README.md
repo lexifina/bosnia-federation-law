@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANOVA DELEGACIJE BOSNE I HERCEGOVINE U KONGRESU LOKALNIH I REGIONALNIH VLASTI EVROPE IZ FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANOVA DELEGACIJE BOSNE I HERCEGOVINE U KONGRESU LOKALNIH I REGIONALNIH VLASTI EVROPE IZ FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 6/13 (23.1.2013.), akt 5 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ne0DDbvCpFM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
