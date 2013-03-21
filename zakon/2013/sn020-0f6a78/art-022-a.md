@@ -1,0 +1,2 @@
+# Član 22a.
+Organi nadležni za izvršenje izrečene zaštitne mjere navedene u rješenju o izricanju zaštitne mjere dužni su redovno pratiti izvršenje mjere, sačiniti i dostaviti nadležnom sudu izvještaj o njihovom izvršenju, predložiti prekid ili zamjenu mjere kada to smatraju potrebnim. Organ nadležan za izvršenje zaštitne mjere dužan je po saznanju o neizvršenju ili kršenju izrečene mjere o tome obavijestiti nadležni sud.
