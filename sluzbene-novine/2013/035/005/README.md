@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA PRIHODA I RASHODA FEDERALNE DIREKCIJE ZA CIVILNU AVIJACIJU - FEDERALNE DIREKCIJE ZA CIVILNO ZRAKOPLOVSTVO ZA 2013. GODINU
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA PRIHODA I RASHODA FEDERALNE DIREKCIJE ZA CIVILNU AVIJACIJU - FEDERALNE DIREKCIJE ZA CIVILNO ZRAKOPLOVSTVO ZA 2013. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 35/13 (8.5.2013.), akt 5 od 46 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DgmZPuaGc2E=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
