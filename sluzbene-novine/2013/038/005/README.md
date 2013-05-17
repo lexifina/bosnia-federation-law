@@ -1,0 +1,11 @@
+# PRAVILNIK O TEHNIČKIM MJERAMA SA MJERAMA ZAŠTITE PRI EKSPLOATACIJI MINERALNIH SIROVINA DUBINSKIM BUŠENJEM
+
+Naslov: PRAVILNIK O TEHNIČKIM MJERAMA SA MJERAMA ZAŠTITE PRI EKSPLOATACIJI MINERALNIH SIROVINA DUBINSKIM BUŠENJEM
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 38/13 (17.5.2013.), akt 5 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zdxh0ei1gztz5k76kjn45h64=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
