@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA I KRITERIJA RASPODJELE SREDSTAVA "TEKUĆI TRANSFERI DRUGIM NIVOIMA VLASTI - ZA PROJEKAT UTOPLJAVANJA ZGRADA RADI UŠTEDE ENERGIJE"
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA I KRITERIJA RASPODJELE SREDSTAVA "TEKUĆI TRANSFERI DRUGIM NIVOIMA VLASTI - ZA PROJEKAT UTOPLJAVANJA ZGRADA RADI UŠTEDE ENERGIJE"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 38/13 (17.5.2013.), akt 3 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zdxh0ei1gztz5k76kjn45h64=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
