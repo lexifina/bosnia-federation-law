@@ -1,0 +1,1 @@
+# Ovlaštenje za obavljanje djelatnosti

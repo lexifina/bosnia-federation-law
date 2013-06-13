@@ -1,0 +1,1 @@
+# Nedostojnost za obavljanje djelatnosti
