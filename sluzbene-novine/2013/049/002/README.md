@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE ANEKSA 2. UGOVORA O KONCESIJI ZA EKSPLOATACIJU IZVORA TERMALNE VODE SA BUNARA Š-1 ŠUMATAC DONJI PURIĆI - VELIKA KLADUŠA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE ANEKSA 2. UGOVORA O KONCESIJI ZA EKSPLOATACIJU IZVORA TERMALNE VODE SA BUNARA Š-1 ŠUMATAC DONJI PURIĆI - VELIKA KLADUŠA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 49/13 (26.6.2013.), akt 2 od 59 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PnG2K8YBohz4nh78h77D8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
