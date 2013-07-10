@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNI PRAVILNIKA O NAČINU UPLATE JAVNIH PRIHODA BUDŽETA I VANBUDŽETSKIH FONDOVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNI PRAVILNIKA O NAČINU UPLATE JAVNIH PRIHODA BUDŽETA I VANBUDŽETSKIH FONDOVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 53/13 (10.7.2013.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/WMAu1Sggztz5k76kjn45hkpc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
