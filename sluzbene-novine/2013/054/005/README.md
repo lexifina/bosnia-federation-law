@@ -1,0 +1,11 @@
+# ODLUKU O FORMIRANJU KREDITNE LINIJE ZA TEKUĆU LIKVIDNOST ZA PRIVREDNO DRUŠTVO "KLAS" D.D. SARAJEVO
+
+Naslov: ODLUKU O FORMIRANJU KREDITNE LINIJE ZA TEKUĆU LIKVIDNOST ZA PRIVREDNO DRUŠTVO "KLAS" D.D. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 54/13 (12.7.2013.), akt 5 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qZXd87NZ8Es=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
