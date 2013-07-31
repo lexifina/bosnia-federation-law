@@ -1,0 +1,11 @@
+# PRAVILNIK O NAČINU, POSTUPKU I MEDICINSKIM KRITERIJIMA ZA UTVRĐIVANJE MOŽDANE SMRTI OSOBE ČIJI SE ORGANI I TKIVA MOGU UZIMATI RADI PRESAĐIVANJA U SVRHU LIJEČENJA
+
+Naslov: PRAVILNIK O NAČINU, POSTUPKU I MEDICINSKIM KRITERIJIMA ZA UTVRĐIVANJE MOŽDANE SMRTI OSOBE ČIJI SE ORGANI I TKIVA MOGU UZIMATI RADI PRESAĐIVANJA U SVRHU LIJEČENJA
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 59/13 (31.7.2013.), akt 9 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Y1Q8ljcYcdA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
