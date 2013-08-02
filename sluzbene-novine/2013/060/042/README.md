@@ -1,0 +1,11 @@
+# ODLUKU O KONAČNOM IMENOVANJU NADZORNOG ODBORA JKP "BIOŠTICA" OLOVO
+
+Naslov: ODLUKU O KONAČNOM IMENOVANJU NADZORNOG ODBORA JKP "BIOŠTICA" OLOVO
+
+Donosilac: JKP "BIOŠTICA" OLOVO.
+
+Službene novine Federacije BiH broj 60/13 (2.8.2013.), akt 42 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jcjwxnEzlmo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
