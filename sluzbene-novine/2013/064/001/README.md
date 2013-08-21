@@ -1,0 +1,11 @@
+# RJEŠENJE OGLAŠAVA SE NIŠTAVIM U CJELOSTI RJEŠENJE O IMENOVANJU KOMISIJE ZA RURALNI RAZVOJ OVOG MINSTARSTVA BROJ UP-I-10-24/3-877/13 OD 28.5.2013. GODINE
+
+Naslov: RJEŠENJE OGLAŠAVA SE NIŠTAVIM U CJELOSTI RJEŠENJE O IMENOVANJU KOMISIJE ZA RURALNI RAZVOJ OVOG MINSTARSTVA BROJ UP-I-10-24/3-877/13 OD 28.5.2013. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 64/13 (21.8.2013.), akt 1 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/uWohz4nh78h77Op42Wsdc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
