@@ -1,0 +1,11 @@
+# PRAVILNIK O KRITERIJIMA ZA KADROVSKE, TEHNIČKE I DRUGE UVJETE KOJE MORAJU ISPUNJAVATI PRAVNA LICA REGISTROVANA ZA OBAVLJANJE POSLOVA IZ OBLASTI ZAŠTITE OD POŽARA
+
+Naslov: PRAVILNIK O KRITERIJIMA ZA KADROVSKE, TEHNIČKE I DRUGE UVJETE KOJE MORAJU ISPUNJAVATI PRAVNA LICA REGISTROVANA ZA OBAVLJANJE POSLOVA IZ OBLASTI ZAŠTITE OD POŽARA
+
+Donosilac: FED. UPRAVA CIVILNE ZAŠTITE.
+
+Službene novine Federacije BiH broj 69/13 (6.9.2013.), akt 2 od 5 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JAXvurJ3Km0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
