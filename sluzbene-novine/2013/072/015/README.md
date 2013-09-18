@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA UGOVOR O VANSUDSKOJ NAGODBI ZA IZVRŠENJE FINANSIJSKIH POTRAŽIVANJA KOJA SU DOSUĐENA PRAVOSNAŽNOM SUDSKOM ODLUKOM
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA UGOVOR O VANSUDSKOJ NAGODBI ZA IZVRŠENJE FINANSIJSKIH POTRAŽIVANJA KOJA SU DOSUĐENA PRAVOSNAŽNOM SUDSKOM ODLUKOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 72/13 (18.9.2013.), akt 15 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BnB8F2pNgztz5k76kjn45h6U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
