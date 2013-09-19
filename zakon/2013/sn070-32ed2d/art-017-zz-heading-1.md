@@ -1,0 +1,1 @@
+# VII. DINAMIČKE KVOTE
