@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP ŽFBIH D.O.O. SARAJEVO ZA IMENOVANJE VRŠIOCA DUŽNOSTI IZVRŠNIH DIREKTORA U JP ŽFBIH D.O.O. SARAJEVO
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP ŽFBIH D.O.O. SARAJEVO ZA IMENOVANJE VRŠIOCA DUŽNOSTI IZVRŠNIH DIREKTORA U JP ŽFBIH D.O.O. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 73/13 (20.9.2013.), akt 5 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3Qg2YMNJ8WY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
