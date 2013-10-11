@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNOG PROSTORA U SARAJEVU, ULICA AVDE SMAJLOVIĆA BROJ 9, SAVEZU BORACA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNOG PROSTORA U SARAJEVU, ULICA AVDE SMAJLOVIĆA BROJ 9, SAVEZU BORACA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 79/13 (11.10.2013.), akt 4 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vD4VY1XIKg4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
