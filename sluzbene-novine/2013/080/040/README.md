@@ -1,0 +1,11 @@
+# METODOLOGIJA O NAČINU IMPLEMENTACIJE DIJELA SREDSTAVA NAPLAĆENIH IZDAVANJEM GSM LICENCE ZA 2012. GODINU ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Naslov: METODOLOGIJA O NAČINU IMPLEMENTACIJE DIJELA SREDSTAVA NAPLAĆENIH IZDAVANJEM GSM LICENCE ZA 2012. GODINU ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 80/13 (16.10.2013.), akt 40 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZC3jKtANa64=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
