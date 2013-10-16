@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USLOVIMA I NAČINU KORIŠTENJA SREDSTAVA OSTVARENIH PO OSNOVU POSEBNE NAKNADE ZA ZAŠTITU OD PRIRODNIH I DRUGIH NESREĆA
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O USLOVIMA I NAČINU KORIŠTENJA SREDSTAVA OSTVARENIH PO OSNOVU POSEBNE NAKNADE ZA ZAŠTITU OD PRIRODNIH I DRUGIH NESREĆA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 80/13 (16.10.2013.), akt 26 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZC3jKtANa64=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
