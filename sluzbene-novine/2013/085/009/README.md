@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI ARHIVA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI ARHIVA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 85/13 (30.10.2013.), akt 9 od 43 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/8chhS47Mgus=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
