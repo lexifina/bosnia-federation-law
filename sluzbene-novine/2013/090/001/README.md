@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2013. GODINU ZA FOND ZA REFORMU JAVNE UPRAVE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2013. GODINU ZA FOND ZA REFORMU JAVNE UPRAVE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 90/13 (15.11.2013.), akt 1 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jtOCcggnTN8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
