@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU RADNE GRUPE ZA IZRADU STRATEGIJE TRANSFORMACIJE USTANOVA SOCIJALNE ZAŠTITE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU RADNE GRUPE ZA IZRADU STRATEGIJE TRANSFORMACIJE USTANOVA SOCIJALNE ZAŠTITE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 90/13 (15.11.2013.), akt 20 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jtOCcggnTN8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
