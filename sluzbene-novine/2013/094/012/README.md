@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE MEMORANDUMA O RAZUMIJEVANJU I STRATEŠKOM PARTNERSTVU SA AMERIČKOM KOMPANIJOM "HOWELL MACHINE, Inc"
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE MEMORANDUMA O RAZUMIJEVANJU I STRATEŠKOM PARTNERSTVU SA AMERIČKOM KOMPANIJOM "HOWELL MACHINE, Inc"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 94/13 (27.11.2013.), akt 12 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yMAejZE0NSk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
