@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU BLOKOVA ZA ISTRAŽIVANJE I EKSPLOATACIJU NAFTE I GASA NA PROSTORU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O UTVRĐIVANJU BLOKOVA ZA ISTRAŽIVANJE I EKSPLOATACIJU NAFTE I GASA NA PROSTORU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 94/13 (27.11.2013.), akt 8 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yMAejZE0NSk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
