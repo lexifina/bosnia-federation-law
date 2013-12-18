@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI ODLUKE O PROVOĐENJU MJERA ZA SMANJENJE TROŠKOVA ELEKTRIČNE ENERGIJE KUĆANSTVIMA I STIMULACIJI ENERGETSKE EFIKASNOSTI
+
+Naslov: ODLUKU O IZMJENI ODLUKE O PROVOĐENJU MJERA ZA SMANJENJE TROŠKOVA ELEKTRIČNE ENERGIJE KUĆANSTVIMA I STIMULACIJI ENERGETSKE EFIKASNOSTI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 100/13 (18.12.2013.), akt 7 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jORPFzIOK28=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
