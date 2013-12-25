@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU AUTENTIČNOG TUMAČENJA ČLANA 4. ZAKONA O PLAĆAMA I DRUGIM NAKNADAMA SUDIJA I TUŽILACA U FEDERACIJI BOSNE I HERCEGOVINE ("SLUŽBENE NOVINE FEDERACIJE BiH", BR. 77/05, 22/09 I 55/13)
+
+Naslov: UKAZ O PROGLAŠENJU AUTENTIČNOG TUMAČENJA ČLANA 4. ZAKONA O PLAĆAMA I DRUGIM NAKNADAMA SUDIJA I TUŽILACA U FEDERACIJI BOSNE I HERCEGOVINE ("SLUŽBENE NOVINE FEDERACIJE BiH", BR. 77/05, 22/09 I 55/13)
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 102/13 (25.12.2013.), akt 2 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ge2enn079jo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
