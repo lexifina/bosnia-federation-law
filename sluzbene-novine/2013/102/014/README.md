@@ -1,0 +1,11 @@
+# RJEŠENJE O USPOSTAVI RADNE SKUPINE ZA PROVEDBU STRATEŠKOG PLANA ZA UVOĐENJE GENDER ODGOVORNOG PRORAČUNA U PRORAČUN FEDERACIJE BiH 2013-2015 GODINE
+
+Naslov: RJEŠENJE O USPOSTAVI RADNE SKUPINE ZA PROVEDBU STRATEŠKOG PLANA ZA UVOĐENJE GENDER ODGOVORNOG PRORAČUNA U PRORAČUN FEDERACIJE BiH 2013-2015 GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 102/13 (25.12.2013.), akt 14 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ge2enn079jo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
