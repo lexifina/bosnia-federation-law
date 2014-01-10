@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU IZMJENE PROGRAMA INVESTIRANJA SREDSTAVA NAPLAĆENIH IZDAVANJEM GSM LICENCE ZA 2011. GODINU ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O USVAJANJU IZMJENE PROGRAMA INVESTIRANJA SREDSTAVA NAPLAĆENIH IZDAVANJEM GSM LICENCE ZA 2011. GODINU ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 2/14 (10.1.2014.), akt 8 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Yjrt5bYHTyw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
