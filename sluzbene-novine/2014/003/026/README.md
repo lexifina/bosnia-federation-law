@@ -1,0 +1,11 @@
+# PRAVILNIK O SADRŽAJU OBRASCA SAGLASNOSTI ŽIVOG DAROVAOCA ORGANA I TKIVA, TE POSTUPKU OPOZIVA SAGLASNOSTI
+
+Naslov: PRAVILNIK O SADRŽAJU OBRASCA SAGLASNOSTI ŽIVOG DAROVAOCA ORGANA I TKIVA, TE POSTUPKU OPOZIVA SAGLASNOSTI
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 3/14 (15.1.2014.), akt 26 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h770fASGJRx5o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
