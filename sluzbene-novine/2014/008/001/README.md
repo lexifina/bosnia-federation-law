@@ -1,0 +1,11 @@
+# UREDBU O PRESTANKU VAŽENJA UREDBE O NAČINU UŠTEDA NA ISPLATAMA MJESEČNIH NOVČANIH NAKNADA
+
+Naslov: UREDBU O PRESTANKU VAŽENJA UREDBE O NAČINU UŠTEDA NA ISPLATAMA MJESEČNIH NOVČANIH NAKNADA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 8/14 (31.1.2014.), akt 1 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45h9pMbSrw2YY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
