@@ -1,0 +1,11 @@
+# ODLUKU O NAKNADI ZA KORIŠTENJE RADIOFREKVENTNOG SPEKTRA U BOSNI I HERCEGOVINI
+
+Naslov: ODLUKU O NAKNADI ZA KORIŠTENJE RADIOFREKVENTNOG SPEKTRA U BOSNI I HERCEGOVINI
+
+Donosilac: VIJEĆE MINISTARA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 22/14 (21.3.2014.), akt 15 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3vagztz5k76kjn45hklQohz4nh78h77ScM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
