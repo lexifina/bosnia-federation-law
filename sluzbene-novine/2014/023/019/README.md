@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA I KRITERIJA RASPODJELE SREDSTAVA "TEKUĆI TRANSFERI DRUGIM NIVOIMA VLASTI - ZA PROJEKAT UTOPLJAVANJA ZGRADA RADI UŠTEDE ENERGIJE"
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA I KRITERIJA RASPODJELE SREDSTAVA "TEKUĆI TRANSFERI DRUGIM NIVOIMA VLASTI - ZA PROJEKAT UTOPLJAVANJA ZGRADA RADI UŠTEDE ENERGIJE"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/14 (26.3.2014.), akt 19 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NJIDlnUEygztz5k76kjn45hk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
