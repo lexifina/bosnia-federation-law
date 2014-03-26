@@ -1,0 +1,11 @@
+# ODLUKU O MINIMALNIM STANDARDIMA ZA DOKUMENTOVANJE KREDITNIH AKTIVNOSTI MIKROKREDITNIH ORGANIZACIJA I PROCJENU KREDITNE SPOSOBNOSTI
+
+Naslov: ODLUKU O MINIMALNIM STANDARDIMA ZA DOKUMENTOVANJE KREDITNIH AKTIVNOSTI MIKROKREDITNIH ORGANIZACIJA I PROCJENU KREDITNE SPOSOBNOSTI
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 23/14 (26.3.2014.), akt 29 od 45 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NJIDlnUEygztz5k76kjn45hk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
