@@ -1,0 +1,11 @@
+# SAOPŠTENJE O KOEFICIJENTIMA ZA VALORIZACIJU PLAĆA KOD UTVRĐIVANJA PENZIJSKOG OSNOVA ZA OSIGURANIKE KOJI PRAVO NA PENZIJU OSTVARUJU U 2014. GODINI
+
+Naslov: SAOPŠTENJE O KOEFICIJENTIMA ZA VALORIZACIJU PLAĆA KOD UTVRĐIVANJA PENZIJSKOG OSNOVA ZA OSIGURANIKE KOJI PRAVO NA PENZIJU OSTVARUJU U 2014. GODINI
+
+Donosilac: FEDERALNI ZAVOD ZA PENZIJSKO/MIROVINSKO I INVALIDSKO OSIGURANJE.
+
+Službene novine Federacije BiH broj 25/14 (2.4.2014.), akt 15 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/obxnsMia5mk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
