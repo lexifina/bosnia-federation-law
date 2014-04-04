@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR KANDIDATA ZA IMENOVANJE ČLANOVA UPRAVNOG ODBORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR KANDIDATA ZA IMENOVANJE ČLANOVA UPRAVNOG ODBORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 26/14 (4.4.2014.), akt 12 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Y3mUMesrk28=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
