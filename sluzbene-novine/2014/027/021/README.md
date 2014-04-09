@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA PS "VITEZIT" D.O.O. VITEZ ZA IMENOVANJE VRŠIOCA DUŽNOSTI DIREKTORA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA PS "VITEZIT" D.O.O. VITEZ ZA IMENOVANJE VRŠIOCA DUŽNOSTI DIREKTORA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 27/14 (9.4.2014.), akt 21 od 51 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oB4eB3rUEy4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
