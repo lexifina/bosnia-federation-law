@@ -1,0 +1,11 @@
+# ODLUKU O IZDVAJANJU SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2014. GODINU SA POZICIJE 614100 - "TEKUĆI TRANSFERI DRUGIM NIVOIMA VLASTI" OPĆINI POSUŠJE
+
+Naslov: ODLUKU O IZDVAJANJU SREDSTAVA IZ BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2014. GODINU SA POZICIJE 614100 - "TEKUĆI TRANSFERI DRUGIM NIVOIMA VLASTI" OPĆINI POSUŠJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/14 (11.4.2014.), akt 6 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZIMVDizHHJc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
