@@ -1,0 +1,11 @@
+# PRAVILNIK O ORGANIZACIJI I FUNKCIONISANJU JEDINSTVENE STRUKTURE ELEKTRONSKE BAZE PODATAKA MATIČNOG REGISTRA U OBLASTI MATIČNIH KNJIGA
+
+Naslov: PRAVILNIK O ORGANIZACIJI I FUNKCIONISANJU JEDINSTVENE STRUKTURE ELEKTRONSKE BAZE PODATAKA MATIČNOG REGISTRA U OBLASTI MATIČNIH KNJIGA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 33/14 (30.4.2014.), akt 9 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PhGoYMs6trk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
