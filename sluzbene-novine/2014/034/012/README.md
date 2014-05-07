@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRODAJU IMOVINE HOTEL "ĐURO SALAJ" SA PRIPADAJUĆIM ZEMLJIŠTEM U GRADCU REPUBLIKA HRVATSKA METODOM NEPOSREDNE POGODBE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRODAJU IMOVINE HOTEL "ĐURO SALAJ" SA PRIPADAJUĆIM ZEMLJIŠTEM U GRADCU REPUBLIKA HRVATSKA METODOM NEPOSREDNE POGODBE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 34/14 (7.5.2014.), akt 12 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MzUxR8JrGNI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
