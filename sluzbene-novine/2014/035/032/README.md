@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR PREDSJEDNIKA I ČLANOVA UPRAVNOG I NADZORNOG ODBORA USTANOVE IZ DJELOKRUGA RADA SOCIJALNE ZAŠTITE - LJUBUŠKI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA IZBOR PREDSJEDNIKA I ČLANOVA UPRAVNOG I NADZORNOG ODBORA USTANOVE IZ DJELOKRUGA RADA SOCIJALNE ZAŠTITE - LJUBUŠKI
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 35/14 (9.5.2014.), akt 32 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cnt05u6JRxE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
