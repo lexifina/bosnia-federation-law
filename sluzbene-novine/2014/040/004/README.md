@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU TIJELA ZA PREGOVORE SA NEZAVISNIM SINDIKATOM ZDRAVSTVENIH RADNIKA UPOSLENIH U ZDRAVSTVU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU TIJELA ZA PREGOVORE SA NEZAVISNIM SINDIKATOM ZDRAVSTVENIH RADNIKA UPOSLENIH U ZDRAVSTVU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 40/14 (23.5.2014.), akt 4 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/PW40lpE9lc0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
