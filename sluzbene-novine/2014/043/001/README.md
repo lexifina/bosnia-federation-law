@@ -1,0 +1,11 @@
+# ODLUKU O RASPISIVANJU JAVNOG KONKURSA ZA IZBOR ČLANOVA NADZORNOG ODBORA JAVNOG PREDUZEĆA NACIONALNI PARK "UNA" DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU BIHAĆ
+
+Naslov: ODLUKU O RASPISIVANJU JAVNOG KONKURSA ZA IZBOR ČLANOVA NADZORNOG ODBORA JAVNOG PREDUZEĆA NACIONALNI PARK "UNA" DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU BIHAĆ
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/14 (30.5.2014.), akt 1 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hT2oL7dGzVA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
