@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2014. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2014. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 47/14 (13.6.2014.), akt 5 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hHwiCTjTPRE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
