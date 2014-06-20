@@ -1,0 +1,11 @@
+# ISPRAVKU
+
+Naslov: ISPRAVKU
+
+Donosilac: URED VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA ZAKONODAVSTVO I USKLAĐENOST SA PROPISIMA EVROPSKE/EUROPSKE UNIJE.
+
+Službene novine Federacije BiH broj 49/14 (20.6.2014.), akt 20 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gtzWkv0Oohz4nh78h77tw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
