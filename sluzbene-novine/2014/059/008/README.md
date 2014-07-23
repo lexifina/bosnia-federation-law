@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ODLUKE O PRIHVATANJU DODATNOG ZADUŽENJA FEDERACIJE BOSNE I HERCEGOVINE PO IV. STAND BY ARANŽMANU SA MEĐUNARODNIM MONETARNIM FONDOM
+
+Naslov: UKAZ O PROGLAŠENJU ODLUKE O PRIHVATANJU DODATNOG ZADUŽENJA FEDERACIJE BOSNE I HERCEGOVINE PO IV. STAND BY ARANŽMANU SA MEĐUNARODNIM MONETARNIM FONDOM
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 59/14 (23.7.2014.), akt 8 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/I26glgCNCJ0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
