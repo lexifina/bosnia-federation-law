@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA JAVNE NABAVKE FEDERALNOG MINISTARSTVA OKOLIŠA I TURIZMA ZA REALIZIRANJE TEKUĆEG TRANSFERA ZA SANACIJU POČITELJA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA JAVNE NABAVKE FEDERALNOG MINISTARSTVA OKOLIŠA I TURIZMA ZA REALIZIRANJE TEKUĆEG TRANSFERA ZA SANACIJU POČITELJA
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 60/14 (25.7.2014.), akt 13 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/r8u1wWagjJM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
