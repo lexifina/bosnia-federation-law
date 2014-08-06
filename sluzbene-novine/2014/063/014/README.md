@@ -1,0 +1,11 @@
+# ODLUKU O IZBORU I IMENOVANJU DIREKTORA JAVNOG PREDUZEĆA ZA UPRAVLJANJE I ODRŽAVANJE SPORTSKIH OBJEKATA D.O.O. ZENICA I SKLAPANJU UGOVORA O ANGAŽMANU
+
+Naslov: ODLUKU O IZBORU I IMENOVANJU DIREKTORA JAVNOG PREDUZEĆA ZA UPRAVLJANJE I ODRŽAVANJE SPORTSKIH OBJEKATA D.O.O. ZENICA I SKLAPANJU UGOVORA O ANGAŽMANU
+
+Donosilac: JAVNO PREDZUEĆE ZA UPRAVLJANJE I ODRŽAVANJE SPORTSKIH OBJEKATA D.O.O.
+
+Službene novine Federacije BiH broj 63/14 (6.8.2014.), akt 14 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vmw0EUlz1Rc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
