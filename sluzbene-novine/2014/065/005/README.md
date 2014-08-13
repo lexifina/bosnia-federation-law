@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O NAČINU UPLATE JAVNIH PRIHODA BUDŽETA I VANBUDŽETSKIH FONDOVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O NAČINU UPLATE JAVNIH PRIHODA BUDŽETA I VANBUDŽETSKIH FONDOVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 65/14 (13.8.2014.), akt 5 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Mgztz5k76kjn45h3ex5FmcVA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
