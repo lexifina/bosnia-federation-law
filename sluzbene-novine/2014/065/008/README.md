@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OBAVEZNOM OZNAČAVANJU I UPISU U JEDINSTVENI REGISTAR OVACA, KOZA I SVINJA TE VOĐENJU EVIDENCIJA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OBAVEZNOM OZNAČAVANJU I UPISU U JEDINSTVENI REGISTAR OVACA, KOZA I SVINJA TE VOĐENJU EVIDENCIJA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 65/14 (13.8.2014.), akt 8 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Mgztz5k76kjn45h3ex5FmcVA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
