@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANOVA UPRAVNOG ODBORA FEDERALNOG FONDA ZA POMOĆ NASTRADALIM PODRUČJIMA OD PRIRODNE NESREĆE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANOVA UPRAVNOG ODBORA FEDERALNOG FONDA ZA POMOĆ NASTRADALIM PODRUČJIMA OD PRIRODNE NESREĆE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 66/14 (15.8.2014.), akt 8 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zgztz5k76kjn45hUre15Exho=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
