@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U RADNU GRUPU VIJEĆA MINISTARA
+
+Naslov: RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U RADNU GRUPU VIJEĆA MINISTARA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 68/14 (22.8.2014.), akt 26 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dO23QKzrEXU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
