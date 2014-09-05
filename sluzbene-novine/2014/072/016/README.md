@@ -1,0 +1,11 @@
+# ODLUKU O RASPODJELI SREDSTAVA OSTVARENOG PROMETA LUTRIJE BOSNE I HERCEGOVINE ZA 2014. GODINU
+
+Naslov: ODLUKU O RASPODJELI SREDSTAVA OSTVARENOG PROMETA LUTRIJE BOSNE I HERCEGOVINE ZA 2014. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 72/14 (5.9.2014.), akt 16 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/leIv8Rtc420=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
