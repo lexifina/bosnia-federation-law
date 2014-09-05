@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA IMENOVANJE ČLANOVA ODBORA ZA REVIZIJU U JAVNOM PREDUZEĆU AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA IMENOVANJE ČLANOVA ODBORA ZA REVIZIJU U JAVNOM PREDUZEĆU AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 72/14 (5.9.2014.), akt 3 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/leIv8Rtc420=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
