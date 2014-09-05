@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O FORMIRANJU SAVJETA REGULACIONOG PLANA HISTORIJSKOG GRADSKOG PODRUČJA POČITELJ ZA PERIOD OD 2008. DO 2018. GODINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O FORMIRANJU SAVJETA REGULACIONOG PLANA HISTORIJSKOG GRADSKOG PODRUČJA POČITELJ ZA PERIOD OD 2008. DO 2018. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO PROSTORNOG UREĐENJA I OKOLINE.
+
+Službene novine Federacije BiH broj 72/14 (5.9.2014.), akt 45 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/leIv8Rtc420=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
