@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI ODLUKE O PROVOĐENJU MJERA ZA SMANJENJE TROŠKOVA ELEKTRIČNE ENERGIJE KUĆANSTVIMA I STIMULACIJI ENERGETSKE EFIKASNOSTI
+
+Naslov: ODLUKU O IZMJENI ODLUKE O PROVOĐENJU MJERA ZA SMANJENJE TROŠKOVA ELEKTRIČNE ENERGIJE KUĆANSTVIMA I STIMULACIJI ENERGETSKE EFIKASNOSTI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 75/14 (17.9.2014.), akt 8 od 106 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZIcUQP80E60=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
