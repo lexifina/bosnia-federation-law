@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA NABAVKU MOTORNIH VOZILA ZA RVI 100% I GRUPA U 2014. GODINI (SREDSTVA "TEKUĆE REZERVE")
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA NABAVKU MOTORNIH VOZILA ZA RVI 100% I GRUPA U 2014. GODINI (SREDSTVA "TEKUĆE REZERVE")
+
+Donosilac: FEDERALNO MINISTARSTVO ZA PITANJA BORACA/BRANITELJA I INVALIDA ODBRAMBENO-OSLOBODILAČKOG/DOMOVINSKOG RATA.
+
+Službene novine Federacije BiH broj 75/14 (17.9.2014.), akt 41 od 106 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZIcUQP80E60=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
