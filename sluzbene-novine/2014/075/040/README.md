@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU I USLOVIMA OSTVARIVANJA NOVČANE PODRŠKE PO MODELU POTICAJA PROIZVODNJI
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU I USLOVIMA OSTVARIVANJA NOVČANE PODRŠKE PO MODELU POTICAJA PROIZVODNJI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 75/14 (17.9.2014.), akt 40 od 106 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZIcUQP80E60=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
