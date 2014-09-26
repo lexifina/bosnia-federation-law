@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU PROGRAMA INVESTIRANJA PREOSTALIH SREDSTAVA NAPLAĆENIH IZDAVANJEM GSM LICENCE 2009., 2010. i 2011. GODINE ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O USVAJANJU PROGRAMA INVESTIRANJA PREOSTALIH SREDSTAVA NAPLAĆENIH IZDAVANJEM GSM LICENCE 2009., 2010. i 2011. GODINE ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 79/14 (26.9.2014.), akt 3 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/X2QrcYyxrlM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
