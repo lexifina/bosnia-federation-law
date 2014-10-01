@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA IZRADU IZMJENA I DOPUNA PRAVILNIKA O NAČINU POLAGANJA STRUČNOG ISPITA ZA ODREĐENE POSLOVE U OBLASTI RUDARSTVA
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA IZRADU IZMJENA I DOPUNA PRAVILNIKA O NAČINU POLAGANJA STRUČNOG ISPITA ZA ODREĐENE POSLOVE U OBLASTI RUDARSTVA
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 80/14 (1.10.2014.), akt 40 od 46 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YcISdDYM4lQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
