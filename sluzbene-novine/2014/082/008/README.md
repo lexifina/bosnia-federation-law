@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA ODLUKE O UTVRĐIVANJU LISTE PRIVREDNIH DRUŠTAVA U KOJIM OVLAŠTENJA PO OSNOVU UČEŠĆA DRŽAVNOG KAPITALA VRŠE ORGANI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O UTVRĐIVANJU LISTE PRIVREDNIH DRUŠTAVA U KOJIM OVLAŠTENJA PO OSNOVU UČEŠĆA DRŽAVNOG KAPITALA VRŠE ORGANI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 82/14 (8.10.2014.), akt 8 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/htj4dY4gASg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
