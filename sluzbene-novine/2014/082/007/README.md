@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANOVA KOORDINACIONOG TIJELA ZA PROVEDBU AKCIONOG PLANA ZA IMPLEMENTACIJU UNSCR 1325 U BOSNI I HERCEGOVINI ZA PERIOD 2014. - 2017. GODINE
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANOVA KOORDINACIONOG TIJELA ZA PROVEDBU AKCIONOG PLANA ZA IMPLEMENTACIJU UNSCR 1325 U BOSNI I HERCEGOVINI ZA PERIOD 2014. - 2017. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 82/14 (8.10.2014.), akt 7 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/htj4dY4gASg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
