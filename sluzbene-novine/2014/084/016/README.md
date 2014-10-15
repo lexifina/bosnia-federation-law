@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O USLOVIMA RASPOLAGANJA OBVEZNICAMA FEDERACIJE BOSNE I HERCEGOVINE PO OSNOVU RATNIH TRAŽBINA PRAVNIH LICA
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O USLOVIMA RASPOLAGANJA OBVEZNICAMA FEDERACIJE BOSNE I HERCEGOVINE PO OSNOVU RATNIH TRAŽBINA PRAVNIH LICA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 84/14 (15.10.2014.), akt 16 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/p3UePMsc0cc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
