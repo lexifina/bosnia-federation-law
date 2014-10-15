@@ -1,0 +1,11 @@
+# ODLUKU O ISPLATI TAKSE ZA USPOSTAVU REZERVI NAFTNIH DERIVATA KAO NAMJENSKOG PRIHODA U KORIST "OPERATORA-TERMINALI FEDERACIJE" D.O.O. SARAJEVO U 2014. GODINI
+
+Naslov: ODLUKU O ISPLATI TAKSE ZA USPOSTAVU REZERVI NAFTNIH DERIVATA KAO NAMJENSKOG PRIHODA U KORIST "OPERATORA-TERMINALI FEDERACIJE" D.O.O. SARAJEVO U 2014. GODINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 84/14 (15.10.2014.), akt 10 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/p3UePMsc0cc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
