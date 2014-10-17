@@ -1,0 +1,11 @@
+# RJEŠENJE IMENOVANJU KOMISIJE ZA POLAGANJE STRUČNOG ODGAJATELJSKOG ISPITA I STRUČNOG ISPITA STRAŽARA U FEDERALNIM USTANOVAMA ZA IZVRŠENJE KAZNE ZATVORA
+
+Naslov: RJEŠENJE IMENOVANJU KOMISIJE ZA POLAGANJE STRUČNOG ODGAJATELJSKOG ISPITA I STRUČNOG ISPITA STRAŽARA U FEDERALNIM USTANOVAMA ZA IZVRŠENJE KAZNE ZATVORA
+
+Donosilac: FEDERALNO MINISTARSTVO PRAVDE.
+
+Službene novine Federacije BiH broj 85/14 (17.10.2014.), akt 2 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CAohz4nh78h77hcS0ohz4nh78h77GqE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
