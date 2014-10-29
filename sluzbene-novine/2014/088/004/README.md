@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS OBAVEZA, POTRAŽIVANJA I BLAGAJNE, SA STANJEM NA DAN 31.12.2014. GODINE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS OBAVEZA, POTRAŽIVANJA I BLAGAJNE, SA STANJEM NA DAN 31.12.2014. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO ZA PITANJA BORACA/BRANITELJA I INVALIDA ODBRAMBENO-OSLOBODILAČKOG/DOMOVINSKOG RATA.
+
+Službene novine Federacije BiH broj 88/14 (29.10.2014.), akt 4 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nX6LZgpxzzg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
