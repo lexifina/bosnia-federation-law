@@ -1,0 +1,11 @@
+# RJEŠENJE O DOPUNI RJEŠENJA O IMENOVANJU KOMISIJE ZA VOĐENJE DRUGOSTEPENOG DISCIPLINSKOG POSTUPKA ZA NAMJEŠTENIKE FEDERALNIH ORGANA DRŽAVNE SLUŽBE
+
+Naslov: RJEŠENJE O DOPUNI RJEŠENJA O IMENOVANJU KOMISIJE ZA VOĐENJE DRUGOSTEPENOG DISCIPLINSKOG POSTUPKA ZA NAMJEŠTENIKE FEDERALNIH ORGANA DRŽAVNE SLUŽBE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 90/14 (5.11.2014.), akt 34 od 66 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Lrg35AIOOkI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
