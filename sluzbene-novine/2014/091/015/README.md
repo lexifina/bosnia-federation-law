@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI I DOPUNI ODLUKE O RASPISIVANJU JAVNOG KONKURSA ZA POSTAVLJENJE DIREKTORA FEDERALNE AGENCIJE ZA UPRAVLJANJE ODUZETOM IMOVINOM
+
+Naslov: ODLUKU O IZMJENI I DOPUNI ODLUKE O RASPISIVANJU JAVNOG KONKURSA ZA POSTAVLJENJE DIREKTORA FEDERALNE AGENCIJE ZA UPRAVLJANJE ODUZETOM IMOVINOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 91/14 (7.11.2014.), akt 15 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CPR5daaZQcw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
