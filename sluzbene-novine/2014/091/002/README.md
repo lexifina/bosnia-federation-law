@@ -1,0 +1,11 @@
+# UREDBU O USLOVIMA I NAČINU POLAGANJA STRUČNOG ARHIVISTIČKOG ISPITA I NAČINA STICANJA STRUČNIH ZVANJA U ARHIVISTIČKOJ STRUCI
+
+Naslov: UREDBU O USLOVIMA I NAČINU POLAGANJA STRUČNOG ARHIVISTIČKOG ISPITA I NAČINA STICANJA STRUČNIH ZVANJA U ARHIVISTIČKOJ STRUCI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 91/14 (7.11.2014.), akt 2 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CPR5daaZQcw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
