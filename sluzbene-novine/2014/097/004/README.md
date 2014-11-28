@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA ODLUKU O IZMJENI STATUTA FONDA ZA PROFESIONALNU REHABILITACIJU I ZAPOŠLJAVANJE OSOBA SA INVALIDITETOM
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA ODLUKU O IZMJENI STATUTA FONDA ZA PROFESIONALNU REHABILITACIJU I ZAPOŠLJAVANJE OSOBA SA INVALIDITETOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 97/14 (28.11.2014.), akt 4 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TMawcteosWw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
