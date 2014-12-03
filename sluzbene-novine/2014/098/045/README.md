@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O NAČINU, KRITERIJIMA I POSTUPKU USKLAĐIVANJA, OVJERI I REGISTRACIJI REDOVA VOŽNJE, TE SADRŽAJU I NAČINU VOĐENJA REGISTRA
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O NAČINU, KRITERIJIMA I POSTUPKU USKLAĐIVANJA, OVJERI I REGISTRACIJI REDOVA VOŽNJE, TE SADRŽAJU I NAČINU VOĐENJA REGISTRA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 98/14 (3.12.2014.), akt 45 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OXVWElMUSYk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
