@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA ODLUKE O UTVRĐIVANJU LISTE KORISNIKA I RASPODJELI DIJELA SREDSTAVA OSTVARENOG PROMETA LUTRIJE BOSNE I HERCEGOVINE ZA 2013. GODINU
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O UTVRĐIVANJU LISTE KORISNIKA I RASPODJELI DIJELA SREDSTAVA OSTVARENOG PROMETA LUTRIJE BOSNE I HERCEGOVINE ZA 2013. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 99/14 (5.12.2014.), akt 11 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/FEeWeTuUa1w=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
