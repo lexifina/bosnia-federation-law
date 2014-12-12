@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O POSTUPKU POLAGANJA I SADRŽAJU POSEBNOG STRUČNOG ISPITA ZA MATIČARA
+
+Naslov: PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O POSTUPKU POLAGANJA I SADRŽAJU POSEBNOG STRUČNOG ISPITA ZA MATIČARA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 101/14 (12.12.2014.), akt 32 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1wQIFi4hXSs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
