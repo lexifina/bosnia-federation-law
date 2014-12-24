@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS STALNIH SREDSTAVA I SITNOG INVENTARA, STANJA POTRAŽIVANJA I OBAVEZA I NOVČANIH SREDSTAVA U BLAGAJNI U 2014. GODINI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS STALNIH SREDSTAVA I SITNOG INVENTARA, STANJA POTRAŽIVANJA I OBAVEZA I NOVČANIH SREDSTAVA U BLAGAJNI U 2014. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 104/14 (24.12.2014.), akt 11 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hpUtfmKJxQ4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
