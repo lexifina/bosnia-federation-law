@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRENJU PRODAJE PUTNIČKIH VOZILA POREZNE UPRAVE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRENJU PRODAJE PUTNIČKIH VOZILA POREZNE UPRAVE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 105/14 (26.12.2014.), akt 35 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GCr52t0jlLg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
