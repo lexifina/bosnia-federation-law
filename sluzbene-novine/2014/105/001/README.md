@@ -1,0 +1,11 @@
+# UREDBU O DOPUNAMA UREDBE O SADRŽAJU, USLOVIMA, NAČINU I PROGRAMU POLAGANJA ISPITA U OBLASTI VATROGASTVA
+
+Naslov: UREDBU O DOPUNAMA UREDBE O SADRŽAJU, USLOVIMA, NAČINU I PROGRAMU POLAGANJA ISPITA U OBLASTI VATROGASTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 105/14 (26.12.2014.), akt 1 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GCr52t0jlLg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
