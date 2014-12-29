@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O NAČINU I USLOVIMA OSTVARIVANJA NOVČANE PODRŠKE PO MODELU OSTALIH VRSTA NOVČANIH PODRŠKI U POLJOPRIVREDI
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O NAČINU I USLOVIMA OSTVARIVANJA NOVČANE PODRŠKE PO MODELU OSTALIH VRSTA NOVČANIH PODRŠKI U POLJOPRIVREDI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 106/14 (29.12.2014.), akt 26 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZszQQuhoQr8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
