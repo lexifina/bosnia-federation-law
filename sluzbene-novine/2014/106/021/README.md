@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA TROGODIŠNJI PLAN POSLOVANJA JAVNOG PREDUZEĆA AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR ZA PERIOD 2015. - 2017. GODINA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA TROGODIŠNJI PLAN POSLOVANJA JAVNOG PREDUZEĆA AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR ZA PERIOD 2015. - 2017. GODINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 106/14 (29.12.2014.), akt 21 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZszQQuhoQr8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
