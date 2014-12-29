@@ -1,0 +1,11 @@
+# ODLUKU O FINANSIJSKOJ KONSOLIDACIJI PRIVREDNOG DRUŠTVA "OLIMP" D.D. GRAČANICA
+
+Naslov: ODLUKU O FINANSIJSKOJ KONSOLIDACIJI PRIVREDNOG DRUŠTVA "OLIMP" D.D. GRAČANICA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 106/14 (29.12.2014.), akt 7 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZszQQuhoQr8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
