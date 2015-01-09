@@ -1,0 +1,11 @@
+# PRAVILNIK O OBLIKU I SADRŽAJU ISKAZNICE I ZNAČKE FEDERALNOG INSPEKTORA U FEDERALNOJ UPRAVI ZA INSPEKCIJSKE POSLOVE
+
+Naslov: PRAVILNIK O OBLIKU I SADRŽAJU ISKAZNICE I ZNAČKE FEDERALNOG INSPEKTORA U FEDERALNOJ UPRAVI ZA INSPEKCIJSKE POSLOVE
+
+Donosilac: FEDERALNA UPRAVA ZA INSPEKCIJSKE POSLOVE.
+
+Službene novine Federacije BiH broj 1/15 (9.1.2015.), akt 8 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YX8Jf9TCi0c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
