@@ -1,0 +1,11 @@
+# RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA UPRAVNOG ODBORA JAVNE USTANOVE BOSANSKI KULTURNI CENTAR "ALIJA IZETBEGOVIĆ" KALESIJA
+
+Naslov: RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA UPRAVNOG ODBORA JAVNE USTANOVE BOSANSKI KULTURNI CENTAR "ALIJA IZETBEGOVIĆ" KALESIJA
+
+Donosilac: OPĆINA KALESIJA.
+
+Službene novine Federacije BiH broj 2/15 (14.1.2015.), akt 29 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/A7ZmbHhgztz5k76kjn45hmeY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
