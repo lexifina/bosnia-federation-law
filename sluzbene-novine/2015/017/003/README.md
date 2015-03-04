@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU IZMJENE PROGRAMA INVESTIRANJA SREDSTAVA NAPLAĆENIH IZDVAJANJEM GSM LICENCE ZA 2011. GODINU ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O USVAJANJU IZMJENE PROGRAMA INVESTIRANJA SREDSTAVA NAPLAĆENIH IZDVAJANJEM GSM LICENCE ZA 2011. GODINU ZA FEDERACIJU BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 17/15 (4.3.2015.), akt 3 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4trFHgztz5k76kjn45hhygfQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
