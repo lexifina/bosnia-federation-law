@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O MINIMALNIM TEHNIČKO-TEHNOLOŠKIM I KADROVSKIM USLOVIMA ZA PROIZVODNJU VINA I DRUGIH PROIZVODA OD GROŽĐA I VINA
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O MINIMALNIM TEHNIČKO-TEHNOLOŠKIM I KADROVSKIM USLOVIMA ZA PROIZVODNJU VINA I DRUGIH PROIZVODA OD GROŽĐA I VINA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 18/15 (6.3.2015.), akt 7 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/L3znKhyLaWw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
