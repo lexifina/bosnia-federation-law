@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O NAČINU, KRITERIJIMA I POSTUPKU ZA ODREĐIVANJE DALJINARA I MINIMALNIH VREMENA VOŽNJE
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O NAČINU, KRITERIJIMA I POSTUPKU ZA ODREĐIVANJE DALJINARA I MINIMALNIH VREMENA VOŽNJE
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 23/15 (25.3.2015.), akt 13 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/OuA8TInDZUM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
