@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA U 2015. GODINI
+
+Naslov: ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA U 2015. GODINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 31/15 (22.4.2015.), akt 7 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zk062URjvh4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
