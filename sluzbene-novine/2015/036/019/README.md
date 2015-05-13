@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA KORIŠTENJE SLUŽBENOG PUTNIČKOG AUTOMOBILA FEDERALNOM MINISTARSTVU FINANSIJA/FEDERALNOM MINISTARSTVU FINANCIJA
+
+Naslov: ODLUKU O DAVANJU NA KORIŠTENJE SLUŽBENOG PUTNIČKOG AUTOMOBILA FEDERALNOM MINISTARSTVU FINANSIJA/FEDERALNOM MINISTARSTVU FINANCIJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 36/15 (13.5.2015.), akt 19 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BSuGCkQEkl0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
