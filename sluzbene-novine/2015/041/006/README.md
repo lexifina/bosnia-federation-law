@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU NOVČANIH IZNOSA KOJI ĆE SE NAPLAĆIVATI TOKOM MJESECA OKTOBRA 2015. GODINE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE ZA "DJEČIJU NEDJELJU"
+
+Naslov: ODLUKU O UTVRĐIVANJU NOVČANIH IZNOSA KOJI ĆE SE NAPLAĆIVATI TOKOM MJESECA OKTOBRA 2015. GODINE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE ZA "DJEČIJU NEDJELJU"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 41/15 (29.5.2015.), akt 6 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3RCohz4nh78h778SN5WI8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
