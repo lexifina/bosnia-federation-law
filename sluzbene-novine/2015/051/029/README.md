@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U ZAJEDNIČKI UPRAVNI ODBOR UN-A I BIH ZA PROGRAM UN-A 2015-2019. ZA BOSNU I HERCEGOVINU
+
+Naslov: RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U ZAJEDNIČKI UPRAVNI ODBOR UN-A I BIH ZA PROGRAM UN-A 2015-2019. ZA BOSNU I HERCEGOVINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 51/15 (3.7.2015.), akt 29 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/siu1c58rYEg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
