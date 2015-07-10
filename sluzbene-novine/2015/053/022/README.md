@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2015. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2015. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 53/15 (10.7.2015.), akt 22 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/N0ZkFnHiHI8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
