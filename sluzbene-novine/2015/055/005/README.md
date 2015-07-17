@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O DAVANJU NA KORIŠTENJE DIJELA OBJEKTA U SARAJEVU, ULICA HAMDIJE KREŠEVLJAKOVIĆA BROJ 96, FEDERALNOM MINISTARSTVU PRAVDE
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O DAVANJU NA KORIŠTENJE DIJELA OBJEKTA U SARAJEVU, ULICA HAMDIJE KREŠEVLJAKOVIĆA BROJ 96, FEDERALNOM MINISTARSTVU PRAVDE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 55/15 (17.7.2015.), akt 5 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/j7561LgtoUM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
