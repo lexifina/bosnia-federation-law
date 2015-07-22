@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA SPORAZUM IZMEĐU SSRRFBIH, VLADE FEDERACIJE BOSNE I HERCEGOVINE I ELEKTROPRIVREDNIH KOMPANIJA U FEDERACIJI BiH
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA SPORAZUM IZMEĐU SSRRFBIH, VLADE FEDERACIJE BOSNE I HERCEGOVINE I ELEKTROPRIVREDNIH KOMPANIJA U FEDERACIJI BiH
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 56/15 (22.7.2015.), akt 8 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ehZI2QpCf6w=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
