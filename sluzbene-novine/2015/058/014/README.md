@@ -1,0 +1,11 @@
+# ODLUKU O POKRETANJU PROCEDURE RASPISIVANJA JAVNOG NATJEČAJA ZA IZBOR I IMENOVANJE NADZORNOG ODBORA "AGENCIJE ZA VODNO PODRUČJE RIJEKE SAVE" SARAJEVO
+
+Naslov: ODLUKU O POKRETANJU PROCEDURE RASPISIVANJA JAVNOG NATJEČAJA ZA IZBOR I IMENOVANJE NADZORNOG ODBORA "AGENCIJE ZA VODNO PODRUČJE RIJEKE SAVE" SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/15 (29.7.2015.), akt 14 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dLMhxybWAYE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
