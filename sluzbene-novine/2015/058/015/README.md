@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA TEKST JAVNOG KONKURSA ZA IZBOR I IMENOVANJE NA POZICIJE U NADZORNOM ODBORU "AGENCIJE ZA VODNO PODRUČJE RIJEKE SAVE" SARAJEVO - 3 ČLANA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA TEKST JAVNOG KONKURSA ZA IZBOR I IMENOVANJE NA POZICIJE U NADZORNOM ODBORU "AGENCIJE ZA VODNO PODRUČJE RIJEKE SAVE" SARAJEVO - 3 ČLANA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/15 (29.7.2015.), akt 15 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dLMhxybWAYE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
