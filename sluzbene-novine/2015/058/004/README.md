@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA VANSUDSKU NAGODBU ZA IZVRŠENJE FINANSIJSKOG POTRAŽIVANJA KOJE JE DOSUĐENO PRAVOSNAŽNOM SUDSKOM ODLUKOM MANDIĆ ZLATKU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA VANSUDSKU NAGODBU ZA IZVRŠENJE FINANSIJSKOG POTRAŽIVANJA KOJE JE DOSUĐENO PRAVOSNAŽNOM SUDSKOM ODLUKOM MANDIĆ ZLATKU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/15 (29.7.2015.), akt 4 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dLMhxybWAYE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
