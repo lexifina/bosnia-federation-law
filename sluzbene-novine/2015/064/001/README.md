@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 64/15 (21.8.2015.), akt 1 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yfS6LQtWkGE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
