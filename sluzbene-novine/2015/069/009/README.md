@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA JZU DOM ZDRAVLJA GRAČANICA
+
+Naslov: ODLUKU O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA JZU DOM ZDRAVLJA GRAČANICA
+
+Donosilac: JZU DOM ZDRAVLJA GRAČANICA.
+
+Službene novine Federacije BiH broj 69/15 (9.9.2015.), akt 9 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Xohz4nh78h77gztz5k76kjn45hRLiJkYJk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
