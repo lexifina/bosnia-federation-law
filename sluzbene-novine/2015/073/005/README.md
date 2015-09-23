@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA AKCIONI PLAN FEDERACIJE BOSNE I HERCEGOVINE ZA REALIZACIJU REFORMSKE AGENDE ZA BOSNU I HERCEGOVINU ZA PERIOD 2015 - 2018
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA AKCIONI PLAN FEDERACIJE BOSNE I HERCEGOVINE ZA REALIZACIJU REFORMSKE AGENDE ZA BOSNU I HERCEGOVINU ZA PERIOD 2015 - 2018
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 73/15 (23.9.2015.), akt 5 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hkgUNeXLqf0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
