@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2015. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PROSVJETA"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2015. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PROSVJETA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 78/15 (9.10.2015.), akt 6 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/87ze4lCeOAg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
