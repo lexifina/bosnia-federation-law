@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU ČLANOVA SAVJETA REGULACIONOG PLANA HISTORIJSKOG GRADSKOG PODRUČJA BLAGAJ ZA PERIOD 2011. DO 2021. GODINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU ČLANOVA SAVJETA REGULACIONOG PLANA HISTORIJSKOG GRADSKOG PODRUČJA BLAGAJ ZA PERIOD 2011. DO 2021. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO PROSTORNOG UREĐENJA I OKOLINE.
+
+Službene novine Federacije BiH broj 80/15 (16.10.2015.), akt 16 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MRESchHYlZ0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
