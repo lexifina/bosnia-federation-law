@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA MJESEČNU NETO PLAĆU VRŠIOCA DUŽNOSTI DIREKTORA PRIVREDNOG DRUŠTVA PS "VITEZIT" D.O.O. VITEZ
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA MJESEČNU NETO PLAĆU VRŠIOCA DUŽNOSTI DIREKTORA PRIVREDNOG DRUŠTVA PS "VITEZIT" D.O.O. VITEZ
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 81/15 (21.10.2015.), akt 13 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/baz8iVW4tFQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
