@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA NABAVKU ROBE - MEDICINSKE OPREME U CILJU OPREMANJA PROSTORA USTANOVE IZ DJELATNOSTI SOCIJALNE ZAŠTITE - LJUBUŠKI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA NABAVKU ROBE - MEDICINSKE OPREME U CILJU OPREMANJA PROSTORA USTANOVE IZ DJELATNOSTI SOCIJALNE ZAŠTITE - LJUBUŠKI
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 83/15 (28.10.2015.), akt 13 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4eZ2ofemJNY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
