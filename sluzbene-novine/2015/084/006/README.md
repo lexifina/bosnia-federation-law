@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O NAČINU, KRITERIJIMA I POSTUPKU USKLAĐIVANJA, OVJERI I REGISTRACIJI REDOVA VOŽNJE, TE SADRŽAJU I NAČINU VOĐENJA REGISTRA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O NAČINU, KRITERIJIMA I POSTUPKU USKLAĐIVANJA, OVJERI I REGISTRACIJI REDOVA VOŽNJE, TE SADRŽAJU I NAČINU VOĐENJA REGISTRA
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 84/15 (30.10.2015.), akt 6 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Jfe80GOglpM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
