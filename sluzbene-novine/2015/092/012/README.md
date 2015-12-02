@@ -1,0 +1,11 @@
+# ODLUKU O POKRETANJU PROCEDURE RASPISIVANJA JAVNOG OGLASA ZA IZBOR I IMENOVANJE TRI ČLANA NADZORNOG ODBORA U PRIVREDNOM DRUŠTVU JP "ŠUME HERCEG BOSNE" D.O.O. MOSTAR
+
+Naslov: ODLUKU O POKRETANJU PROCEDURE RASPISIVANJA JAVNOG OGLASA ZA IZBOR I IMENOVANJE TRI ČLANA NADZORNOG ODBORA U PRIVREDNOM DRUŠTVU JP "ŠUME HERCEG BOSNE" D.O.O. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 92/15 (2.12.2015.), akt 12 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/byTx2rStTBA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
