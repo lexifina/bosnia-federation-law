@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA MJESEČNU NAKNADU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA RUDNICI MRKOG UGLJA "BANOVIĆI" D.D. BANOVIĆI
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA MJESEČNU NAKNADU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA RUDNICI MRKOG UGLJA "BANOVIĆI" D.D. BANOVIĆI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 92/15 (2.12.2015.), akt 5 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/byTx2rStTBA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
