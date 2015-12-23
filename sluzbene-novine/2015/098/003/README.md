@@ -1,0 +1,11 @@
+# ODLUKU O PRENOSU NABAVLJENIH STALNIH SREDSTAVA U OKVIRU PROJEKTA "JAČANJA ZDRAVSTVENOG SEKTORA-DODATNO FINANSIRANJE" (HSEP AF), KRAJNJIM KORISNICIMA
+
+Naslov: ODLUKU O PRENOSU NABAVLJENIH STALNIH SREDSTAVA U OKVIRU PROJEKTA "JAČANJA ZDRAVSTVENOG SEKTORA-DODATNO FINANSIRANJE" (HSEP AF), KRAJNJIM KORISNICIMA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 98/15 (23.12.2015.), akt 3 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RVumfzHBtfk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
