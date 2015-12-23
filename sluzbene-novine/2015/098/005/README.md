@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANOVA NADZORNOG ODBORA PROJEKTA PODRŠKE MREŽAMA SOCIJALNE SIGURNOSTI I ZAPOŠLJAVANJA (SSNESP) U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANOVA NADZORNOG ODBORA PROJEKTA PODRŠKE MREŽAMA SOCIJALNE SIGURNOSTI I ZAPOŠLJAVANJA (SSNESP) U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 98/15 (23.12.2015.), akt 5 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RVumfzHBtfk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
