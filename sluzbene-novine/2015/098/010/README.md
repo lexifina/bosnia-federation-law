@@ -1,0 +1,11 @@
+# PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O IZGLEDU I SADRŽAJU IDENTIFIKACIJSKE KARTICE ZA ČLANOVE VLADE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O PRESTANKU VAŽENJA PRAVILNIKA O IZGLEDU I SADRŽAJU IDENTIFIKACIJSKE KARTICE ZA ČLANOVE VLADE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 98/15 (23.12.2015.), akt 10 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RVumfzHBtfk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
