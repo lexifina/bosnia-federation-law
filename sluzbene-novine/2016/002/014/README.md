@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC ZA IMENOVANJE VRŠIOCA DUŽNOSTI DIREKTORA DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC ZA IMENOVANJE VRŠIOCA DUŽNOSTI DIREKTORA DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 2/16 (13.1.2016.), akt 14 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/UkQRT13Q8VY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
