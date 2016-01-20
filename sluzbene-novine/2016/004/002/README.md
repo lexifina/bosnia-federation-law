@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA IMENOVANJE VRŠILACA DUŽNOSTI ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "BH-GAS" D.O.O. SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA IMENOVANJE VRŠILACA DUŽNOSTI ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "BH-GAS" D.O.O. SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 4/16 (20.1.2016.), akt 2 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/17pEQnudWG8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
