@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O FINANSIJSKOM IZVJEŠTAVANJU I GODIŠNJEM OBRAČUNU BUDŽETA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O FINANSIJSKOM IZVJEŠTAVANJU I GODIŠNJEM OBRAČUNU BUDŽETA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 4/16 (20.1.2016.), akt 22 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/17pEQnudWG8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
