@@ -1,0 +1,11 @@
+# UREDBU O USLOVIMA, KRITERIJIMA I POSTUPKU ZAPOŠLJAVANJA I RAZRJEŠENJA LICA KOJA NISU DRŽAVNI SLUŽBENICI U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: UREDBU O USLOVIMA, KRITERIJIMA I POSTUPKU ZAPOŠLJAVANJA I RAZRJEŠENJA LICA KOJA NISU DRŽAVNI SLUŽBENICI U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 9/16 (5.2.2016.), akt 4 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/buPoFB8zcNM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
