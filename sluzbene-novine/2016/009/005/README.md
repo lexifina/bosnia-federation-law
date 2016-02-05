@@ -1,0 +1,11 @@
+# UREDBU O IZMJENAMA UREDBE O NAKNADAMA KOJE PRIPADAJU ČLANOVIMA VLADE FEDERACIJE BOSNE I HERCEGOVINE I NJIHOVIM SAVJETNICIMA KOJE NEMAJU KARAKTER PLAĆE
+
+Naslov: UREDBU O IZMJENAMA UREDBE O NAKNADAMA KOJE PRIPADAJU ČLANOVIMA VLADE FEDERACIJE BOSNE I HERCEGOVINE I NJIHOVIM SAVJETNICIMA KOJE NEMAJU KARAKTER PLAĆE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 9/16 (5.2.2016.), akt 5 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/buPoFB8zcNM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
