@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE GRANTA BR.TF0A0656 MEĐUNARODNE BANKE ZA OBNOVU I RAZVOJ (PROJEKT ZA JAČANJE FINANSIJSKOG UPRAVLJANJA I KONTROLE)
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRIHVATANJE GRANTA BR.TF0A0656 MEĐUNARODNE BANKE ZA OBNOVU I RAZVOJ (PROJEKT ZA JAČANJE FINANSIJSKOG UPRAVLJANJA I KONTROLE)
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 12/16 (17.2.2016.), akt 12 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hohz4nh78h772ur3ohz4nh78h77OxEM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
