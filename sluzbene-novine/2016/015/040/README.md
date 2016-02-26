@@ -1,0 +1,11 @@
+# PRAVILNIK O IZDAVANJU DOZVOLA ZA RAD (LICENCI) ZA OBAVLJANJE ENERGETSKIH DJELATNOSTI IZ SEKTORA NAFTNE PRIVREDE
+
+Naslov: PRAVILNIK O IZDAVANJU DOZVOLA ZA RAD (LICENCI) ZA OBAVLJANJE ENERGETSKIH DJELATNOSTI IZ SEKTORA NAFTNE PRIVREDE
+
+Donosilac: REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU U FEDERACIJI BOSNE I HERCEGOVINE - FERK.
+
+Službene novine Federacije BiH broj 15/16 (26.2.2016.), akt 40 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9OUA4VNr1wA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
