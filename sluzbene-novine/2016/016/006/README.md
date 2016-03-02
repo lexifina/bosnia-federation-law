@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "ENERGOINVEST" D.D. SARAJEVO ZA DONOŠENJE ODLUKE O RAZRJEŠENJU DIREKTORA DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "ENERGOINVEST" D.D. SARAJEVO ZA DONOŠENJE ODLUKE O RAZRJEŠENJU DIREKTORA DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/16 (2.3.2016.), akt 6 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pGIYR8bsFGQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
