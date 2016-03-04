@@ -1,0 +1,11 @@
+# ODLUKA O UTVRĐIVANJU STANDARDNIH UVJETA ZA KORIŠTENJE LICENCE ZA OBAVLJANJE DJELATNOSTI MEĐUNARODNE TRGOVINE ELEKTRIČNOM ENERGIJOM
+
+Naslov: ODLUKA O UTVRĐIVANJU STANDARDNIH UVJETA ZA KORIŠTENJE LICENCE ZA OBAVLJANJE DJELATNOSTI MEĐUNARODNE TRGOVINE ELEKTRIČNOM ENERGIJOM
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službene novine Federacije BiH broj 17/16 (4.3.2016.), akt 31 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vebEt1iIGn8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
