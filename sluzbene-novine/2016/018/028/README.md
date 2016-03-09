@@ -1,0 +1,11 @@
+# ODLUKU O ISPLATI AKONTACIJE JEDNOKRATNE NOVČANE POMOĆI OPĆINI PALE FBiH
+
+Naslov: ODLUKU O ISPLATI AKONTACIJE JEDNOKRATNE NOVČANE POMOĆI OPĆINI PALE FBiH
+
+Donosilac: FED. UPRAVA CIVILNE ZAŠTITE.
+
+Službene novine Federacije BiH broj 18/16 (9.3.2016.), akt 28 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9ZC0vGSWkbQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
