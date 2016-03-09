@@ -1,0 +1,11 @@
+# UPUTSTVO O PRIMJENI PRAVILNIKA O NAČINU VOĐENJA REGISTRA TESTAMENATA I DRUGIH NASLJEDNOPRAVNIH POSLOVA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: UPUTSTVO O PRIMJENI PRAVILNIKA O NAČINU VOĐENJA REGISTRA TESTAMENATA I DRUGIH NASLJEDNOPRAVNIH POSLOVA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO PRAVDE.
+
+Službene novine Federacije BiH broj 18/16 (9.3.2016.), akt 20 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9ZC0vGSWkbQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
