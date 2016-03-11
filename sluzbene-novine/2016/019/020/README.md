@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O FORMIRANJU KOORDINACIJSKOG TIMA VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA PITANJA EVROPSKIH INTEGRACIJA
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O FORMIRANJU KOORDINACIJSKOG TIMA VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA PITANJA EVROPSKIH INTEGRACIJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 19/16 (11.3.2016.), akt 20 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/J3Lohz4nh78h77ZBI47q0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
