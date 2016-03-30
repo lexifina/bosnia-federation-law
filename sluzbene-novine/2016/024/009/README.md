@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRIJEDLOG UGOVORA O SAVJETOVANJU IZMEĐU VLADE FEDERACIJE BOSNE I HERCEGOVINE I MEĐUNARODNE FINANSIJSKE KORPORACIJE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRIJEDLOG UGOVORA O SAVJETOVANJU IZMEĐU VLADE FEDERACIJE BOSNE I HERCEGOVINE I MEĐUNARODNE FINANSIJSKE KORPORACIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 24/16 (30.3.2016.), akt 9 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CvytcThPbuU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
