@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 26. SKUPŠTINI JP AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 26. SKUPŠTINI JP AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 26/16 (6.4.2016.), akt 17 od 47 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lzgztz5k76kjn45hxgztz5k76kjn45hwx7IVQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
