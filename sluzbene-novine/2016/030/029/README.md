@@ -1,0 +1,11 @@
+# ODLUKU O RASPISIVANJU JAVNOG OGLASA ZA IZBOR I IMENOVANJE ČLANOVA NADZORNOG ODBORA FEDERALNOG ZAVODA ZA PENZIJSKO I INVALIDSKO OSIGURANJE
+
+Naslov: ODLUKU O RASPISIVANJU JAVNOG OGLASA ZA IZBOR I IMENOVANJE ČLANOVA NADZORNOG ODBORA FEDERALNOG ZAVODA ZA PENZIJSKO I INVALIDSKO OSIGURANJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 30/16 (20.4.2016.), akt 29 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vohz4nh78h771FxNVUSoM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
