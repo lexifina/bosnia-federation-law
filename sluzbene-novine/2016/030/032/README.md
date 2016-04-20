@@ -1,0 +1,11 @@
+# ODLUKU O PRISTUPANJU REALIZACIJI PROJEKTA IZGRADNJE DIONICE AUTOCESTE DRIVUŠA - DONJA GRAČANICA PODDIONICA KLOPČE - DONJA GRAČANICA (IZLAZ IZ TUNELA PEČUJ) NA KORIDORU Vc
+
+Naslov: ODLUKU O PRISTUPANJU REALIZACIJI PROJEKTA IZGRADNJE DIONICE AUTOCESTE DRIVUŠA - DONJA GRAČANICA PODDIONICA KLOPČE - DONJA GRAČANICA (IZLAZ IZ TUNELA PEČUJ) NA KORIDORU Vc
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 30/16 (20.4.2016.), akt 32 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vohz4nh78h771FxNVUSoM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
