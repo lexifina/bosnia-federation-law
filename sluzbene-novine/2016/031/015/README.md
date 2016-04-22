@@ -1,0 +1,11 @@
+# RJEŠENJE O PRIVREMENOM IMENOVANJU ČLANA UPRAVNOG ODBORA ZAVODA ZDRAVSTVENOG OSIGURANJA I REOSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O PRIVREMENOM IMENOVANJU ČLANA UPRAVNOG ODBORA ZAVODA ZDRAVSTVENOG OSIGURANJA I REOSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 31/16 (22.4.2016.), akt 15 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZGTBrWWLU1Y=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
