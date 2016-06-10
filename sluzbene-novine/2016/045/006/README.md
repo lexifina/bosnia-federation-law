@@ -1,0 +1,11 @@
+# ODLUKU O IZBORU I IMENOVANJU ČLANOVA NADZORNOG ODBORA "TRŽNICE - PIJACE" D.O.O. ZA USLUGE I TRGOVINU TUZLA ISPRED DRŽAVNOG KAPITALA I ČLANA NADZORNOG ODBORA ISPRED PRIVATNOG KAPITALA
+
+Naslov: ODLUKU O IZBORU I IMENOVANJU ČLANOVA NADZORNOG ODBORA "TRŽNICE - PIJACE" D.O.O. ZA USLUGE I TRGOVINU TUZLA ISPRED DRŽAVNOG KAPITALA I ČLANA NADZORNOG ODBORA ISPRED PRIVATNOG KAPITALA
+
+Donosilac: KJKP "TRŽNICE PIJACE" D.O.O. SARAJEVO.
+
+Službene novine Federacije BiH broj 45/16 (10.6.2016.), akt 6 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cOu62gcTloQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
