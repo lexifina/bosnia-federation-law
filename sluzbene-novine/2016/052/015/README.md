@@ -1,0 +1,11 @@
+# ODLUKU O ZABRANI ODNOSNO OGRANIČENJU UVOZA, PROIZVODNJE, PROMETA I UPOTREBE ODREĐENIH OPASNIH INDUSTRIJSKIH HEMIKALIJA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ZABRANI ODNOSNO OGRANIČENJU UVOZA, PROIZVODNJE, PROMETA I UPOTREBE ODREĐENIH OPASNIH INDUSTRIJSKIH HEMIKALIJA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 52/16 (6.7.2016.), akt 15 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oLnrdybzSUc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
