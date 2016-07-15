@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC ZA IMENOVANJE ČLANOVA UPRAVE PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC ZA IMENOVANJE ČLANOVA UPRAVE PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 55/16 (15.7.2016.), akt 3 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BgswTQnoJVY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
