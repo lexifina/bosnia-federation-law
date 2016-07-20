@@ -1,0 +1,11 @@
+# RJEŠENJE O PRIJEDLOGU ZA IMENOVANJE ČLANA UPRAVNOG ODBORA MEMORIJALNOG CENTRA SREBRENICA-POTOČARI SPOMEN OBILJEŽJE I MEZARJE ZA ŽRTVE GENOCIDA IZ 1995. GODINE
+
+Naslov: RJEŠENJE O PRIJEDLOGU ZA IMENOVANJE ČLANA UPRAVNOG ODBORA MEMORIJALNOG CENTRA SREBRENICA-POTOČARI SPOMEN OBILJEŽJE I MEZARJE ZA ŽRTVE GENOCIDA IZ 1995. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 56/16 (20.7.2016.), akt 14 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JBMHhgztz5k76kjn45hsow0U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
