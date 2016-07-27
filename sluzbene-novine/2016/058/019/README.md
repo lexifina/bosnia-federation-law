@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O UTVRĐIVANJU REPREZENTATIVNOSTI UDRUŽENJA POSLODAVACA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O UTVRĐIVANJU REPREZENTATIVNOSTI UDRUŽENJA POSLODAVACA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 58/16 (27.7.2016.), akt 19 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gPHaSZh43uI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
