@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU RADNE GRUPE ZA IZRADU PREDNACRTA ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O RUDARSTVU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU RADNE GRUPE ZA IZRADU PREDNACRTA ZAKONA O IZMJENAMA I DOPUNAMA ZAKONA O RUDARSTVU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 75/16 (23.9.2016.), akt 11 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7NYwPcbvSdk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
