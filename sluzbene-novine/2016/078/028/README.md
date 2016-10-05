@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA LOVNO-GOSPODARSKU OSNOVU ZA LOVIŠTE "BUKOVIK"
+
+Naslov: RJEŠENJE O OBRAZOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA LOVNO-GOSPODARSKU OSNOVU ZA LOVIŠTE "BUKOVIK"
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 78/16 (5.10.2016.), akt 28 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3T92478rQ1U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
