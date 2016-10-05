@@ -1,0 +1,11 @@
+# KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA U OBLASTI PROMETA ZA TERITORIJU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA U OBLASTI PROMETA ZA TERITORIJU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: SKUPŠTINA KANTONA SARAJEVO.
+
+Službene novine Federacije BiH broj 78/16 (5.10.2016.), akt 33 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3T92478rQ1U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
