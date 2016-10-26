@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE JEDNOG ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "ENERGOINVEST" D.D. SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE JEDNOG ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "ENERGOINVEST" D.D. SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 84/16 (26.10.2016.), akt 9 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lfohz4nh78h773DWKgKzE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
