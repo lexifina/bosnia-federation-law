@@ -1,0 +1,11 @@
+# PRAVILNIK O POSTUPKU, DOKAZNIM SREDSTVIMA I NAČINU UPISA DRŽAVLJANSTVA FEDERACIJE BOSNE I HERCEGOVINE U MATIČNU KNJIGU ROĐENIH I MATIČNU KNJIGU DRŽAVLJANA
+
+Naslov: PRAVILNIK O POSTUPKU, DOKAZNIM SREDSTVIMA I NAČINU UPISA DRŽAVLJANSTVA FEDERACIJE BOSNE I HERCEGOVINE U MATIČNU KNJIGU ROĐENIH I MATIČNU KNJIGU DRŽAVLJANA
+
+Donosilac: FEDERALNO MINISTARSTVO UNUTRAŠNJIH/UNUTARNJIH POSLOVA.
+
+Službene novine Federacije BiH broj 85/16 (28.10.2016.), akt 2 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kTyeibByu1o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
