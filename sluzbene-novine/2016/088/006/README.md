@@ -1,0 +1,11 @@
+# RJEŠENJE O DOPUNI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA IZRADU NACRTA ZAKONA IZ OBLASTI TURIZMA I UGOSTITELJSTVA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O DOPUNI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA IZRADU NACRTA ZAKONA IZ OBLASTI TURIZMA I UGOSTITELJSTVA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 88/16 (9.11.2016.), akt 6 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oohz4nh78h77ChFNRLf40=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
