@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOORDINACIONOG TIJELA ZA PRAĆENJE IMPLEMENTACIJE PRAVILNIKA O UPRAVLJANJU AMBALAŽOM I AMBALAŽNIM OTPADOM
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOORDINACIONOG TIJELA ZA PRAĆENJE IMPLEMENTACIJE PRAVILNIKA O UPRAVLJANJU AMBALAŽOM I AMBALAŽNIM OTPADOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 90/16 (16.11.2016.), akt 11 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/j8tPEDNJnA8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
