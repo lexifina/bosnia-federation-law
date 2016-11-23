@@ -1,0 +1,11 @@
+# ODLUKU O PRIHVATANJU IZVJEŠTAJA O RADU AGENCIJE ZA REVIZIJU PRIVATIZACIJE U FEDERACIJI BOSNE I HERCEGOVINE ZA PERIOD JANUAR - JUNI 2016. GODINE
+
+Naslov: ODLUKU O PRIHVATANJU IZVJEŠTAJA O RADU AGENCIJE ZA REVIZIJU PRIVATIZACIJE U FEDERACIJI BOSNE I HERCEGOVINE ZA PERIOD JANUAR - JUNI 2016. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 93/16 (23.11.2016.), akt 13 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NHer301m2w0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
