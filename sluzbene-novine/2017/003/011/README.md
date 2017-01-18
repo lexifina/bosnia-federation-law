@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU NADZORNOG ODBORA JP HRVATSKE TELEKOMUNIKACIJE D.D. MOSTAR O DAVANJU SAGLASNOSTI ZA SPONZORISANJE NK ŠIROKI BRIJEG
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU NADZORNOG ODBORA JP HRVATSKE TELEKOMUNIKACIJE D.D. MOSTAR O DAVANJU SAGLASNOSTI ZA SPONZORISANJE NK ŠIROKI BRIJEG
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 3/17 (18.1.2017.), akt 11 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mvy4xk0gEX0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
