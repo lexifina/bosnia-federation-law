@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2017. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2017. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 3/17 (18.1.2017.), akt 27 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mvy4xk0gEX0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
