@@ -1,0 +1,11 @@
+# KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA U OBLASTI ZDRAVSTVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA U OBLASTI ZDRAVSTVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: NEZAVISNI STRUKOVNI SINDIKAT RADNIKA ZAPOSLENIH U ZDRAVSTVU U FBIH.
+
+Službene novine Federacije BiH broj 12/17 (17.2.2017.), akt 18 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/efgztz5k76kjn45hEkZzvIOs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
