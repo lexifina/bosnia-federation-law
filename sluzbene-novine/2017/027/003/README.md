@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA ODLUKE O DAVANJU NA KORIŠTENJE PUTNIČKOG MOTORNOG VOZILA SLUŽBI ZA ZAJEDNIČKE POSLOVE ORGANA I TIJELA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O DAVANJU NA KORIŠTENJE PUTNIČKOG MOTORNOG VOZILA SLUŽBI ZA ZAJEDNIČKE POSLOVE ORGANA I TIJELA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 27/17 (12.4.2017.), akt 3 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LYoR55uUu6k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
