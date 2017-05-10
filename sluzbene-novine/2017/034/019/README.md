@@ -1,0 +1,11 @@
+# ODLUKU O DOPUNI PRAVILA O UTVRĐIVANJU NAKNADA ZA KONCESIJE
+
+Naslov: ODLUKU O DOPUNI PRAVILA O UTVRĐIVANJU NAKNADA ZA KONCESIJE
+
+Donosilac: KOMISIJA ZA KONCESIJE FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 34/17 (10.5.2017.), akt 19 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tGm9EuvmCgztz5k76kjn45hQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
