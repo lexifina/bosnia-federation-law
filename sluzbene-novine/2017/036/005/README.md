@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP AUTOCESTE FBiH D.O.O. MOSTAR ZA DONOŠENJE ODLUKE O IMENOVANJU ČLANOVA UPRAVE DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP AUTOCESTE FBiH D.O.O. MOSTAR ZA DONOŠENJE ODLUKE O IMENOVANJU ČLANOVA UPRAVE DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 36/17 (17.5.2017.), akt 5 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/938QtqLBVohz4nh78h77Y=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
