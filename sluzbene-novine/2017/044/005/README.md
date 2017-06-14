@@ -1,0 +1,11 @@
+# PRAVILNIK O TEHNIČKIM SVOJSTVIMA GRAĐEVINSKIH PROIZVODA KOJI SE PROJEKTUJU I UGRAĐUJU U SISTEM ODVODNJE I PROČIŠĆAVANJA OBORINSKIH I OTPADNIH VODA
+
+Naslov: PRAVILNIK O TEHNIČKIM SVOJSTVIMA GRAĐEVINSKIH PROIZVODA KOJI SE PROJEKTUJU I UGRAĐUJU U SISTEM ODVODNJE I PROČIŠĆAVANJA OBORINSKIH I OTPADNIH VODA
+
+Donosilac: FEDERALNO MINISTARSTVO PROSTORNOG UREĐENJA I OKOLINE.
+
+Službene novine Federacije BiH broj 44/17 (14.6.2017.), akt 5 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xmGohz4nh78h77Vy2YwCo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
