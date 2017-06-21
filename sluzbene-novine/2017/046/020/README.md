@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRENJU INDIKATIVNOG PLANA RAZVOJA PROIZVODNJE ZA PERIOD 2018 – 2027. GODINA
+
+Naslov: ODLUKU O ODOBRENJU INDIKATIVNOG PLANA RAZVOJA PROIZVODNJE ZA PERIOD 2018 – 2027. GODINA
+
+Donosilac: DRŽAVNA REGULATORNA KOMISIJA ZA ELEKTRIČNU ENERGIJU - DERK.
+
+Službene novine Federacije BiH broj 46/17 (21.6.2017.), akt 20 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bmupizd6UT4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
