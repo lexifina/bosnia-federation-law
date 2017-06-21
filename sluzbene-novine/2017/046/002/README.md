@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA PRESTRUKTUIRANJE RASPOLOŽIVIH NOVČANIH SREDSTAVA OD STRANE JP "BH POŠTA" D.O.O. SARAJEVO FEDERALNOM ZAVODU PIO/MIO MOSTAR
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA PRESTRUKTUIRANJE RASPOLOŽIVIH NOVČANIH SREDSTAVA OD STRANE JP "BH POŠTA" D.O.O. SARAJEVO FEDERALNOM ZAVODU PIO/MIO MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 46/17 (21.6.2017.), akt 2 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bmupizd6UT4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
