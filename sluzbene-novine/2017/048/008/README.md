@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA ŽELJEZARA "ZENICA" D.O.O. ZENICA
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA ŽELJEZARA "ZENICA" D.O.O. ZENICA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 48/17 (28.6.2017.), akt 8 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/C430ewh7OFI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
