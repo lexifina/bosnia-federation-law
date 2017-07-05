@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNOG ZAVODA ZA POLJOPRIVREDU SARAJEVO
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNOG ZAVODA ZA POLJOPRIVREDU SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/17 (5.7.2017.), akt 4 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vAk1MphdesE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
