@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE ZEMLJIŠTA I PRIPADAJUĆIH OBJEKATA FARME JASENICE BRANITELJSKO POLJOPRIVREDNOJ ZADRUZI MASLINA
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE ZEMLJIŠTA I PRIPADAJUĆIH OBJEKATA FARME JASENICE BRANITELJSKO POLJOPRIVREDNOJ ZADRUZI MASLINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 51/17 (7.7.2017.), akt 2 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hOr2rpH18QQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
