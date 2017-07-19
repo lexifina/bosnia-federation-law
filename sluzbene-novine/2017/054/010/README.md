@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU INTERRESORNE RADNE GRUPE ZA IZRADU TEKSTA ZAKONA O JAVNO-PRIVATNOM PARTNERSTVU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU INTERRESORNE RADNE GRUPE ZA IZRADU TEKSTA ZAKONA O JAVNO-PRIVATNOM PARTNERSTVU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 54/17 (19.7.2017.), akt 10 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fohz4nh78h77ZtwVXxqIw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
