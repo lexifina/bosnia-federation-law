@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE ANEKSA 2. UGOVORA O KONCESIJI ZA EKSPLOATACIJU IZVORA TERMALNE VODE BANJE "SANSKA ILIDŽA" U SANSKOM MOSTU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE ANEKSA 2. UGOVORA O KONCESIJI ZA EKSPLOATACIJU IZVORA TERMALNE VODE BANJE "SANSKA ILIDŽA" U SANSKOM MOSTU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 55/17 (21.7.2017.), akt 6 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/n84ohz4nh78h77XKWsD6c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
