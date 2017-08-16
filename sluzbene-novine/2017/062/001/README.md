@@ -1,0 +1,11 @@
+# ODLUKU O PONIŠTENJU ODLUKE O RASPISIVANJU JAVNOG NATJEČAJA ZA IZBOR I IMENOVANJE ČLANOVA KOMISIJE ZA VRIJEDNOSNE PAPIRE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PONIŠTENJU ODLUKE O RASPISIVANJU JAVNOG NATJEČAJA ZA IZBOR I IMENOVANJE ČLANOVA KOMISIJE ZA VRIJEDNOSNE PAPIRE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: PREDSJEDNIK FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 62/17 (16.8.2017.), akt 1 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ydsydws36qw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
