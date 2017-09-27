@@ -1,0 +1,11 @@
+# UPUTSTVO O SADRŽAJU I VRŠENJU PARLAMENTARNOG NADZORA NAD ZAKONITOŠĆU RADA FEDERALNOG MINISTARSTVA UNUTRAŠNJIH POSLOVA I FEDERALNE UPRAVE POLICIJE
+
+Naslov: UPUTSTVO O SADRŽAJU I VRŠENJU PARLAMENTARNOG NADZORA NAD ZAKONITOŠĆU RADA FEDERALNOG MINISTARSTVA UNUTRAŠNJIH POSLOVA I FEDERALNE UPRAVE POLICIJE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 73/17 (27.9.2017.), akt 1 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gMm98jtd1aA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
