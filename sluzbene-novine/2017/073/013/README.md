@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U ZAJEDNIČKU EKONOMSKU KOMISIJU IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE TURSKE
+
+Naslov: RJEŠENJE O IMENOVANJU PREDSTAVNIKA VLADE FEDERACIJE BOSNE I HERCEGOVINE U ZAJEDNIČKU EKONOMSKU KOMISIJU IZMEĐU BOSNE I HERCEGOVINE I REPUBLIKE TURSKE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 73/17 (27.9.2017.), akt 13 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gMm98jtd1aA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
