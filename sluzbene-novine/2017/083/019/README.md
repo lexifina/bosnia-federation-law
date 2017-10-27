@@ -1,0 +1,11 @@
+# ODLUKU O RAZRJEŠENJU GUTLIĆ NIHADA SA FUNKCIJE VRŠIOCA DUŽNOSTI DIREKTORA JP "GRADSKO GROBLJE" D.O.O. ZENICA I IMENOVANJU SARAJLIĆ ALMIRA ZA DIREKTORA JP "GRADSKO GROBLJE" D.O.O. ZENICA
+
+Naslov: ODLUKU O RAZRJEŠENJU GUTLIĆ NIHADA SA FUNKCIJE VRŠIOCA DUŽNOSTI DIREKTORA JP "GRADSKO GROBLJE" D.O.O. ZENICA I IMENOVANJU SARAJLIĆ ALMIRA ZA DIREKTORA JP "GRADSKO GROBLJE" D.O.O. ZENICA
+
+Donosilac: JP "GRADSKO GROBLJE" D.O.O. ZENICA.
+
+Službene novine Federacije BiH broj 83/17 (27.10.2017.), akt 19 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/P2ZnlAvCnKE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
