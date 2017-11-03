@@ -1,0 +1,11 @@
+# RJEŠENJE O OBRAZOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA LOVNOPRIVREDNU OSNOVU ZA LOVIŠTE "ORMANJ"
+
+Naslov: RJEŠENJE O OBRAZOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA LOVNOPRIVREDNU OSNOVU ZA LOVIŠTE "ORMANJ"
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 85/17 (3.11.2017.), akt 15 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sQ28hVhB0qE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
