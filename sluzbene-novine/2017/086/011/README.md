@@ -1,0 +1,11 @@
+# POPIS LIJEKOVA KOJIMA JE IZDATA DOZVOLA ZA STAVLJANJE U PROMET NA TRŽIŠTE BOSNE I HERCEGOVINE
+
+Naslov: POPIS LIJEKOVA KOJIMA JE IZDATA DOZVOLA ZA STAVLJANJE U PROMET NA TRŽIŠTE BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA LIJEKOVE I MEDICINSKA SREDSTVA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 86/17 (8.11.2017.), akt 11 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VndjsJEGL7g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
