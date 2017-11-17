@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNOG PROSTORA U MOSTARU, ULICA BRUNE BUŠIĆA BB, UDRUZI DRAGOVOLJACA I VETERANA DOMOVINSKOG RATA HR H-B MOSTAR
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNOG PROSTORA U MOSTARU, ULICA BRUNE BUŠIĆA BB, UDRUZI DRAGOVOLJACA I VETERANA DOMOVINSKOG RATA HR H-B MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 89/17 (17.11.2017.), akt 14 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zxgztz5k76kjn45h8KbAuh7c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
