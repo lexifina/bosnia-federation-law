@@ -1,0 +1,11 @@
+# SPORAZUM O PRODUŽENJU PRIMJENE KOLEKTIVNOG UGOVORA ZA DJELATNOST DRVNE I PAPIRNE INDUSTRIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: SPORAZUM O PRODUŽENJU PRIMJENE KOLEKTIVNOG UGOVORA ZA DJELATNOST DRVNE I PAPIRNE INDUSTRIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: SAMOSTALNI SINDIKAT ŠUMARSTVA, PRERADE DRVETA I PAPIRA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 92/17 (29.11.2017.), akt 22 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77KG7b5j2P5s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
