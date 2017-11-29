@@ -1,0 +1,11 @@
+# UPUTSTVO O IZMJENI UPUTSTVA O PROVEDBI MJERA ZA OTKLANJANJE I SPRJEČAVANJE ZARAZNIH I PARAZITARNIH BOLESTI ŽIVOTINJA ZA 2017. GODINU
+
+Naslov: UPUTSTVO O IZMJENI UPUTSTVA O PROVEDBI MJERA ZA OTKLANJANJE I SPRJEČAVANJE ZARAZNIH I PARAZITARNIH BOLESTI ŽIVOTINJA ZA 2017. GODINU
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 92/17 (29.11.2017.), akt 13 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77KG7b5j2P5s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
