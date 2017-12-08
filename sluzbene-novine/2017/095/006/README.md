@@ -1,0 +1,11 @@
+# SMJERNICE ZA PROCJENU RIZIKA I PROVOĐENJE ZAKONA O SPREČAVANJU PRANJA NOVCA I FINANSIRANJA TERORISTIČKIH AKTIVNOSTI U OBLASTI OSIGURANJA
+
+Naslov: SMJERNICE ZA PROCJENU RIZIKA I PROVOĐENJE ZAKONA O SPREČAVANJU PRANJA NOVCA I FINANSIRANJA TERORISTIČKIH AKTIVNOSTI U OBLASTI OSIGURANJA
+
+Donosilac: AGENCIJA ZA NADZOR OSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 95/17 (8.12.2017.), akt 6 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/iamMjVYF3Vs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
