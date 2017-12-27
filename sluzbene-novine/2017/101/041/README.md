@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROVOĐENJU ZAKONA O ZAŠTITI LIČNIH PODATAKA U AGENCIJI ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROVOĐENJU ZAKONA O ZAŠTITI LIČNIH PODATAKA U AGENCIJI ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/17 (27.12.2017.), akt 41 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/InAkfW8qcgE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
