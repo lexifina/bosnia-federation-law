@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA RASHODOVANJE STALNIH SREDSTAVA GENERALNOG SEKRETARIJATA VLADE FEDERACIJE BOSNE I HERCEGOVINE U 2017. GODINI
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA RASHODOVANJE STALNIH SREDSTAVA GENERALNOG SEKRETARIJATA VLADE FEDERACIJE BOSNE I HERCEGOVINE U 2017. GODINI
+
+Donosilac: GENERALNI SEKRETARIJAT VLADE FEDERACIJE BIH.
+
+Službene novine Federacije BiH broj 4/18 (19.1.2018.), akt 1 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45h7nqe55keuI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
