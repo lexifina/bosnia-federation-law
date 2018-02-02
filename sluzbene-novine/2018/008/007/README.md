@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O SISTEMU NAPLATE CESTARINE NA AUTOCESTAMA, BRZIM CESTAMA I OBJEKTIMA S NAPLATOM U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O SISTEMU NAPLATE CESTARINE NA AUTOCESTAMA, BRZIM CESTAMA I OBJEKTIMA S NAPLATOM U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO PROMETA I KOMUNIKACIJA.
+
+Službene novine Federacije BiH broj 8/18 (2.2.2018.), akt 7 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tyZWYtU7gdA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
