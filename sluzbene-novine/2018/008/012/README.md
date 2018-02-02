@@ -1,0 +1,11 @@
+# SPORAZUM O PRODUŽENJU PRIMJENE KOLEKTIVNOG UGOVORA ZA DJELATNOST DRVNE I PAPIRNE INDUSTRIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: SPORAZUM O PRODUŽENJU PRIMJENE KOLEKTIVNOG UGOVORA ZA DJELATNOST DRVNE I PAPIRNE INDUSTRIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: SAMOSTALNI SINDIKAT ŠUMARSTVA, PRERADE DRVETA I PAPIRA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 8/18 (2.2.2018.), akt 12 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tyZWYtU7gdA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
