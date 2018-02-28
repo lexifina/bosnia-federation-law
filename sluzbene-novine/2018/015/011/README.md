@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROCEDURI ZA IZRADU IZJAVE O FISKALNOJ PROCJENI ZAKONA, DRUGIH PROPISA I AKATA PLANIRANJA NA BUDŽET
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROCEDURI ZA IZRADU IZJAVE O FISKALNOJ PROCJENI ZAKONA, DRUGIH PROPISA I AKATA PLANIRANJA NA BUDŽET
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 15/18 (28.2.2018.), akt 11 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TdcO09l9LnU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
