@@ -1,0 +1,11 @@
+# ODLUKU O DIPLOMATSKO-KONZULARNIM PREDSTAVNIŠTVIMA BOSNE I HERCEGOVINE, U KOJIMA SE PLANIRA ORGANIZOVANJE GLASANJA ZA OPĆE IZBORE 2018. GODINE
+
+Naslov: ODLUKU O DIPLOMATSKO-KONZULARNIM PREDSTAVNIŠTVIMA BOSNE I HERCEGOVINE, U KOJIMA SE PLANIRA ORGANIZOVANJE GLASANJA ZA OPĆE IZBORE 2018. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/18 (16.3.2018.), akt 4 od 6 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/5g4GEj1i5BU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
