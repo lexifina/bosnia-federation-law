@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENAMA RJEŠENJA O IMENOVANJU POVJERENSTVA I SUPOTPISNICIMA ZA SREDSTVA PLASIRANA IZ MALEZIJSKE DONACIJE I JAPANSKIH GRANTOVA (PROJEKTI 2KR I PROJEKTI NON PROJECT GRANT- AID)
+
+Naslov: RJEŠENJE O IZMJENAMA RJEŠENJA O IMENOVANJU POVJERENSTVA I SUPOTPISNICIMA ZA SREDSTVA PLASIRANA IZ MALEZIJSKE DONACIJE I JAPANSKIH GRANTOVA (PROJEKTI 2KR I PROJEKTI NON PROJECT GRANT- AID)
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/18 (28.3.2018.), akt 68 od 68 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BvUMKmYGowQ=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
