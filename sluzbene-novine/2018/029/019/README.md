@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA, U 2018. GODINI
+
+Naslov: ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA, U 2018. GODINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 29/18 (18.4.2018.), akt 19 od 43 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oPPlkqWRiUY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
