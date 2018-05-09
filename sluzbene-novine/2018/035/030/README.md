@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O DAVANJU NA KORIŠTENJE SLUŽBENOG PUTNIČKOG AUTOMOBILA FEDERALNOJ AGENCIJI ZA UPRAVLJANJE ODUZETOM IMOVINOM
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O DAVANJU NA KORIŠTENJE SLUŽBENOG PUTNIČKOG AUTOMOBILA FEDERALNOJ AGENCIJI ZA UPRAVLJANJE ODUZETOM IMOVINOM
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 35/18 (9.5.2018.), akt 30 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/otohz4nh78h77Xb619XlM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
