@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU SREDNJOROČNOG PLANA RAZVOJA JAVNOG PREDUZEĆA ŽELJEZNICE FEDERACIJE BOSNE I HERCEGOVINE, D.O.O. SARAJEVO ZA PERIOD 2018.-2020. GODINA
+
+Naslov: ODLUKU O ODOBRAVANJU SREDNJOROČNOG PLANA RAZVOJA JAVNOG PREDUZEĆA ŽELJEZNICE FEDERACIJE BOSNE I HERCEGOVINE, D.O.O. SARAJEVO ZA PERIOD 2018.-2020. GODINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 39/18 (23.5.2018.), akt 12 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KiaS3NEpfnA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
