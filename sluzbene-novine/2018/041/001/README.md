@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU IZVJEŠTAJA O RADU SA FINANSIJSKIM IZVJEŠTAJEM FONDA ZA STUDENTSKE ZAJMOVE FEDERACIJE BOSNE I HERCEGOVINE ZA 2017. GODINU
+
+Naslov: ODLUKU O USVAJANJU IZVJEŠTAJA O RADU SA FINANSIJSKIM IZVJEŠTAJEM FONDA ZA STUDENTSKE ZAJMOVE FEDERACIJE BOSNE I HERCEGOVINE ZA 2017. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 41/18 (30.5.2018.), akt 1 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BGfLZAl7VYw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
