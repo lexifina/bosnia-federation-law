@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNIH PROSTORA U SARAJEVU, U ULICI ISMETA MUJEZINOVIĆA BROJ 30 I 32, UDRUŽENJU GRAĐANA PORIJEKLOM IZ SANDŽAKA
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNIH PROSTORA U SARAJEVU, U ULICI ISMETA MUJEZINOVIĆA BROJ 30 I 32, UDRUŽENJU GRAĐANA PORIJEKLOM IZ SANDŽAKA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 58/18 (25.7.2018.), akt 4 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3Ouh9z7bxPU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
