@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PRODAJU NEKRETNINE U INĐIJI, REPUBLIKA SRBIJA IZ PASIVNOG PODBILANSA PRIVREDNOG DRUŠTVA IP "KRIVAJA" D.O.O. - U STEČAJU ZAVIDOVIĆI
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PRODAJU NEKRETNINE U INĐIJI, REPUBLIKA SRBIJA IZ PASIVNOG PODBILANSA PRIVREDNOG DRUŠTVA IP "KRIVAJA" D.O.O. - U STEČAJU ZAVIDOVIĆI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 59/18 (27.7.2018.), akt 8 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hano8JNH0OU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
