@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ZAKLJUČKA O USVAJANJU STRATEGIJE RAZVOJA METALNOG I ELEKTRO SEKTORA FEDERACIJE BOSNE I HERCEGOVINE ZA PERIOD 2016. - 2025. GODINE
+
+Naslov: UKAZ O PROGLAŠENJU ZAKLJUČKA O USVAJANJU STRATEGIJE RAZVOJA METALNOG I ELEKTRO SEKTORA FEDERACIJE BOSNE I HERCEGOVINE ZA PERIOD 2016. - 2025. GODINE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 70/18 (5.9.2018.), akt 1 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RCrKfD45m08=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
