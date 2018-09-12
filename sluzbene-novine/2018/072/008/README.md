@@ -1,0 +1,11 @@
+# ODLUKU O RASPISIVANJU JAVNOG KONKURSA ZA IZBOR I NOMINOVANJE JEDNOG ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP "ELEKTROPRIVREDA BiH" D.D. - SARAJEVO, ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O RASPISIVANJU JAVNOG KONKURSA ZA IZBOR I NOMINOVANJE JEDNOG ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP "ELEKTROPRIVREDA BiH" D.D. - SARAJEVO, ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 72/18 (12.9.2018.), akt 8 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ftgztz5k76kjn45hp8DwuHjo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
