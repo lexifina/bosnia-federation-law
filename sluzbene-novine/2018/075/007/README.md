@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU I OBJAVI BROJA BIRAČA UPISANIH U IZVOD IZ CENTRALNOG BIRAČKOG SPISKA ZA GLASANJE IZVAN BOSNE I HERCEGOVINE ZA OPĆE IZBORE 2018. GODINE
+
+Naslov: ODLUKU O UTVRĐIVANJU I OBJAVI BROJA BIRAČA UPISANIH U IZVOD IZ CENTRALNOG BIRAČKOG SPISKA ZA GLASANJE IZVAN BOSNE I HERCEGOVINE ZA OPĆE IZBORE 2018. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 75/18 (21.9.2018.), akt 7 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hQvuVanBOoQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
