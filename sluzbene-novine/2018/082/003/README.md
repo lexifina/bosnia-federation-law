@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU PITANJA ZA IZRADU TESTOVA, KAO I KRITERIJA ZA PROVJERU ZNANJA PREDSJEDNIKA, ČLANOVA I NJIHOVIH ZAMJENIKA ZA OPĆE IZBORE 2018. GODINE
+
+Naslov: ODLUKU O UTVRĐIVANJU PITANJA ZA IZRADU TESTOVA, KAO I KRITERIJA ZA PROVJERU ZNANJA PREDSJEDNIKA, ČLANOVA I NJIHOVIH ZAMJENIKA ZA OPĆE IZBORE 2018. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 82/18 (17.10.2018.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/c642BRcNdWU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
