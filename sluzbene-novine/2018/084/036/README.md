@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU VRŠENJA POSLOVA I RUKOVOĐENJU U SUDSKOJ POLICIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU VRŠENJA POSLOVA I RUKOVOĐENJU U SUDSKOJ POLICIJI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: SUDSKA POLICIJA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 84/18 (24.10.2018.), akt 36 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZABodJ3N3cU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
