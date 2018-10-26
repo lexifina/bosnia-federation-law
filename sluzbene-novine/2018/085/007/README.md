@@ -1,0 +1,11 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: AGENCIJA ZA NADZOR OSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 85/18 (26.10.2018.), akt 7 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/QvGzXf2O5VA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
