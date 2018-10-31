@@ -1,0 +1,11 @@
+# UPUTSTVO O DOPUNAMA UPUTSTVA O PROVOĐENJU MJERA ZA OTKLANJANJE I SPRJEČAVANJE ZARAZNIH I PARAZITARNIH BOLESTI ŽIVOTINJA ZA 2018. GODINU
+
+Naslov: UPUTSTVO O DOPUNAMA UPUTSTVA O PROVOĐENJU MJERA ZA OTKLANJANJE I SPRJEČAVANJE ZARAZNIH I PARAZITARNIH BOLESTI ŽIVOTINJA ZA 2018. GODINU
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 86/18 (31.10.2018.), akt 16 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/61lAl7blDSU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
