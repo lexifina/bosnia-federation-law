@@ -1,0 +1,11 @@
+# ODLUKU O PONIŠTENJU JAVNOG KONKURSA ZA IZBOR JEDNOG (1) NOTARA SA SLUŽBENIM SJEDIŠTEM U ZENIČKO-DOBOJSKOM KANTONU
+
+Naslov: ODLUKU O PONIŠTENJU JAVNOG KONKURSA ZA IZBOR JEDNOG (1) NOTARA SA SLUŽBENIM SJEDIŠTEM U ZENIČKO-DOBOJSKOM KANTONU
+
+Donosilac: MINISTARSTVO ZA PRAVOSUĐE I UPRAVU ZENIČKO - DOBOJSKOG KANTONA.
+
+Službene novine Federacije BiH broj 87/18 (2.11.2018.), akt 16 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rpuBR4Jxbs8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
