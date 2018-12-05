@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE ZEMLJIŠTA I OBJEKTA NA LOKACIJI "GRDONJ MALA KULA" U SARAJEVU JEDINSTVENOJ ORGANIZACIJI BORACA "UNIJA VETERANA" OPĆINE CENTAR
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE ZEMLJIŠTA I OBJEKTA NA LOKACIJI "GRDONJ MALA KULA" U SARAJEVU JEDINSTVENOJ ORGANIZACIJI BORACA "UNIJA VETERANA" OPĆINE CENTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 97/18 (5.12.2018.), akt 7 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/s3wgztz5k76kjn45h7lpLNbw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
