@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNE UPRAVE ZA INSPEKCIJSKE POSLOVE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNE UPRAVE ZA INSPEKCIJSKE POSLOVE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/18 (19.12.2018.), akt 20 od 54 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/8Ngztz5k76kjn45hjN2a9pfs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
