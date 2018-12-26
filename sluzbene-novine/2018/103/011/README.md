@@ -1,0 +1,11 @@
+# SPORAZUM O OSNOVICI ZA OBRAČUN PLAĆA ZA FISKALNU 2019. GODINU ZA DRŽAVNE SLUŽBENIKE I NAMJEŠTENIKE U ORGANIMA DRŽAVNE SLUŽBE I JAVNIM USTANOVAMA NA NIVOU FEDERACIJE BiH
+
+Naslov: SPORAZUM O OSNOVICI ZA OBRAČUN PLAĆA ZA FISKALNU 2019. GODINU ZA DRŽAVNE SLUŽBENIKE I NAMJEŠTENIKE U ORGANIMA DRŽAVNE SLUŽBE I JAVNIM USTANOVAMA NA NIVOU FEDERACIJE BiH
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 103/18 (26.12.2018.), akt 11 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/FxkryYW5so4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
