@@ -1,0 +1,11 @@
+# PRAVILNIK O METODOLOGIJI ZA PROVOĐENJE FORMALNO-PRAVNE, RAČUNSKE I LOGIČKE KONTROLE FINANCIJSKIH IZVJEŠTAJA
+
+Naslov: PRAVILNIK O METODOLOGIJI ZA PROVOĐENJE FORMALNO-PRAVNE, RAČUNSKE I LOGIČKE KONTROLE FINANCIJSKIH IZVJEŠTAJA
+
+Donosilac: FINANSIJSKO - INFORMATIČKA AGENCIJA.
+
+Službene novine Federacije BiH broj 103/18 (26.12.2018.), akt 29 od 32 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/FxkryYW5so4=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
