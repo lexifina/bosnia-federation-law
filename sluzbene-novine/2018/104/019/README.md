@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O TEHNIČKIM NORMATIVIMA ZA UREĐAJE ZA AUTOMATSKO ZATVARANJE VRATA I KLAPNI OTPORNIH PREMA VATRI
+
+Naslov: PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O TEHNIČKIM NORMATIVIMA ZA UREĐAJE ZA AUTOMATSKO ZATVARANJE VRATA I KLAPNI OTPORNIH PREMA VATRI
+
+Donosilac: FEDERALNO MINISTARSTVO ENERGIJE, RUDARSTVA I INDUSTRIJE.
+
+Službene novine Federacije BiH broj 104/18 (27.12.2018.), akt 19 od 38 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/5cNP9JoAlhY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
