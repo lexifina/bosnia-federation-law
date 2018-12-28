@@ -1,0 +1,11 @@
+# PRAVILNIK O NAZIVIMA, MATIČNIM I REDNIM BROJEVIMA ZA NASELJENA MJESTA, JEDINICE LOKALNE SAMOUPRAVE I KANTONE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O NAZIVIMA, MATIČNIM I REDNIM BROJEVIMA ZA NASELJENA MJESTA, JEDINICE LOKALNE SAMOUPRAVE I KANTONE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNI ZAVOD ZA STATISTIKU.
+
+Službene novine Federacije BiH broj 105/18 (28.12.2018.), akt 30 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ybcDeG869V8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
