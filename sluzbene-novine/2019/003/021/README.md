@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA PRAVILNIKA O PROVOĐENJU FINANSIJSKOG UPRAVLJANJA I KONTROLE U JAVNOM SEKTORU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA PRAVILNIKA O PROVOĐENJU FINANSIJSKOG UPRAVLJANJA I KONTROLE U JAVNOM SEKTORU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 3/19 (23.1.2019.), akt 21 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9ESQhSTVHvc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
