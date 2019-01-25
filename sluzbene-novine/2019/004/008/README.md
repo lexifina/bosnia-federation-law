@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE TRI ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "ALUMINIJ" D.D. MOSTAR, ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE TRI ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA "ALUMINIJ" D.D. MOSTAR, ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 4/19 (25.1.2019.), akt 8 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/aACScyia2sE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
