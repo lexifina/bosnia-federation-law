@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA FINANSIJSKI PLAN FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BOSNE I HERCEGOVINE ZA 2019. GODINU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA FINANSIJSKI PLAN FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BOSNE I HERCEGOVINE ZA 2019. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 6/19 (1.2.2019.), akt 8 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/m91pbXmNHPY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
