@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANICE UPRAVNOG ODBORA ZA KOORDINACIJU I PRAĆENJE PROVOĐENJA GENDER AKCIONOG PLANA BOSNE I HERCEGOVINE ZA PERIOD 2018. - 2022. GODINA
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANICE UPRAVNOG ODBORA ZA KOORDINACIJU I PRAĆENJE PROVOĐENJA GENDER AKCIONOG PLANA BOSNE I HERCEGOVINE ZA PERIOD 2018. - 2022. GODINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 9/19 (13.2.2019.), akt 14 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/z2GeOL2PQ3o=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
