@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA ZA DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE - OPĆI IZBORI 2018. GODINE
+
+Naslov: ODLUKU O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA ZA DOM NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE - OPĆI IZBORI 2018. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 12/19 (22.2.2019.), akt 7 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tz0pctQ6D14=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
