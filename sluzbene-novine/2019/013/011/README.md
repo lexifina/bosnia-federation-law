@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA ODLUKE O BROJU GLASOVA ČLANOVA SKUPŠTINE ZAŠTITNOG FONDA FEDERACIJE BOSNE I HERCEGOVINE U 2018. GODINI
+
+Naslov: ODLUKU O IZMJENAMA ODLUKE O BROJU GLASOVA ČLANOVA SKUPŠTINE ZAŠTITNOG FONDA FEDERACIJE BOSNE I HERCEGOVINE U 2018. GODINI
+
+Donosilac: AGENCIJA ZA NADZOR OSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 13/19 (27.2.2019.), akt 11 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0vM3hgztz5k76kjn45hDukig=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
