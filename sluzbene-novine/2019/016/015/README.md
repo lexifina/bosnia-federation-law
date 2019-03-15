@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA IZBORA KANDIDATA ZA DIREKTORA FEDERALNOG ZAVODA ZA PENZIJSKO I INVALIDSKO OSIGURANJE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA IZBORA KANDIDATA ZA DIREKTORA FEDERALNOG ZAVODA ZA PENZIJSKO I INVALIDSKO OSIGURANJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/19 (15.3.2019.), akt 15 od 56 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YLvjlpXQ7FQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
