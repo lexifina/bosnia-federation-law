@@ -1,0 +1,11 @@
+# ODLUKU O RASPISIVANJU KONKURSA ZA IZBOR I IMENOVANJE DIREKTORA JAVNOG PREDUZEĆA "RADIO TELEVIZIJA UNSKO SANSKOG KANTONA" DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU BIHAĆ
+
+Naslov: ODLUKU O RASPISIVANJU KONKURSA ZA IZBOR I IMENOVANJE DIREKTORA JAVNOG PREDUZEĆA "RADIO TELEVIZIJA UNSKO SANSKOG KANTONA" DRUŠTVA SA OGRANIČENOM ODGOVORNOŠĆU BIHAĆ
+
+Donosilac: JP RTV USK-A D.O.O BIHAĆ.
+
+Službene novine Federacije BiH broj 22/19 (5.4.2019.), akt 13 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/G1MVTWRarzE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
