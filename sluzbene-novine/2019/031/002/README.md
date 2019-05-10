@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU PRODAJE 1 (JEDNOG) SLUŽBENOG PUTNIČKOG AUTOMOBILA SLUŽBE ZA ZAJEDNIČKE POSLOVE ORGANA I TIJELA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRAVANJU PRODAJE 1 (JEDNOG) SLUŽBENOG PUTNIČKOG AUTOMOBILA SLUŽBE ZA ZAJEDNIČKE POSLOVE ORGANA I TIJELA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 31/19 (10.5.2019.), akt 2 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/XdfLmM7KIfA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
