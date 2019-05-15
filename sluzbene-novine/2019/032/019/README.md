@@ -1,0 +1,11 @@
+# ISPRAVKA ODLUKE O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I ČLANOVA RADNIH TIJELA PREDSTAVNIČKOG DOMA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE (na bosanskom jeziku)
+
+Naslov: ISPRAVKA ODLUKE O IZBORU PREDSJEDNIKA, ZAMJENIKA PREDSJEDNIKA I ČLANOVA RADNIH TIJELA PREDSTAVNIČKOG DOMA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE (na bosanskom jeziku)
+
+Donosilac: PREDSTAVNIČKI/ZASTUPNIČKI DOM PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/19 (15.5.2019.), akt 19 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zY67qNcHDpQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
