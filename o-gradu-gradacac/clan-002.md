@@ -1,0 +1,3 @@
+Član 2.
+Teritorija
+Teritoriju Grada Gradačac čine sva naseljena mjesta, koja su se prema evidenciji Federalnog zavoda za statistiku nalazila u okviru Općine Gradačac na dan stupanja na snagu ovog zakona.
