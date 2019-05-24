@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU VRŠIOCA DUŽNOSTI ČLANOVA NADZORNOG ODBORA KJP "SARAJEVO-ŠUME" D.O.O. SARAJEVO
+
+Naslov: RJEŠENJE O IMENOVANJU VRŠIOCA DUŽNOSTI ČLANOVA NADZORNOG ODBORA KJP "SARAJEVO-ŠUME" D.O.O. SARAJEVO
+
+Donosilac: KJP "SARAJEVO-ŠUME" D.O.O. SARAJEVO.
+
+Službene novine Federacije BiH broj 35/19 (24.5.2019.), akt 22 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tEgztz5k76kjn45hUdpK0zR4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
