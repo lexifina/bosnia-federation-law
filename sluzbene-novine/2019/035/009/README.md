@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU INTERRESORNE RADNE GRUPE ZA UTVRĐIVANJE AKTIVNOSTI S CILJEM PROVOĐENJA ČLANA 130. ZAKONA O PENZIJSKOM I INVALIDSKOM OSIGURANJU
+
+Naslov: RJEŠENJE O IMENOVANJU INTERRESORNE RADNE GRUPE ZA UTVRĐIVANJE AKTIVNOSTI S CILJEM PROVOĐENJA ČLANA 130. ZAKONA O PENZIJSKOM I INVALIDSKOM OSIGURANJU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 35/19 (24.5.2019.), akt 9 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tEgztz5k76kjn45hUdpK0zR4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
