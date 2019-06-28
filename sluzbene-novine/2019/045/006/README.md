@@ -1,0 +1,11 @@
+# ODLUKU O USVAJANJU IZVJEŠTAJA O RADU FONDA ZA STUDENTSKE ZAJMOVE FEDERACIJE BOSNE I HERCEGOVINE ZA 2018. GODINU S FINANSIJSKIM IZVJEŠTAJEM ZA 2018. GODINU
+
+Naslov: ODLUKU O USVAJANJU IZVJEŠTAJA O RADU FONDA ZA STUDENTSKE ZAJMOVE FEDERACIJE BOSNE I HERCEGOVINE ZA 2018. GODINU S FINANSIJSKIM IZVJEŠTAJEM ZA 2018. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 45/19 (28.6.2019.), akt 6 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/s5Fr0Ma511s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
