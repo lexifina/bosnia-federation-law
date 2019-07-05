@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU PRODAJE MOTORNIH VOZILA VRHOVNOG SUDA FEDERACIJE BOSNE I HERCEGOVINE - SUDSKE POLICIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRAVANJU PRODAJE MOTORNIH VOZILA VRHOVNOG SUDA FEDERACIJE BOSNE I HERCEGOVINE - SUDSKE POLICIJE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 47/19 (5.7.2019.), akt 2 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/x0NHnaLHhgztz5k76kjn45hg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
