@@ -1,0 +1,11 @@
+# RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA I ČLANOVA UPRAVNOG VIJEĆA JAVNE USTANOVE ZA RAZVOJ TURIZMA, ZAŠTITU KULTURNO-POVIJESNOG I PRIRODNOG NASLIJEĐA "RADIMLJA" STOLAC
+
+Naslov: RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA I ČLANOVA UPRAVNOG VIJEĆA JAVNE USTANOVE ZA RAZVOJ TURIZMA, ZAŠTITU KULTURNO-POVIJESNOG I PRIRODNOG NASLIJEĐA "RADIMLJA" STOLAC
+
+Donosilac: OPĆINA STOLAC - OPĆINSKI NAČELNIK.
+
+Službene novine Federacije BiH broj 49/19 (12.7.2019.), akt 12 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rz2pa09Bsgztz5k76kjn45h0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
