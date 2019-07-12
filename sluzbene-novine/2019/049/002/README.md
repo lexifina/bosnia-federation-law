@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU PRIJEDLOGA KANDIDATA ZA IMENOVANJE VRŠILACA DUŽNOSTI ČLANOVA NADZORNOG ODBORA FABRIKE DUHANA MOSTAR D.D. MOSTAR ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU PRIJEDLOGA KANDIDATA ZA IMENOVANJE VRŠILACA DUŽNOSTI ČLANOVA NADZORNOG ODBORA FABRIKE DUHANA MOSTAR D.D. MOSTAR ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 49/19 (12.7.2019.), akt 2 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rz2pa09Bsgztz5k76kjn45h0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
