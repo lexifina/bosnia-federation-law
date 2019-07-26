@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O UVJETIMA PROSTORA, OPREME I KADRA ZA OBAVLJANJE ZDRAVSTVENE DJELATNOSTI ZA POTREBE FAKULTETSKE NASTAVE
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O UVJETIMA PROSTORA, OPREME I KADRA ZA OBAVLJANJE ZDRAVSTVENE DJELATNOSTI ZA POTREBE FAKULTETSKE NASTAVE
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 53/19 (26.7.2019.), akt 4 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/T3caPBkPh9c=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
