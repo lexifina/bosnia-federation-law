@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2019. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2019. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 62/19 (28.8.2019.), akt 23 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zSE0x3mGaZo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
