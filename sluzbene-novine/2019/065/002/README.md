@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA FINANSIJSKI PLAN AGENCIJE ZA KVALITET I AKREDITACIJU U ZDRAVSTVU U FEDERACIJI BOSNE I HERCEGOVINE ZA 2019. GODINU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA FINANSIJSKI PLAN AGENCIJE ZA KVALITET I AKREDITACIJU U ZDRAVSTVU U FEDERACIJI BOSNE I HERCEGOVINE ZA 2019. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 65/19 (6.9.2019.), akt 2 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hPohz4nh78h77EhYv6eik=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
