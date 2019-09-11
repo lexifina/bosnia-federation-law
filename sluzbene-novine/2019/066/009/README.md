@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "BINAS" D.D. BUGOJNO ZA DONOŠENJE ODLUKE O IMENOVANJU VRŠILACA DUŽNOSTI ČLANOVA UPRAVE
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "BINAS" D.D. BUGOJNO ZA DONOŠENJE ODLUKE O IMENOVANJU VRŠILACA DUŽNOSTI ČLANOVA UPRAVE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 66/19 (11.9.2019.), akt 9 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hz1RtK19OWw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
