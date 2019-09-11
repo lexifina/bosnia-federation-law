@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA IZBORA KANDIDATA ZA ČLANOVE NADZORNOG ODBORA JAVNOG PREDUZEĆA NACIONALNI PARK "UNA"
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA PROVOĐENJE POSTUPKA IZBORA KANDIDATA ZA ČLANOVE NADZORNOG ODBORA JAVNOG PREDUZEĆA NACIONALNI PARK "UNA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 66/19 (11.9.2019.), akt 20 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hz1RtK19OWw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
