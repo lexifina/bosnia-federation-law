@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE I TRGOVINSKIH USLUGA
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE I TRGOVINSKIH USLUGA
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 68/19 (18.9.2019.), akt 25 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77UfkE1rw3NA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
