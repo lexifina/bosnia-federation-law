@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA KONFEKCIJA "BORAC" D.D. TRAVNIK
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA KONFEKCIJA "BORAC" D.D. TRAVNIK
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 83/19 (8.11.2019.), akt 2 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Xgo4qt6gztz5k76kjn45hOyQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
