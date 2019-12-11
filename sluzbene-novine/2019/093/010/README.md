@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O PODNOŠENJU PRIJAVA ZA UPIS I PROMJENE UPISA U JEDINSTVENI SISTEM REGISTRACIJE, KONTROLE I NAPLATE DOPRINOSA
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O PODNOŠENJU PRIJAVA ZA UPIS I PROMJENE UPISA U JEDINSTVENI SISTEM REGISTRACIJE, KONTROLE I NAPLATE DOPRINOSA
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 93/19 (11.12.2019.), akt 10 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77PVogztz5k76kjn45hCbvgUc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
