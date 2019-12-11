@@ -1,0 +1,11 @@
+# ODLUKU O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA DELEGATA U DOMU NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE IZ KANTONA 10
+
+Naslov: ODLUKU O POTVRĐIVANJU REZULTATA POSREDNIH IZBORA I DODJELI MANDATA DELEGATA U DOMU NARODA PARLAMENTA FEDERACIJE BOSNE I HERCEGOVINE IZ KANTONA 10
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 93/19 (11.12.2019.), akt 17 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77PVogztz5k76kjn45hCbvgUc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
