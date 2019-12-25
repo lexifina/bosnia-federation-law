@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU PRIVREMENOG ČLANA UPRAVNOG ODBORA ZAVODA ZA ZBRINJAVANJE MENTALNO INVALIDNE DJECE I OMLADINE - PAZARIĆ
+
+Naslov: RJEŠENJE O RAZRJEŠENJU PRIVREMENOG ČLANA UPRAVNOG ODBORA ZAVODA ZA ZBRINJAVANJE MENTALNO INVALIDNE DJECE I OMLADINE - PAZARIĆ
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 97/19 (25.12.2019.), akt 26 od 60 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yE1eAaDn1N0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
