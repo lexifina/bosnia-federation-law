@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI GRADU ŽIVINICE ZA USTUPANJE DIJELOVA ZEMLJIŠNIH PARCELA U KASARNI CILJUGE U SVRHU PRISTUPA PARCELI OZNAČENOJ KAO K.Č. 624, UPISANA U PL 114, K.O. KOVAČI
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI GRADU ŽIVINICE ZA USTUPANJE DIJELOVA ZEMLJIŠNIH PARCELA U KASARNI CILJUGE U SVRHU PRISTUPA PARCELI OZNAČENOJ KAO K.Č. 624, UPISANA U PL 114, K.O. KOVAČI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 5/20 (22.1.2020.), akt 5 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MjDL2a68wjQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
