@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PLAN RADA FEDERALNE UPRAVE CIVILNE ZAŠTITE ZA 2020. GODINU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PLAN RADA FEDERALNE UPRAVE CIVILNE ZAŠTITE ZA 2020. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 5/20 (22.1.2020.), akt 8 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MjDL2a68wjQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
