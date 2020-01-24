@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU J.P. "FILMSKI CENTAR SARAJEVO" D.O.O. ZA RAZRJEŠENJE VRŠIOCA DUŽNOSTI GENERALNOG DIREKTORA PREDUZEĆA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU J.P. "FILMSKI CENTAR SARAJEVO" D.O.O. ZA RAZRJEŠENJE VRŠIOCA DUŽNOSTI GENERALNOG DIREKTORA PREDUZEĆA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 6/20 (24.1.2020.), akt 2 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Lgztz5k76kjn45hyAhB9e3CQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
