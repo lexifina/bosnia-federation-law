@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA U OBLASTI RUDARSTVA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA U OBLASTI RUDARSTVA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/20 (28.2.2020.), akt 8 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Y6ohz4nh78h77cChnYwFc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
