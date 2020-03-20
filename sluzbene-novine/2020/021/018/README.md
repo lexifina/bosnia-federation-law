@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA KORIŠTENJE OBJEKTA U KRUGU OPĆE BOLNICE "PRIM. DR. ABDULAH NAKAŠ" U SARAJEVU, JU CENTAR ZA EDUKACIJU SUDIJA I TUŽILACA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU NA KORIŠTENJE OBJEKTA U KRUGU OPĆE BOLNICE "PRIM. DR. ABDULAH NAKAŠ" U SARAJEVU, JU CENTAR ZA EDUKACIJU SUDIJA I TUŽILACA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/20 (20.3.2020.), akt 18 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hrfSX5DdVoY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
