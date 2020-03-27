@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENIM MJERAMA KOJE BANKA PRIMJENJUJE ZA UBLAŽAVANJE NEGATIVNIH EKONOMSKIH POSLJEDICA UZROKOVANIH VIRUSNIM OBOLJENJEM "COVID-19"
+
+Naslov: ODLUKU O PRIVREMENIM MJERAMA KOJE BANKA PRIMJENJUJE ZA UBLAŽAVANJE NEGATIVNIH EKONOMSKIH POSLJEDICA UZROKOVANIH VIRUSNIM OBOLJENJEM "COVID-19"
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 22/20 (27.3.2020.), akt 25 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/eop6k4SBEII=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
