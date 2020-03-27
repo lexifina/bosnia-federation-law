@@ -1,0 +1,11 @@
+# ODLUKU O PONIŠTENJU KONKURSA ZA IZBOR I PREDLAGANJE KANDIDATA ZA PREDSJEDNIKA I DVA ČLANA ODBORA ZA REVIZIJU KANTONALNOG JAVNOG KOMUNALNOG PREDUZEĆA "RAD" D.O.O. SARAJEVO
+
+Naslov: ODLUKU O PONIŠTENJU KONKURSA ZA IZBOR I PREDLAGANJE KANDIDATA ZA PREDSJEDNIKA I DVA ČLANA ODBORA ZA REVIZIJU KANTONALNOG JAVNOG KOMUNALNOG PREDUZEĆA "RAD" D.O.O. SARAJEVO
+
+Donosilac: KJKP "RAD" D.O.O..
+
+Službene novine Federacije BiH broj 22/20 (27.3.2020.), akt 39 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/eop6k4SBEII=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
