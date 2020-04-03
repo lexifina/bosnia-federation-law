@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2020. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2020. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 23/20 (3.4.2020.), akt 13 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/QdjxVA0O5B4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
