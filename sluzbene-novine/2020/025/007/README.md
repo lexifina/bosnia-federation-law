@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2020. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2020. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/20 (17.4.2020.), akt 7 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BR7rwGQoGEs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
