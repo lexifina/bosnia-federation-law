@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU ČLANA NADZORNOG ODBORA USTANOVE IZ DJELOKRUGA SOCIJALNE ZAŠTITE - LJUBUŠKI
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU ČLANA NADZORNOG ODBORA USTANOVE IZ DJELOKRUGA SOCIJALNE ZAŠTITE - LJUBUŠKI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 26/20 (24.4.2020.), akt 8 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3hCgicHoyfM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
