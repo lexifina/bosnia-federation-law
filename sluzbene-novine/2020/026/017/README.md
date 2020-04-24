@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE ANEKSA 3. UGOVORA O KONCESIJI ZA EKSPLOATACIJU IZVORA TERMALNE VODE SA BUNARA Š-1 ŠUMATAC DONJI PURIĆI-VELIKA KLADUŠA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA POTPISIVANJE ANEKSA 3. UGOVORA O KONCESIJI ZA EKSPLOATACIJU IZVORA TERMALNE VODE SA BUNARA Š-1 ŠUMATAC DONJI PURIĆI-VELIKA KLADUŠA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 26/20 (24.4.2020.), akt 17 od 31 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3hCgicHoyfM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
