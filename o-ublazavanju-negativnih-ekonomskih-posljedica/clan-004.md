@@ -1,0 +1,12 @@
+DIO DRUGI - MJERE ZA UBLAŽAVANJE NEGATIVNIH POSLJEDICA
+Član 4.
+(Subvencioniranje)
+(1) Subvencioniranja doprinosa za obavezna osiguranja iz propisa o doprinosima vrše se u skladu sa odredbama ovog zakona iz sredstava Budžeta Federacije.
+(2) Poslovni subjekti iz člana 2. tačka a) ovog zakona imaju pravo na subvencioniranje doprinosa u skladu sa ovim zakonom u iznosu 244,85 KM mjesečno po svakom zaposlenom počevši od obračuna i isplate bruto plaće za april 2020. godine i svaki naredni mjesec, uključujući i obračun i isplatu plaća i za mjesec nakon prestanka stanja nesreće. Subvencioniranje doprinosa za svakog zaposlenog vrši se na način da se za penziono-invalidsko osiguranje usmjerava 135,70 KM, za zdravstveno osiguranje 97,35 KM i za nezaposlenost 11,80 KM, ukoliko u mjesecu za koji se vrši obračun plaće imaju pad ostvarenog prometa 20% i više u odnosu na ostvareni promet u istom mjesecu 2019. godine.
+(3) Isplata najniže neto plaće zaposlenim iz stava (2) ovog člana nije uslovljena istovremenim plaćanjem subvencioniranih doprinosa.
+(4) Ostvareni promet iz stava (2) ovog člana utvrđuje Federalno ministarstvo finansija - Porezna uprava Federacije Bosne i Hercegovine (u daljnjem tekstu: Porezna uprava) na osnovu podataka o evidentiranom prometu putem fiskalnih sistema na serveru Porezne uprave.
+(5) Pravo na subvencioniranje doprinosa u skladu sa odredbama ovog zakona imaju i poslovni subjekti koji shodno propisima o fiskalnim sistemima nisu u sistemu fiskalizacije.
+(6) Za samostalne poduzetnike i poslovne subjekte u niskoakumulativnim djelatnostima za koje su propisane osnovice manje od najniže bruto plaće subvencioniranje doprinosa za april tekuće godine i svaki naredni mjesec, uključujući i obračun i plaćanje doprinosa i za mjesec nakon prestanka stanja nesreće vrši se u visini iznosa doprinosa utvrđenih na propisane mjesečne osnovice za tekuću godinu.
+(7) Pravo na subvencioniranje doprinosa imaju poslovni subjekti i poduzetnici iz st. (2), (5) i (6) ovog člana uz uslov da su izmirene obaveze za doprinose i porez na dohodak uz isplaćene plaće zaključno sa februarom 2020. godine.
+(8) Poslovni subjekti i samostalni poduzetnici iz st. (2), (5) i (6) ovog člana dužni su dostaviti Poreznoj upravi zahtjev za subvencioniranje i porezne prijave iz propisa o doprinosima i propisa o porezu na dohodak do desetog u tekućem mjesecu za prethodni mjesec.
+(9) Porezna uprava daje pisana uputstva o načinu podnošenja zahtjeva i o potrebnoj dokumentaciji iz stava (8) ovog člana.
