@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA TROGODIŠNJI PLAN POSLOVANJA JAVNOG PREDUZEĆA AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR ZA 2020. - 2022. GODINU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA TROGODIŠNJI PLAN POSLOVANJA JAVNOG PREDUZEĆA AUTOCESTE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. MOSTAR ZA 2020. - 2022. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/20 (10.6.2020.), akt 13 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Gr9OI8Tgztz5k76kjn45hhtY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
