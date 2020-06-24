@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU UPRAVNOG ODBORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BiH O IMENOVANJU V.D. DIREKTORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BiH
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU UPRAVNOG ODBORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BiH O IMENOVANJU V.D. DIREKTORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BiH
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 41/20 (24.6.2020.), akt 9 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/txy7eZGBnIE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
