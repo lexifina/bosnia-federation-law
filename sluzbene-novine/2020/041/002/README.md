@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2020. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PREPOROD"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2020. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PREPOROD"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 41/20 (24.6.2020.), akt 2 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/txy7eZGBnIE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
