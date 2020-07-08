@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO, ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO, ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 45/20 (8.7.2020.), akt 8 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/eJgztz5k76kjn45htTHK8sQo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
