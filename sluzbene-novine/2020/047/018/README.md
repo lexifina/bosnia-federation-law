@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O NAČINU, ROKOVIMA I OBRASCIMA IZVJEŠTAVANJA O KREDITNIM POSLOVIMA SA INOSTRANSTVOM
+
+Naslov: PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O NAČINU, ROKOVIMA I OBRASCIMA IZVJEŠTAVANJA O KREDITNIM POSLOVIMA SA INOSTRANSTVOM
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 47/20 (15.7.2020.), akt 18 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/zlGvuHykGcE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
