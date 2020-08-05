@@ -1,0 +1,11 @@
+# UPUTSTVO O ROKOVIMA I REDOSLIJEDU IZBORNIH AKTIVNOSTI ZA LOKALNE IZBORE 2020. GODINE U GRADU MOSTARU, KOJI ĆE SE ODRŽATI U NEDJELJU 20. DECEMBRA 2020. GODINE
+
+Naslov: UPUTSTVO O ROKOVIMA I REDOSLIJEDU IZBORNIH AKTIVNOSTI ZA LOKALNE IZBORE 2020. GODINE U GRADU MOSTARU, KOJI ĆE SE ODRŽATI U NEDJELJU 20. DECEMBRA 2020. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 53/20 (5.8.2020.), akt 21 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2gyfsgTe3cA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
