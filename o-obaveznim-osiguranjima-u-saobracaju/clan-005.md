@@ -1,0 +1,5 @@
+Član 5.
+(Obaveza sklapanja ugovora i obnove osiguranja)
+(1) Vlasnik prijevoznog sredstva dužan je za osiguranja iz člana 2. stava (1) tač. b), c) i d) ovog Zakona, prije nego što prijevozno sredstvo počne upotrebljavati u saobraćaju, sklopiti ugovor o obaveznom osiguranju te ga obnavljati sve dok je prijevozno sredstvo u saobraćaju.
+(2) Ako prijevozno sredstvo podliježe obavezi registracije te prema propisima o registraciji mora imati potvrdu o registraciji, organ nadležan za registraciju smije izdati potvrdu o registraciji ili drugu odgovarajuću ispravu, produžiti njezinu valjanost tek nakon što vlasnik prijevoznog sredstva na čije će se ime prijevozno sredstvo registrovati predoči dokaz o tome da je sklopio ugovor o osiguranju za osiguranje koje je prema ovom zakonu obavezno i platio u cijelosti premiju osiguranja po toj polici.
+(3) Ako je prijevozno sredstvo, u skladu sa propisima o registraciji, evidentirano na korisnika prijevoznog sredstva, odredbe ovog zakona koje vrijede za vlasnika prijevoznog sredstva na odgovarajući se način primjenjuju i na korisnika prijevoznog sredstva.

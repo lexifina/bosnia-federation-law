@@ -1,0 +1,7 @@
+Član 45.
+(Promjena vlasnika vozila)
+(1) Ako se za vrijeme trajanja osiguranja promijeni vlasnik vozila, novi vlasnik vozila dužan je zaključiti ugovor o osiguranju svoje odgovornosti za upotrebu vozila na kojem je stekao vlasništvo.
+(2) Osiguranik koji otuđi svoje vozilo dužan je o tome obavijestiti društvo za osiguranje kod kojeg je osigurana njegova odgovornost za upotrebu vozila koje je otuđeno u roku od 30 dana od dana otuđenja vozila i postupiti u skladu sa članom 9. stav 6. ovog zakona.
+(3) Ugovor o osiguranju od autoodgovornosti zaključen s prethodnim vlasnikom prestaje da važi u trenutku kada je novi vlasnik vozila zaključio ugovor o osiguranju od autoodgovornosti na svoje ime.
+(4) Prestankom važenja ugovora iz stava (3) ovog člana, osiguranik, prethodni vlasnik vozila, ima pravo na povrat dijela premije za neiskorišteni period pokrića, pod uslovom da je postupio u skladu sa obavezom iz stava (2) ovog člana i u slučaju da nije bilo štete u periodu osiguranja po navedenoj polici.
+(5) Izuzetno od stava (3) ovog člana, ugovor o osiguranju od autoodgovornosti zaključen s prethodnim vlasnikom ostaje na snazi do isteka trajanja osiguranja, ukoliko novi vlasnik, u tom roku, nije zaključio ugovor o osiguranju od autoodgovornosti na svoje ime, u tom slučaju se po samom zakonu smatra da su prava i obaveze, kao i odgovornost za upotrebu vozila, preneseni na novog vlasnika vozila danom zaključenja ugovora o prijenosu vlasništva na vozilu.

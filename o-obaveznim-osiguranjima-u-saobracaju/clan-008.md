@@ -1,0 +1,3 @@
+Član 8.
+(Obaveza dostavljanja podataka o saobraćajnoj nesreći)
+Organi ovlašteni za nadzor u saobraćaju i pravosudni organi te drugi organi koji vode postupak u povodu saobraćajne nesreće, odnosno koji raspolažu podacima vezanim uz saobraćajnu nesreću (zdravstvene ustanove, zavodi koji obavljaju poslove zdravstvenog, penzijskog ili invalidskog osiguranja i drugi organi) na zahtjev dostavit će društvu za osiguranje, Zaštitnom fondu i osobi iz Republike Srpske (u daljem tekstu: RS) koja obavlja funkciju zaštitnog fonda, te Birou zelene karte u BiH podatke i dokumentaciju o saobraćajnoj nesreći potrebne za rješavanje odštetnog zahtjeva.
