@@ -1,0 +1,11 @@
+# ODLUKU O PRIVREMENIM MJERAMA KOJE BANKA PRIMJENJUJE ZA OPORAVAK OD NEGATIVNIH EKONOMSKIH POSLJEDICA UZROKOVANIH VIRUSNIM OBOLJENJEM "COVID-19"
+
+Naslov: ODLUKU O PRIVREMENIM MJERAMA KOJE BANKA PRIMJENJUJE ZA OPORAVAK OD NEGATIVNIH EKONOMSKIH POSLJEDICA UZROKOVANIH VIRUSNIM OBOLJENJEM "COVID-19"
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 60/20 (28.8.2020.), akt 3 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/6LMNJCV6epw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
