@@ -1,0 +1,11 @@
+# ODLUKU O USKLAĐIVANJU VRIJEDNOSTI OPŠTEG BODA ZA 2020. GODINU
+
+Naslov: ODLUKU O USKLAĐIVANJU VRIJEDNOSTI OPŠTEG BODA ZA 2020. GODINU
+
+Donosilac: FEDERALNI ZAVOD ZA PENZIJSKO I INVALIDSKO OSIGURANJE.
+
+Službene novine Federacije BiH broj 60/20 (28.8.2020.), akt 5 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/6LMNJCV6epw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
