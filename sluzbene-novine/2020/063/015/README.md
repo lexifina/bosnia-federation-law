@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE DVA ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA TEHNIČKO REMONTNI ZAVOD HADŽIĆI D.D. HADŽIĆI, ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE DVA ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA TEHNIČKO REMONTNI ZAVOD HADŽIĆI D.D. HADŽIĆI, ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 63/20 (9.9.2020.), akt 15 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/NyZBZwP8y2M=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
