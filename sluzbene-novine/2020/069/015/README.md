@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ČETIRI ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA ENERGOINVEST D.D. SARAJEVO, ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ČETIRI ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA ENERGOINVEST D.D. SARAJEVO, ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 69/20 (30.9.2020.), akt 15 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0rgEXa9j91Y=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
