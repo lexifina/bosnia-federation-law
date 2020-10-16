@@ -1,0 +1,11 @@
+# ODLUKU O PONIŠTAVANJU JAVNOG KONKURSA ZA IZBOR PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PONIŠTAVANJU JAVNOG KONKURSA ZA IZBOR PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA FONDA ZA ZAŠTITU OKOLIŠA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 74/20 (16.10.2020.), akt 9 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9vKxP4BGGL4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
