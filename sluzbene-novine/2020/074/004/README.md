@@ -1,0 +1,11 @@
+# UREDBU O INTERVENTNIM MJERAMA ZA PODRŠKU UGROŽENIM SEKTORIMA PRIVREDE FEDERACIJE BOSNE I HERCEGOVINE U OKOLNOSTIMA PANDEMIJE COVID-19
+
+Naslov: UREDBU O INTERVENTNIM MJERAMA ZA PODRŠKU UGROŽENIM SEKTORIMA PRIVREDE FEDERACIJE BOSNE I HERCEGOVINE U OKOLNOSTIMA PANDEMIJE COVID-19
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 74/20 (16.10.2020.), akt 4 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/9vKxP4BGGL4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
