@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANOVA RADNE GRUPE ZA IZRADU STRATEGIJE ZA STRUČNO USAVRŠAVANJE U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE (2021-2026)
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANOVA RADNE GRUPE ZA IZRADU STRATEGIJE ZA STRUČNO USAVRŠAVANJE U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE (2021-2026)
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 77/20 (23.10.2020.), akt 4 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ny54XMj4ZsQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
