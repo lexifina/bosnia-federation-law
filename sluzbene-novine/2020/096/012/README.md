@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA FEDERALNOG ZAVODA ZA ZAPOŠLJAVANJE
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA FEDERALNOG ZAVODA ZA ZAPOŠLJAVANJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 96/20 (29.12.2020.), akt 12 od 64 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Yabmuv3eLohz4nh78h77s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
