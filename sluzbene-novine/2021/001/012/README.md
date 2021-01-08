@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI PRAVILNIKA O NAČINU I USLOVIMA IZDAVANJA, OBNAVLJANJA I ODUZIMANJA LICENCI OVLAŠTENIM REVIZORIMA I DRUŠTVIMA ZA REVIZIJU
+
+Naslov: PRAVILNIK O IZMJENI PRAVILNIKA O NAČINU I USLOVIMA IZDAVANJA, OBNAVLJANJA I ODUZIMANJA LICENCI OVLAŠTENIM REVIZORIMA I DRUŠTVIMA ZA REVIZIJU
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 1/21 (8.1.2021.), akt 12 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jRlMlgztAh0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
