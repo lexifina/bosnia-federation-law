@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "KTK VISOKO" D.D. VISOKO ZA DONOŠENJE ODLUKE O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "KTK VISOKO" D.D. VISOKO ZA DONOŠENJE ODLUKE O IMENOVANJU VRŠIOCA DUŽNOSTI DIREKTORA DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 15/21 (24.2.2021.), akt 9 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Qly4ggztz5k76kjn45hDMe8g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
