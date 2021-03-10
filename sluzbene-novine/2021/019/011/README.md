@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANOVA STRUČNOG POVJERENSTVA KOJI ZAMJENJUJU ČLANOVE IZ REDA PROFESORA ZA UTVRĐIVANJE PRIJEDLOGA LISTE STALNIH SUDSKIH TUMAČA
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANOVA STRUČNOG POVJERENSTVA KOJI ZAMJENJUJU ČLANOVE IZ REDA PROFESORA ZA UTVRĐIVANJE PRIJEDLOGA LISTE STALNIH SUDSKIH TUMAČA
+
+Donosilac: FEDERALNO MINISTARSTVO PRAVDE.
+
+Službene novine Federacije BiH broj 19/21 (10.3.2021.), akt 11 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fuYOXPohz4nh78h77QvtY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
