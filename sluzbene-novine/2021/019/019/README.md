@@ -1,0 +1,11 @@
+# ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU BROJA UPISANIH BIRAČA U CENTRALNI BIRAČKI SPISAK ZA PRIJEVREMENE IZBORE ZA NAČELNIKA OPĆINE FOČA (FBiH), SA STANJEM NA DAN 02.02.2021. GODINE.
+
+Naslov: ODLUKU O ZAKLJUČIVANJU I POTVRĐIVANJU BROJA UPISANIH BIRAČA U CENTRALNI BIRAČKI SPISAK ZA PRIJEVREMENE IZBORE ZA NAČELNIKA OPĆINE FOČA (FBiH), SA STANJEM NA DAN 02.02.2021. GODINE.
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 19/21 (10.3.2021.), akt 19 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fuYOXPohz4nh78h77QvtY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
