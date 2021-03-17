@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA, U 2021. GODINI
+
+Naslov: ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA, U 2021. GODINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/21 (17.3.2021.), akt 6 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Nq8XNr5exNU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
