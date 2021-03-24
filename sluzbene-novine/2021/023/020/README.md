@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2021. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PROSVJETA"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2021. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PROSVJETA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/21 (24.3.2021.), akt 20 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0ngztz5k76kjn45hTKsq3Qpg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
