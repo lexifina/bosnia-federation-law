@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA JP AUTOCESTE FEDERACIJE BiH D.O.O. MOSTAR
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA JP AUTOCESTE FEDERACIJE BiH D.O.O. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/21 (24.3.2021.), akt 3 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0ngztz5k76kjn45hTKsq3Qpg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
