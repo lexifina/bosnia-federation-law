@@ -1,0 +1,11 @@
+# ODLUKU O DOPUNI ODLUKE O NAČINU NAMJENSKOG UTROŠKA SREDSTAVA OSTVARENIH PO OSNOVU TAKSE ZA USPOSTAVU REZERVI NAFTNIH DERIVATA ZA PERIOD 2019. - 2022. GODINA
+
+Naslov: ODLUKU O DOPUNI ODLUKE O NAČINU NAMJENSKOG UTROŠKA SREDSTAVA OSTVARENIH PO OSNOVU TAKSE ZA USPOSTAVU REZERVI NAFTNIH DERIVATA ZA PERIOD 2019. - 2022. GODINA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 23/21 (24.3.2021.), akt 10 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0ngztz5k76kjn45hTKsq3Qpg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
