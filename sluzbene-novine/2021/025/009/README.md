@@ -1,0 +1,11 @@
+# ODLUKU O TRINAESTOJ EMISIJI OBVEZNICA FEDERACIJE BOSNE I HERCEGOVINE ZA IZMIRENJE OBAVEZA PO OSNOVU VERIFIKOVANIH RAČUNA STARE DEVIZNE ŠTEDNJE
+
+Naslov: ODLUKU O TRINAESTOJ EMISIJI OBVEZNICA FEDERACIJE BOSNE I HERCEGOVINE ZA IZMIRENJE OBAVEZA PO OSNOVU VERIFIKOVANIH RAČUNA STARE DEVIZNE ŠTEDNJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/21 (31.3.2021.), akt 9 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/trcMRJSWJGU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
