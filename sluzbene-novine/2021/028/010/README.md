@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU UPLATE, PRIPADNOSTI I RASPODJELE JAVNIH PRIHODA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O NAČINU UPLATE, PRIPADNOSTI I RASPODJELE JAVNIH PRIHODA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 28/21 (9.4.2021.), akt 10 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/BHNgztz5k76kjn45hWU5hZNU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
