@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU UPRAVE BH TELECOM D.D. SARAJEVO O ODOBRAVANJU SREDSTAVA ZA NABAVKU REKLAMNO-PROMOTIVNIH USLUGA OD MAXIMA D.O.O. SARAJEVO
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA ODLUKU UPRAVE BH TELECOM D.D. SARAJEVO O ODOBRAVANJU SREDSTAVA ZA NABAVKU REKLAMNO-PROMOTIVNIH USLUGA OD MAXIMA D.O.O. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/21 (12.5.2021.), akt 18 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/eaXfVOOH5gztz5k76kjn45hc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
