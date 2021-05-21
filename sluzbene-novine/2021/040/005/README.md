@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "FEROELEKTRO" D.D. SARAJEVO ZA DONOŠENJE ODLUKE O RAZRJEŠENJU DIREKTORA DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "FEROELEKTRO" D.D. SARAJEVO ZA DONOŠENJE ODLUKE O RAZRJEŠENJU DIREKTORA DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 40/21 (21.5.2021.), akt 5 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/C3tczoikkWQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
