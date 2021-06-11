@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP AUTOCESTE FEDERACIJE BiH D.O.O. MOSTAR ZA DONOŠENJE ODLUKE O RAZRJEŠENJU ČLANOVA UPRAVE DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU JP AUTOCESTE FEDERACIJE BiH D.O.O. MOSTAR ZA DONOŠENJE ODLUKE O RAZRJEŠENJU ČLANOVA UPRAVE DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 46/21 (11.6.2021.), akt 3 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vtsAHxdUSjQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
