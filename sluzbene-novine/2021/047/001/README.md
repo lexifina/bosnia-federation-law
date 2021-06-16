@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA RAZRJEŠENJE VRŠILACA DUŽNOSTI ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA UNIS "GINEX" D.D. GORAŽDE, ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI ZA RAZRJEŠENJE VRŠILACA DUŽNOSTI ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA UNIS "GINEX" D.D. GORAŽDE, ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 47/21 (16.6.2021.), akt 1 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/XPSGxRy4Fl8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
