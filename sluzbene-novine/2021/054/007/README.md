@@ -1,0 +1,11 @@
+# PRAVILNIK O NAČINU I USLOVIMA OSTVARIVANJA NOVČANE PODRŠKE PO MODELU POTICAJA PROIZVODNJI ("SLUŽBENE NOVINE FEDERACIJE BiH" BR. 32/17, 34/17 - ISP, 55/17, 56/18 , 24/20 I 32/21) - PREČIŠĆENI TEKST -
+
+Naslov: PRAVILNIK O NAČINU I USLOVIMA OSTVARIVANJA NOVČANE PODRŠKE PO MODELU POTICAJA PROIZVODNJI ("SLUŽBENE NOVINE FEDERACIJE BiH" BR. 32/17, 34/17 - ISP, 55/17, 56/18 , 24/20 I 32/21) - PREČIŠĆENI TEKST -
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 54/21 (9.7.2021.), akt 7 od 29 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KgPL4FJlW4s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
