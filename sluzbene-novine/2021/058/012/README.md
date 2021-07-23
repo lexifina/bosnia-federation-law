@@ -1,0 +1,11 @@
+# ODLUKU O RASPISIVANJU JAVNOG KONKURSA/NATJEČAJA ZA IZBOR I IMENOVANJE ČLANOVA ODBORA ZA REVIZIJU RAZVOJNE BANKE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O RASPISIVANJU JAVNOG KONKURSA/NATJEČAJA ZA IZBOR I IMENOVANJE ČLANOVA ODBORA ZA REVIZIJU RAZVOJNE BANKE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: RAZVOJNA BANKA FEDERACIJE BIH.
+
+Službene novine Federacije BiH broj 58/21 (23.7.2021.), akt 12 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2WPf7ExDRko=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
