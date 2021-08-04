@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 6. VANREDNOJ SJEDNICI SKUPŠTINE DIONIČKOG DRUŠTVA CESTE D.D. MOSTAR
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 6. VANREDNOJ SJEDNICI SKUPŠTINE DIONIČKOG DRUŠTVA CESTE D.D. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 61/21 (4.8.2021.), akt 10 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CpGQyql4gww=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
