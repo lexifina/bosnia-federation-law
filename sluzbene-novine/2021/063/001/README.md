@@ -1,0 +1,11 @@
+# PRAVILNIK O UTVRĐIVANJU USLOVA I KRITERIJA ZA STAVLJANJE NA LISTU STRUČNJAKA KOJI MOGU BITI IMENOVANI U STRUČNE KOMISIJE ZA OCJENU STUDIJA UTICAJA NA OKOLIŠ
+
+Naslov: PRAVILNIK O UTVRĐIVANJU USLOVA I KRITERIJA ZA STAVLJANJE NA LISTU STRUČNJAKA KOJI MOGU BITI IMENOVANI U STRUČNE KOMISIJE ZA OCJENU STUDIJA UTICAJA NA OKOLIŠ
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 63/21 (11.8.2021.), akt 1 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/P5yOlyxgztz5k76kjn45hBUo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
