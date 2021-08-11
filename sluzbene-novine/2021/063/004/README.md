@@ -1,0 +1,11 @@
+# KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA ZA DJELATNOST PROIZVODNJE I PRERADE METALA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA ZA DJELATNOST PROIZVODNJE I PRERADE METALA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: UDRUŽENJE POSLODAVACA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 63/21 (11.8.2021.), akt 4 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/P5yOlyxgztz5k76kjn45hBUo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
