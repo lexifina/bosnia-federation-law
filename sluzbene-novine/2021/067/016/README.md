@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA PROVOĐENJE POSTUPKA PRODAJE NEKRETNINA INSTITUTA ZA MEDICINSKO VJEŠTAČENJE ZDRAVSTVENOG STANJA SARAJEVO
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA PROVOĐENJE POSTUPKA PRODAJE NEKRETNINA INSTITUTA ZA MEDICINSKO VJEŠTAČENJE ZDRAVSTVENOG STANJA SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 67/21 (25.8.2021.), akt 16 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/T69bmsgztz5k76kjn45hhyrg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
