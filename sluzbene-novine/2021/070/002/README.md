@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "ZRAK" D.D. SARAJEVO ZA DONOŠENJE ODLUKE O RAZRJEŠENJU DIREKTORA DRUŠTVA
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NADZORNOM ODBORU PRIVREDNOG DRUŠTVA "ZRAK" D.D. SARAJEVO ZA DONOŠENJE ODLUKE O RAZRJEŠENJU DIREKTORA DRUŠTVA
+
+Donosilac: VLADA FEDERACIJE BIH - SEKRETAR VLADE.
+
+Službene novine Federacije BiH broj 70/21 (3.9.2021.), akt 2 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/k0KqtCGshMQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
