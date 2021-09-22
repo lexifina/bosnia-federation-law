@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ZA IMENOVANJE ČLANOVA NADZORNOG ODBORA U JAVNOM PREDUZEĆU ŽELJEZNICE FEDERACIJE BiH D.O.O. SARAJEVO
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ZA IMENOVANJE ČLANOVA NADZORNOG ODBORA U JAVNOM PREDUZEĆU ŽELJEZNICE FEDERACIJE BiH D.O.O. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 75/21 (22.9.2021.), akt 16 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cFcSX4ohz4nh78h777CEM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
