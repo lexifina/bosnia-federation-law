@@ -1,0 +1,11 @@
+# ODLUKU O REVIZIJI I UTVRĐIVANJU RADNIH MJESTA NA KOJIMA SE STAŽ OSIGURANJA RAČUNA SA UVEĆANIM TRAJANJEM U PRIVREDNOM DRUŠTVU "IGMAN" D.D. KONJIC
+
+Naslov: ODLUKU O REVIZIJI I UTVRĐIVANJU RADNIH MJESTA NA KOJIMA SE STAŽ OSIGURANJA RAČUNA SA UVEĆANIM TRAJANJEM U PRIVREDNOM DRUŠTVU "IGMAN" D.D. KONJIC
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 87/21 (29.10.2021.), akt 7 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TcR2XCw7Qgc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
