@@ -1,0 +1,11 @@
+# ODLUKU O PONIŠTENJU JAVNOG KONKURSA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA UNIVERZITETA U SARAJEVU – ISPRED OSNIVAČA
+
+Naslov: ODLUKU O PONIŠTENJU JAVNOG KONKURSA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA UNIVERZITETA U SARAJEVU – ISPRED OSNIVAČA
+
+Donosilac: MINISTARSTVO ZA NAUKU, VISOKO OBRAZOVANJE I MLADE KANTONA SARAJEVO.
+
+Službene novine Federacije BiH broj 93/21 (19.11.2021.), akt 22 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hXdxFLYMThY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
