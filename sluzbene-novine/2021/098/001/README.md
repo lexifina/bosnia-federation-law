@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ODLUKE O USVAJANJU PROGRAMA RAZVOJA ZAŠTITE I SPAŠAVANJA LJUDI I MATERIJALNIH DOBARA OD PRIRODNIH I DRUGIH NESREĆA U FEDERACIJI BiH OD 2021 - 2028. GODINE
+
+Naslov: UKAZ O PROGLAŠENJU ODLUKE O USVAJANJU PROGRAMA RAZVOJA ZAŠTITE I SPAŠAVANJA LJUDI I MATERIJALNIH DOBARA OD PRIRODNIH I DRUGIH NESREĆA U FEDERACIJI BiH OD 2021 - 2028. GODINE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 98/21 (6.12.2021.), akt 1 od 1 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jbbc6rq1vU0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
