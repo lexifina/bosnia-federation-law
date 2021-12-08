@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O SPECIJALIZACIJAMA I SUBSPECIJALIZACIJAMA ZDRAVSTVENIH RADNIKA I ZDRAVSTVENIH SARADNIKA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O SPECIJALIZACIJAMA I SUBSPECIJALIZACIJAMA ZDRAVSTVENIH RADNIKA I ZDRAVSTVENIH SARADNIKA
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 99/21 (8.12.2021.), akt 20 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/L5qQ4Qohz4nh78h772jTk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
