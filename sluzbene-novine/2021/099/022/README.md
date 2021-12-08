@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ISPITNE KOMISIJE ZA POLAGANJE STRUČNOG ISPITA ZA VODITELJA POSLOVNICE PUTNIČKE AGENCIJE
+
+Naslov: RJEŠENJE O IMENOVANJU ISPITNE KOMISIJE ZA POLAGANJE STRUČNOG ISPITA ZA VODITELJA POSLOVNICE PUTNIČKE AGENCIJE
+
+Donosilac: FEDERALNO MINISTARSTVO OKOLIŠA I TURIZMA.
+
+Službene novine Federacije BiH broj 99/21 (8.12.2021.), akt 22 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/L5qQ4Qohz4nh78h772jTk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
