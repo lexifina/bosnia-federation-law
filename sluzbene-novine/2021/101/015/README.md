@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA KORIŠTENJE ZEMLJIŠNIH ČESTICA JAVNOG DOBRA ZA POTREBE IZGRADNJE AUTOCESTE NA TRASI KORIDORA Vc, DIONICA NEMILA - POPRIKUŠE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA KORIŠTENJE ZEMLJIŠNIH ČESTICA JAVNOG DOBRA ZA POTREBE IZGRADNJE AUTOCESTE NA TRASI KORIDORA Vc, DIONICA NEMILA - POPRIKUŠE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/21 (15.12.2021.), akt 15 od 49 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VI1xDjNYdbM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
