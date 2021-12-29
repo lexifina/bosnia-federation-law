@@ -1,0 +1,11 @@
+# UPUTSTVO O IZMJENI UPUTSTVA O PROVOĐENJU MJERA ZA OTKLANJANJE I SPRJEČAVANJE ZARAZNIH I PARAZITARNIH BOLESTI ŽIVOTINJA ZA 2021. GODINU
+
+Naslov: UPUTSTVO O IZMJENI UPUTSTVA O PROVOĐENJU MJERA ZA OTKLANJANJE I SPRJEČAVANJE ZARAZNIH I PARAZITARNIH BOLESTI ŽIVOTINJA ZA 2021. GODINU
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 105/21 (29.12.2021.), akt 34 od 82 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KV1L31mt2Sk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
