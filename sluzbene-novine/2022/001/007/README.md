@@ -1,0 +1,11 @@
+# ODLUKU O PONOVNOM RASPISIVANJU JAVNOG OGLASA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA J.P. "FILMSKI CENTAR SARAJEVO" D.O.O.
+
+Naslov: ODLUKU O PONOVNOM RASPISIVANJU JAVNOG OGLASA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA J.P. "FILMSKI CENTAR SARAJEVO" D.O.O.
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 1/22 (5.1.2022.), akt 7 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KA7r8sbosx0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
