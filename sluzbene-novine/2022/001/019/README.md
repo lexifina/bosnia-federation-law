@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNAMA PRAVILNIKA O POLAGANJU STRUČNIH ISPITA IZ OBLASTI ARHITEKTURE, GRAĐEVINARSTVA, ELEKTROTEHNIKE, MAŠINSTVA I SAOBRAĆAJA
+
+Naslov: PRAVILNIK O DOPUNAMA PRAVILNIKA O POLAGANJU STRUČNIH ISPITA IZ OBLASTI ARHITEKTURE, GRAĐEVINARSTVA, ELEKTROTEHNIKE, MAŠINSTVA I SAOBRAĆAJA
+
+Donosilac: FEDERALNO MINISTARSTVO PROSTORNOG UREĐENJA I OKOLINE.
+
+Službene novine Federacije BiH broj 1/22 (5.1.2022.), akt 19 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KA7r8sbosx0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
