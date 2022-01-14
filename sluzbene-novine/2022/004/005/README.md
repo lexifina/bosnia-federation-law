@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI OPĆINI PALE ZA USTUPANJE NA KORIŠTENJE OBJEKATA I DIJELA ZEMLJIŠTA U KASARNI "HRENOVICA" TREĆIM LICIMA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI OPĆINI PALE ZA USTUPANJE NA KORIŠTENJE OBJEKATA I DIJELA ZEMLJIŠTA U KASARNI "HRENOVICA" TREĆIM LICIMA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 4/22 (14.1.2022.), akt 5 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/nZDo0T95Johz4nh78h77Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
