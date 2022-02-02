@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O STATUSNIM PITANJIMA I ORGANIZACIJI OPERATORA ZA OBNOVLJIVE IZVORE ENERGIJE I EFIKASNU KOGENERACIJU
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O STATUSNIM PITANJIMA I ORGANIZACIJI OPERATORA ZA OBNOVLJIVE IZVORE ENERGIJE I EFIKASNU KOGENERACIJU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 7/22 (2.2.2022.), akt 11 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qT6Qohz4nh78h77dkbsps=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
