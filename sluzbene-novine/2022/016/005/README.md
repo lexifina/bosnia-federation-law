@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA ODLUKU UPRAVNOG ODBORA O VISINI NAKNADA ZA USLUGE IZ DJELOKRUGA RADA FINANSIJSKO-INFORMATIČKE AGENCIJE
+
+Naslov: ODLUKU O DAVANJU PRETHODNE SAGLASNOSTI NA ODLUKU UPRAVNOG ODBORA O VISINI NAKNADA ZA USLUGE IZ DJELOKRUGA RADA FINANSIJSKO-INFORMATIČKE AGENCIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/22 (2.3.2022.), akt 5 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oj4y50Xmuwk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
