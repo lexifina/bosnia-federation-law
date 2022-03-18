@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA REVIZIJU LOVNOPRIVREDNE OSNOVE ZA LOVIŠTE "ŠUMANICA"
+
+Naslov: RJEŠENJE O IMENOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA REVIZIJU LOVNOPRIVREDNE OSNOVE ZA LOVIŠTE "ŠUMANICA"
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 21/22 (18.3.2022.), akt 4 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/TIIhXa6WSg0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
