@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2022. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2022. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 22/22 (23.3.2022.), akt 2 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MCQ5kDuohz4nh78h77RvA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
