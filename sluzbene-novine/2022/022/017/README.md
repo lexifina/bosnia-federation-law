@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA REVIZIJU LOVNOPRIVREDNE OSNOVE ZA LOVIŠTE: "GRADAŠNICA"
+
+Naslov: RJEŠENJE O IMENOVANJU STRUČNE KOMISIJE ZA PREGLED I DAVANJE PRIJEDLOGA ZA SAGLASNOST NA REVIZIJU LOVNOPRIVREDNE OSNOVE ZA LOVIŠTE: "GRADAŠNICA"
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 22/22 (23.3.2022.), akt 17 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MCQ5kDuohz4nh78h77RvA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
