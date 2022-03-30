@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA TRAJNO KORIŠTENJE DIZEL GORIVA IZ FEDERALNIH ROBNIH REZERVI POLJOPRIVREDNIM PROIZVOĐAČIMA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O DAVANJU NA TRAJNO KORIŠTENJE DIZEL GORIVA IZ FEDERALNIH ROBNIH REZERVI POLJOPRIVREDNIM PROIZVOĐAČIMA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 24/22 (30.3.2022.), akt 1 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pQToceXPPew=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
