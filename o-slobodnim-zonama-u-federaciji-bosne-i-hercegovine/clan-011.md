@@ -1,0 +1,2 @@
+Član 11.
+Određivanje dijela teritorije kao slobodne zone je ekonomski opravdano ako se na temelju priloženog elaborata i drugih priloženih dokaza može ocijeniti da će se postići pozitivni efekti u pogledu privlačenja stranog kapitala, proizvodnje robe i pružanja usluga, zapošljavanja i transfera savremenih tehnologija, te da će vrijednost robe koja se izvozi iz slobodne zone preći najmanje 50% od ukupne vrijednosti proizvedene robe koja napušta slobodnu zonu u periodu od 12 mjeseci.

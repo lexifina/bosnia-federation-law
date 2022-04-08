@@ -1,0 +1,3 @@
+Član 7.
+(1) Elaborat o ekonomskoj opravdanosti osnivanja slobodne zone (u daljnjem tekstu: elaborat) je dokument koji sadrži procjenu obima ukupnih ulaganja sa posebnim osvrtom na procjenu stranih ulaganja, procjenu očekivanih efekata, a naročito u pogledu proizvodnje robe i pružanju usluga, vrijednosti robe koja će se izvoziti iz slobodne zone u periodu od 12 mjeseci, zapošljavanja i transfera savremenih tehnologija, uz navođenje djelatnosti koje će se obavljati u slobodnoj zoni.
+(2) Elaborat može da izradi osnivač ili drugo pravno lice ili privrednik kojeg osnivač angažuje za njegovu izradu.

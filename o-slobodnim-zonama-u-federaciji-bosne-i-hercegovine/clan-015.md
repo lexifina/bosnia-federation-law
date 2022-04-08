@@ -1,0 +1,3 @@
+Član 15.
+(1) U roku od 30 dana od dana donošenja odluke iz člana 14. ovog Zakona, osnivač je dužan donijeti pravilnik kojim se uređuju organizaciono-tehnički uslovi za obavljanje djelatnosti u slobodnoj zoni.
+(2) Pravilnikom iz stava (1) ovoga člana uređuje se radno vrijeme slobodne zone, kretanje lica i promet robe u slobodnoj zoni, obaveze privrednog društva za upravljanje slobodnom zonom u vezi osiguranja prostornih, tehničkih i organizacionih uslova korištenja slobodne zone, mjere zaštite na radu u slobodnoj zoni i mjere zaštite okoliša, prava i obaveze korisnika slobodne zone u odnosu na osnivača slobodne zone i sl.
