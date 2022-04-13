@@ -1,0 +1,11 @@
+# ODLUKU O ČETRNAESTOJ EMISIJI OBVEZNICA FEDERACIJE BOSNE I HERCEGOVINE ZA IZMIRENJE OBAVEZA PO OSNOVU VERIFICIRANIH RAČUNA STARE DEVIZNE ŠTEDNJE
+
+Naslov: ODLUKU O ČETRNAESTOJ EMISIJI OBVEZNICA FEDERACIJE BOSNE I HERCEGOVINE ZA IZMIRENJE OBAVEZA PO OSNOVU VERIFICIRANIH RAČUNA STARE DEVIZNE ŠTEDNJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/22 (13.4.2022.), akt 6 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/8OGT6sw1ayY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
