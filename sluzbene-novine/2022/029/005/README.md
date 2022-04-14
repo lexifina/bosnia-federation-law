@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA
+
+Naslov: UKAZ O PROGLAŠENJU ZAKONA O IZMJENI ZAKONA O PRAVIMA BRANILACA I ČLANOVA NJIHOVIH PORODICA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 29/22 (14.4.2022.), akt 5 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/qIsFc5WFohz4nh78h77NA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
