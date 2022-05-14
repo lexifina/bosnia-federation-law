@@ -1,0 +1,6 @@
+Član 15.
+(Preuzimanje poreznog duga od strane osnivača zdravstvenih ustanova)
+1) Osnivač i/ili suosnivač zdravstvene ustanove može preuzeti porezni dug u skladu s članom 11. tačka c) ovog zakona o čemu donosi posebnu odluku. Odluka obavezno sadrži iznos duga koji se preuzima s rokom za uplatu istog koji ne može biti duži od pet fiskalnih godina, računajući od dana donošenja ove odluke.
+2) Ukoliko se porezni dug zdravstvenih ustanova vrši preuzimanjem duga od strane osnivača i/ili suosnivača zdravstvenih ustanova izvršni organ vlasti na nivou općine, kantona i Federacije, na usaglašen prijedlog nadležnih organa uprave za oblast zdravstva i finansija, usvaja prijedlog odluke o preuzimanju poreznog duga, s rokovima izvršenja preuzetih obaveza i prijedlog odluke dostavlja zakonodavnom tijelu općine, kantona, odnosno Federacije.
+3) Ukoliko osnivač i/ili suosnivač ne bude realizovao Odluku u predviđenom roku dozvoljava mu se reprogramiranje duga na način i po postupku predviđenim ovim zakonom i podzakonskim aktima donesenim na osnovu ovog zakona, kao i važećim propisima o Poreznoj upravi Federacije BiH.
+4) Sadržaj, način i postupak donošenja odluke iz st. (1) i (2) ovog člana, te postupak reprogramiranja bliže se uređuje podzakonskim aktom kojeg donosi ministar zdravstva.

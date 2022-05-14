@@ -1,0 +1,6 @@
+Član 25.
+(Prekid postupka finansijske konsolidacije i/ili restrukturiranja)
+(1) Ako dužnik u roku od 60 dana od dana donošenja odluke iz člana 6. ovog zakona i zaključenja Sporazuma iz člana 12. ovog zakona, ne započne izvršavati sve svoje tekuće finansijske obaveze, nadležno izvršno tijelo vlasti koje je donijelo Odluku o finansijskoj konsolidaciji i restrukturiranju, donijet će odluku o stavljanju izvan snage Odluke o finansijskoj konsolidaciji i restrukturiranju, čime se postupak finansijske konsolidacije konkretnog dužnika prekida.
+(2) Dužnik podnosi izvještaj upravnom odboru zdravstvene ustanove kojim se dokazuje da izvršava svoje tekuće finansijske obaveze koje nisu predmet finansijske konsolidacije, i prije isteka roka iz stava (1) ovog člana.
+(3) Prekid postupka finansijske konsolidacije i/ili restrukturiranja se predlaže kada zdravstvena ustanova odstupa od Programa finansijske konsolidacije i/ili restrukturiranja, izuzev u slučaju proglašenju prirodne nesreće odnosno vanrednog stanja u zdravstvu, ukoliko su troškovi izazvani pravomoćnim sudskim presudama, odlukama osnivača i suosnivača, odnosno nadležnog izvršnog tijela vlasti.
+(4) Prekid postupka u slučaju iz stava (3) predlažu tijela za nadzor nad provođenjem Programa finansijske konsolidacije i/ili restrukturiranja iz člana 22. stav (5) ovog zakona.

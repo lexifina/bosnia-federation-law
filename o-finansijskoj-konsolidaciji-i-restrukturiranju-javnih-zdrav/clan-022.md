@@ -1,0 +1,10 @@
+Član 22.
+(Nadzor nad provođenjem Programa finansijske konsolidacije i/ili restrukturiranja zdravstvenih ustanova i izvještavanje)
+(1) Nadzor nad provođenjem Programa finansijske konsolidacije i/ili restrukturiranja vrše upravni odbori zdravstvene ustanove i nadzorni odbori zdravstvenih ustanova u kojima su ista formirana u skladu sa Zakonom o zdravstvenoj zaštiti i propisima donesenim na osnovu tog zakona.
+(2) Upravni odbori kantonalnih i općih bolnica dostavljaju kvartalni izvještaj o realizaciji Programa finansijske konsolidacije i/ili restrukturiranja, u roku od 30 dana nakon isteka perioda na koji se odnosi, izvršnom tijelu vlasti koje je odobrilo Program finansijske konsolidacije i/ili restrukturiranja na usvajanje, a nakon čega se isti dostavlja Federalnom ministarstvu zdravstva.
+(3) Upravni odbori univerzitetsko-kliničkih bolnica Ministarstvu dostavljaju kvartalni izvještaj o realizaciji Programa finansijske konsolidacije i/ili restrukturiranja u roku od 30 dana nakon isteka perioda na koji se odnosi.
+(4) Ministarstvo izvještava Vladu Federacije o realizaciji programa finansijske konsolidacije i/ili restrukturiranja u skladu s propisima o izvršavanju budžeta.
+(5) Komisija za praćenje i nadzor nad implementacijom programa finansijske konsolidacije i/ili restrukturiranja, kao i namjenskog utroška sredstava iz člana 20. stav (3) i člana 21. stav (4) ovog zakona (u daljem tekstu: Komisija), obavlja nadzor nad namjenski utrošenim sredstvima dodijeljenim zdravstvenim ustanovama, te praćenje implementacije programa finansijske konsolidacije i/ili restrukturiranja.
+(6) Komisiju iz stava (5) ovog člana, na prijedlog Ministarstva imenuje i razrješava Vlada Federacije na mandatni period od četiri godine s mogućnošću izbora za još jedan mandatni period.
+(7) Ministar zdravstva uz saglasnost ministra finansija, podzakonskim aktom propisuje sadržaj i formu kvartalnih izvještaja iz st. (2) i (3) ovog člana.
+(8) Ministar zdravstva podzakonskim aktom propisuje kriterije za izbor članova Komisije iz stava (5) ovog člana, bliže nadležnosti Komisije, kao i način i postupak izbora Komisije.
