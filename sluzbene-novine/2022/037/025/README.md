@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2022. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PREPOROD"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2022. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PREPOROD"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/22 (18.5.2022.), akt 25 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bwt4h1upLZc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
