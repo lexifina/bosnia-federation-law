@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNOG MINISTARSTVA PRAVDE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNOG MINISTARSTVA PRAVDE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 39/22 (25.5.2022.), akt 9 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lRITe2NZut8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
