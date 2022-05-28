@@ -1,0 +1,8 @@
+Član 10.
+(Dostavljanje podataka o duhanskim proizvodima)
+(1) Proizvođači i uvoznici duhanskih i ostalih proizvoda za pušenje obavezni su najkasnije do 31. marta tekuće godine za prethodnu godinu Ministarstvu dostaviti spisak svih sastojaka i njihovih količina po vrsti i tipu koji se koriste u proizvodnji duhanskih i ostalih proizvoda za pušenje.
+(2) Spisak iz stava (1) ovog člana obavezno sadrži obrazloženje o uključivanju sastojaka u duhanskim proizvodima i kategoriju sastojaka.
+(3) Uz spisak iz stava (1) ovog člana obavezno se prilažu toksikološki podaci od proizvođača ili uvoznika za sastojke duhanskih proizvoda u zapaljenom i nezapaljenom stanju, pozivajući se na njihove efekte po zdravlje i osobine koje prouzrokuju zavisnost.
+(4) Spisak svih sastojaka po količini, vrsti i tipu dostavlja se za svaki duhanski proizvod koji iz proizvodnje izlazi kao samostalni duhanski proizvod namijenjen tržištu kao i za svaki duhanski proizvod koji se uveze na tržište Federacije, uključujući elektronske cigarete, bezdimni duhanski proizvod i biljni proizvod za pušenje.
+(5) Ministarstvo, u saradnji sa Zavodom za javno zdravstvo Federacije Bosne i Hercegovine (u daljem tekstu: Federalni zavod za javno zdravstvo), jednom godišnje, putem internet stranice, informiše javnost o podacima iz st. (1) do (3) ovog člana uz obavezu zaštite podataka koji predstavljaju poslovnu tajnu.
+(6) Ministar, na prijedlog Federalne komisije za kontrolu upotrebe duhana, duhanskih i ostalih proizvoda za pušenje, donosi podzakonski akt kojim se propisuje sadržaj podataka i način izvještavanja o duhanskim, novim i ostalim proizvodima za pušenje.

@@ -1,0 +1,8 @@
+POGLAVLJE XVI. - PRELAZNE I ZAVRŠNE ODREDBE
+Član 41.
+(Početak primjene propisa)
+(1) Obaveze za fizička lica nastupaju sa danom početka primjene ovog zakona.
+(2) Ustanove, preduzeća i druga pravna lica dužni su svoja akta uskladiti s odredbama ovog zakona u roku od šest mjeseci od početka primjene ovog zakona.
+(3) Industrija duhana obavezna je svoj rad i poslovanje uskladiti s odredbama ovoga zakona u roku od 18 mjeseci od početka primjene ovog zakona, odnosno od dana stupanja na snagu podzakonskih akata donesenih na osnovu ovog zakona. Izuzetno od rokova navedenih u ovoj točki, Poglavlje V. – Pakovanje i označavanje duhanskih proizvoda, član 18. (Označavanje pakovanja elektronskih cigareta i posuda za ponovno punjenje), član 19. (Označavanje bezdimnih duhanskih proizvoda) te člana 20. (Označavanje biljnih proizvoda za pušenje) počet će se primjenjivati na dan početka primjene sadržajno istovrsnog propisa na teritoriji entiteta Republika Srpska i Brčko distrikta Bosne i Hercegovine, ukoliko početak primjene takvog propisa na teritoriji entiteta Republika Srpska i Brčko distrikta Bosne i Hercegovine bude kasniji u odnosu na rokove propisane ovim stavom.
+(4) Pravna lica, u čijim objektima postoje izuzeci od zabrane pušenja u skladu sa ovim zakonom, bilo da su u njihovom vlasništvu ili su im dati na korištenje, dužni su uskladiti svoj rad s odredbama ovog zakona u roku od šest mjeseci od dana stupanja na snagu podzakonskog propisa koji se donosi na osnovu člana 7. ovog zakona.
+(5) Kazne za lica iz st. (1) do (4) ovog člana propisane ovim zakonom počet će se naplaćivati nakon isteka 12 mjeseci od početka primjene ovog zakona, odnosno od dana stupanja na snagu podzakonskih akata donesenih na osnovu ovog zakona.
