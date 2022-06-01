@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA JP CESTE FEDERACIJE BiH D.O.O. SARAJEVO
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI PRIVREDNOG DRUŠTVA JP CESTE FEDERACIJE BiH D.O.O. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 42/22 (1.6.2022.), akt 11 od 50 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/EFiBkq66Foc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
