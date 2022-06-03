@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O IZVJEŠTAJIMA KOJE BANKA DOSTAVLJA AGENCIJI ZA BANKARSTVO FEDERACIJE BOSNE I HERCEGOVINE U NADZORNE I STATISTIČKE SVRHE
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O IZVJEŠTAJIMA KOJE BANKA DOSTAVLJA AGENCIJI ZA BANKARSTVO FEDERACIJE BOSNE I HERCEGOVINE U NADZORNE I STATISTIČKE SVRHE
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 43/22 (3.6.2022.), akt 6 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lWNxqCAr9dg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
