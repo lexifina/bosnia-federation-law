@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI JAVNOM PODUZEĆU "ELEKTROPRIVREDA HRVATSKE ZAJEDNICE HERCEG BOSNE" DIONIČKO DRUŠTVO MOSTAR NA KRIVE OPTEREĆENJA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI JAVNOM PODUZEĆU "ELEKTROPRIVREDA HRVATSKE ZAJEDNICE HERCEG BOSNE" DIONIČKO DRUŠTVO MOSTAR NA KRIVE OPTEREĆENJA
+
+Donosilac: REGULATORNA KOMISIJA ZA ENERGIJU U FEDERACIJI BOSNE I HERCEGOVINE - FERK.
+
+Službene novine Federacije BiH broj 47/22 (15.6.2022.), akt 41 od 57 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ssPopwK6RtU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
