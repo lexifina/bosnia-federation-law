@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINIRANJE ZA IMENOVANJE ČLANOVA NADZORNOG ODBORA SARAJEVO - OSIGURANJA D.D. SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINIRANJE ZA IMENOVANJE ČLANOVA NADZORNOG ODBORA SARAJEVO - OSIGURANJA D.D. SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 59/22 (27.7.2022.), akt 8 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Va8Fo2iwpY8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
