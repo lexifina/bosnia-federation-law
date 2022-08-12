@@ -1,0 +1,11 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: USTAVNI SUD BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 64/22 (12.8.2022.), akt 8 od 11 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dgztz5k76kjn45hYGVQFohz4nh78h77Wuk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
