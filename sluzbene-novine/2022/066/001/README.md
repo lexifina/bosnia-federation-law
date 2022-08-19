@@ -1,0 +1,11 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: KOMISIJA ZA VRIJEDNOSNE PAPIRE FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 66/22 (19.8.2022.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/U1iHSATSUJ4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
