@@ -1,0 +1,6 @@
+Član 28.
+(Zabrana zlostavljanja)
+(1) U obavljanju njihove propisane djelatnosti, federalnim ustanovama socijalne zaštite, odnosno njihovim zaposlenicima zabranjuje se bilo koji oblik fizičkog, emocionalnog ili seksualnog zlostavljanja korisnika, njihovo iskorištavanje, zloupotreba povjerenja ili moći, zanemarivanje adekvatnog zadovoljavanja njihovih egzistencijalnih potreba, kao i svako drugo djelovanje koje može ugroziti život ili narušiti zdravlje smještenih korisnika, uključujući i zanemarivanje njihovih fizičkih, psihosocijalnih, duhovnih ili razvojnih potreba.
+(2) Svi zaposlenici federalnih ustanova socijalne zaštite imaju obavezu brinuti se da korisnici ne budu zlostavljani, te su dužni svaku vrstu zlostavljanja prijaviti odgovornom licu federalne ustanove socijalne zaštite, nadležnom organu starateljstva i nadležnim istražnim organima.
+(3) Federalne ustanove socijalne zaštite dužne su kontinuirano poduzimati mjere u cilju prevencije i sprečavanja zlostavljanja korisnika kako od strane zaposlenika, tako i od strane drugih korisnika, što uključuje i izradu internih procedura prijavljivanja i postupanja po zaprimljenim prijavama.
+(4) Federalne ustanove socijalne zaštite imaju obavezu, putem stručnog kadra ili zdravstvenih radnika, na razumljiv i pristupačan način upoznati i educirati korisnike o prepoznavanju, izbjegavanju i prijavljivanju nasilja.

@@ -1,0 +1,5 @@
+Član 46.
+(Broj članova i sastav upravnog odbora)
+(1) Upravni odbor u federalnim ustanovama socijalne zaštite sastoji se od pet članova od kojih su barem dva pravne struke.
+(2) U upravne odbore u federalnim ustanovama socijalne zaštite u pravilu se imenuje jedan član iz reda stručnih zaposlenika federalne ustanove socijalne zaštite u kojoj se vrši imenovanje upravnog odbora, jedan iz reda zakonskih zastupnika korisnika koji se nalaze na smještaju u federalnoj ustanovi socijalne zaštite u kojoj se vrši imenovanje i tri člana iz reda stručnih lica iz oblasti i zvanja utvrđenih posebnim kriterijima za imenovanje u upravne odbore ovih ustanova.
+(3) Izuzetno od stava (2) ovoga člana, u slučaju da se pozicije u upravnim odborima federalnih ustanova socijalne zaštite, zbog neprijavljivanja kandidata ili neispunjavanja opštih i posebnih uslova od strane prijavljenih kandidata, ne budu mogle popuniti članovima iz reda stručnih zaposlenika ili iz reda zakonskih zastupnika korisnika, tada će se na iste imenovati kandidati iz reda stručnih lica iz oblasti i zvanja utvrđenih posebnim kriterijima za imenovanje u upravne odbore federalnih ustanova socijalne zaštite.

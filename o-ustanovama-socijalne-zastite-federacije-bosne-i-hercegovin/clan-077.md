@@ -1,0 +1,3 @@
+Član 77.
+(Sadržaj inspekcijskog nadzora)
+Inspekcijski nadzor podrazumijeva nadzor nad zakonitošću rada federalnih ustanova socijalne zaštite i provodi se kroz poduzimanje inspekcijskih radnji na utvrđivanju činjeničnog stanja u pogledu provođenja zakona i drugih propisa kod subjekta nadzora, poduzimanje preventivnih mjera u skladu s ovim zakonom i drugim propisima, poduzimanje korektivnih mjera, odnosno nalaganje upravnih mjera radi sprečavanja i otklanjanja nezakonitosti u provođenju ovoga i drugih zakona, te kroz poduzimanje drugih mjera i radnji utvrđenih propisima o inspekcijama kao i drugim relevantnim propisima.

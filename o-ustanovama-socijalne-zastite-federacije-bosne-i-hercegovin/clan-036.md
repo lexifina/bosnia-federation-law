@@ -1,0 +1,4 @@
+Član 36.
+(Posebni standardi i kriteriji za individualnu procjenu korisnika)
+(1) Federalni ministar rada i socijalne politike će, u konsultacijama s federalnim ministrom zdravstva, federalnim ministrom obrazovanja i nauke i federalnim ministrom pravde, propisati posebne standarde i kriterije za individualnu procjenu korisnika pri prijemu na smještaj u federalne ustanove socijalne zaštite, kao i standarde za procjenu potrebe njihovog daljeg zadržavanja na smještaju.
+(2) Propisom iz stava (1) ovoga člana utvrdit će se standardi i kriteriji za individualnu procjenu opšteg zdravstvenog stanja, duševnog stanja i ponašanja, socijalnog i svakodnevnog funkcionisanja korisnika, socijalnih i zdravstvenih potreba korisnika, raspoloživih i dostupnih resursa u zajednici korisnika, kao i opšti okviri u pogledu programa pripreme korisnika za samostalno funkcionisanje u lokalnoj zajednici, odnosno za druge oblike institucionalne ili vaninstitucionalne zaštite.

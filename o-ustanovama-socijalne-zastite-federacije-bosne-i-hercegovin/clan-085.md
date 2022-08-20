@@ -1,0 +1,6 @@
+Član 85.
+(Novčana kazna za institucije i ustanove zdravstvene zaštite i osiguranja)
+(1) Novčanom kaznom u iznosu od 2.000,00 KM do 10.000,00 KM kaznit će se za prekršaj:
+a) nadležni zavod zdravstvenog osiguranja kantona i dom zdravlja koji se nalazi u mjestu sjedišta federalne ustanove socijalne zaštite ukoliko međusobno ne sklope pojedinačne ugovore o obezbjeđenju primarne zdravstvene zaštite za korisnike čije prebivalište nije u mjestu sjedišta federalne ustanove socijalne zaštite u kojoj se nalazi na smještaju na način kako je to utvrđeno članom 9. ovoga zakona;
+b) nadležni zavod zdravstvenog osiguranja kantona ukoliko s federalnom ustanovom socijalne zaštite ne sklopi pojedinačne ugovore o obezbjeđenju sekundarne i tercijarne zdravstvene zaštite za korisnike koji su, po mjestu svoga prebivališta, u njegovoj mjesnoj nadležnosti na način kako je to utvrđeno članom 9. ovoga zakona.
+(2) Novčanom kaznom u iznosu od 500,00 KM do 1.500,00 KM kaznit će se i odgovorna lica u nadležnom zavodu zdravstvenog osiguranja kantona i domu zdravlja za prekršaj iz stava (1) tačka a) ovoga člana, kao i odgovorno lice nadležnog zavoda zdravstvenog osiguranja kantona za prekršaj iz stava (1) tačka b) ovoga člana.
