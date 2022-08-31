@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU NOVČANIH IZNOSA KOJI ĆE SE NAPLAĆIVATI TOKOM MJESECA OKTOBRA 2022. GODINE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE ZA "DJEČIJU NEDJELJU"
+
+Naslov: ODLUKU O UTVRĐIVANJU NOVČANIH IZNOSA KOJI ĆE SE NAPLAĆIVATI TOKOM MJESECA OKTOBRA 2022. GODINE NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE ZA "DJEČIJU NEDJELJU"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 69/22 (31.8.2022.), akt 5 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0yX5ca47FXA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
