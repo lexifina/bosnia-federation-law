@@ -1,0 +1,11 @@
+# PRAVILNIK O SADRŽAJU PRIJAVE KONTROLIRANOG ZATVORENOG SISTEMA ZA OGRANIČENU UPOTREBU GENETSKI MODIFICIRANIH ORGANIZAMA
+
+Naslov: PRAVILNIK O SADRŽAJU PRIJAVE KONTROLIRANOG ZATVORENOG SISTEMA ZA OGRANIČENU UPOTREBU GENETSKI MODIFICIRANIH ORGANIZAMA
+
+Donosilac: FEDERALNO MINISTARSTVO OBRAZOVANJA I NAUKE/ZNANOSTI.
+
+Službene novine Federacije BiH broj 72/22 (9.9.2022.), akt 4 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/0L2ZHjpkSZg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
