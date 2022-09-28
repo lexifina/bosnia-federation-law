@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI FEDERALNOM ZAVODU ZA STATISTIKU ZA FORMIRANJE POPISNOG BIROA ZA PRIPREME I PROVOĐENJE POPISA POLJOPRIVREDE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI FEDERALNOM ZAVODU ZA STATISTIKU ZA FORMIRANJE POPISNOG BIROA ZA PRIPREME I PROVOĐENJE POPISA POLJOPRIVREDE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 77/22 (28.9.2022.), akt 11 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ipIQZcPYBohz4nh78h77A=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
