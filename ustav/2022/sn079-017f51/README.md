@@ -39,3 +39,22 @@ Act id: `ustav-2022-sn079-017f51`.
 - CXXVI: "IV.6.18.a"" -> "[V.6.18.a""
 - CXXVIII: "CXXVIII" -> "CXXVIIH"; ""(2) Izuzetno" -> "*(2) [Izuzetno"; "naroda."" -> "naroda."'"
 - CXXIX: "CXXIX" -> "CXXVIX"; "potpredsjednikâ" -> "potpredsjednika"; "listâ" -> "lista"; "potpredsjednikâ" -> "potpredsjednika"; "" -> "10"
+
+## Added from the OHR's own text (2026-11-16)
+
+The OHR, which issued the decision, publishes its Bosnian text at <https://www.ohr.int/decision-enacting-amendments-to-the-constitution-of-the-federation-of-bosnia-and-herzegovina-4/>. The blocks the OCR could not confirm (odluka, uvod-amandmana, CX, CXII, CXIV, CXVI, CXVIII, CXX, CXXII, CXXIII, CXXIV, CXXVI, CXXVIII, CXXIX) are added from that page, word for word as the OHR prints it (circumflexes included), in odluka.md, uvod-amandmana.md and the amandman-*.md files listed below. The OCR of the Parliament's scan stays the cross-check: its differences from the OHR text are listed above, block by block (OHR text -> OCR).
+
+- [odluka.md](odluka.md)
+- [uvod-amandmana.md](uvod-amandmana.md)
+- [amandman-110-cx.md](amandman-110-cx.md)
+- [amandman-112-cxii.md](amandman-112-cxii.md)
+- [amandman-114-cxiv.md](amandman-114-cxiv.md)
+- [amandman-116-cxvi.md](amandman-116-cxvi.md)
+- [amandman-118-cxviii.md](amandman-118-cxviii.md)
+- [amandman-120-cxx.md](amandman-120-cxx.md)
+- [amandman-122-cxxii.md](amandman-122-cxxii.md)
+- [amandman-123-cxxiii.md](amandman-123-cxxiii.md)
+- [amandman-124-cxxiv.md](amandman-124-cxxiv.md)
+- [amandman-126-cxxvi.md](amandman-126-cxxvi.md)
+- [amandman-128-cxxviii.md](amandman-128-cxxviii.md)
+- [amandman-129-cxxix.md](amandman-129-cxxix.md)
