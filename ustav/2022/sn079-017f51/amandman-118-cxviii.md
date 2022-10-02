@@ -1,0 +1,12 @@
+Amandman CXVIII
+Član IV.A.18. mijenja se i glasi:
+“(1) U slučaju da dvije trećine jednog od klubova konstitutivnih naroda u Domu naroda ili više od jednog predsjedavajućeg ili potpredsjedavajućeg Doma naroda odluče da se zakon, drugi propis ili akt odnosi na vitalni nacionalni interes definiran članom IV.A.17a ovog Ustava, Dom naroda će taj zakon, propis ili akt razmatrati kao pitanje od vitalnog interesa.
+(2) Odluka da se zakon, drugi propis ili akt odnosi na vitalni nacionalni interes mora biti donesena u roku od jedne sedmice od dana kada je prijedlog zakona, propisa ili akta dostavljen delegatima, a najkasnije do održavanja glasanja o tom zakonu, propisu ili aktu u Domu naroda.
+(3) Ukoliko većina svakog kluba zastupljenog u Domu naroda glasa za takav zakon, propis ili akt, smatrat će se da je usvojen.
+(4) Ukoliko se u Domu naroda postigne saglasnost o amandmanima, takav zakon, propis ili akt se ponovo dostavlja Predstavničkom domu na odobravanje.
+(5) Ukoliko se saglasnost u Domu naroda ne postigne ili ukoliko se na prijedlog amandmana ne dobije saglasnost, formirat će se Zajednička komisija sastavljena od predstavnika Predstavničkog doma i Doma naroda. Zajednička komisija je sastavljena na paritetnom osnovu i odluke donosi konsenzusom. Zajednička komisija usaglašava tekst zakona, propisa ili akta. Ukoliko se tekst zakona, propisa ili akta usaglasi, zakon, propis ili akt smatra se usvojenim.
+(6) Ukoliko Zajednička komisija ne postigne saglasnost, pitanje se prosljeđuje Ustavnom sudu Federacije Bosne i Hercegovine da donese konačnu odluku o tome da li se predmetni zakon, propis ili akt odnosi na vitalni interes jednog od konstitutivnih naroda.
+(7) Vijeće za zaštitu vitalnog interesa pri Ustavnom sudu Federacije Bosne i Hercegovine odlučuje o prihvatljivosti takvih slučajeva dvotrećinskom većinom u roku od jedne sedmice, a u roku od mjesec dana odlučuje o meritumu slučajeva koji se smatraju prihvatljivim.
+(8) Potreban je glas najmanje dvoje sudija da bi Sud odlučio da se radi o vitalnom interesu.
+(9) Ukoliko Sud donese pozitivnu odluku o vitalnom interesu, taj zakon, propis ili akt smatra se neusvojenim, te se dokument vraća predlagaču koji treba pokrenuti novu proceduru. U tom slučaju predlagač ne može ponovo dostaviti isti tekst zakona, propisa ili akta.
+(10) U slučaju da sud odluči da se predmetni zakon, propis ili akt ne odnosi na vitalni interes, smatra se da je zakon, propis ili akt usvojen/biće usvojen prostom većinom.”
