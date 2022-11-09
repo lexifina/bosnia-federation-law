@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU STRUČNOG ODBORA ZA ENERGIJSKU EFIKASNOST
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU STRUČNOG ODBORA ZA ENERGIJSKU EFIKASNOST
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 89/22 (9.11.2022.), akt 12 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/53Sgztz5k76kjn45hpxe7gm4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
