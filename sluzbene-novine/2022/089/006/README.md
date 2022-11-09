@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU PLANSKOG DOKUMENTA O UVOĐENJU CAF STANDARDA ZA UPRAVLJANJE KVALITETOM U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ODOBRAVANJU PLANSKOG DOKUMENTA O UVOĐENJU CAF STANDARDA ZA UPRAVLJANJE KVALITETOM U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 89/22 (9.11.2022.), akt 6 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/53Sgztz5k76kjn45hpxe7gm4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
