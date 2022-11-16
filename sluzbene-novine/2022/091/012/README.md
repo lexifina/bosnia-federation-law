@@ -1,0 +1,11 @@
+# ODLUKU O REVIZIJI I UTVRĐIVANJU RADNIH MJESTA NA KOJIMA SE STAŽ OSIGURANJA RAČUNA SA UVEĆANIM TRAJANJEM U PRIVREDNOM PREDUZEĆU "ARCELORMITTAL" D.O.O. ZENICA
+
+Naslov: ODLUKU O REVIZIJI I UTVRĐIVANJU RADNIH MJESTA NA KOJIMA SE STAŽ OSIGURANJA RAČUNA SA UVEĆANIM TRAJANJEM U PRIVREDNOM PREDUZEĆU "ARCELORMITTAL" D.O.O. ZENICA
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 91/22 (16.11.2022.), akt 12 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/daW9PdW0XoQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
