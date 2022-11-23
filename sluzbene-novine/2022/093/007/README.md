@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O UNUTRAŠNJOJ ORGANIZACIJI I SISTEMATIZACIJI RADNIH MJESTA FEDERALNE NOVINSKE AGENCIJE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O UNUTRAŠNJOJ ORGANIZACIJI I SISTEMATIZACIJI RADNIH MJESTA FEDERALNE NOVINSKE AGENCIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 93/22 (23.11.2022.), akt 7 od 85 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sCOX8Heo9zQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
