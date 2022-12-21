@@ -1,0 +1,11 @@
+# RJEŠENJE O FORMIRANJU RADNE GRUPE ZA IMPLEMENTIRANJE DORADA INFORMACIONOG SISTEMA ZEMLJIŠNE KNJIGE I KATASTRA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O FORMIRANJU RADNE GRUPE ZA IMPLEMENTIRANJE DORADA INFORMACIONOG SISTEMA ZEMLJIŠNE KNJIGE I KATASTRA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/22 (21.12.2022.), akt 18 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/CJuz12lspgztz5k76kjn45hY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
