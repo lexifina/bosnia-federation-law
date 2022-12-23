@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU PREDSJEDNIKA I ČLANOVA KOMISIJA ZA PROVEDBU REDOVNOG POPISA U 2022. GODINI
+
+Naslov: RJEŠENJE O IMENOVANJU PREDSJEDNIKA I ČLANOVA KOMISIJA ZA PROVEDBU REDOVNOG POPISA U 2022. GODINI
+
+Donosilac: URED VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA EVROPSKE INTEGRACIJE.
+
+Službene novine Federacije BiH broj 102/22 (23.12.2022.), akt 17 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ILkAtohz4nh78h775tZKs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
