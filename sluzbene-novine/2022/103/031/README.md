@@ -1,0 +1,11 @@
+# KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA ZA DJELATNOST HEMIJE I NEMETALA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: KOLEKTIVNI UGOVOR O PRAVIMA I OBAVEZAMA POSLODAVACA I RADNIKA ZA DJELATNOST HEMIJE I NEMETALA U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: UDRUŽENJE POSLODAVACA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 103/22 (28.12.2022.), akt 31 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hPJWdWKf38k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
