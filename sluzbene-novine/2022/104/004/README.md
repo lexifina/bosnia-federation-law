@@ -1,0 +1,11 @@
+# UREDBU O IZMJENAMA UREDBE O PROJEKTIMA ZA KOJE JE OBAVEZNA PROCJENA UTICAJA NA OKOLIŠ I PROJEKTIMA ZA KOJE SE ODLUČUJE O POTREBI PROCJENE UTICAJA NA OKOLIŠ
+
+Naslov: UREDBU O IZMJENAMA UREDBE O PROJEKTIMA ZA KOJE JE OBAVEZNA PROCJENA UTICAJA NA OKOLIŠ I PROJEKTIMA ZA KOJE SE ODLUČUJE O POTREBI PROCJENE UTICAJA NA OKOLIŠ
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 104/22 (30.12.2022.), akt 4 od 71 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bByLhZk5fsw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
