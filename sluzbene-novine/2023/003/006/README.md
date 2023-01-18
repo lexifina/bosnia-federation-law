@@ -1,0 +1,11 @@
+# ODLUKU O PRESTANKU VAŽENJA ODLUKE O DAVANJU NA KORIŠTENJE OBJEKTA VILA BRAUN UL. ALIPAŠINA BROJ 45 U SARAJEVU POREZNOJ UPRAVI FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PRESTANKU VAŽENJA ODLUKE O DAVANJU NA KORIŠTENJE OBJEKTA VILA BRAUN UL. ALIPAŠINA BROJ 45 U SARAJEVU POREZNOJ UPRAVI FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 3/23 (18.1.2023.), akt 6 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Rsfy82E3fc8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
