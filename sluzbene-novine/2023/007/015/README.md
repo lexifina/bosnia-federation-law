@@ -1,0 +1,11 @@
+# SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2023. GODINI
+
+Naslov: SPISAK GOTOVIH LIJEKOVA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU, KOJIMA JE NA SNAZI ODOBRENJE ZA STAVLJANJE U PROMET U 2023. GODINI
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 7/23 (1.2.2023.), akt 15 od 18 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RCcBYIbbpohz4nh78h77U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
