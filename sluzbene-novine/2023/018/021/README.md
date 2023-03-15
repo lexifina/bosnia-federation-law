@@ -1,0 +1,11 @@
+# ODLUKU O DODJELI SREDSTAVA JP ŽELJEZNICE FEDERACIJE BiH D.O.O. SARAJEVO NA IME IZMIRENJA OBAVEZA PO ZAKONU O FINANSIJSKOJ KONSOLIDACIJI ZA 2023. GODINU
+
+Naslov: ODLUKU O DODJELI SREDSTAVA JP ŽELJEZNICE FEDERACIJE BiH D.O.O. SARAJEVO NA IME IZMIRENJA OBAVEZA PO ZAKONU O FINANSIJSKOJ KONSOLIDACIJI ZA 2023. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 18/23 (15.3.2023.), akt 21 od 42 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RacG7IYGoUY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
