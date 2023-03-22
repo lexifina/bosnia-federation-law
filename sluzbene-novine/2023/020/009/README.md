@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI MINISTARSTVU SIGURNOSTI BOSNE I HERCEGOVINE - SLUŽBI ZA POSLOVE SA STRANCIMA ZA IZVOĐENJE RADOVA U KRUGU KASARNE "BLAŽUJ"
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI MINISTARSTVU SIGURNOSTI BOSNE I HERCEGOVINE - SLUŽBI ZA POSLOVE SA STRANCIMA ZA IZVOĐENJE RADOVA U KRUGU KASARNE "BLAŽUJ"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/23 (22.3.2023.), akt 9 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/4s5VQAgUuWo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
