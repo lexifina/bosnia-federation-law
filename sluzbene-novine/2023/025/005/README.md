@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA KORIŠTENJE ZEMLJIŠNIH ČESTICA JAVNOG DOBRA ZA POTREBE IZGRADNJE AUTOCESTE NA TRASI KORIDORA Vc, DIONICA MEDAKOVO – OZIMICE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA KORIŠTENJE ZEMLJIŠNIH ČESTICA JAVNOG DOBRA ZA POTREBE IZGRADNJE AUTOCESTE NA TRASI KORIDORA Vc, DIONICA MEDAKOVO – OZIMICE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 25/23 (7.4.2023.), akt 5 od 30 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RmjwScKnXN0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
