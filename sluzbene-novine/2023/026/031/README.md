@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2023. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PROSVJETA"
+
+Naslov: ODLUKU O ODOBRAVANJU IZDVAJANJA SREDSTAVA UTVRĐENIH BUDŽETOM FEDERACIJE BOSNE I HERCEGOVINE ZA 2023. GODINU ZA FINANSIRANJE KULTURNOG DRUŠTVA "PROSVJETA"
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 26/23 (12.4.2023.), akt 31 od 70 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DcjoM2NrVtg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
