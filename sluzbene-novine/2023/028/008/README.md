@@ -1,0 +1,11 @@
+# ODLUKU O NAJVIŠEM IZNOSU TROŠKOVA "N" ZA IZDAVANJE CERTIFIKATA I NEZAVISNU KONTROLU ZA 2023. GODINU
+
+Naslov: ODLUKU O NAJVIŠEM IZNOSU TROŠKOVA "N" ZA IZDAVANJE CERTIFIKATA I NEZAVISNU KONTROLU ZA 2023. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/23 (19.4.2023.), akt 8 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ohz4nh78h77IjjdViohz4nh78h77XQs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
