@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE PET ČLANOVA NADZORNOG ODBORA U PRIVREDNOM DRUŠTVU "AGROKOMERC" D.D. VELIKA KLADUŠA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE PET ČLANOVA NADZORNOG ODBORA U PRIVREDNOM DRUŠTVU "AGROKOMERC" D.D. VELIKA KLADUŠA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 29/23 (24.4.2023.), akt 7 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yjQG1KPSusA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
