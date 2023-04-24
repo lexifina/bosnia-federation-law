@@ -1,0 +1,11 @@
+# ODLUKU O USKLAĐIVANJU VRIJEDNOSTI OPŠTEG BODA ZA 2023. GODINU SHODNO ČLANU 78. ZAKONA O PENZIJSKOM/MIROVINSKOM I INVALIDSKOM OSIGURANJU
+
+Naslov: ODLUKU O USKLAĐIVANJU VRIJEDNOSTI OPŠTEG BODA ZA 2023. GODINU SHODNO ČLANU 78. ZAKONA O PENZIJSKOM/MIROVINSKOM I INVALIDSKOM OSIGURANJU
+
+Donosilac: FEDERALNI ZAVOD ZA PENZIJSKO/MIROVINSKO I INVALIDSKO OSIGURANJE.
+
+Službene novine Federacije BiH broj 29/23 (24.4.2023.), akt 16 od 20 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yjQG1KPSusA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
