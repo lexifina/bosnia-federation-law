@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA IZGRADNJU OBJEKTA CENTRA ZA ODRŽAVANJE I KONTROLU PROMETA (COKP) U OBUHVATU DIONICE AUTOCESTE VLAKOVO - TARČIN NA KORIDORU Vc
+
+Naslov: ODLUKU O UTVRĐIVANJU JAVNOG INTERESA ZA IZGRADNJU OBJEKTA CENTRA ZA ODRŽAVANJE I KONTROLU PROMETA (COKP) U OBUHVATU DIONICE AUTOCESTE VLAKOVO - TARČIN NA KORIDORU Vc
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/23 (28.4.2023.), akt 12 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bNVi1ASAhQY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
