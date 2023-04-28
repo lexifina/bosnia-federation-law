@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2023. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2023. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 32/23 (28.4.2023.), akt 10 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bNVi1ASAhQY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
