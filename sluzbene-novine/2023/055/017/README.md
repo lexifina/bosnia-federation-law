@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI GRADU ŽIVINICE ZA USTUPANJE NA PRIVREMENO KORIŠTENJE HANGARA I ZEMLJIŠTA U KASARNI "CILJUGE", STRELJAČKOM SPORTSKOM KLUBU KONJUH
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI GRADU ŽIVINICE ZA USTUPANJE NA PRIVREMENO KORIŠTENJE HANGARA I ZEMLJIŠTA U KASARNI "CILJUGE", STRELJAČKOM SPORTSKOM KLUBU KONJUH
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 55/23 (21.7.2023.), akt 17 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/7KhXpIfrzS8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
