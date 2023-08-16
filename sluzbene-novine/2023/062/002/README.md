@@ -1,0 +1,11 @@
+# PRAVILNIK O USPOSTAVI, SADRŽAJU I VOĐENJU REGISTRA ORGANIZACIJA I REPREZENTATIVNIH ORGANIZACIJA OSOBA SA INVALIDITETOM I CIVILNIH ŽRTAVA RATA
+
+Naslov: PRAVILNIK O USPOSTAVI, SADRŽAJU I VOĐENJU REGISTRA ORGANIZACIJA I REPREZENTATIVNIH ORGANIZACIJA OSOBA SA INVALIDITETOM I CIVILNIH ŽRTAVA RATA
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 62/23 (16.8.2023.), akt 2 od 4 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/QrICvGxZdnI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
