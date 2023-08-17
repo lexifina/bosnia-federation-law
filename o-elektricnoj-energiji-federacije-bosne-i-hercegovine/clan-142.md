@@ -1,0 +1,7 @@
+Član 142.
+(Održavanje elektroenergetskih objekata)
+(1) Operator sistema dužan je da o svom trošku redovno održava elektroenergetske objekte u svom vlasništvu što uključuje i održavanje trase sječom i uklanjanjem drveća ili grana i drugog rastinja koje ugrožava rad elektroenergetskog objekta.
+(2) Ako se s ciljem održavanja elektroenergetskih objekata na zemljištu na kojem je bila odobrena i izvršena čista sječa, mora izvršiti prokres ili sječa naknadno izraslih stabala koja ugrožavaju elektroenergetske objekte ili ometaju njihovo normalno korištenje, nije potrebno pribavljanje nove dozvole za sječu niti ponovno plaćanje naknade vlasnicima.
+(3) Vlasnici elektroenergetskih objekata priključenih na prenosnu ili distributivnu mrežu obavezni su vršiti redovno održavanje što uključuje pregled, reviziju, ispitivanje i remont opreme i električnih instalacija na elektroenergetskim objektima koji su u njihovom vlasništvu, u propisanim rokovima i u skladu sa tehničkim standardima i propisima.
+(4) Poslove pregleda, mjerenja i ispitivanja na elektroenergetskim postrojenjima, električnim uređajima i instalacijama mogu da vrše pravna lica i obrtnici koji ispunjavaju uslove u vezi sa kadrovskom osposobljenošću i tehničkom opremljenošću i koji posjeduju ovlaštenje Ministarstva.
+(5) Ministarstvo donosi pravilnik kojim propisuje uslove za obavljanje poslova, uslove za izdavanje i način izdavanja ovlaštenja iz stava (4) ovog člana.

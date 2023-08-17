@@ -1,0 +1,30 @@
+Član 163.
+(1) Novčanom kaznom od 5.000 KM do 20.000 KM kaznit će se za prekršaj elektroenergetski subjekt kao pravno lice ako:
+a) ne posjeduje ispravne i verifikovane mjerne uređaje (član 35. stav (1) tačka c)),
+b) ne zadovoljava tehničke i pogonske uslove definisane tehničkim propisima i standardima, uključujući vođenje pogonske i tehničke dokumentacije (član 35. stav (1) tačka d)),
+c) ne održava elektranu u ispravnom stanju u skladu sa tehničkim i drugim propisima i standardima (član 35. stav (1) tačka g)),
+d) odbije pružanje pomoćnih usluga (član 35. stav (1) tačka h)),
+e) ne omogući nadležnom operatoru slobodan pristup opremi u njegovom postrojenju koja se koristi za prenos ili distribuciju električne energije (član 35. stav (1) tačka i)),
+f) ne stavi na raspolaganje nadležnom operatoru podatke potrebne za rad sistema (član 35. stav (1) tačka j)),
+g) ne prati i ne učestvuje u izradi izvještaja o sigurnosti snabdijevanja u distributivnom sistemu (član 52. stav (1) tačka gg)),
+h) nadležnim subjektima ne dostavi podatke o registrovanim energetskim veličinama, potrošnji kupaca ili proizvodnji električne energije iz elektrana priključenih na distributivnu mrežu (član 52. stav (1) tačke w),jj) i kk)),
+i) ne izgradi priključak korisnika distributivnog sistema ili ne obezbjedi uslove u distributivnoj mreži za njegovo priključenje (član 52. stav (1) tačka x)),
+j) obračuna naknadu za priključenje na distributivnu mrežu suprotno odredbama iz člana 58. ovog zakona,
+k) ne obezbijedi tajnost povjerljivih podataka koje dobija od drugih elektroenergetskih subjekata i kupaca (član 62. stav (1)),
+l) pristupi izgradnji direktnog voda bez prethodne saglasnosti Regulatorne komisije (član 65. stav (1)),
+m) ne izvršava obaveze vezane za održavanje, unapređenje i nadzor nad kvalitetom snabdijevanja električnom energijom (član 66. stav (3)),
+n) ne izradi i javno objavi izvještaj o kvaliteti snabdijevanja električnom energijom (član 66. stav (4)),
+o) priključi objekat krajnjeg kupca na distributivnu mrežu bez elektroenergetske saglasnosti ili ugovora o priključenju (član 71. i član 72.),
+p) ne primjenjuje cijenu korištenja zatvorenog distributivnog sistema određenu u skladu sa zakonom (član 96. stav (1) tačka e)),
+q) ne obezbijedi povjerljivost komercijalno osjetljivih informacija dobijenih tokom obavljanja djelatnosti (član 96. stav (1) tačka j)),
+r) snabdjevaču ne dostavi obračunske podatke za kupce unutar zatvorenog distributivnog sistema (član 96. stav (1) tačka l)),
+s) teritorijalno nadležnom operatoru distributivnog sistema ne preda na korištenje i upravljanje elektroenergetske objekte u zatvorenom distributivnom sistemu (član 98. stav (3)),
+t) neposredno ne obavijesti kupce o promjeni cijena i drugih uslova prodaje u razumnom roku (član 100. stav (1) tačka g)),
+u) ne izvrši obračun i ne izda račun za isporučenu električnu energiju u skladu sa članom104,
+v) ne omogući krajnjem kupcu promjenu snabdjevača u skladu sa pravilima Regulatorne komisije i u propisanom roku (član 105.),
+w) gradi, koristi ili održava elektroenergetski objekat suprotno propisima, standardima i tehničkim normativima (član 139.),
+x) ne vrši redovno održavanje opreme i električnih instalacija na elektroenergetskim objektima koji su u njihovom vlasništvu, u propisanim rokovima i u skladu sa tehničkim standardima i propisima (član 142. stav (3)),
+y) obavlja poslove održavanja, revizije, ispitivanja i remonta opreme na elektroenergetskim objektima i električnim instalacijama bez posjedovanja ovlaštenja Ministarstva (član 142. stav (4)),
+z) ne postupi po rješenju nadležnog inspektora (član 153. stav (2)).
+(2) Za prekršaj iz stava (1) ovog člana kaznit će se i odgovorno lice u pravnom licu novčanom kaznom od 2.000 KM do 6.000 KM.
+(3) Za prekršaj iz stava (1) ovog člana kaznit će se obrtnik i drugo fizičko lice novčanom kaznom od 1.000 KM do 3.000 KM.

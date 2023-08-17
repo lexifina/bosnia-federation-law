@@ -1,0 +1,6 @@
+Član 150.
+(Inspekcijski nadzor)
+(1) Inspekcijski nadzor obuhvata nadzor nad primjenom ovog zakona, drugih propisa i opštih akata, standarda, tehničkih normativa i normi kvaliteta koje se odnose na izgradnju, rekonstrukciju, remont, održavanje i korištenje elektroenergetskih objekata, instalacija, postrojenja i opreme u tim objektima.
+(2) Poslovi inspekcijskog nadzora obuhvataju kontrolu upotrebe i održavanja elektroenergetskih objekata i postrojenja, uključujući i one koji se koriste za prenos električne energije, s ciljem utvrđivanja njihove tehničke ispravnosti, pogonske sigurnosti, bezbjednosti pogona, pogonskog i drugog osoblja, racionalne upotrebe električne energije i sprovođenja mjera ograničenja potrošnje električne energije.
+(3) Poslovi inspekcijskog nadzora vrše se kod izvođača radova i korisnika elektroenergetskih objekata, postrojenja i uređaja koji sa električnim instalacijama čine tehnološku cjelinu i namijenjeni su za proizvodnju, prenos, distribuciju, skladištenje i korištenje električne energije.
+(4) Poslovi inspekcijskog nadzora nad elektroenergetskim objektima i postrojenjima vrše se prilikom izgradnje, rekonstrukcije, remonta elektroenergetskih objekata i postrojenja, ugrađivanja električnih uređaja, instalacija i trošila i njihove upotrebe.
