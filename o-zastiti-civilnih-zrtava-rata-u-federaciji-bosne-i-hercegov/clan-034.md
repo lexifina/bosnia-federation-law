@@ -1,0 +1,10 @@
+Član 34.
+(Uslovi za ostvarivanje prava na porodičnu invalidninu)
+Članovi porodice civilne žrtve rata, pravo na porodičnu invalidninu mogu ostvariti pod sljedećim uslovima:
+a) udovica - kad navrši 50 godina života ili udovac - kad navrši 60 godina života, a i prije navršenih 50 godina, odnosno 60 godina života, ako su nesposobni za privređivanje;
+b) djeca, usvojenici i pastorčad - do navršene 15. godine života, odnosno ako su na školovanju do kraja propisanog trajanja redovnog školovanja, najkasnije do navršene 26. godine života, a ako su nesposobna za privređivanje, dok ta nesposobnost traje pod uslovom da je nesposobnost nastupila prije navršene 15. godine života, odnosno za vrijeme redovnog školovanja, prije navršene 26. godine života. Osoba čije je školovanje prekinuto zbog bolesti, može koristiti pravo na porodičnu invalidninu i za vrijeme trajanja bolesti do navršene 26. godine života, a nakon toga, ukoliko je osoba nastavila redovno školovanje, najduže još za onoliko vremena koliko je zbog bolesti izgubila od redovnog školovanja, pod uslovom da je redovno školovanje nastavljeno prije navršene 26. godine života;
+c) bračni partner ima pravo na porodičnu invalidninu kao sauživalac sa osobama iz tačke b) ovog člana, bez obzira na uslove iz tačke a), sve dok ijedna od osoba iz tačke b) ima pravo na porodičnu invalidninu;
+d) bračni partner gubi prava po ovom zakonu ako je napustio djecu s kojom koristi prava kao sauživalac, zanemario njihovo izdržavanje, podizanje i odgoj. Ta prava mogu se ponovo uspostaviti ako bračni partner nastavi obavljati roditeljske dužnosti za vrijeme dok se djeca koriste pravima u skladu sa ovim zakonom;
+e) osobe iz člana 33. tačka e) ovog zakona ostvaruju prava pod uslovima i na način kao i osobe iz tačke a) ovog člana;
+f) roditelji i usvojioci imaju pravo na porodičnu invalidninu, iako su članovi uže porodice ostvarili to pravo;
+g) očuh i maćeha, koji su sa civilnom žrtvom rata živjeli u zajedničkom domaćinstvu najmanje tri godine prije njene smrti ili nestanka, imaju pravo na porodičnu invalidninu, ukoliko nema osoba iz tačke f) ovog člana;
