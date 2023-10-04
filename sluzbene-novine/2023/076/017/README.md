@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENAMA I DOPUNI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA IZRADU POLITIKE DEMOGRAFSKOG RAZVOJA I OPORAVKA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IZMJENAMA I DOPUNI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA IZRADU POLITIKE DEMOGRAFSKOG RAZVOJA I OPORAVKA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/23 (4.10.2023.), akt 17 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1k3TSmGoPho=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
