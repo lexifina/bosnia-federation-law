@@ -1,0 +1,11 @@
+# ODLUKU O KRITERIJIMA ZA IZBOR I IMENOVANJE PREDSJEDAVAJUĆEG I ČLANOVA NADZORNOG ODBORA FEDERALNOG ZAVODA ZA PENZIJSKO I INVALIDSKO OSIGURANJE
+
+Naslov: ODLUKU O KRITERIJIMA ZA IZBOR I IMENOVANJE PREDSJEDAVAJUĆEG I ČLANOVA NADZORNOG ODBORA FEDERALNOG ZAVODA ZA PENZIJSKO I INVALIDSKO OSIGURANJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/23 (4.10.2023.), akt 14 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1k3TSmGoPho=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
