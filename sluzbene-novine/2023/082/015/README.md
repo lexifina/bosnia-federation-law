@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENI PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI KAZNENO-POPRAVNOG ZAVODA POLUOTVORENOG TIPA U ORAŠJU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENI PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI KAZNENO-POPRAVNOG ZAVODA POLUOTVORENOG TIPA U ORAŠJU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 82/23 (25.10.2023.), akt 15 od 47 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/f7SryBUJRvo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
