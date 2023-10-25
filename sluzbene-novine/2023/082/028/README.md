@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA NATURALNI POPIS STALNIH SREDSTAVA I SITNOG INVENTARA ZA 2023. GODINU
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA NATURALNI POPIS STALNIH SREDSTAVA I SITNOG INVENTARA ZA 2023. GODINU
+
+Donosilac: FEDERALNO MINISTARSTVO ZA PITANJA BORACA/BRANITELJA I INVALIDA ODBRAMBENO-OSLOBODILAČKOG/DOMOVINSKOG RATA.
+
+Službene novine Federacije BiH broj 82/23 (25.10.2023.), akt 28 od 47 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/f7SryBUJRvo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
