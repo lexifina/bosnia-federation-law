@@ -1,0 +1,11 @@
+# ODLUKU O DVANAESTOJ IZMJENI STATUTA JAVNOG PREDUZEĆA ŽELJEZNICE FEDERACIJE BOSNE I HERCEGOVINE, DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU SARAJEVO
+
+Naslov: ODLUKU O DVANAESTOJ IZMJENI STATUTA JAVNOG PREDUZEĆA ŽELJEZNICE FEDERACIJE BOSNE I HERCEGOVINE, DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU SARAJEVO
+
+Donosilac: JAVNO PREDUZEĆE ŽELJEZNICE FEDERACIJE BOSNE I HERCEGOVINE D.O.O. SARAJEVO.
+
+Službene novine Federacije BiH broj 83/23 (27.10.2023.), akt 12 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cCArElABySg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
