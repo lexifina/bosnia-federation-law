@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU DIREKTORA
+
+Naslov: ODLUKU O IMENOVANJU DIREKTORA
+
+Donosilac: JU NARODNA I UNIVERZITETSKA BIBLIOTEKA "DERVIŠ SUŠIĆ" TUZLA.
+
+Službene novine Federacije BiH broj 91/23 (24.11.2023.), akt 23 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ZoUgWFlgztz5k76kjn45hdxQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
