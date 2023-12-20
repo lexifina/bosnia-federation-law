@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU POSTOTKA OBAVEZNOG UDJELA ELEKTRIČNE ENERGIJE PROIZVEDENE IZ OBNOVLJIVIH IZVORA ENERGIJE ZA 2024. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU POSTOTKA OBAVEZNOG UDJELA ELEKTRIČNE ENERGIJE PROIZVEDENE IZ OBNOVLJIVIH IZVORA ENERGIJE ZA 2024. GODINU
+
+Donosilac: REGULATORNA KOMISIJA ZA ENERGIJU U FEDERACIJI BOSNE I HERCEGOVINE - FERK.
+
+Službene novine Federacije BiH broj 98/23 (20.12.2023.), akt 37 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/6Pr1HJrfpBk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
