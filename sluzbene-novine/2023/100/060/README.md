@@ -1,0 +1,11 @@
+# PRAVILNIK O DOPUNI PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE I TRGOVINSKIH USLUGA
+
+Naslov: PRAVILNIK O DOPUNI PRAVILNIKA O USLOVIMA MINIMALNE TEHNIČKE OPREMLJENOSTI POSLOVNIH PROSTORA ZA OBAVLJANJE TRGOVINE I TRGOVINSKIH USLUGA
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 100/23 (27.12.2023.), akt 60 od 70 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/r3L0E3w7gztz5k76kjn45haE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
