@@ -1,0 +1,11 @@
+# ODLUKU O RASPISIVANJU JAVNOG KONKURSA ZA IZBOR I NOMINOVANJE DVA ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA UNIS "GINEX" D.D. GORAŽDE ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O RASPISIVANJU JAVNOG KONKURSA ZA IZBOR I NOMINOVANJE DVA ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA UNIS "GINEX" D.D. GORAŽDE ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/23 (29.12.2023.), akt 21 od 36 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/m9Gpj8tniek=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
