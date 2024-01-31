@@ -1,0 +1,11 @@
+# RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA JAVNE USTANOVE "KULTURNO-SPORTSKI CENTAR I RADIO ILIJAŠ" ILIJAŠ
+
+Naslov: RJEŠENJE O KONAČNOM IMENOVANJU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA JAVNE USTANOVE "KULTURNO-SPORTSKI CENTAR I RADIO ILIJAŠ" ILIJAŠ
+
+Donosilac: OPĆINA ILIJAŠ - OPĆINSKI NAČELNIK.
+
+Službene novine Federacije BiH broj 8/24 (31.1.2024.), akt 19 od 25 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Vq3RzbinrVY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
