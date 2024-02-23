@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ŠEST ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP "ELEKTROPRIVREDA HZ HB" D.D. MOSTAR ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE ŠEST ČLANOVA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP "ELEKTROPRIVREDA HZ HB" D.D. MOSTAR ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 15/24 (23.2.2024.), akt 6 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/oxvohz4nh78h77YIep3EA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
