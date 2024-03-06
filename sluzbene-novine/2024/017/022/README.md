@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOORDINATORA ZA PROVOĐENJE AKTA O MALIM I SREDNJIM PREDUZEĆIMA IZ FEDERACIJE BOSNE I HERCEGOVINE (SBA KOORDINATOR) ZA PERIOD 2024-2026.
+
+Naslov: RJEŠENJE O IMENOVANJU KOORDINATORA ZA PROVOĐENJE AKTA O MALIM I SREDNJIM PREDUZEĆIMA IZ FEDERACIJE BOSNE I HERCEGOVINE (SBA KOORDINATOR) ZA PERIOD 2024-2026.
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 17/24 (6.3.2024.), akt 22 od 41 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/V3Ksv98bZU8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
