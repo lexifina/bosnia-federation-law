@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINIRANJE ZA IMENOVANJE ZAMJENIKA DIREKTORA AGENCIJE ZA BANKARSTVO FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINIRANJE ZA IMENOVANJE ZAMJENIKA DIREKTORA AGENCIJE ZA BANKARSTVO FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/24 (15.3.2024.), akt 4 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xEREyGBYAa4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
