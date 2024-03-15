@@ -1,0 +1,11 @@
+# ODLUKU O RAZRJEŠENJU DUŽNOSTI PREDSJEDNIKA I DVA ČLANA UPRAVNOG ODBORA OPERATORA ZA OBNOVLJIVE IZVORE ENERGIJE I EFIKASNU KOGENERACIJU
+
+Naslov: ODLUKU O RAZRJEŠENJU DUŽNOSTI PREDSJEDNIKA I DVA ČLANA UPRAVNOG ODBORA OPERATORA ZA OBNOVLJIVE IZVORE ENERGIJE I EFIKASNU KOGENERACIJU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/24 (15.3.2024.), akt 1 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/xEREyGBYAa4=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
