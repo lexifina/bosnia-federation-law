@@ -1,0 +1,11 @@
+# PRAVILNIK O OCJENJIVANJU OŠTEĆENJA ORGANIZMA CIVILNIH ŽRTAVA RATA I NESPOSOBNOSTI ZA PRIVREĐIVANJE ČLANOVA PORODICE CIVILNIH ŽRTAVA RATA
+
+Naslov: PRAVILNIK O OCJENJIVANJU OŠTEĆENJA ORGANIZMA CIVILNIH ŽRTAVA RATA I NESPOSOBNOSTI ZA PRIVREĐIVANJE ČLANOVA PORODICE CIVILNIH ŽRTAVA RATA
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 27/24 (12.4.2024.), akt 32 od 43 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/T5Rr79O4YuE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
