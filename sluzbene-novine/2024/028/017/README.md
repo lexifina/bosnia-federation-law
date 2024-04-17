@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNOG PROSTORA U SARAJEVU, ULICA NEDIMA FILIPOVIĆA BROJ 19, FEDERALNOM MINISTARSTVU PROSTORNOG UREĐENJA
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE POSLOVNOG PROSTORA U SARAJEVU, ULICA NEDIMA FILIPOVIĆA BROJ 19, FEDERALNOM MINISTARSTVU PROSTORNOG UREĐENJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/24 (17.4.2024.), akt 17 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Mohz4nh78h77iWgztz5k76kjn45huAoVAA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
