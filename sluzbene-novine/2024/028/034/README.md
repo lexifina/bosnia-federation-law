@@ -1,0 +1,11 @@
+# PRAVILNIK O TEHNIČKOJ SPECIFIKACIJI ZA INTEROPERABILNOST KOJA SE ODNOSI NA PRISTUP OSOBA SA INVALIDITETOM I OSOBA SMANJENE POKRETLJIVOSTI
+
+Naslov: PRAVILNIK O TEHNIČKOJ SPECIFIKACIJI ZA INTEROPERABILNOST KOJA SE ODNOSI NA PRISTUP OSOBA SA INVALIDITETOM I OSOBA SMANJENE POKRETLJIVOSTI
+
+Donosilac: REGULATORNI ODBOR ŽELJEZNICA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/24 (17.4.2024.), akt 34 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Mohz4nh78h77iWgztz5k76kjn45huAoVAA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
