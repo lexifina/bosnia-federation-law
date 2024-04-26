@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI DIONIČARA PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI DIONIČARA PRIVREDNOG DRUŠTVA "IGMAN" D.D. KONJIC
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 31/24 (26.4.2024.), akt 2 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/LWUNj46e1IA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
