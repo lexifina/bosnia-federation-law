@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA ZAKLJUČIVANJE ANEKSA 1 NA UGOVOR O PRUŽANJU FINANSIJSKIH USLUGA U OKVIRU GARANCIJSKOG FONDA OD 17.07.2020. GODINE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA ZAKLJUČIVANJE ANEKSA 1 NA UGOVOR O PRUŽANJU FINANSIJSKIH USLUGA U OKVIRU GARANCIJSKOG FONDA OD 17.07.2020. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 33/24 (8.5.2024.), akt 6 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dELHJY0W1xU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
