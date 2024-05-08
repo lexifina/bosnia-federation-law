@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU IZNOSA MJESEČNE NOVČANE EGZISTENCIJALNE NAKNADE DEMOBILIZIRANIM BRANIOCIMA I ČLANOVIMA NJIHOVIH PORODICA ZA 2024. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU IZNOSA MJESEČNE NOVČANE EGZISTENCIJALNE NAKNADE DEMOBILIZIRANIM BRANIOCIMA I ČLANOVIMA NJIHOVIH PORODICA ZA 2024. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 33/24 (8.5.2024.), akt 22 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dELHJY0W1xU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
