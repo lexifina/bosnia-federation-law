@@ -1,0 +1,11 @@
+# ODLUKU O IZRADI STRATEGIJE PRAVEDNE TRANZICIJE ENERGETSKOG SEKTORA FEDERACIJE BOSNE I HERCEGOVINE DO 2030. GODINE SA PROJEKCIJOM DO 2050. GODINE
+
+Naslov: ODLUKU O IZRADI STRATEGIJE PRAVEDNE TRANZICIJE ENERGETSKOG SEKTORA FEDERACIJE BOSNE I HERCEGOVINE DO 2030. GODINE SA PROJEKCIJOM DO 2050. GODINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 33/24 (8.5.2024.), akt 28 od 48 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dELHJY0W1xU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
