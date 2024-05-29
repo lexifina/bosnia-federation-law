@@ -1,0 +1,11 @@
+# NAREDBU O DOPUNI NAREDBE O LISTI TEŠKIH BOLESTI, ODNOSNO TJELESNIH POVREDA NA OSNOVU KOJIH SE OSTVARUJE NAKNADA ZA SLUČAJ TEŠKE INVALIDNOSTI ILI TEŠKE BOLESTI
+
+Naslov: NAREDBU O DOPUNI NAREDBE O LISTI TEŠKIH BOLESTI, ODNOSNO TJELESNIH POVREDA NA OSNOVU KOJIH SE OSTVARUJE NAKNADA ZA SLUČAJ TEŠKE INVALIDNOSTI ILI TEŠKE BOLESTI
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 39/24 (29.5.2024.), akt 21 od 34 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DdWvW5JjCb0=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
