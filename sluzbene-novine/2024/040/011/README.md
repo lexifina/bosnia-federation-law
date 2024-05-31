@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU STRUČNE KOMISIJE ZA PREGLED LOVNOPRIVREDNIH OSNOVA ZA POSEBNA LOVIŠTA "IGMAN-BJELAŠNICA", "PLJEŠEVICA", "HUTOVO BLATO", "KONJUH" I "HRBLJINE KUJAČA"
+
+Naslov: RJEŠENJE O IMENOVANJU STRUČNE KOMISIJE ZA PREGLED LOVNOPRIVREDNIH OSNOVA ZA POSEBNA LOVIŠTA "IGMAN-BJELAŠNICA", "PLJEŠEVICA", "HUTOVO BLATO", "KONJUH" I "HRBLJINE KUJAČA"
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 40/24 (31.5.2024.), akt 11 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/c6rXohz4nh78h77nTHf8I=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
