@@ -1,0 +1,6 @@
+POGLAVLJE VI - KAZNENE ODREDBE
+Član 24.
+(Prekršaj korisnika sredstava zbog nenamjenskog korištenja sredstava)
+(1) Novčanom kaznom u iznosu od 1.000,00 KM do 10.000,00 KM kaznit će se za prekršaj korisnik sredstava - pravna osoba ako nenamjenski koristi dodijeljena sredstva u realiziranju mjere razvoja (član 13. stav (4) tačka a) ovog Zakona).
+(2) Novčanom kaznom u iznosu od 500,00 KM do 2.000,00 KM kaznit će se i odgovorna osoba u pravnoj osobi za prekršaj iz stava (1) ovog člana.
+(3) Za prekršaj iz stava (1) ovog člana kaznit će se fizička osoba - korisnik sredstava novčanom kaznom u iznosu od 500,00 KM do 1.500,00 KM.
