@@ -1,0 +1,5 @@
+Član 7.
+(Osnivači poduzetničke infrastrukture)
+(1) Osnivači poduzetničke infrastrukture su pravna lica koje provode programe usmjerene na razvoj poduzetništva: Vlada Federacije, vlade kantona, Ministarstvo, jedinice lokalne samouprave i drugi organizacioni oblici osnovani od strane jedinice lokalne samouprave, poslovni subjekti, javna preduzeća, privredne i obrtničke komore, obrazovne institucije iz člana 5. stav (1) ovog zakona te udruženja i druga pravna lica sa sjedištem u Federaciji BiH koje su registrovane za djelatnosti koje unapređuju razvoj poduzetničke infrastrukture i/ili koje se bave i/ili promoviraju istraživanje, inovacije i tehnološki razvoj u poslovnom sektoru.
+(2) Svaki nivo vlasti u Federaciji, u skladu sa nadležnostima, donosi odluku o osnivanju poduzetničke zone, ako su iste definisane važećim prostorno planskim dokumentima.
+(3) Vlada Federacije na prijedlog Ministarstva donosi odluku o osnivanju poduzetničke zone od posebnog privrednog interesa. Inicijativu za proglašenje poduzetničke zone od posebnog privrednog interesa, Ministarstvu mogu podnijeti i vlade kantona i jedinice lokalne samouprave.

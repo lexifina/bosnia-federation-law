@@ -1,0 +1,20 @@
+Član 16.
+(Oblici poduzetničkih potpornih institucija)
+U skladu sa odredbama člana 8. stav (1) tačka b) ovog zakona poduzetničke potporne institucije, kao dio ukupne poduzetničke infrastrukture, su:
+a) razvojne agencije - registrovani poslovni subjekti koji obavljaju poslove razvoja privrede i poduzetništva na lokalnom, kantonalnom, regionalnom i federalnom nivou, provode aktivnosti na poticanju i privlačenju investicija te iniciraju i realizuju projekte poticanja ekonomskog razvoja i poduzetništva, objedinjavajući rad privrednih subjekata, lokalnih, kantonalnih i federalnih poduzetničkih institucija te obrazovnih institucija u smislu odredaba propisa kojima se definiše obrazovanje u Federaciji.
+Razvojne agencije mogu biti:
+1) lokalne razvojne agencije - osnovane od strane jedinica lokalne samouprave,
+2) kantonalne razvojne agencije - osnovane od strane kantonalne vlade,
+3) regionalne razvojne agencije - osnovane od strane više jedinica lokalne samouprave i kantona ili više kantona,
+4) Razvojna agencija Federacije - osnovana od strane Vlade Federacije,
+5) razvojne agencije određene djelatnosti - npr. energetska razvojna agencija, itd. - osnovane od strane jedinica lokalne samouprave ili kantonalnih vlada;
+b) poduzetnički centri - registrovani poslovni subjekti koji obavljaju poslove provođenja mjera za razvoj i poticanje poduzetništva na lokalnom i/ili širem području (kanton, Federacija) te predstavljaju centre stručne i edukativne pomoći poduzetnicima u cilju razvoja poduzetništva u sredinama u kojima su osnovani;
+c) poslovni inkubatori - registrovani poslovni subjekti koji pružaju pomoć i podršku poduzetnicima u ranoj fazi razvoja poduzetničkih projekata. Inkubatori pružaju stručnu, tehničku i edukativnu pomoć za pokretanje poduzetničkih projekata i preduzeća te njihov brz i održiv razvoj, uključujući poslovne (radne) prostore po povoljnijim uslovima za novoosnovana preduzeća do treće godine poslovanja. Vrste poslovnih inkubatora su:
+1) poduzetnički inkubatori - registrovani poslovni subjekti koji pružaju podršku uspješnom razvoju poduzetništva kroz poslovne usluge i resurse za poduzetnike, uključujući poslovne (radne) prostore po povoljnijim uslovima za novoosnovana preduzeća,
+2) inovativni centri - registrovani poslovni subjekti koji doprinose razvoju tehnološke kompetentnosti Federacije i izgradnji industrije visoke dodane vrijednosti provodeći razvojna istraživanja, pružajući infrastrukturu za inovacije te promovirajući nove tehnologije u područjima za koja su osnovani, a umreženi su sa domaćom i međunarodnom akademskom zajednicom, privatnim i javnim sektorom,
+3) inkubatori novih tehnologija - registrovani poslovni subjekti koji su specijalizovani, fokusirani i usmjereni na područja nove (visoke) tehnologije, koji podržavaju pokretanje i rast inovativnog poduzetništva kroz inkubacijske programe te koji novoosnovanim inovativnim preduzećima sličnog profila i interesa pružaju resurse i profesionalne usluge potrebne za rast i razvoj, uključujući istraživačko-razvojne jedinice te poslovne (radne) prostore po povoljnijim uslovima za novoosnovana preduzeća;
+d) poduzetnički akceleratori - registrovani poslovni subjekti koji su specijalizovani za pružanje usluga podrške poduzetnicima u postinkubacijskoj fazi, odnosno u fazi razvoja i širenja poslovanja na domaćem i inostranom tržištu;
+e) naučno-tehnološki parkovi - registrovani poslovni subjekti koji komercijalizuju naučne rezultate, potiču saradnju naučnika i poduzetnika, a u skladu sa odredbama Zakona kojima se reguliše naučna djelatnost i visoko obrazovanje u Federaciji.
+Izrazi "naučno-tehnološki park", "tehnopol", "istraživački park" i "naučni park" obuhvataju širok pojam i zamjenjivi su unutar ove definicije.
+f) klasteri - registrovani poslovni subjekti koji na jednom geografskom području objedinjuju rad međusobno povezanih poslovnih subjekata koji posluju u istim, srodnim ili različitim djelatnostima i sa njima povezanim specijalizovanim dobavljačima, pružateljima usluga, obrazovnim i naučnoistraživačkim institucijama, agencijama i drugima.
+C) Tehnološko-poduzetnički centri
