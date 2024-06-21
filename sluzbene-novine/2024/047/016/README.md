@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ZAKLJUČKA O DAVANJU PRETHODNE SAGLASNOSTI U POSTUPKU IZDAVANJA ENERGETSKE DOZVOLE PRIVREDNOM DRUŠTVU "RWP VITOROG" D.O.O. GLAMOČ
+
+Naslov: UKAZ O PROGLAŠENJU ZAKLJUČKA O DAVANJU PRETHODNE SAGLASNOSTI U POSTUPKU IZDAVANJA ENERGETSKE DOZVOLE PRIVREDNOM DRUŠTVU "RWP VITOROG" D.O.O. GLAMOČ
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 47/24 (21.6.2024.), akt 16 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2o5FKIIXjUg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
