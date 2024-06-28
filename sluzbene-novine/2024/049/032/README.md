@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU IZVRŠNOG DIREKTORA ZA EKONOMSKE POSLOVE RMU "BANOVIĆI" D.D. BANOVIĆI
+
+Naslov: ODLUKU O IMENOVANJU IZVRŠNOG DIREKTORA ZA EKONOMSKE POSLOVE RMU "BANOVIĆI" D.D. BANOVIĆI
+
+Donosilac: RUDNICI MRKOG UGLJA "BANOVIĆI" D.D. BANOVIĆI.
+
+Službene novine Federacije BiH broj 49/24 (28.6.2024.), akt 32 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Ym6kdqDdLgztz5k76kjn45ho=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
