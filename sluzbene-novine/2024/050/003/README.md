@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE DVA ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA TEHNIČKO REMONTNI ZAVOD HADŽIĆI D.D. HADŽIĆI ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE DVA ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA TEHNIČKO REMONTNI ZAVOD HADŽIĆI D.D. HADŽIĆI ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/24 (3.7.2024.), akt 3 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ztsgPwXsOpY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
