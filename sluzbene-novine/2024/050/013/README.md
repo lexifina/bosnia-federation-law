@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO NA PRIJEDLOG CIJENA SNABDIJEVANJA KRAJNJIH KUPACA KOD JAVNOG SNABDJEVAČA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO NA PRIJEDLOG CIJENA SNABDIJEVANJA KRAJNJIH KUPACA KOD JAVNOG SNABDJEVAČA
+
+Donosilac: REGULATORNA KOMISIJA ZA ENERGIJU U FEDERACIJI BOSNE I HERCEGOVINE - FERK.
+
+Službene novine Federacije BiH broj 50/24 (3.7.2024.), akt 13 od 21 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ztsgPwXsOpY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
