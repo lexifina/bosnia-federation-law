@@ -1,0 +1,11 @@
+# PRAVILNIK O UVJERENJU O PORIJEKLU SJEMENA I O SADRŽAJU, OBLIKU I NAČINU VOĐENJA EVIDENCIJE O IZDATIM UVJERENJIMA O PORIJEKLU SJEMENA
+
+Naslov: PRAVILNIK O UVJERENJU O PORIJEKLU SJEMENA I O SADRŽAJU, OBLIKU I NAČINU VOĐENJA EVIDENCIJE O IZDATIM UVJERENJIMA O PORIJEKLU SJEMENA
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 52/24 (10.7.2024.), akt 7 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MTrMeGR4Ruc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
