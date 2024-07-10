@@ -1,0 +1,11 @@
+# PRAVILNIK O KVALITETU, NAČINU PAKOVANJA, DEKLARISANJU ŠUMSKOG I HORTIKULTURNOG SJEMENA I NAČINU UZIMANJA UZORAKA ZA INSPEKCIJSKI NADZOR
+
+Naslov: PRAVILNIK O KVALITETU, NAČINU PAKOVANJA, DEKLARISANJU ŠUMSKOG I HORTIKULTURNOG SJEMENA I NAČINU UZIMANJA UZORAKA ZA INSPEKCIJSKI NADZOR
+
+Donosilac: FEDERALNO MINISTARSTVO POLJOPRIVREDE, VODOPRIVREDE I ŠUMARSTVA.
+
+Službene novine Federacije BiH broj 52/24 (10.7.2024.), akt 6 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MTrMeGR4Ruc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
