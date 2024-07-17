@@ -1,0 +1,11 @@
+# ODLUKU O ODOBRAVANJU JEDNOKRATNE NOVČANE POMOĆI OPĆINI DRVAR
+
+Naslov: ODLUKU O ODOBRAVANJU JEDNOKRATNE NOVČANE POMOĆI OPĆINI DRVAR
+
+Donosilac: FEDERALNI ŠTAB CIVILNE ZAŠTITE.
+
+Službene novine Federacije BiH broj 55/24 (17.7.2024.), akt 20 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rIs8Y3PLlOI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
