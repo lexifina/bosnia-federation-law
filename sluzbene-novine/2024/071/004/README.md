@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA INSTITUTA ZA MEDICINSKO VJEŠTAČENJE ZDRAVSTVENOG STANJA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I IMENOVANJE PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA INSTITUTA ZA MEDICINSKO VJEŠTAČENJE ZDRAVSTVENOG STANJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 71/24 (11.9.2024.), akt 4 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hENZEaMS3zo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
