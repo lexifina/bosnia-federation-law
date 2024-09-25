@@ -1,0 +1,11 @@
+# PROVEDBENA PRAVILA ZA POPUNJAVANJE REGISTARA INFRASTRUKTURE PROSTORNIH PODATAKA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PROVEDBENA PRAVILA ZA POPUNJAVANJE REGISTARA INFRASTRUKTURE PROSTORNIH PODATAKA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNA UPRAVA ZA GEODETSKE I IMOVINSKO-PRAVNE POSLOVE.
+
+Službene novine Federacije BiH broj 75/24 (25.9.2024.), akt 11 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/pNBXyPW6W3g=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
