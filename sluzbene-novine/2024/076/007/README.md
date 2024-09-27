@@ -1,0 +1,11 @@
+# ODLUKU O ZAKUPU POSLOVNOG PROSTORA ZA SMJEŠTAJ POSEBNOG ODJELA FEDERALNOG TUŽILAŠTVA I POSEBNOG ODJELA VRHOVNOG SUDA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O ZAKUPU POSLOVNOG PROSTORA ZA SMJEŠTAJ POSEBNOG ODJELA FEDERALNOG TUŽILAŠTVA I POSEBNOG ODJELA VRHOVNOG SUDA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/24 (27.9.2024.), akt 7 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VFqHyvriNAA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
