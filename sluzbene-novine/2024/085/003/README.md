@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI JAVNOG PREDUZEĆA CESTE FEDERACIJE BiH D.O.O. SARAJEVO
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA SKUPŠTINI JAVNOG PREDUZEĆA CESTE FEDERACIJE BiH D.O.O. SARAJEVO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 85/24 (30.10.2024.), akt 3 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/IGOIKgztz5k76kjn45hclF4E=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
