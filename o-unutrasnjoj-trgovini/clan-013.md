@@ -1,0 +1,5 @@
+Član 13.
+(Uslovi za obavljanje trgovine)
+(1) Trgovinu na veliko i trgovinu na malo može obavljati trgovac u svojstvu pravnog lica koje se bavi trgovinom na osnovu registracije i ispunjava uslove utvrđene ovim zakonom i drugim propisima.
+(2) Trgovinu na malo može obavljati trgovac u svojstvu fizičkog lica, ali samo u jednom prodajnom objektu, odnosno na jednom prodajnom mjestu (u daljnjem tekstu: trgovačka radnja), kao i trgovac u svojstvu fizičkog lica koji ličnim radom obavlja trgovinu na malo određenom vrstom robe na osnovu rješenja nadležnog organa i to samo na jednom prodajnom mjestu izvan prodavnice iz člana 45. stav (1) tač. a), b), d) i e) ovog zakona (u daljnjem tekstu: trgovac pojedinac).
+(3) Trgovac može bez upisa u registar obavljati i druge poslove u manjem obimu koji služe uspješnom obavljanju trgovine, a uobičajeno se obavljaju uz djelatnost trgovine kao što su poslovi utovara, prevoza i istovara robe, poslovi dostavljanja robe kupcu i slično, a obavljanje tih poslova ne predstavlja redovnu djelatnost trgovca.

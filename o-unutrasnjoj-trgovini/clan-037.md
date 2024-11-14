@@ -1,0 +1,5 @@
+Član 37.
+(Benzinska pumpna stanica i prodavnica na benzinskoj pumpnoj stanici)
+(1) Benzinska pumpna stanica je prodajni objekat na kojem se obavlja trgovina na malo tečnim gorivima, kao što su: dizel-goriva, benzini, tečni naftni plin (auto-plin), koji se koriste u motorima sa unutrašnjim sagorijevanjem i prodaja plina za domaćinstvo.
+(2) Na benzinskim pumpnim stanicama može se vršiti promet lož ulja (ekstra lako i lako specijalno, El i LS), u za to posebno predviđenom skladištu, izdvojenom od mjesta predviđenog za snabdijevanje pogonskim gorivom vozila na motorni pogon ili iz posebnih skladišta ili direktnom isporukom potrošaču, u skladu s posebnim propisima.
+(3) Prodavnica na benzinskoj pumpnoj stanici je prodajni objekat, koji se nalazi u prostoru benzinske pumpne stanice, u kojoj se nudi ograničen asortiman neprehrambenih proizvoda, u originalnom pakovanju i sitnih industrijskih prehrambenih proizvoda, u fabričkom pakovanju (proizvodi koji su u fabričkom pakovanju do 1kg i do 5l i mogu se direktno konzumirati bez dodatne termičke, mehaničke ili neke druge obrade).

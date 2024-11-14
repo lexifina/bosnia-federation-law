@@ -1,0 +1,5 @@
+Član 112.
+(Naknada štete)
+(1) Naknada štete, nastala nepoštenom trgovačkom praksom, ostvaruje se u sudskom postupku.
+(2) Tužbu, iz stava (1) ovog člana, mogu podnijeti trgovac i druga pravna i fizička lica, koja imaju pravni interes.
+(3) Pravo na tužbu, iz stava (2) ovog člana, zastarijeva istekom roka od jedne godine od dana kada tužilac sazna za djelo i izvršioca, a najkasnije tri godine od dana izvršenja djela.

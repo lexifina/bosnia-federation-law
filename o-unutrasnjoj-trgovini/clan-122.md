@@ -1,0 +1,5 @@
+Član 122.
+(1) Ako se prilikom nadzora utvrdi da se djelatnost trgovine obavlja mimo registracije ili mimo odobrenja za obavljanje trgovačke djelatnosti izdatog od nadležnog organa i da su poslovni prostori, uređaji i oprema namijenjeni za obavljanje trgovine i pružanje usluga prestali ispunjavati propisane minimalne tehničke uslove, kao i uslove tehničke opremljenosti i da je trgovac podnio netačnu izjavu iz člana 14. stav (5) ovog zakona, tržišni inspektor će rješenjem odrediti rok do kojeg se nedostatci moraju otkloniti.
+(2) Ako se nedostatci iz stava (1) ovog člana ne otklone u određenom roku, tržišni inspektor donijet će rješenje o zabrani obavljanja djelatnosti, o zatvaranju prostora odnosno o zabrani upotrebe uređaja i opreme.
+(3) U slučaju teže povrede higijensko-sanitarnih, zdravstvenih i tehničkih uslova zbog kojih mogu nastati teže posljedice po zdravlje i život ljudi i stoke, nadležni inspektor će donijeti rješenje kojim će odmah zabraniti obavljanje te djelatnosti dok se utvrđeni nedostatci ne otklone.
+(4) Žalba protiv rješenja iz stava (3) ovog člana ne odlaže izvršenje rješenja.

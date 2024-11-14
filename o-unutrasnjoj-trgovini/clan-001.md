@@ -1,0 +1,3 @@
+Član 1.
+(Predmet Zakona)
+Ovim zakonom uređuju se: uslovi i način obavljanja trgovine i trgovinskih usluga, prava i obaveze trgovaca, oblici trgovine, način formiranja i isticanja cijena, trgovačka evidencija, praćenje trgovine i tržišta, zaštita potrošača, zabrana ograničenja trgovine i privremene mjere ograničenja trgovine, radno vrijeme u djelatnosti trgovine, mjere zabrane nepoštenog trgovanja, nadzor i upravne mjere, upravni i inspekcijski nadzor nad primjenom ovog zakona, kao i druga pitanja od značaja za obavljanje trgovine na teritoriji Federacije Bosne i Hercegovine (u daljnjem tekstu: Federacija BiH).
