@@ -1,0 +1,11 @@
+# UREDBU O PODSTICANJU PROIZVODNJE ELEKTRIČNE ENERGIJE IZ OBNOVLJIVIH IZVORA ENERGIJE I EFIKASNE KOGENERACIJE I ODREĐIVANJU NAKNADA ZA PODSTICANJE
+
+Naslov: UREDBU O PODSTICANJU PROIZVODNJE ELEKTRIČNE ENERGIJE IZ OBNOVLJIVIH IZVORA ENERGIJE I EFIKASNE KOGENERACIJE I ODREĐIVANJU NAKNADA ZA PODSTICANJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 95/24 (29.11.2024.), akt 2 od 64 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/jnEnavv24nQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
