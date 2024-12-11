@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA INSTITUTA ZA MEDICINSKO VJEŠTAČENJE ZDRAVSTVENOG STANJA
+
+Naslov: RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDNIKA I ČLANOVA UPRAVNOG ODBORA INSTITUTA ZA MEDICINSKO VJEŠTAČENJE ZDRAVSTVENOG STANJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 98/24 (11.12.2024.), akt 3 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YscMHRbSDgztz5k76kjn45hU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
