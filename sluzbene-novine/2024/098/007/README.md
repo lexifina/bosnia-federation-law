@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU PROCENTA OBAVEZNOG UDJELA ELEKTRIČNE ENERGIJE PROIZVEDENE IZ OBNOVLJIVIH IZVORA ENERGIJE ZA 2025. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU PROCENTA OBAVEZNOG UDJELA ELEKTRIČNE ENERGIJE PROIZVEDENE IZ OBNOVLJIVIH IZVORA ENERGIJE ZA 2025. GODINU
+
+Donosilac: REGULATORNA KOMISIJA ZA ENERGIJU U FEDERACIJI BOSNE I HERCEGOVINE - FERK.
+
+Službene novine Federacije BiH broj 98/24 (11.12.2024.), akt 7 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/YscMHRbSDgztz5k76kjn45hU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
