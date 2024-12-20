@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SUGLASNOSTI NA ODLUKU O USVAJANJU REBALANSA PLANA POSLOVANJA J.P. MEĐUNARODNI AERODROM "SARAJEVO" D.O.O. SARAJEVO ZA PERIOD 01.01.2024.-01.12.2026
+
+Naslov: ODLUKU O DAVANJU SUGLASNOSTI NA ODLUKU O USVAJANJU REBALANSA PLANA POSLOVANJA J.P. MEĐUNARODNI AERODROM "SARAJEVO" D.O.O. SARAJEVO ZA PERIOD 01.01.2024.-01.12.2026
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/24 (20.12.2024.), akt 7 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tGFPDci7Pss=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
