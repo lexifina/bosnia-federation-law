@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UVJETIMA, NAČINU I POSTUPKU OSTVARIVANJA ZDRAVSTVENE ZAŠTITE ZA VRIJEME BORAVKA U INOSTRANSTVU
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O UVJETIMA, NAČINU I POSTUPKU OSTVARIVANJA ZDRAVSTVENE ZAŠTITE ZA VRIJEME BORAVKA U INOSTRANSTVU
+
+Donosilac: FEDERALNO MINISTARSTVO ZDRAVSTVA.
+
+Službene novine Federacije BiH broj 101/24 (20.12.2024.), akt 18 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tGFPDci7Pss=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
