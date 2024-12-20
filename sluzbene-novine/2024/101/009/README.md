@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI ZA IZUZIMANJE PRODAJNIH OBJEKATA NA TERITORIJI GRADA ORAŠJA OD PRIMJENE ODREDBI ČLANA 18. STAV (1), (2) I (3) ZAKONA O UNUTRAŠNJOJ TRGOVINI
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI ZA IZUZIMANJE PRODAJNIH OBJEKATA NA TERITORIJI GRADA ORAŠJA OD PRIMJENE ODREDBI ČLANA 18. STAV (1), (2) I (3) ZAKONA O UNUTRAŠNJOJ TRGOVINI
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 101/24 (20.12.2024.), akt 9 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/tGFPDci7Pss=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
