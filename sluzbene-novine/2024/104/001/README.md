@@ -1,0 +1,11 @@
+# UREDBU O IZMJENI I DOPUNI UREDBE O ISPLATI POMOĆI OD STRANE POSLODAVCA
+
+Naslov: UREDBU O IZMJENI I DOPUNI UREDBE O ISPLATI POMOĆI OD STRANE POSLODAVCA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 104/24 (31.12.2024.), akt 1 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/2HhLjXgztz5k76kjn45hqhgztz5k76kjn45h8=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
