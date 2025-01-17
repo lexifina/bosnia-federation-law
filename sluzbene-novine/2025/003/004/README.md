@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA POPIS OBAVEZA, POTRAŽIVANJA I BLAGAJNE, SA STANJEM NA DAN 31.12.2024. GODINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA POPIS OBAVEZA, POTRAŽIVANJA I BLAGAJNE, SA STANJEM NA DAN 31.12.2024. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO ZA PITANJA BORACA/BRANITELJA I INVALIDA ODBRAMBENO-OSLOBODILAČKOG/DOMOVINSKOG RATA.
+
+Službene novine Federacije BiH broj 3/25 (17.1.2025.), akt 4 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/1FueMlyT8qg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
