@@ -1,0 +1,6 @@
+Član 23.
+(Advokatska tajna)
+(1) Advokat je dužan, u skladu sa Statutom i Kodeksom, čuvati kao advokatsku tajnu i brinuti se da to čine i osobe zaposlene u njegovoj advokatskoj kancelariji, zajedničkoj advokatskoj kancelariji ili advokatskom društvu, sve što mu je stranka ili njegov ovlašteni predstavnik povjerio ili što je u predmetu u kome pruža pravnu pomoć na drugi način saznao ili pribavio, u pripravi, tokom zastupanja i po prestanku zastupanja.
+(2) Advokatsku tajnu iz stava (1) ovog člana dužne su čuvati i druge osobe koje rade ili su radile u advokatskoj kancelariji, zajedničkoj advokatskoj kancelariji ili advokatskom društvu.
+(3) Izuzetno od st. (1) i (2) ovog člana obaveza čuvanja advokatske tajne prestaje na osnovu izričitog odobrenja stranke, kao i u slučaju kada je stranka pokrenula disciplinski postupak protiv advokata, kada je to nužno radi odbrane advokata u krivičnom postupku koji je protiv njega pokrenut, kada advokat posumnja da predstoji izvršenje težeg krivičnog djela i kada advokat pokrene postupak radi namirenja troškova i izdataka koje mu stranka duguje.
+(4) Način čuvanja advokatske tajne i postupanje u vezi s advokatskom tajnom uređuju se Statutom i Kodeksom.
