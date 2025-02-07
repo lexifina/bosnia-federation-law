@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNOG MINISTARSTVA OBRAZOVANJA I NAUKE
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O UNUTRAŠNJOJ ORGANIZACIJI FEDERALNOG MINISTARSTVA OBRAZOVANJA I NAUKE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 9/25 (7.2.2025.), akt 8 od 19 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/GDHhMe5gj2s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
