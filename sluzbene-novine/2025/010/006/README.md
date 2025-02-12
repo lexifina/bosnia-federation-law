@@ -1,0 +1,11 @@
+# PRAVILNIK O KARAKTERU JAVNOG KONKURSA I POSTUPKU POSTAVLJENJA DRŽAVNIH SLUŽBENIKA U ORGANIMA DRŽAVNE SLUŽBE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O KARAKTERU JAVNOG KONKURSA I POSTUPKU POSTAVLJENJA DRŽAVNIH SLUŽBENIKA U ORGANIMA DRŽAVNE SLUŽBE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: AGENCIJA ZA DRŽAVNU SLUŽBU FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 10/25 (12.2.2025.), akt 6 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/RlYOHP0uvFo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
