@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA XX. (DVADESETOJ) SKUPŠTINI JAVNOG PREDUZEĆA NACIONALNI PARK "UNA" D.O.O. BIHAĆ
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA XX. (DVADESETOJ) SKUPŠTINI JAVNOG PREDUZEĆA NACIONALNI PARK "UNA" D.O.O. BIHAĆ
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 12/25 (19.2.2025.), akt 7 od 67 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JkV1Qu3Thsk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
