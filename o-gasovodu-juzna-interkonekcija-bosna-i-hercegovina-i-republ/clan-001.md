@@ -1,0 +1,4 @@
+POGLAVLJE I – OPĆE ODREDBE
+Član 1.
+(Predmet zakona)
+Ovim zakonom se uređuju pitanja od značaja za realizaciju projekta izgradnje gasovoda "Južna interkonekcija Bosna i Hercegovina i Republika Hrvatska" na pravcu Zagvozd (Republika Hrvatska) – Posušje (Bosna i Hercegovina) – Tomislavgrad – Šuica – Kupres – Bugojno – Novi Travnik/Travnik i pravcu Posušje – Široki Brijeg – Mostar, sa odvojcima prema Livnu, Gornjem Vakufu – Uskoplju i Jajcu (u daljnjem tekstu: Južna interkonekcija BiH i Republika Hrvatska) na teritoriji Federacije Bosne i Hercegovine uključujući infrastrukturu projekta, tačku interkonekcije, investitora, način finansiranja, javni interes i provedbu eksproprijacije nekretnina, korištenje zemljišta, upravne postupke izdavanja dozvola i uključenost vlada kantona, nadležnih ministarstava i drugih organa uprave, institucija i privrednih društava i druga pitanja od značaja za realizaciju projekta.
