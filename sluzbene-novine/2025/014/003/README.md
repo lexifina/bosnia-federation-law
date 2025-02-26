@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI V.D. UPRAVNOM ODBORU JAVNE USTANOVE FEDERALNA NOVINSKA AGENCIJA NA ODLUKE O RAZRJEŠENJU DIREKTORA I ZAMJENIKA DIREKTORA
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI V.D. UPRAVNOM ODBORU JAVNE USTANOVE FEDERALNA NOVINSKA AGENCIJA NA ODLUKE O RAZRJEŠENJU DIREKTORA I ZAMJENIKA DIREKTORA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 14/25 (26.2.2025.), akt 3 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/vgAr10Plr8Q=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
