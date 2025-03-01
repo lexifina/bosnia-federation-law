@@ -1,0 +1,4 @@
+Član 52.
+(Način usklađivanja, isplate i okončanja ranije započetih postupaka)
+(1) Za podnosioce zahtjeva, čiji su upravni postupci i postupci pribavljanja ocjene medicinskog vještačenja zdravstvenog stanja započeti i nisu okončani do dana stupanja na snagu ovog zakona, odnosno u kojima nije doneseno rješenje u upravnom postupku, završit će se po odredbama zakona koji je bio na snazi do dana stupanja na snagu ovog zakona, a nadalje u skladu sa odredbama ovog zakona.
+(2) Obračun mjesečnih novčanih naknada kod priznavanja prava za lica iz stava (1) ovog člana, izvršit će se po odredbama zakona koji je bio na snazi u vrijeme podnošenja zahtjeva pa do prvog dana narednog obračunskog perioda u odnosu na obračun koji je izvršen u mjesecu u kojem je ovaj zakon stupio na snagu, a nadalje u skladu sa odredbama ovog zakona.
