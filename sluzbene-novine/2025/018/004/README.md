@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA USTANOVA SOCIJALNE ZAŠTITE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDNIKA I ČLANOVA NADZORNOG ODBORA USTANOVA SOCIJALNE ZAŠTITE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 18/25 (12.3.2025.), akt 4 od 14 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/T2NRa8fFHRs=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
