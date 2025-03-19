@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ODLUKE O USVAJANJU STRATEGIJE RAZVOJA INDUSTRIJE TEKSTILA, ODJEĆE, KOŽE I OBUĆE U FEDERACIJI BOSNE I HERCEGOVINE ZA PERIOD 2024. - 2033. GODINA
+
+Naslov: UKAZ O PROGLAŠENJU ODLUKE O USVAJANJU STRATEGIJE RAZVOJA INDUSTRIJE TEKSTILA, ODJEĆE, KOŽE I OBUĆE U FEDERACIJI BOSNE I HERCEGOVINE ZA PERIOD 2024. - 2033. GODINA
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 20/25 (19.3.2025.), akt 1 od 54 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fIUFAnJYVzk=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
