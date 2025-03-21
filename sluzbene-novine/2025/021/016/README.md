@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU STRUČNOG ODBORA ZA ENERGIJSKU EFIKASNOST
+
+Naslov: RJEŠENJE O IMENOVANJU STRUČNOG ODBORA ZA ENERGIJSKU EFIKASNOST
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/25 (21.3.2025.), akt 16 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Y80qyzgztz5k76kjn45h7qfo=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
