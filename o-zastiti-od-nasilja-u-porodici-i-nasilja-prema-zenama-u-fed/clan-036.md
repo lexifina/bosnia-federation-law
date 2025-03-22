@@ -1,0 +1,3 @@
+Član 36.
+(Obavezni elementi zahtjeva za izricanje zaštitne mjere)
+Obavezni elementi zahtjeva za izricanje zaštitne mjere su: naziv organa koji podnosi zahtjev, broj protokola, mjesto i datum, naziv suda kojem se podnosi zahtjev, zakonski osnov za podnošenje zahtjeva, osobni podaci o nasilnoj osobi za koju se zahtijeva izricanje zaštitne mjere, naziv jedne ili više zaštitnih mjera čije se izricanje zahtijeva od suda, radnje nasilja iz člana 8. st. (1) i (2) i člana 9. ovog zakona za koje postoje osnove sumnje da ih je nasilna osoba učinila, ime i prezime žrtve ili žrtava i odnos s nasilnom osobom, obrazloženje, potpis ovlaštene službene osobe i prilozi uz zahtjev.

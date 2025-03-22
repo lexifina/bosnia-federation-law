@@ -1,0 +1,3 @@
+Član 59.
+(Zbrinjavanje žrtve u drugoj odgovarajućoj instituciji ili kod druge porodice)
+Žrtva nasilja zbrinjava se u drugu odgovarajuću instituciju ili kod druge porodice na zahtjev organa starateljstva kada organ starateljstva ocijeni da je to povoljnije za žrtvu i uz saglasnost žrtve nasilja.

@@ -1,0 +1,7 @@
+Član 5.
+(Opći principi pružanja zaštite od nasilja)
+(1) Zaštita od nasilja uređena ovim zakonom i drugim zakonima i propisima, primjenjuje se u skladu sa međunarodnim ugovorima i standardima koje je prihvatila Bosna i Hercegovina koji uređuju zaštitu od nasilja, a primjenjivat će se u svim slučajevima radi osiguranja najdjelotvornije zaštite prava žrtve nasilja bez diskriminacije po bilo kojem osnovu, kao što su spol, rod, rasa, boja kože, jezik, vjersko uvjerenje, političko ili neko drugo mišljenje odnosno opredjeljenje, nacionalno odnosno društveno porijeklo, pripadnost nacionalnoj manjini, imovina, rođenje, seksualna orijentacija, rodni identitet, uzrast, zdravstveno stanje, invaliditet, bračno stanje, status migranta ili izbjeglice, odnosno neki drugi status.
+(2) Posebne mjere neophodne za sprečavanje i zaštitu žena od rodno zasnovanog nasilja ne smatraju se diskriminacijom u smislu ovog zakona.
+(3) Primjenu i provođenje ovog zakona u skladu sa svojim nadležnostima osigurat će sudovi, tužilaštva, policijski organi, organi starateljstva i druge institucije nadležne za socijalnu i zdravstvenu zaštitu i specijalizirane nevladine organizacije uz obavezu zajedničkog i koordiniranog djelovanja.
+(4) Institucije iz stava (3) ovog člana trebaju osigurati da postupanja sa žrtvama nasilja i nasilnim osobama vrše zaposlenici educirani za rad s navedenim osobama.
+(5) Na djecu učinioce nasilja neće se primjenjivati odredbe ovog zakona.

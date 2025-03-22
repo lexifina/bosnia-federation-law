@@ -1,0 +1,9 @@
+Član 57.
+(Način zbrinjavanja žrtve)
+(1) Radi osiguranja fizičke zaštite i ostvarivanja prava i interesa žrtve nasilja, organ starateljstva uz asistenciju policijskog organa ili policijski organ dužni su, uz prethodni pristanak žrtve, osim ako je žrtva dijete, privremeno zbrinuti žrtvu nasilja i djecu iz žrtvinog domaćinstva u sigurnu kuću, drugu odgovarajuću instituciju ili kod druge porodice.
+(2) Žrtva nasilja, zbog pretrpljenog nasilja, straha i uznemirenosti, radi osiguravanja fizičke zaštite i ostvarivanja svojih prava i interesa, kao i sprečavanja ponavljanja nasilja, ima pravo izravno zatražiti od sigurne kuće smještaj ili podnijeti nadležnom organu starateljstva zahtjev za privremeno zbrinjavanje.
+(3) Organ starateljstva će, odmah po prijemu zahtjeva iz stava (2) ovog člana razmotriti zahtjev i donijeti odluku.
+(4) Rješenje o odobrenju smještaja žrtve nasilja u sigurnu kuću donosi nadležni organ starateljstva po službenoj dužnosti odmah po saznanju da je izvršeno nasilje ili na zahtjev policijskog organa, žrtve nasilja ili pravne osobe koje pružaju specijalizirane usluge podrške iz člana 14. ovog zakona, odmah po prijemu zahtjeva za smještaj u sigurnu kuću.
+(5) Rješenje o odobrenju smještaja u sigurnu kuću iz stava (4) ovog člana, donosi se usmeno, a pismeno rješenje se izrađuje najkasnije u roku od 24 sata od dana donošenja usmenog rješenja. Sadržaj pismenog rješenja mora odgovarati sadržaju usmenog rješenja.
+(6) Žalbu na rješenje kojim se usvaja ili odbija zahtjev za smještaj u sigurnu kuću nadležnom kantonalnom ministarstvu za socijalnu i dječiju zaštitu žrtva nasilja i specijalizirana nevladina organizacija mogu podnijeti u roku od 24 sata od prijema prvostepenog rješenja.
+(7) O žalbi na rješenje iz stava (6) ovog člana nadležno kantonalno ministarstvo za socijalnu i dječiju zaštitu dužno je odlučiti u roku od tri dana.
