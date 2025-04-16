@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU INTERRESORNE RADNE GRUPE ZA AŽURIRANJE PROCJENE UGROŽENOSTI FEDERACIJE BOSNE I HERCEGOVINE OD PRIRODNIH I DRUGIH NESREĆA
+
+Naslov: RJEŠENJE O IMENOVANJU INTERRESORNE RADNE GRUPE ZA AŽURIRANJE PROCJENE UGROŽENOSTI FEDERACIJE BOSNE I HERCEGOVINE OD PRIRODNIH I DRUGIH NESREĆA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 28/25 (16.4.2025.), akt 26 od 37 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/DGPPORbZ56U=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
