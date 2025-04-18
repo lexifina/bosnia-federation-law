@@ -1,0 +1,11 @@
+# DOPUNSKO RJEŠENJE O IMENOVANJU ČLANOVA STRUČNOG POVJERENSTVA ZA UTVRĐIVANJE PRIJEDLOGA LISTE STALNIH SUDSKIH TUMAČA IZ REDA PROFESORA FAKULTETA
+
+Naslov: DOPUNSKO RJEŠENJE O IMENOVANJU ČLANOVA STRUČNOG POVJERENSTVA ZA UTVRĐIVANJE PRIJEDLOGA LISTE STALNIH SUDSKIH TUMAČA IZ REDA PROFESORA FAKULTETA
+
+Donosilac: FEDERALNO MINISTARSTVO PRAVDE.
+
+Službene novine Federacije BiH broj 29/25 (18.4.2025.), akt 15 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/y4OpVnd815A=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
