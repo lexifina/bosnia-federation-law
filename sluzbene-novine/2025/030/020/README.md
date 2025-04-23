@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENI ODLUKE O UTVRĐIVANJU I ODRŽAVANJU OBAVEZNIH REZERVI I UTVRĐIVANJU NAKNADE NA IZNOS REZERVE
+
+Naslov: ODLUKU O IZMJENI ODLUKE O UTVRĐIVANJU I ODRŽAVANJU OBAVEZNIH REZERVI I UTVRĐIVANJU NAKNADE NA IZNOS REZERVE
+
+Donosilac: CENTRALNA BANKA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 30/25 (23.4.2025.), akt 20 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fQ167sRjASE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
