@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVEDBU INTERNOG OGLASA ZA POPUNU UPRAŽNJENOG RADNOG MJESTA NAMJEŠTENIKA U FEDERALNOM MINISTARSTVU TRGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA PROVEDBU INTERNOG OGLASA ZA POPUNU UPRAŽNJENOG RADNOG MJESTA NAMJEŠTENIKA U FEDERALNOM MINISTARSTVU TRGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO TRGOVINE.
+
+Službene novine Federacije BiH broj 30/25 (23.4.2025.), akt 2 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/fQ167sRjASE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
