@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE JEDNOG ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Naslov: ODLUKU O UTVRĐIVANJU KRITERIJA ZA IZBOR I NOMINOVANJE JEDNOG ČLANA NADZORNOG ODBORA PRIVREDNOG DRUŠTVA JP ELEKTROPRIVREDA BiH D.D. - SARAJEVO ISPRED DRŽAVNOG KAPITALA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 31/25 (25.4.2025.), akt 10 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lrfsHnmwUGg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
