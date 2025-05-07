@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA, ZA 2025. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU OSNOVICE ZA ISPLATU MJESEČNIH NOVČANIH NAKNADA DOBITNIKA RATNIH PRIZNANJA I ODLIKOVANJA I ČLANOVA NJIHOVIH PORODICA, ZA 2025. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 33/25 (7.5.2025.), akt 11 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/3QlMlm6fZLg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
