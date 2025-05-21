@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OBJAVLJIVANJU INFORMACIJA I IZVJEŠTAVANJU NA TRŽIŠTU VRIJEDNOSNIH PAPIRA
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O OBJAVLJIVANJU INFORMACIJA I IZVJEŠTAVANJU NA TRŽIŠTU VRIJEDNOSNIH PAPIRA
+
+Donosilac: KOMISIJA ZA VRIJEDNOSNE PAPIRE FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 37/25 (21.5.2025.), akt 13 od 23 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/VdDX41r0V54=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
