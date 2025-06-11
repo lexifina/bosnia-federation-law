@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE DIJELA OBJEKTA, GARAŽA I PRIPADAJUĆEG ZEMLJIŠTA BIVŠEG ŠTABA TERITORIJALNE ODBRANE U ULICI 307. MTBR BB, U BUGOJNU, OPĆINI BUGOJNO
+
+Naslov: ODLUKU O DAVANJU NA PRIVREMENO KORIŠTENJE DIJELA OBJEKTA, GARAŽA I PRIPADAJUĆEG ZEMLJIŠTA BIVŠEG ŠTABA TERITORIJALNE ODBRANE U ULICI 307. MTBR BB, U BUGOJNU, OPĆINI BUGOJNO
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/25 (11.6.2025.), akt 6 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yxtB4lKWDhg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
