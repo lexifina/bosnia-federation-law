@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROIZVODNJI ELEKTRIČNE ENERGIJE ZA VLASTITE POTREBE (PROIZVODNJA PROSUMERA)
+
+Naslov: PRAVILNIK O IZMJENAMA I DOPUNAMA PRAVILNIKA O PROIZVODNJI ELEKTRIČNE ENERGIJE ZA VLASTITE POTREBE (PROIZVODNJA PROSUMERA)
+
+Donosilac: REGULATORNA KOMISIJA ZA ENERGIJU U FEDERACIJI BOSNE I HERCEGOVINE - FERK.
+
+Službene novine Federacije BiH broj 43/25 (11.6.2025.), akt 35 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/yxtB4lKWDhg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
