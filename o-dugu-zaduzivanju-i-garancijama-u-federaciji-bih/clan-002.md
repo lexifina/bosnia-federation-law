@@ -1,0 +1,50 @@
+Član 2.
+(Definicije)
+Termini koji se koriste u ovom Zakonu imaju sljedeća značenja:
+1) Akt o preuzimanju finansijske obaveze je pisani sporazum, ugovor, prospekt ili drugi finansijski aranžman koji sadrži uslove pod kojima je dužnik dobio sredstva od povjerioca ili odredbe kojima se regulira otplata pozajmljenih sredstava, kao i drugi finansijski aranžmani u skladu sa zakonom na osnovu kojih za dužnika nastaju finansijske obaveze.
+2) Budžetski rashodi propisani su zakonom i propisima donesenim na osnovu zakona za poslove, funkcije i programe koji se planiraju u finansijskim planovima budžetskih korisnika, odnosno u budžetu.
+3) Deficit proizašao iz gotovinskog toka je privremeni deficit prouzrokovan razlikom u vremenu prikupljanja budžetskih prihoda i plaćanja budžetskih rashoda i baziran je na budžetu u kojem ukupno planirani budžetski prihodi nisu manji od ukupnih budžetskih rashoda za tu fiskalnu godinu.
+4) Direktna garancija je garancija izdavaoca garancije izdata direktno u korist povjerioca.
+5) Direktni unutrašnji dug Federacije je dug nastao direktno u ime Federacije i isključuje relevantni unutrašnji dug.
+6) Direktni vanjski dug Federacije je dug nastao direktno u ime Federacije i isključuje relevantni vanjski dug Federacije.
+7) Državna pomoć je svaki stvarni ili potencijalni javni rashod ili umanjeno ostvarenje javnog prihoda, postojećeg, planiranog ili potencijalnog, koja može biti dodijeljena ili planirana direktno ili indirektno od davaoca državne pomoći, u bilo kojem obliku, čime se narušava ili postoji opasnost od narušavanja konkurencije na tržištu stavljajući u povoljniji položaj određene privredne subjekte, proizvodnju ili trgovinu određenih proizvoda, ili pružanje određenih usluga, ako to utječe na ispunjavanje međunarodnih obaveza Bosne i Hercegovine iz ove oblasti.
+8) Državni dug je dug Bosne i Hercegovine izražen u domaćoj valuti čiji je dužnik Ministarstvo finansija i trezora Bosne i Hercegovine (u daljem tekstu: Ministarstvo finansija i trezora), u ime Bosne i Hercegovine.
+9) Dug je finansijska obaveza za pozajmljena novčana sredstva nastala u skladu sa aktom o preuzimanju finansijske obaveze.
+10) Dug Federacije je vanjski i unutrašnji dug Federacije izražen u domaćoj ili stranoj valuti, po kojem je dužnik, direktno ili indirektno, Federalno ministarstvo finansija-Federalno ministarstvo financija (u daljem tekstu: Federalno ministarstvo finansija) u ime Federacije, i ne obuhvata dug kantona, gradova i općina. U dug Federacije uključuje se i dug Federacije koji je do sada nastao u skladu sa zakonom koji je bio na snazi u vrijeme zaduženja.
+11) Dug grada i općine je unutrašnji i vanjski dug grada i općine.
+12) Dug kantona je unutrašnji i vanjski dug kantona.
+13) Dugoročni dug je dug koji se otplaćuje u roku dužem od jedne godine od dana zaduženja.
+14) Dužnik je strana koja primarno ima obavezu izmirenja finansijske obaveze.
+15) Finansijski lizing je sporazum za lizing kapitalne investicije na određeni vremenski period s tim da na kraju tog perioda kapitalna investicija postaje vlasništvo dužnika kao što je definirano zakonom.
+16) Garancija je preuzeta finansijska obaveza u vidu jednostrane pisane izjave izdavaoca garancije ili dvostranog sporazuma zaključenog između izdavaoca garancije i korisnika garancije da izdavalac garancije plati dospjelu, a neizmirenu obavezu, u slučaju da dužnik, koji ima primarnu obavezu za izvršenje dospjele finansijske obaveze osigurane garancijom, nije izvršio takvu obavezu.
+17) Indirektna garancija je protugarancija izdata u korist drugog garanta.
+18) Indirektni dug Federacije je dug Federacije nastao u ime i za račun dužnika i koji dužnik servisira prema Federaciji u skladu sa uslovima definiranim ugovorom.
+19) Javno preduzeće je pravno lice upisano u sudski registar kao privredno društvo i koje obavlja djelatnost od javnog društvenog interesa (energetika, komunikacije, komunalne djelatnosti, upravljanje javnim dobrima i druge djelatnosti od javnog društvenog interesa) ili pravno lice definirano kao javno preduzeće posebnim propisom.
+20) Javna zdravstvena ustanova je ustanova koja obavlja zdravstvenu djelatnost u javnom interesu u skladu sa propisima o zdravstvenoj zaštiti i registraciji ustanova u Federaciji čiji je osnivač Parlament Federacije, skupština kantona, gradsko ili općinsko vijeće.
+21) Javni dug Federacije predstavlja ukupan dug svih institucionalnih jedinica u Federaciji koje su prema pravilima statističke metodologije Evropske unije razvrstane u sektor opće države, a obuhvata ukupan dug Federacije, kantona, gradova i općina i vanbudžetskih korisnika, isključujući dug između ovih subjekata.
+22) Kapitalna investicija ili kapitalno ulaganje je ulaganje u povećanje i očuvanje vrijednosti imovine, ulaganja u zemljište, građevine, opremu i drugu materijalnu i nematerijalnu imovinu, a koja ima period amortizacije duži od jedne godine.
+23) Korisnik garancije je povjerilac odnosno drugi garant kojem se, u slučaju neispunjenja dospjele finansijske obaveze od strane dužnika, izdavalac garancije obavezuje da će ispuniti ugovorenu obavezu, ako su ispunjeni uslovi iz garancije.
+24) Kratkoročni dug je dug koji se otplaćuje u roku kraćem od jedne godine od dana zaduženja.
+25) Povjerilac je kreditor, zajmodavac, lizing društvo i investitor u vrijednosne papire dužnika.
+26) Prihodi u smislu ovog Zakona podrazumijevaju, bez ograničenja, porezne i neporezne prihode i ostale prihode utvrđene zakonima i drugim propisima.
+27) Princip krajnjeg korisnika alocira obaveze Federacije o izvršenju otplate vanjskog duga na osnovu mjesta korištenja kreditnih sredstava u vrijeme kada je taj dug nastao.
+28) Privredni subjekti u poteškoćama su oni koji nisu u stanju da, bilo svojim vlastitim sredstvima ili sredstvima koja mogu dobiti od svojih vlasnika (dioničara) ili povjerilaca zaustave gubitke, što bi bez intervencije javnih organa, u kratkom ili srednjem roku, gotovo sigurno rezultiralo prestankom njihovog poslovanja.
+29) Redovni prihodi podrazumijevaju prihode koji ne uključuju transfere ostalih nivoa vlasti i fondova izuzev redovnih zakonskih transfera, transfere od inostranih vlada i međunarodnih organizacija, i prihode iz posebnih ugovora: sufinansiranje građana za jedinicu lokalne zajednice, te druge jednokratne prihode koji se neće kontinuirano realizirati u budućim periodima.
+30) Refinansiranje je zaduživanje radi zatvaranja postojećeg duga novim dugom.
+31) Relevantni dug Federacije je dug Federacije u čije ime se zadužila Bosna i Hercegovina i koji je plativ iz sredstava koje osigurava Federacija.
+32) Relevantni dug kantona je dug kantona u čije ime se zadužila Federacija i koji je plativ iz sredstava koje osigurava kanton.
+33) Relevantni dug grada ili općine je dug grada ili općine u čije ime se zadužila Federacija ili kanton i koji je plativ iz sredstava koje osigurava grad ili općina.
+34) Reprogram je promjena već ugovorenih uvjeta kredita ili zajma koja može uključivati promjenu u načinu i roku otplate, promjenu kamatne stope, odgodu plaćanja dospjelog dugovanja i mirovanje otplate.
+35) Servisiranje duga je uplata sredstava svake fiskalne godine za glavnicu, kamatu, diskont i druge obaveze na osnovu duga uključujući ostale prateće troškove.
+36) Stalno izdvajanje namjenskih sredstava je ovlaštenje u budžetu i zakonu odnosno odluci o izvršenju budžeta za tekuću godinu koje daje nadležno zakonodavno ili predstavničko tijelo radi izdvajanja namjenskih sredstava u konkretnu svrhu.
+37) Ukupan dug Federacije predstavlja dug svih institucionalnih jedinica Federacije koje su prema pravilima statističke metodologije Evropske unije razvrstane u sektor opće države, a obuhvata dug Federacije i federalnih vanbudžetskih korisnika, isključujući dug između ovih subjekata.
+38) Ukupan dug grada ili općine predstavlja dug svih institucionalnih jedinica grada ili općine koje su prema pravilima statističke metodologije Evropske unije razvrstane u sektor opće države, a obuhvata dug grada odnosno općine i vanbudžetskih korisnika grada odnosno općine, isključujući dug između ovih subjekata.
+39) Ukupan dug kantona predstavlja dug svih institucionalnih jedinica kantona koje su prema pravilima statističke metodologije Evropske unije razvrstane u sektor opće države, a obuhvata dug kantona i vanbudžetskih korisnika kantona, isključujući dug između ovih subjekata.
+40) Unutrašnja garancija je garancija kojom se garantira otplata unutrašnjeg duga dužnika.
+41) Unutrašnji dug Federacije, kantona, grada i općine, vanbudžetskog korisnika i javnog preduzeća je dug Federacije, kantona, grada i općine izuzimajući njihov vanjski dug.
+42) Vanbudžetski fond je pravno lice, osnovano na osnovu zakona, koje se finansira iz namjenskih doprinosa i drugih prihoda. Vanbudžetskim fondovima u smislu ovog Zakona smatraju se fondovi socijalne sigurnosti: Federalni zavod za penzijsko i invalidsko osiguranje, Federalni zavod za zapošljavanje, Zavod zdravstvenog osiguranja i reosiguranja Federacije BiH, kantonalni zavodi zdravstvenog osiguranja i kantonalne službe za zapošljavanje.
+43) Vanbudžetski korisnik u smislu ovog Zakona je privredno društvo, organizacija, ustanova ili drugo pravno lice u kojem Federacija, kanton, grad ili općina ima odlučujući utjecaj na upravljanje i koje se prema pravilima statističke metodologije Evropske unije razvrstava u sektor opće države, a nije budžetski korisnik.
+44) Vanjska garancija predstavlja garanciju kojom se garantira otplata vanjskog duga dužnika.
+45) Vanjski dug Federacije, kantona, grada i općine, vanbudžetskog korisnika i javnog preduzeća je dug prema inostranim povjeriocima plativ u stranoj valuti.
+46) Vrijednosni papiri Federacije, kantona, gradova, općina, vanbudžetskih korisnika i javnih preduzeća su prenosive isprave u nematerijalizovanom obliku-elektronski zapisi na osnovu kojih se ostvaruju prava prema emitentu i čine obavezu emitenta u skladu sa Zakonom i odlukom o emisiji vrijednosnih papira.
+47) Zaduživanje je stvaranje finansijske obaveze po osnovu ugovora o kreditu, zajmu, finansijskom lizingu i izdavanju vrijednosnih papira.

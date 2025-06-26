@@ -1,0 +1,3 @@
+Član 44.
+(Ovlaštenje za donošenje propisa)
+Federalni ministar finansija pravilnikom propisuje postupak izdavanja garancija, formu obrasca za izdavanje garancije, dokumentaciju koja treba biti dostavljena uz zahtjev za izdavanje garancije, kriterije podobnosti tražioca garancije, dokumentaciju koju je potrebno dostaviti Vladi Federacije, vladi kantona, gradonačelniku, odnosno načelniku uz nacrt odluke za izdavanje garancije, preporučeni elementi sporazuma ili izjave o garanciji, način obračuna i naplate premije i provizije za garanciju i vremenski rok u kom je tražilac garancije obavezan izvršiti plaćanje premije i provizije.

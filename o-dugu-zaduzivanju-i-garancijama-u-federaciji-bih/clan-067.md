@@ -1,0 +1,6 @@
+Član 67.
+(Obaveze javnih zdravstvenih ustanova)
+(1) Javna zdravstvena ustanova čiji je osnivač kanton i na čije finansijske planove nadležni organ kantona daje saglasnost, a koja je do dana stupanja na snagu ovog Zakona stvorila obaveze na osnovu direktnog unutrašnjeg duga, dužna je u roku od 60 dana od dana stupanja na snagu ovog Zakona dostaviti podatke o svim takvim neizmirenim dugovima kantonalnom ministarstvu finansija i Federalnom ministarstvu finansija.
+(2) Javna zdravstvena ustanova iz stava (1) ovog člana kantonalnom ministarstvu finansija dužna je dostaviti i prateću dokumentaciju koja se odnosi na neizmirene dugove.
+(3) Javna zdravstvena ustanova čiji je osnivač grad ili općina i na čije finansijske planove nadležni organ grada, odnosno općine daje saglasnost, a koja je do dana stupanja na snagu ovog Zakona stvorila obaveze na osnovu direktnog unutrašnjeg duga, dužna je u roku od 60 dana od dana stupanja na snagu ovog Zakona dostaviti podatke o svim takvim neizmirenim dugovima službi za finansije grada, odnosno općine i Federalnom ministarstvu finansija.
+(4) Javna zdravstvena ustanova iz stava (3) ovog člana službi za finansije grada, odnosno općine dužna je dostaviti i prateću dokumentaciju koja se odnosi na neizmirene dugove.

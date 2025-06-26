@@ -1,0 +1,7 @@
+Član 33.
+(Rezervne mjere u slučaju kašnjenja servisiranja duga kantona, grada i općine prema drugim povjeriocima)
+(1) U slučaju da kanton, grad i općina kasne u izmirenju obaveza po bilo kojem dugu definiranim ovim Zakonom, osim po osnovu indirektnog duga Federacije, duže od 30 dana od datuma dospijeća, dužni su u roku od pet dana po isteku ovog roka obavijestiti Federalno ministarstvo finansija.
+(2) Po prijemu obavijesti iz stava (1) ovog člana Federalno ministarstvo finansija je ovlašteno od kantona, grada ili općine zahtijevati izradu i utvrditi rok za dostavu plana mjera za osiguranje sredstava za servisiranje duga.
+(3) Plan mjera iz stava (2) ovog člana podliježe odobrenju povjerioca.
+(4) U slučaju da kanton, grad ili općina ne dostavi plan mjera iz stava (2) ovog člana u roku koji odredi Federalno ministarstvo finansija ili ne provodi odobrene mjere, ili je izvjesno da dužnik neće biti u mogućnosti platiti dospjele obaveze, a taj dug je osiguran instrumentom iz člana 6. stav (2) tačka d) Zakona, Federalno ministarstvo finansija će, u svrhu urednog servisiranja duga prema povjeriocima, zaplijeniti i zadržati dio prihoda sa Posebnog računa za raspodjelu prihoda od indirektnih poreza sa Jedinstvenog računa koji pripadaju kantonu, gradu odnosno općini.
+(5) Zaplijenjena sredstva iz stava (4) ovog člana, Federalno ministarstvo će deponovati na namjenski račun za servis duga dužnika i plativa su povjeriocu u skladu sa uslovima definiranim ugovorom o kreditu, zajmu, lizingu ili odlukom o emisiji vrijednosnih papira.

@@ -1,0 +1,7 @@
+Član 75.
+(Gornja granica ukupnog duga i izdavanja garancija kantona)
+(1) Ukupan dug kantona, uključujući i neotplaćeni garantirani dug koji nije uključen u ukupan dug kantona može iznositi najviše do iznosa prosječnih redovnih prihoda budžeta kantona ostvarenih u posljednje tri fiskalne godine.
+(2) Kanton se može zadužiti ili izdati garanciju u okvirima ukupnih ograničenja iz stava (1) ovog člana ukoliko u vrijeme odobrenja zaduženja ili izdavanja garancije iznos servisiranja duga i potencijalnog duga koji dospijeva u svakoj narednoj godini, uključujući i servisiranje za predloženo novo zaduženje ili izdavanje garancije ne prelazi 15% prosječnih redovnih prihoda kantona ostvarenih u posljednje tri fiskalne godine.
+(3) U okviru ograničenja iz stava (2) ovog člana iznos servisiranja duga koji je alociran ili se alocira na budžet kantona može iznositi najviše do 10% prosječnih redovnih prihoda kantona ostvarenih u posljednje tri fiskalne godine.
+(4) Ukoliko je garancija izdata u skladu sa ovim Zakonom ili zakonom koji je bio na snazi u vrijeme izdavanja garancije, zaduženje nastalo zbog plaćanja takve garancije nije predmet ograničenja zaduženja iz stava (3) ovog člana.
+(5) Ukoliko ukupan dug kantona i neotplaćeni garantirani dug iz stava (1) ovog člana dostigne visinu prosječnih redovnih prihoda budžeta kantona ostvarenih u posljednje tri fiskalne godine, dodatno povećanje ukupnog duga kantona i izdavanje garancija kantona moguće je samo uz odobrenje Parlamenta Federacije.
