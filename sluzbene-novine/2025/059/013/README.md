@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDAVAJUĆEG I ČLANOVA UPRAVNOG ODBORA USTANOVE ZA SOCIJALNO ZBRINJAVANJE I ZDRAVSTVENU NJEGU - DRIN
+
+Naslov: RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDAVAJUĆEG I ČLANOVA UPRAVNOG ODBORA USTANOVE ZA SOCIJALNO ZBRINJAVANJE I ZDRAVSTVENU NJEGU - DRIN
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 59/25 (6.8.2025.), akt 13 od 32 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hIkhM3YJO7k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
