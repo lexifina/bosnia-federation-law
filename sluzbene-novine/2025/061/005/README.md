@@ -1,0 +1,11 @@
+# PRAVILNIK O PRIMJENI TEHNIČKIH SPECIFIKACIJA INTEROPERABILNOSTI (TSI) KOJE SE ODNOSE NA PODSISTEM "TELEMATSKE APLIKACIJE ZA PRIJEVOZ PUTNIKA"
+
+Naslov: PRAVILNIK O PRIMJENI TEHNIČKIH SPECIFIKACIJA INTEROPERABILNOSTI (TSI) KOJE SE ODNOSE NA PODSISTEM "TELEMATSKE APLIKACIJE ZA PRIJEVOZ PUTNIKA"
+
+Donosilac: REGULATORNI ODBOR ŽELJEZNICA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 61/25 (13.8.2025.), akt 5 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/hf1Q5AzoehQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
