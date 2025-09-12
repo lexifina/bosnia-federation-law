@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 16. VANREDNOJ SKUPŠTINI PRIVREDNOG DRUŠTVA CESTE D.D. MOSTAR
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 16. VANREDNOJ SKUPŠTINI PRIVREDNOG DRUŠTVA CESTE D.D. MOSTAR
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 70/25 (12.9.2025.), akt 3 od 61 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/t8gN3kOrHCg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
