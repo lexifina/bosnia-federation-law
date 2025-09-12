@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA FISKALNE SISTEME
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA FISKALNE SISTEME
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 70/25 (12.9.2025.), akt 50 od 61 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/t8gN3kOrHCg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
