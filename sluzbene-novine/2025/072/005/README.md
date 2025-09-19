@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA IZRADU PLANA ZA JAČANJE KAPACITETA VLADE FEDERACIJE BOSNE I HERCEGOVINE U PROCESU EVROPSKIH INTEGRACIJA
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU RADNE GRUPE ZA IZRADU PLANA ZA JAČANJE KAPACITETA VLADE FEDERACIJE BOSNE I HERCEGOVINE U PROCESU EVROPSKIH INTEGRACIJA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 72/25 (19.9.2025.), akt 5 od 13 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/lgztz5k76kjn45hadH19pFgztz5k76kjn45hM=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
