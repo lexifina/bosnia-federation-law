@@ -1,0 +1,11 @@
+# LISTU MIRITELJA I ARBITARA SA KOJE SE IMENUJU MIRITELJI I ARBITRI U MIROVNA I ARBITRAŽNA VIJEĆA FORMIRANA ZA TERITORIJU FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: LISTU MIRITELJA I ARBITARA SA KOJE SE IMENUJU MIRITELJI I ARBITRI U MIROVNA I ARBITRAŽNA VIJEĆA FORMIRANA ZA TERITORIJU FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO RADA I SOCIJALNE POLITIKE.
+
+Službene novine Federacije BiH broj 75/25 (1.10.2025.), akt 6 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/Bpgztz5k76kjn45ht7lUohz4nh78h77uxE=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
