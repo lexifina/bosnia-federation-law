@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA TUMAČENJE I PRAĆENJE PRIMJENE KOLEKTIVNOG UGOVORA ZA SLUŽBENIKE ORGANA UPRAVE I SUDSKE VLASTI U FEDERACIJI BiH
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA TUMAČENJE I PRAĆENJE PRIMJENE KOLEKTIVNOG UGOVORA ZA SLUŽBENIKE ORGANA UPRAVE I SUDSKE VLASTI U FEDERACIJI BiH
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/25 (3.10.2025.), akt 31 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AarxHPohz4nh78h773tlI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
