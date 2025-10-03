@@ -1,0 +1,11 @@
+# ODLUKU O USLOVIMA ZA POSTAVLJENJE DIREKTORA SLUŽBE ZA ZAJEDNIČKE POSLOVE ORGANA I TIJELA FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O USLOVIMA ZA POSTAVLJENJE DIREKTORA SLUŽBE ZA ZAJEDNIČKE POSLOVE ORGANA I TIJELA FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 76/25 (3.10.2025.), akt 6 od 40 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/AarxHPohz4nh78h773tlI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
