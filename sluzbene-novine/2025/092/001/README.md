@@ -1,0 +1,11 @@
+# UKAZ O PROGLAŠENJU ODLUKE O USVAJANJU STRATEGIJE ZA UNAPREĐENJE PRAVA I POLOŽAJA OSOBA S INVALIDITETOM U FEDERACIJI BOSNE I HERCEGOVINE 2025.-2030. GODINE
+
+Naslov: UKAZ O PROGLAŠENJU ODLUKE O USVAJANJU STRATEGIJE ZA UNAPREĐENJE PRAVA I POLOŽAJA OSOBA S INVALIDITETOM U FEDERACIJI BOSNE I HERCEGOVINE 2025.-2030. GODINE
+
+Donosilac: PARLAMENT FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 92/25 (3.12.2025.), akt 1 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dZpc5rfC97k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
