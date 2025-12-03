@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O INTERNOM PROCESU PROCJENE ADEKVATNOSTI KAPITALA I INTERNOM PROCESU PROCJENE ADEKVATNOSTI LIKVIDNOSTI U BANCI
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNAMA ODLUKE O INTERNOM PROCESU PROCJENE ADEKVATNOSTI KAPITALA I INTERNOM PROCESU PROCJENE ADEKVATNOSTI LIKVIDNOSTI U BANCI
+
+Donosilac: AGENCIJA ZA BANKARSTVO FBIH.
+
+Službene novine Federacije BiH broj 92/25 (3.12.2025.), akt 20 od 22 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/dZpc5rfC97k=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
