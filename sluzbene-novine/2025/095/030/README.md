@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS OBAVEZA, POTRAŽIVANJA I BLAGAJNE, SA STANJEM NA DAN 31.12.2025. GODINE
+
+Naslov: RJEŠENJE O IMENOVANJU KOMISIJE ZA POPIS OBAVEZA, POTRAŽIVANJA I BLAGAJNE, SA STANJEM NA DAN 31.12.2025. GODINE
+
+Donosilac: FEDERALNO MINISTARSTVO ZA PITANJA BORACA/BRANITELJA I INVALIDA ODBRAMBENO-OSLOBODILAČKOG/DOMOVINSKOG RATA.
+
+Službene novine Federacije BiH broj 95/25 (12.12.2025.), akt 30 od 35 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/gEBb6hZW3ac=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
