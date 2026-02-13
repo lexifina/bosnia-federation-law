@@ -1,0 +1,11 @@
+# ODLUKU O IMENOVANJU VRŠIOCA DUŽNOSTI IZVRŠNOG DIREKTORA ZA EKONOMSKE I PRAVNE POSLOVE U KJKP "RAD" D.O.O. SARAJEVO
+
+Naslov: ODLUKU O IMENOVANJU VRŠIOCA DUŽNOSTI IZVRŠNOG DIREKTORA ZA EKONOMSKE I PRAVNE POSLOVE U KJKP "RAD" D.O.O. SARAJEVO
+
+Donosilac: KJKP "RAD" D.O.O..
+
+Službene novine Federacije BiH broj 12/26 (13.2.2026.), akt 13 od 16 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/JFoXkBMbgztz5k76kjn45h9w=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
