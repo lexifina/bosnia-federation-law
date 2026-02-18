@@ -1,0 +1,11 @@
+# ODLUKU O ZAKLJUČIVANJU, POTVRĐIVANJU I OBJAVI BROJA BIRAČA UPISANIH U IZVOD IZ CENTRALNOG BIRAČKOG SPISKA ZA PRIJEVREMENE IZBORE ZA NAČELNIKA OPĆINE VAREŠ
+
+Naslov: ODLUKU O ZAKLJUČIVANJU, POTVRĐIVANJU I OBJAVI BROJA BIRAČA UPISANIH U IZVOD IZ CENTRALNOG BIRAČKOG SPISKA ZA PRIJEVREMENE IZBORE ZA NAČELNIKA OPĆINE VAREŠ
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 13/26 (18.2.2026.), akt 1 od 27 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/I56880ACSgg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
