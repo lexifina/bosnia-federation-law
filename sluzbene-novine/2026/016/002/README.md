@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI FEDERALNOM MINISTARSTVU FINANSIJA ZA OTVARANJE POSEBNOG TRANSAKCIJSKOG RAČUNA ZA UPLATE PO OSNOVU POVRATA PDV-a
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI FEDERALNOM MINISTARSTVU FINANSIJA ZA OTVARANJE POSEBNOG TRANSAKCIJSKOG RAČUNA ZA UPLATE PO OSNOVU POVRATA PDV-a
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 16/26 (27.2.2026.), akt 2 od 9 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/SkGjJSseC1s=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
