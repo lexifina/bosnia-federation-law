@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 40. VANREDNOJ SKUPŠTINI PRIVREDNOG DRUŠTVA PRETIS D.D. VOGOŠĆA
+
+Naslov: ODLUKU O DAVANJU OVLAŠTENJA PUNOMOĆNIKU ZA ZASTUPANJE VLADE FEDERACIJE BOSNE I HERCEGOVINE NA 40. VANREDNOJ SKUPŠTINI PRIVREDNOG DRUŠTVA PRETIS D.D. VOGOŠĆA
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 21/26 (19.3.2026.), akt 17 od 46 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/sG9CBbNsBxg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
