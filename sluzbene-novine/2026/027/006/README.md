@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDAVAJUĆIH I ČLANOVA UPRAVNIH ODBORA USTANOVA SOCIJALNE ZAŠTITE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O RAZRJEŠENJU I PRIVREMENOM IMENOVANJU PREDSJEDAVAJUĆIH I ČLANOVA UPRAVNIH ODBORA USTANOVA SOCIJALNE ZAŠTITE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 27/26 (10.4.2026.), akt 6 od 12 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/ofXo6JufsoQ=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
