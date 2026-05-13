@@ -1,0 +1,11 @@
+# ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2026. GODINU
+
+Naslov: ODLUKU O UTVRĐIVANJU INTERESA FEDERACIJE BOSNE I HERCEGOVINE ZA OBAVLJANJE USLUGA ŽELJEZNIČKOG PUTNIČKOG I KOMBINOVANOG SAOBRAĆAJA ZA 2026. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 35/26 (13.5.2026.), akt 7 od 24 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
