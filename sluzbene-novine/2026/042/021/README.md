@@ -1,0 +1,11 @@
+# ODLUKU O DIPLOMATSKO-KONZULARNIM PREDSTAVNIŠTVIMA BOSNE I HERCEGOVINE U KOJIMA SE PLANIRA ORGANIZIRANJE GLASANJA ZA OPĆE IZBORE 2026. GODINE (PREČIŠĆENI TEKST)
+
+Naslov: ODLUKU O DIPLOMATSKO-KONZULARNIM PREDSTAVNIŠTVIMA BOSNE I HERCEGOVINE U KOJIMA SE PLANIRA ORGANIZIRANJE GLASANJA ZA OPĆE IZBORE 2026. GODINE (PREČIŠĆENI TEKST)
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 42/26 (5.6.2026.), akt 21 od 26 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bSopohz4nh78h77ve8qaY=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
