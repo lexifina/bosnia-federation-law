@@ -1,0 +1,11 @@
+# RJEŠENJE O RAZRJEŠENJU DIREKTORA UREDA VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA ZAKONODAVSTVO I USKLAĐENOST SA PROPISIMA EVROPSKE UNIJE
+
+Naslov: RJEŠENJE O RAZRJEŠENJU DIREKTORA UREDA VLADE FEDERACIJE BOSNE I HERCEGOVINE ZA ZAKONODAVSTVO I USKLAĐENOST SA PROPISIMA EVROPSKE UNIJE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 43/26 (10.6.2026.), akt 9 od 15 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/bYRvQwgZtxI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
