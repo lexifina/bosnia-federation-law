@@ -1,0 +1,11 @@
+# ODLUKU O PONIŠTENJU JAVNOG KONKURSA/NATJEČAJA ZA IZBOR I IMENOVANJE ČLANOVA ODBORA ZA REVIZIJU RAZVOJNE BANKE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: ODLUKU O PONIŠTENJU JAVNOG KONKURSA/NATJEČAJA ZA IZBOR I IMENOVANJE ČLANOVA ODBORA ZA REVIZIJU RAZVOJNE BANKE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: RAZVOJNA BANKA FEDERACIJE BIH.
+
+Službene novine Federacije BiH broj 46/26 (19.6.2026.), akt 37 od 39 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/54HM0L6fZxA=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
