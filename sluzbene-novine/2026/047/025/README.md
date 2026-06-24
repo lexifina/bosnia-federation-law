@@ -1,0 +1,11 @@
+# RJEŠENJE O IMENOVANJU ČLANA I ZAMJENSKOG ČLANA ISPRED VLADE FEDERACIJE BOSNE I HERCEGOVINE U VI. SAZIV ODBORA ZA ROME PRI VIJEĆU MINISTARA BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IMENOVANJU ČLANA I ZAMJENSKOG ČLANA ISPRED VLADE FEDERACIJE BOSNE I HERCEGOVINE U VI. SAZIV ODBORA ZA ROME PRI VIJEĆU MINISTARA BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 47/26 (24.6.2026.), akt 25 od 44 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/KS9dlrjQTlc=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
