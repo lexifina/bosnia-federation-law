@@ -1,0 +1,11 @@
+# ODLUKU O DAVANJU SAGLASNOSTI NA USVAJANJE IZVJEŠTAJA O POSLOVANJU J.P. MEĐUNARODNI AERODROM "SARAJEVO" D.O.O. SARAJEVO ZA 2025. GODINU I RASPODJELI DOBITI ZA 2025. GODINU
+
+Naslov: ODLUKU O DAVANJU SAGLASNOSTI NA USVAJANJE IZVJEŠTAJA O POSLOVANJU J.P. MEĐUNARODNI AERODROM "SARAJEVO" D.O.O. SARAJEVO ZA 2025. GODINU I RASPODJELI DOBITI ZA 2025. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 49/26 (1.7.2026.), akt 1 od 7 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/kzW5cU2xWdI=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
