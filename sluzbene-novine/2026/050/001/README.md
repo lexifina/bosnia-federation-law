@@ -1,0 +1,11 @@
+# ODLUKU O IZMJENAMA I DOPUNI ODLUKE O UTVRĐIVANJU KONAČNE LISTE KORISNIKA GRANT SREDSTAVA TEKUĆIH TRANSFERA SA EKONOMSKOG KODA 614500 ZA 2026. GODINU
+
+Naslov: ODLUKU O IZMJENAMA I DOPUNI ODLUKE O UTVRĐIVANJU KONAČNE LISTE KORISNIKA GRANT SREDSTAVA TEKUĆIH TRANSFERA SA EKONOMSKOG KODA 614500 ZA 2026. GODINU
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 50/26 (3.7.2026.), akt 1 od 8 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/5xSJ4u9N3zg=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
