@@ -1,0 +1,11 @@
+# PRAVILNIK O PROCEDURAMA I KRITERIJIMA ZA IZBOR KORISNIKA I DODJELU SREDSTAVA FONDACIJE ZA BIBLIOTEČKU DJELATNOST
+
+Naslov: PRAVILNIK O PROCEDURAMA I KRITERIJIMA ZA IZBOR KORISNIKA I DODJELU SREDSTAVA FONDACIJE ZA BIBLIOTEČKU DJELATNOST
+
+Donosilac: FONDACIJA ZA BIBLIOTEČKU DJELATNOST.
+
+Službene novine Federacije BiH broj 58/26 (31.7.2026.), akt 16 od 17 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/MYc8ohz4nh78h77fSNoqw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
