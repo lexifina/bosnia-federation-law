@@ -1,0 +1,11 @@
+# ODLUKU O IZGLEDU, SADRŽAJU, SVOJSTVIMA I KARAKTERISTIKAMA GLASAČKOG LISTIĆA ZA SVE NIVOE NEPOSREDNIH IZBORA U BOSNI I HERCEGOVINI NA OPĆIM IZBORIMA 2026. GODINE
+
+Naslov: ODLUKU O IZGLEDU, SADRŽAJU, SVOJSTVIMA I KARAKTERISTIKAMA GLASAČKOG LISTIĆA ZA SVE NIVOE NEPOSREDNIH IZBORA U BOSNI I HERCEGOVINI NA OPĆIM IZBORIMA 2026. GODINE
+
+Donosilac: CENTRALNA IZBORNA KOMISIJA BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 66/26 (26.8.2026.), akt 3 od 10 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/cgztz5k76kjn45h1I7pEtuohz4nh78h77A=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
