@@ -1,0 +1,11 @@
+# PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O IZDAVANJU UVJERENJA O ČINJENICAMA IZ SLUŽBENIH EVIDENCIJA POREZNE UPRAVE FEDERACIJE BOSNE I HERCEGOVINE
+
+Naslov: PRAVILNIK O IZMJENI I DOPUNI PRAVILNIKA O IZDAVANJU UVJERENJA O ČINJENICAMA IZ SLUŽBENIH EVIDENCIJA POREZNE UPRAVE FEDERACIJE BOSNE I HERCEGOVINE
+
+Donosilac: FEDERALNO MINISTARSTVO FINANSIJA/FINANCIJA.
+
+Službene novine Federacije BiH broj 79/26 (7.10.2026.), akt 11 od 28 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/rdbIWrkwvgU=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
