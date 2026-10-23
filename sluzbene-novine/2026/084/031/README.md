@@ -1,0 +1,11 @@
+# RJEŠENJE
+
+Naslov: RJEŠENJE
+
+Donosilac: FEDERALNO MINISTARSTVO PRAVDE.
+
+Službene novine Federacije BiH broj 84/26 (23.10.2026.), akt 31 od 34 u popisu akata tog broja (popis akata kojih nema na ovom jeziku).
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/aQ9o9NUmohz4nh78h77W4=/NekompletanTekst>
+
+Metadata record: the publisher does not serve this act's text free of charge.
