@@ -1,0 +1,537 @@
+{
+ "country": "BA-BIH",
+ "acts": [
+  {
+   "slug": "o-gradu-visoko",
+   "short": "Zakon o Gradu Visoko",
+   "title": "Zakon o Gradu Visoko",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/4.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/4.htm",
+     "sha256": "a5ef14729bedeaec79b4bcf5c7446f90f4e62e9b06ba1cdc48fb950ccd0aed1d"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-gracanica",
+   "short": "Zakon o Gradu Gračanica",
+   "title": "Zakon o Gradu Gračanica",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/5.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/5.htm",
+     "sha256": "c7b98612ff694e9909ad6b764a2f5e5d4d47ffe7cf00c63c906ef9ac671aaea6"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-capljina",
+   "short": "Zakon o Gradu Čapljina",
+   "title": "Zakon o Gradu Čapljina",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/6.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/6.htm",
+     "sha256": "591a8a391695471a800168a6f0bfd8693f3216d3a8f81f95efcb189d278aa528"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-gradacac",
+   "short": "Zakon o Gradu Gradačac",
+   "title": "Zakon o Gradu Gradačac",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/7.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/7.htm",
+     "sha256": "75075607bf92fd62f0172a5945e78716ec3afd304b48004619f0e70ed884638a"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-ljubuski",
+   "short": "Zakon o Gradu Ljubuški",
+   "title": "Zakon o Gradu Ljubuški",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/8.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/8.htm",
+     "sha256": "b0d12bbbf231c01ff755bec45c428dc74a74288a036460e1c408e558ac432cd2"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-srebrenik",
+   "short": "Zakon o Gradu Srebrenik",
+   "title": "Zakon o Gradu Srebrenik",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/9.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/9.htm",
+     "sha256": "0d26f9cd5483c54cf4cad2b44301b9483332618cb8dc9c8fad3c6cf615dfe47e"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-zivinice",
+   "short": "Zakon o Gradu Živinice",
+   "title": "Zakon o Gradu Živinice",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/10.htm",
+   "versions": [
+    {
+     "from": "2019-05-16",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/10.htm",
+     "sha256": "60886cc20a08d8438d16078694439e221e93bbeff572058754e7f169da2e2b5f"
+    }
+   ]
+  },
+  {
+   "slug": "o-rokovima-i-postupanju-u-sudskim-postupcima-za-vrijeme-stan",
+   "short": "Zakon o rokovima i postupanju u sudskim postupcima za vrijem",
+   "title": "Zakon o rokovima i postupanju u sudskim postupcima za vrijeme stanja nesreće na teritoriji Federacije Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/5.htm",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 12,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/5.htm",
+     "sha256": "661a73eb1987b6b4cc68f4599ba5284716a1829a5b07fd05da97ae5889f5c7e8"
+    }
+   ]
+  },
+  {
+   "slug": "o-ublazavanju-negativnih-ekonomskih-posljedica",
+   "short": "Zakon o ublažavanju negativnih ekonomskih posljedica",
+   "title": "Zakon o ublažavanju negativnih ekonomskih posljedica",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/6.htm",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 18,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/6.htm",
+     "sha256": "f924d8fe93a1c46a198de2e29b5f7012066608727667d4ebc11f93fe34b0073e"
+    }
+   ]
+  },
+  {
+   "slug": "o-obaveznim-osiguranjima-u-saobracaju",
+   "short": "Zakon o obaveznim osiguranjima u saobraćaju",
+   "title": "Zakon o obaveznim osiguranjima u saobraćaju",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/11.htm",
+   "versions": [
+    {
+     "from": "2020-08-27",
+     "units": 83,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/11.htm",
+     "sha256": "8d86f2b637042677151e62dad003f7a7f11ee4dc214a66d2301991d868242df3"
+    }
+   ]
+  },
+  {
+   "slug": "o-hemikalijama",
+   "short": "Zakon o hemikalijama",
+   "title": "Zakon o hemikalijama",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/15.htm",
+   "versions": [
+    {
+     "from": "2020-10-31",
+     "units": 63,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/15.htm",
+     "sha256": "d80011dd6abc7a06750be2d67eb339e47bfe167313b61180e2176fdd5d890c60"
+    }
+   ]
+  },
+  {
+   "slug": "o-zastiti-na-radu",
+   "short": "Zakon o zaštiti na radu",
+   "title": "Zakon o zaštiti na radu",
+   "url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/17.htm",
+   "versions": [
+    {
+     "from": "2020-11-07",
+     "units": 95,
+     "source_url": "https://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/17.htm",
+     "sha256": "41d0c35aaac5163cc6477d25c11ebcb57c00d21d41e9791f9a7da3360bd05d62"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-orasje",
+   "short": "Zakon o Gradu Orašje",
+   "title": "Zakon o Gradu Orašje",
+   "url": "https://fbihvlada.gov.ba/bs/4-zakon-o-gradu-orasje",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/4-zakon-o-gradu-orasje",
+     "sha256": "0530cc6c5bf818c4a99d9f5f730ce4edaffd99a719c95301c6f63126cc71d956"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-lukavac",
+   "short": "Zakon o Gradu Lukavac",
+   "title": "Zakon o Gradu Lukavac",
+   "url": "https://fbihvlada.gov.ba/bs/5-zakon-o-gradu-lukavac",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/5-zakon-o-gradu-lukavac",
+     "sha256": "e9ad5a4e2369556cdd79d0e79a9fd7806b93e1d1c39509b1ebe01bc3ff794bef"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-konjic",
+   "short": "Zakon o Gradu Konjic",
+   "title": "Zakon o Gradu Konjic",
+   "url": "https://fbihvlada.gov.ba/bs/6-zakon-o-gradu-konjic",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/6-zakon-o-gradu-konjic",
+     "sha256": "8f139b8c2e150f98ca7ac899c88bd5a32634ed47fad7b15fdf634e4310e5302f"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-bosanska-krupa",
+   "short": "Zakon o Gradu Bosanska Krupa",
+   "title": "Zakon o Gradu Bosanska Krupa",
+   "url": "https://fbihvlada.gov.ba/bs/7-zakon-o-gradu-bosanska-krupa",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/7-zakon-o-gradu-bosanska-krupa",
+     "sha256": "49ec3dd4cc5ca8e45221901a0890fce8b0693224c56482cbd69e5394c45807b0"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-zavidovici",
+   "short": "Zakon o Gradu Zavidovići",
+   "title": "Zakon o Gradu Zavidovići",
+   "url": "https://fbihvlada.gov.ba/bs/8-zakon-o-gradu-zavidovici-13129",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/8-zakon-o-gradu-zavidovici-13129",
+     "sha256": "2982185588924643258300899e2366085e72302fa7d30ab04c59bb1e7769c907"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-stolac",
+   "short": "Zakon o Gradu Stolac",
+   "title": "Zakon o Gradu Stolac",
+   "url": "https://fbihvlada.gov.ba/bs/9-zakon-o-gradu-stolac",
+   "versions": [
+    {
+     "from": "2022-03-12",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/9-zakon-o-gradu-stolac",
+     "sha256": "110c0eeb5e6296be5b6308c67e6e0bf8ad9d90adb74ac9c2d9d56cec786ddd91"
+    }
+   ]
+  },
+  {
+   "slug": "o-slobodnim-zonama-u-federaciji-bosne-i-hercegovine",
+   "short": "Zakon o slobodnim zonama u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o slobodnim zonama u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/13-zakon-o-slobodnim-zonama-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 33,
+     "source_url": "https://fbihvlada.gov.ba/bs/13-zakon-o-slobodnim-zonama-u-federaciji-bosne-i-hercegovine",
+     "sha256": "9a47ceb63799f28ff4374e4d61b505b284cb1eb36302d1f2f1ed85efe9fc6af2"
+    }
+   ]
+  },
+  {
+   "slug": "o-vanrednom-uskladjivanju-penzija-ostvarenih-po-zakonu-o-slu",
+   "short": "Zakon o vanrednom usklađivanju penzija ostvarenih po Zakonu",
+   "title": "Zakon o vanrednom usklađivanju penzija ostvarenih po Zakonu o službi u Oružanim snagama Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/16-zakon-o-vanrednom-uskladivanju-penzija-ostvarenih-po-zakonu-o-sluzbi-u-oruzanim-snagama-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 10,
+     "source_url": "https://fbihvlada.gov.ba/bs/16-zakon-o-vanrednom-uskladivanju-penzija-ostvarenih-po-zakonu-o-sluzbi-u-oruzanim-snagama-bosne-i-hercegovine",
+     "sha256": "46e30782896d7a3f33d9fbc39bb3c4a5d803ff65f3c2dcbd6fdc6a5afbd22bb5"
+    }
+   ]
+  },
+  {
+   "slug": "o-finansijskoj-konsolidaciji-i-restrukturiranju-javnih-zdrav",
+   "short": "Zakon o finansijskoj konsolidaciji i restrukturiranju javnih",
+   "title": "Zakon o finansijskoj konsolidaciji i restrukturiranju javnih zdravstvenih ustanova u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/23-zakon-o-finansijskoj-konsolidaciji-i-restrukturiranju-javnih-zdravstvenih-ustanova-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2022-05-14",
+     "units": 36,
+     "source_url": "https://fbihvlada.gov.ba/bs/23-zakon-o-finansijskoj-konsolidaciji-i-restrukturiranju-javnih-zdravstvenih-ustanova-u-federaciji-bosne-i-hercegovine",
+     "sha256": "f6a01ddeb446d2904254abd53c8c477b46fd449a76794d2343ffcbbf6c346364"
+    }
+   ]
+  },
+  {
+   "slug": "o-kontroli-i-ogranicenoj-upotrebi-duhana-duhanskih-i-ostalih",
+   "short": "Zakon o kontroli i ograničenoj upotrebi duhana, duhanskih i",
+   "title": "Zakon o kontroli i ograničenoj upotrebi duhana, duhanskih i ostalih proizvoda za pušenje",
+   "url": "https://fbihvlada.gov.ba/bs/24-zakon-o-kontroli-i-ogranicenoj-upotrebi-duhana-duhanskih-i-ostalih-proizvoda-za-pusenje",
+   "versions": [
+    {
+     "from": "2022-05-28",
+     "units": 48,
+     "source_url": "https://fbihvlada.gov.ba/bs/24-zakon-o-kontroli-i-ogranicenoj-upotrebi-duhana-duhanskih-i-ostalih-proizvoda-za-pusenje",
+     "sha256": "7a5d2ceeb973b797b992e96eef0aa0a33a42ea02bc19cc71ae608dfc12fbe7c9"
+    }
+   ]
+  },
+  {
+   "slug": "o-organizacijama-i-reprezentativnim-organizacijama-osoba-sa",
+   "short": "Zakon o organizacijama i reprezentativnim organizacijama oso",
+   "title": "Zakon o organizacijama i reprezentativnim organizacijama osoba sa invaliditetom i civilnih žrtava rata",
+   "url": "https://fbihvlada.gov.ba/bs/35-zakon-o-organizacijama-i-reprezentativnim-organizacijama-osoba-sa-invaliditetom-i-civilnih-zrtava-rata",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 38,
+     "source_url": "https://fbihvlada.gov.ba/bs/35-zakon-o-organizacijama-i-reprezentativnim-organizacijama-osoba-sa-invaliditetom-i-civilnih-zrtava-rata",
+     "sha256": "d7243cd7d3164aad58f37e350b06b2a11d9103f4401f8c243757094992e0164c"
+    }
+   ]
+  },
+  {
+   "slug": "o-ustanovama-socijalne-zastite-federacije-bosne-i-hercegovin",
+   "short": "Zakon o ustanovama socijalne zaštite Federacije Bosne i Herc",
+   "title": "Zakon o ustanovama socijalne zaštite Federacije Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/39-zakon-o-ustanovama-socijalne-zastite-federacije-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2022-08-20",
+     "units": 97,
+     "source_url": "https://fbihvlada.gov.ba/bs/39-zakon-o-ustanovama-socijalne-zastite-federacije-bosne-i-hercegovine",
+     "sha256": "548cd950bad2f46dc92aed1eb0b4ac5d2ab782600b5f29e52b29eace932f8787"
+    }
+   ]
+  },
+  {
+   "slug": "o-energiji-i-regulaciji-energetskih-djelatnosti-u-federaciji",
+   "short": "Zakon o energiji i regulaciji energetskih djelatnosti u Fede",
+   "title": "Zakon o energiji i regulaciji energetskih djelatnosti u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/7-zakon-o-energiji-i-regulaciji-energetskih-djelatnosti-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 51,
+     "source_url": "https://fbihvlada.gov.ba/bs/7-zakon-o-energiji-i-regulaciji-energetskih-djelatnosti-u-federaciji-bosne-i-hercegovine",
+     "sha256": "7154ca3351f91e3ff8489b5cbf6c61a512e5e6dbbd4c98a718d95ef55f1558af"
+    }
+   ]
+  },
+  {
+   "slug": "o-elektricnoj-energiji-federacije-bosne-i-hercegovine",
+   "short": "Zakon o električnoj energiji Federacije Bosne i Hercegovine",
+   "title": "Zakon o električnoj energiji Federacije Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/8-zakon-o-elektricnoj-energiji-federacije-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 177,
+     "source_url": "https://fbihvlada.gov.ba/bs/8-zakon-o-elektricnoj-energiji-federacije-bosne-i-hercegovine",
+     "sha256": "46f07963e87891287ad042520c3ca87cfc7a677b418acf6122e1b372d115327a"
+    }
+   ]
+  },
+  {
+   "slug": "o-zastiti-civilnih-zrtava-rata-u-federaciji-bosne-i-hercegov",
+   "short": "Zakon o zaštiti civilnih žrtava rata u Federaciji Bosne i He",
+   "title": "Zakon o zaštiti civilnih žrtava rata u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/9-zakon-o-zastiti-civilnih-zrtava-rata-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2023-08-17",
+     "units": 61,
+     "source_url": "https://fbihvlada.gov.ba/bs/9-zakon-o-zastiti-civilnih-zrtava-rata-u-federaciji-bosne-i-hercegovine",
+     "sha256": "be3f6df7e53405d07d947036fd56636af6a2b11827a985bb6386f85b3c6995c4"
+    }
+   ]
+  },
+  {
+   "slug": "o-posebnom-registru-lica-pravomocno-osudjenih-za-krivicna-dj",
+   "short": "Zakon o posebnom Registru lica pravomoćno osuđenih za krivič",
+   "title": "Zakon o posebnom Registru lica pravomoćno osuđenih za krivična djela protiv spolne slobode i morala prema djeci i maloljetnicima u Federaciji Bosne i Hercegovini",
+   "url": "https://fbihvlada.gov.ba/bs/3-zakon-o-posebnom-registru-lica-pravomocno-osudenih-za-krivicna-djela-protiv-spolne-slobode-i-morala-prema-djeci-i-maloljetnicima-u-federaciji-bosne-i-hercegovini",
+   "versions": [
+    {
+     "from": "2024-02-03",
+     "units": 20,
+     "source_url": "https://fbihvlada.gov.ba/bs/3-zakon-o-posebnom-registru-lica-pravomocno-osudenih-za-krivicna-djela-protiv-spolne-slobode-i-morala-prema-djeci-i-maloljetnicima-u-federaciji-bosne-i-hercegovini",
+     "sha256": "cc3f3c9c3fbf4f7cf16c50b85db0ed01eaee9add88eafdb51f3428d548fe0ca5"
+    }
+   ]
+  },
+  {
+   "slug": "o-poticanju-razvoja-male-privrede",
+   "short": "Zakon o poticanju razvoja male privrede",
+   "title": "Zakon o poticanju razvoja male privrede",
+   "url": "https://fbihvlada.gov.ba/bs/zakon-o-poticanju-razvoja-male-privrede",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 33,
+     "source_url": "https://fbihvlada.gov.ba/bs/zakon-o-poticanju-razvoja-male-privrede",
+     "sha256": "3de8124c6ad7fa8cc02a7a6d1d32e4b4bf9ff99ab2fd8cb00b0f6479e4817e54"
+    }
+   ]
+  },
+  {
+   "slug": "o-preduzetnickoj-infrastrukturi-u-federaciji-bosne-i-hercego",
+   "short": "Zakon o preduzetničkoj infrastrukturi u Federaciji Bosne i H",
+   "title": "Zakon o preduzetničkoj infrastrukturi u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/zakon-o-preduzetnickoj-infrastrukturi-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "units": 41,
+     "source_url": "https://fbihvlada.gov.ba/bs/zakon-o-preduzetnickoj-infrastrukturi-u-federaciji-bosne-i-hercegovine",
+     "sha256": "2612cdee6189af6ff7fc013f364db487774f68dfa7c6ba7a3c99ed1b4f586ac3"
+    }
+   ]
+  },
+  {
+   "slug": "o-gradu-novi-travnik",
+   "short": "Zakon o gradu Novi Travnik",
+   "title": "Zakon o gradu Novi Travnik",
+   "url": "https://fbihvlada.gov.ba/bs/14-zakon-o-gradu-novi-travnik",
+   "versions": [
+    {
+     "from": "2024-08-03",
+     "units": 13,
+     "source_url": "https://fbihvlada.gov.ba/bs/14-zakon-o-gradu-novi-travnik",
+     "sha256": "31ffe1100aa619d4b7823ea88c8f88d490e1d79313b359ca04c7e9f491df586f"
+    }
+   ]
+  },
+  {
+   "slug": "o-unutrasnjoj-trgovini",
+   "short": "Zakon o unutrašnjoj trgovini",
+   "title": "Zakon o unutrašnjoj trgovini",
+   "url": "https://fbihvlada.gov.ba/bs/21-zakon-o-unutrasnjoj-trgovini",
+   "versions": [
+    {
+     "from": "2024-11-14",
+     "units": 138,
+     "source_url": "https://fbihvlada.gov.ba/bs/21-zakon-o-unutrasnjoj-trgovini",
+     "sha256": "f0338ce722ea72e5356ed149b0109013ea7ad213e80373a24f9cdf86db94777f"
+    }
+   ]
+  },
+  {
+   "slug": "o-advokaturi-federacije-bosne-i-hercegovine",
+   "short": "Zakon o advokaturi Federacije Bosne i Hercegovine",
+   "title": "Zakon o advokaturi Federacije Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/1-zakon-o-advokaturi-federacije-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2025-01-18",
+     "units": 133,
+     "source_url": "https://fbihvlada.gov.ba/bs/1-zakon-o-advokaturi-federacije-bosne-i-hercegovine",
+     "sha256": "78eaeda306a3d86bc52745eff6f163ee64dadd24bce6ceaa3d1ad398075f8d3f"
+    }
+   ]
+  },
+  {
+   "slug": "o-gasovodu-juzna-interkonekcija-bosna-i-hercegovina-i-republ",
+   "short": "Zakon o gasovodu “Južna interkonekcija Bosna i Hercegovina i",
+   "title": "Zakon o gasovodu “Južna interkonekcija Bosna i Hercegovina i Republika Hrvatska”",
+   "url": "https://fbihvlada.gov.ba/bs/5-zakon-o-gasovodu-juzna-interkonekcija-bosna-i-hercegovina-i-republika-hrvatska",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 21,
+     "source_url": "https://fbihvlada.gov.ba/bs/5-zakon-o-gasovodu-juzna-interkonekcija-bosna-i-hercegovina-i-republika-hrvatska",
+     "sha256": "b7a313b676311daf26bd210662a5634c34053e1f9cd9d1e864b86a5d07b9a1b8"
+    }
+   ]
+  },
+  {
+   "slug": "o-jedinstvenim-nacelima-i-okviru-materijalne-podrske-licima",
+   "short": "Zakon o jedinstvenim načelima i okviru materijalne podrške l",
+   "title": "Zakon o jedinstvenim načelima i okviru materijalne podrške licima sa invaliditetom u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/8-zakon-o-jedinstvenim-nacelima-i-okviru-materijalne-podrske-licima-sa-invaliditetom-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2025-03-01",
+     "units": 57,
+     "source_url": "https://fbihvlada.gov.ba/bs/8-zakon-o-jedinstvenim-nacelima-i-okviru-materijalne-podrske-licima-sa-invaliditetom-u-federaciji-bosne-i-hercegovine",
+     "sha256": "22f3e2f3b4644fdcd4d122fe6c9eaa92e720ffa99def74ad19597d0aa51db00d"
+    }
+   ]
+  },
+  {
+   "slug": "o-zastiti-od-nasilja-u-porodici-i-nasilja-prema-zenama-u-fed",
+   "short": "Zakon o zaštiti od nasilja u porodici i nasilja prema ženama",
+   "title": "Zakon o zaštiti od nasilja u porodici i nasilja prema ženama u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/16-zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-prema-zenama-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2025-03-22",
+     "units": 88,
+     "source_url": "https://fbihvlada.gov.ba/bs/16-zakon-o-zastiti-od-nasilja-u-porodici-i-nasilja-prema-zenama-u-federaciji-bosne-i-hercegovine",
+     "sha256": "0fa9a0ca315a9f0ed4b32f96fedf4f7c0997c6c114cfe868acf783deb3fe77ef"
+    }
+   ]
+  },
+  {
+   "slug": "o-dugu-zaduzivanju-i-garancijama-u-federaciji-bih",
+   "short": "Zakon o dugu, zaduživanju i garancijama u Federaciji BiH",
+   "title": "Zakon o dugu, zaduživanju i garancijama u Federaciji BiH",
+   "url": "https://fbihvlada.gov.ba/bs/20-zakon-o-dugu-zaduzivanju-i-garancijama-u-federaciji-bih",
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "units": 97,
+     "source_url": "https://fbihvlada.gov.ba/bs/20-zakon-o-dugu-zaduzivanju-i-garancijama-u-federaciji-bih",
+     "sha256": "4595404a7098db8b687fa3581086c17d42cbe9ebaad4b1ebe5124919fd08dcb7"
+    }
+   ]
+  },
+  {
+   "slug": "o-zastiti-prava-na-pravicno-sudjenje-u-razumnom-roku-u-feder",
+   "short": "Zakon o zaštiti prava na pravično suđenje u razumnom roku u",
+   "title": "Zakon o zaštiti prava na pravično suđenje u razumnom roku u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/25-zakon-o-zastiti-prava-na-pravicno-sudenje-u-razumnom-roku-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 26,
+     "source_url": "https://fbihvlada.gov.ba/bs/25-zakon-o-zastiti-prava-na-pravicno-sudenje-u-razumnom-roku-u-federaciji-bosne-i-hercegovine",
+     "sha256": "46f23b7af8030788b110c05de4e6f3c3ac4b55e3555801e12cf5ffdc872c2c22"
+    }
+   ]
+  }
+ ]
+}

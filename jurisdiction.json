@@ -1,0 +1,11 @@
+{
+  "path": "ba-bih",
+  "code": "BA-BIH",
+  "name": "Federation of Bosnia and Herzegovina",
+  "level": "entity",
+  "parent": "ba",
+  "repo": "https://github.com/lexifina/bosnia-federation-law",
+  "build": "built: laws of 2019-2026 that were never amended, each as enacted and dated the day it took effect, from the Government of the Federation",
+  "language": "bs",
+  "sources": 1
+}
