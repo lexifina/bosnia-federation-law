@@ -1,0 +1,11 @@
+# RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA IZBOR KANDIDATA ZA UPRAVNI ODBOR AGENCIJE ZA PRIVATIZACIJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Naslov: RJEŠENJE O IZMJENI RJEŠENJA O IMENOVANJU KOMISIJE ZA IZBOR KANDIDATA ZA UPRAVNI ODBOR AGENCIJE ZA PRIVATIZACIJU U FEDERACIJI BOSNE I HERCEGOVINE
+
+Donosilac: VLADA FEDERACIJE BOSNE I HERCEGOVINE.
+
+Službene novine Federacije BiH broj 86/26 (4.11.2026.), akt 28 od 33 u popisu akata tog broja.
+
+Službena stranica broja: <https://www.sluzbenilist.ba/page/i/73biyU9d4Qw=>
+
+Metadata record: the publisher does not serve this act's text free of charge.
