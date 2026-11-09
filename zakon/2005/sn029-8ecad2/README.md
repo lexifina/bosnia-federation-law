@@ -17,7 +17,7 @@ Zakon o zaštiti stanovništva od zaraznih bolesti · 1 versions, from 2005-05-2
 | III- MJERE ZA ZAŠTITU STANOVNIŠTVA OD ZARAZNIH BOLESTI | [art-008-zz-heading-1.md](art-008-zz-heading-1.md) | 0 |  |
 | Član 9. | [art-009.md](art-009.md) | 0 |  |
 | A. OPĆE MJERE ZA SPRJEČAVANJE I | [art-009-zz-heading-1.md](art-009-zz-heading-1.md) | 0 |  |
-| SUZBIJANJE ZARAZNIH BOLESTI | [art-009-zz-heading-2.md](art-009-zz-heading-2.md) | 0 |  |
+| art-009-zz-heading-2 | [art-009-zz-heading-2.md](art-009-zz-heading-2.md) | 0 |  |
 | Član 10. | [art-010.md](art-010.md) | 0 |  |
 | B. POSEBNE MJERE ZA SPRJEČAVANJE I | [art-010-zz-heading-1.md](art-010-zz-heading-1.md) | 0 |  |
 | SUZBIJANJE ZARAZNIH BOLESTI | [art-010-zz-heading-2.md](art-010-zz-heading-2.md) | 0 |  |

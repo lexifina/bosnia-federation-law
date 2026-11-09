@@ -6795,6 +6795,4221 @@
      "sha256": "5ba2977503bf8f93132f85f2ad41b3765e2d272f81489bbf9551ba4d2b561283"
     }
    ]
+  },
+  {
+   "slug": "zakon-1996-sn008-dfb8ff",
+   "path": "zakon/1996/sn008-dfb8ff",
+   "short": "Zakon o izmjenama i dopunama Zakona o preduzecima",
+   "title": "Zakon o izmjenama i dopunama Zakona o preduzecima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20pred.htm",
+   "versions": [
+    {
+     "from": "1996-06-11",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20pred.htm",
+     "sha256": "3c049395447628a2a7629835b02126eb3b06deea04b3e7df807ffd12c051940e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1996-sn021-c5aacc",
+   "path": "zakon/1996/sn021-c5aacc",
+   "short": "Zakon o grbu i zastavi Federacije Bosne i Hercegovine",
+   "title": "Zakon o grbu i zastavi Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20grbu%20i%20zast(bos).htm",
+   "versions": [
+    {
+     "from": "1996-11-15",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20grbu%20i%20zast(bos).htm",
+     "sha256": "ee7afd9e7662dd2747865e27d74b9f7b699bdb51b635f6222b32d14fa0b4d165"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1997-sn024-96c85a",
+   "path": "zakon/1997/sn024-96c85a",
+   "short": "Zakon o racunanju vremena",
+   "title": "Zakon o racunanju vremena",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20rac%20vrem.html",
+   "versions": [
+    {
+     "from": "1997-10-21",
+     "units": 6,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20rac%20vrem.html",
+     "sha256": "d1a3bdb7d7d43fa72f88e81cf81a694ee5ed8c1e77affa77772c146fe7b1461b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1997-sn027-f663e2",
+   "path": "zakon/1997/sn027-f663e2",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na placu",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na placu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20izm%20i%20dop%20por%20pl%20(bh).html",
+   "versions": [
+    {
+     "from": "1997-11-28",
+     "units": 9,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20izm%20i%20dop%20por%20pl%20(bh).html",
+     "sha256": "1681671cf4ae64c31b8c9136d71743d9cecfc9e9c2c7d1b0f6fae732decbb4e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn012-7004cf",
+   "path": "zakon/1998/sn012-7004cf",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na placu",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na placu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/17%20b%20izm%20zak%20placa.htm",
+   "versions": [
+    {
+     "from": "1998-04-08",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/17%20b%20izm%20zak%20placa.htm",
+     "sha256": "24786c007ad69826540bc5f9fb09a1efc9ae1950aed574473faaab1c8b09aabb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn027-01d53c",
+   "path": "zakon/1998/sn027-01d53c",
+   "short": "Zakon o visini zatezne kamate",
+   "title": "Zakon o visini zatezne kamate",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/32%20b%20visina%20stope%20zatezne%20kamate.htm",
+   "versions": [
+    {
+     "from": "1998-07-07",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/32%20b%20visina%20stope%20zatezne%20kamate.htm",
+     "sha256": "58a20231bcd12d9dae02c94b7b810ed9a54e8cad7c8c0ace12df422a9e39d839"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn027-953d13",
+   "path": "zakon/1998/sn027-953d13",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/33%20b%20posebni%20porez%20na%20naftne%20derivate.htm",
+   "versions": [
+    {
+     "from": "1998-07-07",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/33%20b%20posebni%20porez%20na%20naftne%20derivate.htm",
+     "sha256": "b19974ba53d17091c6ad0b1a8246b4087325cb16a5fd1b0f86d5a343dde9a938"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn027-a6f223",
+   "path": "zakon/1998/sn027-a6f223",
+   "short": "Zakon o izmjenama i dopunama Zakona o Agenciji za bankarstvo Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o Agenciji za bankarstvo Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/35%20b%20agencija%20za%20bankarstvo.htm",
+   "versions": [
+    {
+     "from": "1998-07-14",
+     "units": 18,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/35%20b%20agencija%20za%20bankarstvo.htm",
+     "sha256": "6f04a6e5c8c4d27f2f6010fed3cddf2059ca7434e3ed56d0de3eb4ad2f8d510b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn035-ec9d70",
+   "path": "zakon/1998/sn035-ec9d70",
+   "short": "Zakon o izmjenama i dopunama Zakona o ogranicenoj upotrebi duhanskih preradjevina",
+   "title": "Zakon o izmjenama i dopunama Zakona o ogranicenoj upotrebi duhanskih preradjevina",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/41%20b%20zakon.htm",
+   "versions": [
+    {
+     "from": "1998-09-04",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/41%20b%20zakon.htm",
+     "sha256": "8e90f7986dd9b4c5b7b8704b3f44676a0baba67cee83376f5831f40ed6030c28"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1998-sn035-ae0622",
+   "path": "zakon/1998/sn035-ae0622",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutrasnjem platnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutrasnjem platnom prometu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/38%20b%20zakon.htm",
+   "versions": [
+    {
+     "from": "1998-09-11",
+     "units": 30,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/38%20b%20zakon.htm",
+     "sha256": "184c3792224ffa3662e9d90d7458d0b79c696156a7a57af3e2325ace08fff21a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn008-8a0229",
+   "path": "zakon/1999/sn008-8a0229",
+   "short": "Zakon o izmjenama i dopunama Zakona o utvrdjivanju i realizaciji potrazivanja gradjana u postupku privatizacije",
+   "title": "Zakon o izmjenama i dopunama Zakona o utvrdjivanju i realizaciji potrazivanja gradjana u postupku privatizacije",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zak%20id%20zak%20utv%20i%20real%20potr%20grad.htm",
+   "versions": [
+    {
+     "from": "1999-03-05",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zak%20id%20zak%20utv%20i%20real%20potr%20grad.htm",
+     "sha256": "965f0932f4628f9a3cd5ee6c214b89d4fdcef90a59e1d6a42dc99cdfd80261e1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn008-b505da",
+   "path": "zakon/1999/sn008-b505da",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji preduzeca",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji preduzeca",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20privatizaciji%20preduzeca%20bos.htm",
+   "versions": [
+    {
+     "from": "1999-03-06",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20privatizaciji%20preduzeca%20bos.htm",
+     "sha256": "6a2191a066c983a6328b80c9a42624d9024dabf1f860a01c42a100158051f4a8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn022-aecf64",
+   "path": "zakon/1999/sn022-aecf64",
+   "short": "Zakon o dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Zakon o dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zak%20id%20o%20prod%20stanova%20kojima%20post%20stan%20pravo.htm",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zak%20id%20o%20prod%20stanova%20kojima%20post%20stan%20pravo.htm",
+     "sha256": "57a551c53c7683af17be0acae991756f4c8e44899dbefb8d6ce60aa0712587f6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn036-487b1b",
+   "path": "zakon/1999/sn036-487b1b",
+   "short": "Zakon o izmjenama i dopunama Zakona o Registru vrijednosnih papira",
+   "title": "Zakon o izmjenama i dopunama Zakona o Registru vrijednosnih papira",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20reg%20vrijednosnih%20papira.htm",
+   "versions": [
+    {
+     "from": "1999-09-14",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20reg%20vrijednosnih%20papira.htm",
+     "sha256": "6dcc56e1d4ad1c48abb49f8013d607e1e06e8af84684bda2427cd1329b78dc0e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn036-65e054",
+   "path": "zakon/1999/sn036-65e054",
+   "short": "Zakon o izmjenama i dopunama Zakona o drustvima za upravljanje fondovima i o investicionim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o drustvima za upravljanje fondovima i o investicionim fondovima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20drustv%20za%20upravlj%20fondov%20i%20inves%20fond%20bos.htm",
+   "versions": [
+    {
+     "from": "1999-09-14",
+     "units": 9,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20drustv%20za%20upravlj%20fondov%20i%20inves%20fond%20bos.htm",
+     "sha256": "54d9857c208274ae727506d733f4ecd4d9bc44ea3b72727b6cbd81865b201d94"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn040-d0fc75",
+   "path": "zakon/1999/sn040-d0fc75",
+   "short": "Zakon o izmjenama i dopunama Zakona o unutrasnjem platnom prometu",
+   "title": "Zakon o izmjenama i dopunama Zakona o unutrasnjem platnom prometu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20unutarnjem%20pl%20prometu%20bos.htm",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 50,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20unutarnjem%20pl%20prometu%20bos.htm",
+     "sha256": "31c29e5ff53d4b7a81660dc1ae1fbf910022a1e1d5f7a01fe7ae0900f6171063"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn040-e5ae5b",
+   "path": "zakon/1999/sn040-e5ae5b",
+   "short": "Zakon o izmjenama Zakona o pocetnoj bilansi stanja preduzeca i banaka",
+   "title": "Zakon o izmjenama Zakona o pocetnoj bilansi stanja preduzeca i banaka",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20pocetnoj%20bilanci%20stanja%20poduz%20i%20banaka%20bos.htm",
+   "versions": [
+    {
+     "from": "1999-10-07",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20pocetnoj%20bilanci%20stanja%20poduz%20i%20banaka%20bos.htm",
+     "sha256": "ec8e9577d462d2d6aaf1fed5ecd2809dfa998a72cb26d4c1dd8d3dfdeb4ec5e3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn048-3e9d6b",
+   "path": "zakon/1999/sn048-3e9d6b",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravnom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravnom postupku",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20upravnom%20postupku%20bos.htm",
+   "versions": [
+    {
+     "from": "1999-12-11",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20upravnom%20postupku%20bos.htm",
+     "sha256": "1ee2a3946dcd908e0515db7925b9cf639ff05bbd02bf699ee49b3d2e1af01fa8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn048-c9d1c0",
+   "path": "zakon/1999/sn048-c9d1c0",
+   "short": "Zakon o izmjenama i dopunama Zakona o placama sudija sudova Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o placama sudija sudova Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20placama%20sudaca%20bos.htm",
+   "versions": [
+    {
+     "from": "1999-12-11",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20placama%20sudaca%20bos.htm",
+     "sha256": "c80d144d74f891d28fa73ba6b4cf7ae12af4cdd0b5fa84d638d95b9ef0349130"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn051-2f4f42",
+   "path": "zakon/1999/sn051-2f4f42",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/naftni%20derivati%20bos.htm",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 13,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/naftni%20derivati%20bos.htm",
+     "sha256": "e3b29a9e6e2d76ce5781fd741f16a259406a795c7f7125ad01953dbe31de3c9b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn051-393052",
+   "path": "zakon/1999/sn051-393052",
+   "short": "Zakon o prestanku vazenja Zakona o posebnom porezu na uvoz putnickih automobila",
+   "title": "Zakon o prestanku vazenja Zakona o posebnom porezu na uvoz putnickih automobila",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20prestanku%20vazenja%20poreza%20na%20aute%20bos.htm",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20prestanku%20vazenja%20poreza%20na%20aute%20bos.htm",
+     "sha256": "ab32ab55cd845661acc06614cf799865ac290e66964257d821af878717e493a4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn051-b64457",
+   "path": "zakon/1999/sn051-b64457",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20pos%20porezu%20na%20pivo%20bos.htm",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 12,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20pos%20porezu%20na%20pivo%20bos.htm",
+     "sha256": "c36f6fc7011d60d5cf6970caebfd5c04a29a21eab26b45f29f8877444f39671e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn051-c08ad0",
+   "path": "zakon/1999/sn051-c08ad0",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na kahvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na kahvu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20pos%20porezu%20na%20kahvu%20bos.htm",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 10,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20pos%20porezu%20na%20kahvu%20bos.htm",
+     "sha256": "c76dfd374bf42baa4084bf9bdf2cca91e496e366648eee9d9731b1d61d0938de"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1999-sn051-df5204",
+   "path": "zakon/1999/sn051-df5204",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pica",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20pos%20porezu%20na%20bezalkoholna%20pica%20bos.htm",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 13,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20pos%20porezu%20na%20bezalkoholna%20pica%20bos.htm",
+     "sha256": "5687df1ce7ac75860ed127b1b0e82232d5d17bcc4d1425401451d39d753d72fb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn007-daa690",
+   "path": "zakon/2000/sn007-daa690",
+   "short": "Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "title": "Zakon o izmjenama i dopunama Zakona o prodaji stanova na kojima postoji stanarsko pravo",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/3%20b%20izmj%20i%20dop%20zakon%20o%20prod%20stan.htm",
+   "versions": [
+    {
+     "from": "2000-03-05",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/3%20b%20izmj%20i%20dop%20zakon%20o%20prod%20stan.htm",
+     "sha256": "e47dc8d4159e2949973c71ffe52110a8373ba02ca13afa3e63f2bd49496e182d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn008-fac6a5",
+   "path": "zakon/2000/sn008-fac6a5",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravnim sporovima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/4%20b%20izmjen%20i%20dopun%20zakon%20o%20upr%20spor.htm",
+   "versions": [
+    {
+     "from": "2000-03-23",
+     "units": 14,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/4%20b%20izmjen%20i%20dopun%20zakon%20o%20upr%20spor.htm",
+     "sha256": "2adb2c36c2885e6f47b80b0547502f341c37b8e7a82f68ba8a51b0def6bcff82"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn013-976c30",
+   "path": "zakon/2000/sn013-976c30",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/10%20b%20izmjen%20i%20dopun%20zakona%20o%20porez%20proiz%20usluga.htm",
+   "versions": [
+    {
+     "from": "2000-04-14",
+     "units": 26,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/10%20b%20izmjen%20i%20dopun%20zakona%20o%20porez%20proiz%20usluga.htm",
+     "sha256": "01b6dc900e8e1f067c6836423c383d82e94c2368a4afd5d2e5f3b5969174d0eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn029-d76109",
+   "path": "zakon/2000/sn029-d76109",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na placu",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na placu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/20%20b%20izm%20i%20dop%20zak%20o%20porez%20na%20plac.htm",
+   "versions": [
+    {
+     "from": "2000-08-05",
+     "units": 13,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/20%20b%20izm%20i%20dop%20zak%20o%20porez%20na%20plac.htm",
+     "sha256": "1a5afcb21f218c4b02d94d2244f4fd573bd70c2ae4d11674464afcb1dd6de91e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn029-951e45",
+   "path": "zakon/2000/sn029-951e45",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dobit preduzeca",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dobit preduzeca",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/21%20b%20iz%20i%20dop%20zak%20o%20por%20na%20dobi%20pred.htm",
+   "versions": [
+    {
+     "from": "2000-08-12",
+     "units": 10,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/21%20b%20iz%20i%20dop%20zak%20o%20por%20na%20dobi%20pred.htm",
+     "sha256": "6308a6bf99ebb5d5b21abb2b1e43c422d7b77646ae537271d7fabb7424cb25a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn029-a061ae",
+   "path": "zakon/2000/sn029-a061ae",
+   "short": "Zakon o izmjenama i dopunama Zakona o prekrsajima kojima se povredjuju federalni propisi",
+   "title": "Zakon o izmjenama i dopunama Zakona o prekrsajima kojima se povredjuju federalni propisi",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/24%20b%20iz%20dop%20zakon%20o%20prek%20koj%20se%20povr%20feder%20propis.htm",
+   "versions": [
+    {
+     "from": "2000-08-12",
+     "units": 10,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/24%20b%20iz%20dop%20zakon%20o%20prek%20koj%20se%20povr%20feder%20propis.htm",
+     "sha256": "c765f37a955cd51fd83ab9d215a91579732337771f71156ac066a882b1cb265f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn031-a52e49",
+   "path": "zakon/2000/sn031-a52e49",
+   "short": "Zakon o prestanku vazenja Zakona o stranim ulaganjima",
+   "title": "Zakon o prestanku vazenja Zakona o stranim ulaganjima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/28%20b%20pres%20vazenj%20zako%20o%20stran%20ulag.htm",
+   "versions": [
+    {
+     "from": "2000-08-31",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/28%20b%20pres%20vazenj%20zako%20o%20stran%20ulag.htm",
+     "sha256": "1f309b9d7daa9503e024a46ea7e9f0d1db3069c705aadf9beaf7f68a9531c07d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn032-29e04d",
+   "path": "zakon/2000/sn032-29e04d",
+   "short": "Zakon o izmjenama i dopunama Zakona o bankama",
+   "title": "Zakon o izmjenama i dopunama Zakona o bankama",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/30%20b%20izm%20i%20dop%20zak%20o%20bank.htm",
+   "versions": [
+    {
+     "from": "2000-09-07",
+     "units": 17,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/30%20b%20izm%20i%20dop%20zak%20o%20bank.htm",
+     "sha256": "e831c5d5afc47c4b9f8b97d9e0bebdd3f34ca5fd191d3f994fed1e0b14d02f0a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn036-464653",
+   "path": "zakon/2000/sn036-464653",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/37%20b.htm",
+   "versions": [
+    {
+     "from": "2000-09-26",
+     "units": 26,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/37%20b.htm",
+     "sha256": "d170d12fc331bbb77a3c548efcfef42b9237b28a11205def7c70442893c506a6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn045-dd428a",
+   "path": "zakon/2000/sn045-dd428a",
+   "short": "Zakon o izmjenama Zakona o privrednim društvima",
+   "title": "Zakon o izmjenama Zakona o privrednim društvima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/40%20b.htm",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/40%20b.htm",
+     "sha256": "38e5cc72c1786e5bffb056409b01142517d37905be60288bf2e874b5e84c71ee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn045-0ee751",
+   "path": "zakon/2000/sn045-0ee751",
+   "short": "Zakon o izmjenama i dopunama Zakona o utvrðivanju i realizaciji potraživanja graðana u postupku privatizacije",
+   "title": "Zakon o izmjenama i dopunama Zakona o utvrðivanju i realizaciji potraživanja graðana u postupku privatizacije",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/41%20b.htm",
+   "versions": [
+    {
+     "from": "2000-11-02",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/41%20b.htm",
+     "sha256": "457967a11adcd01877754153eae4392960435abf49781f53c35a3ef23952b81f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2000-sn045-34829e",
+   "path": "zakon/2000/sn045-34829e",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji preduzeća",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji preduzeća",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/39%20b.htm",
+   "versions": [
+    {
+     "from": "2000-11-02",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/39%20b.htm",
+     "sha256": "ea20771cbc5771d118b93fafaf8472288149f2fc43ab10d66ffa5a05737bb919"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn016-1e5f11",
+   "path": "zakon/2001/sn016-1e5f11",
+   "short": "Zakon o izmjenam i dopunama Zakona o doprinosima",
+   "title": "Zakon o izmjenam i dopunama Zakona o doprinosima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/2%20bih.htm",
+   "versions": [
+    {
+     "from": "2001-05-08",
+     "units": 6,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/2%20bih.htm",
+     "sha256": "fcf28d76636b0ce0c118411f6c7da8f51b1b1369e38f41172b8dd4f2c25e3f1d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn016-733601",
+   "path": "zakon/2001/sn016-733601",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na plaću",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na plaću",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/1%20bih.htm",
+   "versions": [
+    {
+     "from": "2001-05-08",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/1%20bih.htm",
+     "sha256": "35ad5eb9a60a281482f59db569af1ce624d7d6b82ede9f3afb1ad2254482d713"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn017-4aad8b",
+   "path": "zakon/2001/sn017-4aad8b",
+   "short": "Zakon o posebnoj zaštiti identiteta svjedoka u Krivičnom postupku u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o posebnoj zaštiti identiteta svjedoka u Krivičnom postupku u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/3%20b.htm",
+   "versions": [
+    {
+     "from": "2001-05-19",
+     "units": 11,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/3%20b.htm",
+     "sha256": "2666435693bbcffdb6c5723d9ecc29079a5fa7785da0b249686612a6e96caa0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn022-482421",
+   "path": "zakon/2001/sn022-482421",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na promet proizvoda i usluga",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/8%20b.htm",
+   "versions": [
+    {
+     "from": "2001-06-01",
+     "units": 9,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/8%20b.htm",
+     "sha256": "919e18721c1cb6bceee3dcdbc0233f3c4a35cd00f54f1a689c6cdb4742f5b4f1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn032-bcdc02",
+   "path": "zakon/2001/sn032-bcdc02",
+   "short": "Zakon o izmjenama i dopunama Zakona o utvrđivanju i realizaciji potraživanja građana u postupku privatizacije",
+   "title": "Zakon o izmjenama i dopunama Zakona o utvrđivanju i realizaciji potraživanja građana u postupku privatizacije",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/9%20bh.htm",
+   "versions": [
+    {
+     "from": "2001-07-25",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/9%20bh.htm",
+     "sha256": "3c629dd64650f8ef264f756be4a085c9bf2711c26567290722807b7ca34c02f9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn037-12c248",
+   "path": "zakon/2001/sn037-12c248",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnim uvjetima za obavljanje poslova međunarodne špedicije u vezi sa carinjenjem robe",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnim uvjetima za obavljanje poslova međunarodne špedicije u vezi sa carinjenjem robe",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/17%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-08-16",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/17%20bos.htm",
+     "sha256": "32e81e661f46467b2b33499b0019775ce9e78f1cdbad08fcbf99d95b5cc850ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn037-e9274a",
+   "path": "zakon/2001/sn037-e9274a",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji banaka",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji banaka",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/18%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-08-16",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/18%20bos.htm",
+     "sha256": "52933be7c9974aa49abb1e0d3dab3d90cc0a3b143ff8cadfb24ffd49148b9163"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn044-49427d",
+   "path": "zakon/2001/sn044-49427d",
+   "short": "Zakon o izmjenama i dopunama Zakona o vrhovnom sudu Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o vrhovnom sudu Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/24%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-10-25",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/24%20bos.htm",
+     "sha256": "10cf87214023192a568dc8ba1ca6bf89467d1d42f2e15557f7872d40a8bb4876"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn048-388d3f",
+   "path": "zakon/2001/sn048-388d3f",
+   "short": "Zakon o visini stope zatezne kamate na javne prihode",
+   "title": "Zakon o visini stope zatezne kamate na javne prihode",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/zakon%20o%20visini%20stope%20zatezne%20kamate.bos",
+   "versions": [
+    {
+     "from": "2001-11-10",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/zakon%20o%20visini%20stope%20zatezne%20kamate.bos",
+     "sha256": "6e2d83fbd80358fe854435be20341dbc03e01f41d2d11fe8b923645e688c26e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn052-a53543",
+   "path": "zakon/2001/sn052-a53543",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na pivo",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/31%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-12-07",
+     "units": 10,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/31%20bos.htm",
+     "sha256": "e7e98973952f81241dec972510048b2fbef81f64a18bf9bc912be031a0a6fd48"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn052-c5c710",
+   "path": "zakon/2001/sn052-c5c710",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na kahvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na kahvu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/32%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-12-07",
+     "units": 10,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/32%20bos.htm",
+     "sha256": "415cb018df71f20ccd969111e7e12a70fa35a7f0653614a86ac846ab348b72bf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn051-8b9540",
+   "path": "zakon/2001/sn051-8b9540",
+   "short": "Zakon o lijekovima",
+   "title": "Zakon o lijekovima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/27%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-12-08",
+     "units": 124,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/27%20bos.htm",
+     "sha256": "aac9d58a0330009ca4088629b70c387c7f7ab01b66ee6d7651bfb6a7c2479083"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn054-94b543",
+   "path": "zakon/2001/sn054-94b543",
+   "short": "Zakon o izmjenama i dopunama Zakon o pripradnosti javnih prihoda u Federaciji Bosne i Hercegovine i finansiranju Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakon o pripradnosti javnih prihoda u Federaciji Bosne i Hercegovine i finansiranju Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/36%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-12-15",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/36%20bos.htm",
+     "sha256": "c0c2eda8f30420d51715576fb853ae57a24c6c33d64430dd52f4dac6f488abf1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn055-a6e368",
+   "path": "zakon/2001/sn055-a6e368",
+   "short": "Zakon o sjemenu i sadnom materijalu poljoprivrednog bilja",
+   "title": "Zakon o sjemenu i sadnom materijalu poljoprivrednog bilja",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/37%20bos.htm",
+   "versions": [
+    {
+     "from": "2001-12-28",
+     "units": 88,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/37%20bos.htm",
+     "sha256": "4013413d1b7082f9b9b332edcc3d5e7e252f740b503fd11a966e5ca61bfab670"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-sn061-893dcc",
+   "path": "zakon/2001/sn061-893dcc",
+   "short": "Zakon o stranim ulaganjima",
+   "title": "Zakon o stranim ulaganjima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/42%20bos.htm",
+   "versions": [
+    {
+     "from": "2002-01-08",
+     "units": 24,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/42%20bos.htm",
+     "sha256": "f9d084f3eb9cf3f2ed9714afb5cf54d6e382af086b75e30ea418cd3e52e18189"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn002-6b61aa",
+   "path": "zakon/2002/sn002-6b61aa",
+   "short": "Zakon o zaštiti dobara koja su odlukama komisije za zaštitu nacionalnih spomenika proglašena kao nacionalni spomenik Bosne i Hercegovine",
+   "title": "Zakon o zaštiti dobara koja su odlukama komisije za zaštitu nacionalnih spomenika proglašena kao nacionalni spomenik Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20nacionalnim%20spomenicima_bos.htm",
+   "versions": [
+    {
+     "from": "2002-01-22",
+     "units": 25,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20nacionalnim%20spomenicima_bos.htm",
+     "sha256": "277649f35bfb1a89a2adf095399fcf675c55b0f8c36a1ffa06bbb5a71bb5eda5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn007-dbd3e1",
+   "path": "zakon/2002/sn007-dbd3e1",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na plaću",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na plaću",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20porezu%20na%20placu_bos.htm",
+   "versions": [
+    {
+     "from": "2002-02-21",
+     "units": 11,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20porezu%20na%20placu_bos.htm",
+     "sha256": "de1bc2e8644cf9e433d689a01762973c344317fce48d3fca7e523d42a6a0edee"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn006-bd51d7",
+   "path": "zakon/2002/sn006-bd51d7",
+   "short": "Zakon o cestama Federacije Bosne i Hercegovine",
+   "title": "Zakon o cestama Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/6_bos.htm",
+   "versions": [
+    {
+     "from": "2002-02-22",
+     "units": 118,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/6_bos.htm",
+     "sha256": "5574e7254e428746db99d54b6dea4ca5159553b09c86f7936945133dd2e43e2c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn008-0b76f7",
+   "path": "zakon/2002/sn008-0b76f7",
+   "short": "Zakon o elektroenergetskoj inspekciji",
+   "title": "Zakon o elektroenergetskoj inspekciji",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20energetskoj%20inspekciji_bos.htm",
+   "versions": [
+    {
+     "from": "2002-03-08",
+     "units": 24,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20energetskoj%20inspekciji_bos.htm",
+     "sha256": "050e956b201f23a55e0a5203d66af7f660e15f2935a93d65b442b2ab8160af4e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn012-1f0722",
+   "path": "zakon/2002/sn012-1f0722",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2002. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2002. godinu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/proracun_bos.htm",
+   "versions": [
+    {
+     "from": "2002-04-07",
+     "units": 43,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/proracun_bos.htm",
+     "sha256": "022193e08d4fd1b1ed320f18eb0b34190b63ae9008863e7361ee357df0991e54"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn017-af29e5",
+   "path": "zakon/2002/sn017-af29e5",
+   "short": "Zakon o registriranim zalogama na pokretnim stvarima i članskim udjelima",
+   "title": "Zakon o registriranim zalogama na pokretnim stvarima i članskim udjelima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/14_bos.htm",
+   "versions": [
+    {
+     "from": "2002-05-17",
+     "units": 67,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/14_bos.htm",
+     "sha256": "9f45ab9c13456cdc60df9ae66f0287e43b9dc157cbe141ab3ef5c2d21dea8d1f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn017-da063f",
+   "path": "zakon/2002/sn017-da063f",
+   "short": "Zakon o izmjenama i dopunama Zakona o upotrebi grba i zastave Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o upotrebi grba i zastave Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/15%20bos.htm",
+   "versions": [
+    {
+     "from": "2002-05-17",
+     "units": 9,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/15%20bos.htm",
+     "sha256": "af98b54668e5b7a7ca08ccb2789fb978967a07c3608288a85887a28d9f7398c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn020-7eaa74",
+   "path": "zakon/2002/sn020-7eaa74",
+   "short": "Zakon o šumama",
+   "title": "Zakon o šumama",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/13%20boszakon%20o%20sumama.htm",
+   "versions": [
+    {
+     "from": "2002-05-30",
+     "units": 82,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/13%20boszakon%20o%20sumama.htm",
+     "sha256": "cae54868ae3d8ab9a89beda9251d90f7b047ff1f614495874d02b397b32c9f79"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn023-7e9edb",
+   "path": "zakon/2002/sn023-7e9edb",
+   "short": "Zakon o obavještajno-sigurnosnoj službi Federacije Bosne i Hercegovine",
+   "title": "Zakon o obavještajno-sigurnosnoj službi Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/19_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-15",
+     "units": 84,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/19_bos.htm",
+     "sha256": "e526c67ef818385524a87c1f448ee88d3f8e5c78958ac60f59f078aa8df867ad"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn026-4b017f",
+   "path": "zakon/2002/sn026-4b017f",
+   "short": "Zakon o izmjenama i dopunama Zakona o upravi u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o upravi u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/20_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 31,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/20_bos.htm",
+     "sha256": "3b4d9b421d125236533fa04cce008dd3e75e8d3c1d5500d8a42f7b83010995f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn026-bd487a",
+   "path": "zakon/2002/sn026-bd487a",
+   "short": "Zakon o osnivanju organa za provođenje izbora u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o osnivanju organa za provođenje izbora u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/21_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-28",
+     "units": 15,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/21_bos.htm",
+     "sha256": "c0fb6d415231654be02c087b82fddf804ef30e3c2724db3e7ea725e2bef15b8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn027-34659c",
+   "path": "zakon/2002/sn027-34659c",
+   "short": "Zakon o izmjenama i dopunama Zakona o društvima za upravljanje fondovima i investicionim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o društvima za upravljanje fondovima i investicionim fondovima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/24_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/24_bos.htm",
+     "sha256": "3d045ba6b425b6d10d5094e8922fa349fee8786a429788c59fb0e3a745521996"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn027-6aa296",
+   "path": "zakon/2002/sn027-6aa296",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji preduzeća",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji preduzeća",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/22_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/22_bos.htm",
+     "sha256": "108b0be5f9fae12e0c05cf8d38e08a5579b31c7a492089229b2eb51266d44ae5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn027-98e794",
+   "path": "zakon/2002/sn027-98e794",
+   "short": "Zakon o izmjenama Zakona o krivičnom postupku Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama Zakona o krivičnom postupku Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/29_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/29_bos.htm",
+     "sha256": "a35af29542caa82a0622e542f40ba96a46c15f59042c543289753479f1ede903"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn027-9c8e24",
+   "path": "zakon/2002/sn027-9c8e24",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršenju odluka Komisije za imovinske zahtjeve raseljenih lica i izbjeglica",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršenju odluka Komisije za imovinske zahtjeve raseljenih lica i izbjeglica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/25_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 7,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/25_bos.htm",
+     "sha256": "ef0c3e4f986b4154e0d6a05fd7693d228a4e703297e9ebdedab42f7ef541a31e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn027-e82286",
+   "path": "zakon/2002/sn027-e82286",
+   "short": "Zakon o izmjenama i dopunama Zakona o potraživanjima u postupku privatizacije po osnovu razlike primanja korisnika prava iz penzijskog i invalidskog osiguranja",
+   "title": "Zakon o izmjenama i dopunama Zakona o potraživanjima u postupku privatizacije po osnovu razlike primanja korisnika prava iz penzijskog i invalidskog osiguranja",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/27_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/27_bos.htm",
+     "sha256": "0d00033bd884121515ff43f8c76d8a75cfe094bb24542a53f479978c50553b46"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn027-fe95ee",
+   "path": "zakon/2002/sn027-fe95ee",
+   "short": "Zakon o izmjenama i dopunama Zakona o utvrđivanju i realizaciji potraživanja građana u postupku privatizacije",
+   "title": "Zakon o izmjenama i dopunama Zakona o utvrđivanju i realizaciji potraživanja građana u postupku privatizacije",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/26_bos.htm",
+   "versions": [
+    {
+     "from": "2002-06-29",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/26_bos.htm",
+     "sha256": "5108379a06c1d4bdd91828c7f8dc41e38d29171bb1c7811df1e217347c2ce7bd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn029-815fa3",
+   "path": "zakon/2002/sn029-815fa3",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na naftne derivate",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/32_bos.htm",
+   "versions": [
+    {
+     "from": "2002-07-05",
+     "units": 12,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/32_bos.htm",
+     "sha256": "5cdcca6a42d2e7a86f4a560a027b6347083c34097c1bf76ae6cd214526c1a194"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn033-149270",
+   "path": "zakon/2002/sn033-149270",
+   "short": "Zakon o izmjenama Zakona o privatizaciji preduzeća",
+   "title": "Zakon o izmjenama Zakona o privatizaciji preduzeća",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/36_bos.htm",
+   "versions": [
+    {
+     "from": "2002-07-20",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/36_bos.htm",
+     "sha256": "656495d0f71cf8302fda19e07875c7601bf1c7a19e300be4151e5d27eaf41e8e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn033-5e4a69",
+   "path": "zakon/2002/sn033-5e4a69",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2002. godinu .",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2002. godinu .",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/34_bos.htm",
+   "versions": [
+    {
+     "from": "2002-07-20",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/34_bos.htm",
+     "sha256": "1bcbb63e49dd1d338e00e6381f3763f32ca7d146544c75a27c9dad38da253dd3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn033-d04165",
+   "path": "zakon/2002/sn033-d04165",
+   "short": "Zakon o izmjenama i dopunama Zakona o privatizaciji banaka",
+   "title": "Zakon o izmjenama i dopunama Zakona o privatizaciji banaka",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/35_bos.htm",
+   "versions": [
+    {
+     "from": "2002-07-20",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/35_bos.htm",
+     "sha256": "b84947fac2cf4e28fc7209edd03d98fd4747e5286bc6ec1dbd120dc784b4aacf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn033-5defb1",
+   "path": "zakon/2002/sn033-5defb1",
+   "short": "Zakon o Poreznoj upravi Federacije Bosne i Hercegovine",
+   "title": "Zakon o Poreznoj upravi Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/33_bos.htm",
+   "versions": [
+    {
+     "from": "2002-07-27",
+     "units": 116,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/33_bos.htm",
+     "sha256": "413af5c1ba8609f067694292c6a0f4467bb5fc9facfc2333046faf0b3b9178b5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn040-4d6339",
+   "path": "zakon/2002/sn040-4d6339",
+   "short": "Zakon o Radio-televiziji Federacije Bosne i Hercegovine",
+   "title": "Zakon o Radio-televiziji Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/39_bos.htm",
+   "versions": [
+    {
+     "from": "2002-08-22",
+     "units": 59,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/39_bos.htm",
+     "sha256": "d3d1e22c8187395cd41ffa343450bbfed5325213858135c2e6d743cd9f408b5f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn040-c864f1",
+   "path": "zakon/2002/sn040-c864f1",
+   "short": "Zakon o izmjenama Zakona o zaštiti lica sa duševnim smetnjama",
+   "title": "Zakon o izmjenama Zakona o zaštiti lica sa duševnim smetnjama",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/38_bos.htm",
+   "versions": [
+    {
+     "from": "2002-08-22",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/38_bos.htm",
+     "sha256": "d11c0883cdeea414e3b1c0d273287cb7e537ede13cc2592650e15de74d468cd9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn041-0aeed4",
+   "path": "zakon/2002/sn041-0aeed4",
+   "short": "Zakon o električnoj energiji",
+   "title": "Zakon o električnoj energiji",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/42_bos.htm",
+   "versions": [
+    {
+     "from": "2002-08-24",
+     "units": 102,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/42_bos.htm",
+     "sha256": "8592369c58eeda8a7e3336583063a12e2beae135a038db35d2371bd38a978092"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn041-f2d46e",
+   "path": "zakon/2002/sn041-f2d46e",
+   "short": "Zakon o visokom sudskom i tužilačkom vijeću Federacije Bosne i Hercegovine",
+   "title": "Zakon o visokom sudskom i tužilačkom vijeću Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/43_bos.htm",
+   "versions": [
+    {
+     "from": "2002-08-24",
+     "units": 99,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/43_bos.htm",
+     "sha256": "efc7a3b8b6613066083c3d0da7029c838b4d055187d6179a7d77e2896f5509ea"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn040-4a1885",
+   "path": "zakon/2002/sn040-4a1885",
+   "short": "Zakon o koncesijama",
+   "title": "Zakon o koncesijama",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/37_bos.htm",
+   "versions": [
+    {
+     "from": "2002-08-29",
+     "units": 47,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/37_bos.htm",
+     "sha256": "48922e4838f7b60136d0c108c8d52bb51a95d663e33bbde0f8a436b74ab2ff99"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn044-04e473",
+   "path": "zakon/2002/sn044-04e473",
+   "short": "Zakon o izdvajanju i usmjeravanju dijela prihoda preduzeća ostvarenog korištenjem hidroakumulacionih objekata",
+   "title": "Zakon o izdvajanju i usmjeravanju dijela prihoda preduzeća ostvarenog korištenjem hidroakumulacionih objekata",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/45_bos.htm",
+   "versions": [
+    {
+     "from": "2002-09-20",
+     "units": 11,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/45_bos.htm",
+     "sha256": "0cb6d2bb286b31f6fbef6eb8632a2369d889f7a8999afef44d27f50a962c2dc0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn045-3bda15",
+   "path": "zakon/2002/sn045-3bda15",
+   "short": "Zakon o duhanu",
+   "title": "Zakon o duhanu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/48_bos.htm",
+   "versions": [
+    {
+     "from": "2002-09-28",
+     "units": 50,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/48_bos.htm",
+     "sha256": "2bdf9978a7bfef177dab9e32ebddbb15c67d19745b447a57f6b518c380ddbe6a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn045-d477fd",
+   "path": "zakon/2002/sn045-d477fd",
+   "short": "Zakon o udruženjima i fondacijama",
+   "title": "Zakon o udruženjima i fondacijama",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/47_bos.htm",
+   "versions": [
+    {
+     "from": "2002-09-28",
+     "units": 67,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/47_bos.htm",
+     "sha256": "6339ab402405376167fbccdd47024ab7d3795c644b691ef0b0b364e2369103fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn050-87b977",
+   "path": "zakon/2002/sn050-87b977",
+   "short": "Zakon o Agencijama za zaštitu ljudi i imovine",
+   "title": "Zakon o Agencijama za zaštitu ljudi i imovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/52_bos.htm",
+   "versions": [
+    {
+     "from": "2002-10-15",
+     "units": 66,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/52_bos.htm",
+     "sha256": "7d7c5f97a9dd06335fa3d5b63929592f767107616b15443359400a7fdcbbbd6a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn019-dca6d9",
+   "path": "zakon/2003/sn019-dca6d9",
+   "short": "Zakon o izmjenama i dopunama Krivičnog zakona Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Krivičnog zakona Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/14bos.htm",
+   "versions": [
+    {
+     "from": "2002-11-01",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/14bos.htm",
+     "sha256": "47159129d9e27eca760a8f8a7d4a8230a2e438977942dcf37602a39a5958e00e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn052-a1da94",
+   "path": "zakon/2002/sn052-a1da94",
+   "short": "Zakon o prostornom uređenju",
+   "title": "Zakon o prostornom uređenju",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/55_bos.htm",
+   "versions": [
+    {
+     "from": "2002-11-05",
+     "units": 93,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/55_bos.htm",
+     "sha256": "ddb2d401681f4030f831f5b8e1a2a27fb42c90fadf54b7a5bb89582f27e5f060"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2002-sn055-236b11",
+   "path": "zakon/2002/sn055-236b11",
+   "short": "Zakon o građenju",
+   "title": "Zakon o građenju",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/56_bos.htm",
+   "versions": [
+    {
+     "from": "2002-11-14",
+     "units": 100,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/56_bos.htm",
+     "sha256": "787730fc92382628ec9ce95da4b2a299732b9731c9157102d27c85f822b6316a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn021-ce5d1f",
+   "path": "zakon/2003/sn021-ce5d1f",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2003. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2003. godinu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/15bos.htm",
+   "versions": [
+    {
+     "from": "2002-12-16",
+     "units": 44,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/15bos.htm",
+     "sha256": "be5ee73585f6a6a244fb7e366dbc07e2294b8466747337ac0c1c3edec0507366"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn034-bbfd18",
+   "path": "zakon/2003/sn034-bbfd18",
+   "short": "Zakon o ministarskim, vladinim i drugim imenovanjima Federacije Bosne i Hercegovine",
+   "title": "Zakon o ministarskim, vladinim i drugim imenovanjima Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/44bos.htm",
+   "versions": [
+    {
+     "from": "2003-02-26",
+     "units": 20,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/44bos.htm",
+     "sha256": "3362daade5b88dd69346885abdd74e54482b6ed5ec2949182a17c1779ed10abc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn019-731041",
+   "path": "zakon/2003/sn019-731041",
+   "short": "Zakon o zaštiti od klevete Federacije Bosne i Hercegovine",
+   "title": "Zakon o zaštiti od klevete Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/13bos.htm",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 17,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/13bos.htm",
+     "sha256": "d2bc96d8403f242ebc927aa0f94610c27b6bcd86d9c6d842be6f6a3091039460"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn019-f32d6b",
+   "path": "zakon/2003/sn019-f32d6b",
+   "short": "Zakon o federalnim ministarstvima i drugim tijelima federalne uprave",
+   "title": "Zakon o federalnim ministarstvima i drugim tijelima federalne uprave",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/10bos.htm",
+   "versions": [
+    {
+     "from": "2003-05-14",
+     "units": 40,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/10bos.htm",
+     "sha256": "1af8e6a6443158f04d063b949718629c738471955d68f2390726dc3f61ea26c4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn019-9cab3f",
+   "path": "zakon/2003/sn019-9cab3f",
+   "short": "Zakon o izmjenama i dopunama Zakona o Vladi Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o Vladi Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/9bos.htm",
+   "versions": [
+    {
+     "from": "2003-05-21",
+     "units": 11,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/9bos.htm",
+     "sha256": "fc85b1eaf8e2cc56aaaa2215da2e425d1d7ca424ed4882bb7c0b74c6c1bfb640"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn021-1a664a",
+   "path": "zakon/2003/sn021-1a664a",
+   "short": "Zakon o izmjenama i dopunama Zakona o Centru za edukaciju sudija i tužilaca u FederacijiBosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o Centru za edukaciju sudija i tužilaca u FederacijiBosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/16bos.htm",
+   "versions": [
+    {
+     "from": "2003-05-29",
+     "units": 8,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/16bos.htm",
+     "sha256": "c29bfa543c4c0c3049169f0c98eae8a31861005f9749e49d166151c436230fb7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn029-8426f5",
+   "path": "zakon/2003/sn029-8426f5",
+   "short": "Zakon o državnoj službi u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o državnoj službi u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/34bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 92,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/34bos.htm",
+     "sha256": "5d8dc163e2f72d95cff4043555c286d48aca1f22bac587e661d4679bd6c6aa9e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn029-ebf12a",
+   "path": "zakon/2003/sn029-ebf12a",
+   "short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima",
+   "title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/36bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 78,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/36bos.htm",
+     "sha256": "0ed9c43ef60fa707692c0cb9349db814b42f026dd3e56155ad4f2f26f7e76ce3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn029-f46a81",
+   "path": "zakon/2003/sn029-f46a81",
+   "short": "Zakon o stečajnom postupku",
+   "title": "Zakon o stečajnom postupku",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/24bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 247,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/24bos.htm",
+     "sha256": "a53c4ed8f797cc8041bd7c2dd80d574c5edfbd32aa54acd3ffe118e5cbad7870"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn032-40c507",
+   "path": "zakon/2003/sn032-40c507",
+   "short": "Zakon o izvršnom postupku",
+   "title": "Zakon o izvršnom postupku",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/37bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-19",
+     "units": 255,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/37bos.htm",
+     "sha256": "4de8025232b3ca277e21123c998a3279e028bc13de83c724019c9f0aba52b8ac"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn033-0c2551",
+   "path": "zakon/2003/sn033-0c2551",
+   "short": "Zakon o zaštiti zraka",
+   "title": "Zakon o zaštiti zraka",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/39bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-27",
+     "units": 48,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/39bos.htm",
+     "sha256": "14afc54fe6a43b8c905de04ca8ace0fa6adb569e1cb7320dfed96141ad8ed677"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn033-764c20",
+   "path": "zakon/2003/sn033-764c20",
+   "short": "Zakon o zaštiti voda",
+   "title": "Zakon o zaštiti voda",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/40bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-27",
+     "units": 71,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/40bos.htm",
+     "sha256": "46eced14c398c5d9e1a04b1433978518be346ce93119872a22ff345b4d58f4eb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn033-8c47ab",
+   "path": "zakon/2003/sn033-8c47ab",
+   "short": "Zakon o zaštiti okoliša",
+   "title": "Zakon o zaštiti okoliša",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/41bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-27",
+     "units": 137,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/41bos.htm",
+     "sha256": "412b340dc0f30f40ea96b0e24d20ff9b599617c10e63171840ca6381ef81857a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn033-bbbba7",
+   "path": "zakon/2003/sn033-bbbba7",
+   "short": "Zakon o zaštiti prirode",
+   "title": "Zakon o zaštiti prirode",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/42bos.htm",
+   "versions": [
+    {
+     "from": "2003-07-27",
+     "units": 64,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/42bos.htm",
+     "sha256": "0d08601b5ae01c5ed596e4e1af5c05ce5c63223c720cd2a99d6c862d261534e2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn035-990246",
+   "path": "zakon/2003/sn035-990246",
+   "short": "Zakon o krivičnom postupku Federacije Bosne i Hercegovine",
+   "title": "Zakon o krivičnom postupku Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/46bos.htm",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 496,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/46bos.htm",
+     "sha256": "e692e1d6ea9b47a86e75f9dc25ef24c505e3dc3804178c9525b2c014788022a7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn037-40e352",
+   "path": "zakon/2003/sn037-40e352",
+   "short": "Zakon o prestanku važenja Zakona o Sudu za ljudska prava FederacijeBosne i Hercegovine",
+   "title": "Zakon o prestanku važenja Zakona o Sudu za ljudska prava FederacijeBosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/56bos.htm",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/56bos.htm",
+     "sha256": "87cb02da6c34c3aaf708cbd8f0a665654e9b0d898ff9036eb5732c631ab56d8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn037-5de575",
+   "path": "zakon/2003/sn037-5de575",
+   "short": "Zakon o dopuni Zakona o registriranim zalogama na pokretnim stvarima i članskimudjelima",
+   "title": "Zakon o dopuni Zakona o registriranim zalogama na pokretnim stvarima i članskimudjelima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/49bos.htm",
+   "versions": [
+    {
+     "from": "2003-08-01",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/49bos.htm",
+     "sha256": "41e90503a249e992615faed70af999f88ec7159715e3e0efcd951acf75d68289"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn050-c20ac6",
+   "path": "zakon/2003/sn050-c20ac6",
+   "short": "Zakon o izmjenama i dopunama Zakona o postupku upisa pravnihlica u sudski registar",
+   "title": "Zakon o izmjenama i dopunama Zakona o postupku upisa pravnihlica u sudski registar",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/61bos.htm",
+   "versions": [
+    {
+     "from": "2003-10-11",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/61bos.htm",
+     "sha256": "cf8e1a7f3801ef0f23ab2602760b5739dec346df2ee39a44adb68dd1d9d5b225"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2003-sn063-986dda",
+   "path": "zakon/2003/sn063-986dda",
+   "short": "Zakon o statistici u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o statistici u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/67bos.htm",
+   "versions": [
+    {
+     "from": "2003-12-24",
+     "units": 54,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/67bos.htm",
+     "sha256": "144c7751954b95f35bf0cf73a2f21ec3ac2960bde820d8bc0de25bd34d193665"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn009-3c9ae7",
+   "path": "zakon/2004/sn009-3c9ae7",
+   "short": "Zakon o privremenom odlaganju od izvršenja potraživanja na osnovu izvršnihodluka na teret Budžeta Federacije Bosne i Hercegovine /bosanski jezik/",
+   "title": "Zakon o privremenom odlaganju od izvršenja potraživanja na osnovu izvršnihodluka na teret Budžeta Federacije Bosne i Hercegovine /bosanski jezik/",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/4%20bos.htm",
+   "versions": [
+    {
+     "from": "2004-02-17",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/4%20bos.htm",
+     "sha256": "baebb9a2efd1b885ddd1ce3793ff2e64dd7319d2d7592e4c5005f40050b0460b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn054-fa3db8",
+   "path": "zakon/2004/sn054-fa3db8",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnoj službi u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnoj službi u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/38bos.htm",
+   "versions": [
+    {
+     "from": "2004-04-21",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/38bos.htm",
+     "sha256": "bc8bd0ebceda2416cefe274dd59d87d39e4fd4c53ada4acea6cae1c1625e2660"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn022-79b7ce",
+   "path": "zakon/2004/sn022-79b7ce",
+   "short": "Zakon o standardnoj klasifikaciji zanimanja",
+   "title": "Zakon o standardnoj klasifikaciji zanimanja",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/9bos.htm",
+   "versions": [
+    {
+     "from": "2004-04-25",
+     "units": 13,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/9bos.htm",
+     "sha256": "f91a36c1eab41f3a693aba9e86d3043ba6260b1af706af33fb78d8a471c81522"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn028-106d3b",
+   "path": "zakon/2004/sn028-106d3b",
+   "short": "Zakon o novčanoj podršci u primarnoj poljoprivrednoj proizvodnji",
+   "title": "Zakon o novčanoj podršci u primarnoj poljoprivrednoj proizvodnji",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/10bos.htm",
+   "versions": [
+    {
+     "from": "2004-06-03",
+     "units": 43,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/10bos.htm",
+     "sha256": "3778e90f40d7347bba57b9777516bf6133c7d715bee47eca4ebbb7b231abf85f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn032-4477ad",
+   "path": "zakon/2004/sn032-4477ad",
+   "short": "Zakon o izmjenama i dopunama Zakona o stečajnom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o stečajnom postupku",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/15bos.htm",
+   "versions": [
+    {
+     "from": "2004-06-20",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/15bos.htm",
+     "sha256": "ee279d4921c8a96e660d8c583be539832e4df9638acb63e5223855706b62d4f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn034-460864",
+   "path": "zakon/2004/sn034-460864",
+   "short": "Zakon o odbrani Federacije Bosne i Hercegovine",
+   "title": "Zakon o odbrani Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/19bos.htm",
+   "versions": [
+    {
+     "from": "2004-07-04",
+     "units": 195,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/19bos.htm",
+     "sha256": "8ccd42e24823178c6dfe9c01ed39238ba8338586f80162d63666cbf1412c71a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn034-b2061c",
+   "path": "zakon/2004/sn034-b2061c",
+   "short": "Zakon o službi u Vojsci Federacije Bosne i Hercegovine",
+   "title": "Zakon o službi u Vojsci Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/20bos.htm",
+   "versions": [
+    {
+     "from": "2004-07-04",
+     "units": 172,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/20bos.htm",
+     "sha256": "a54624a9fa9e2870c13bf03357779595cc806cf90ef757dc9d43dd71d42bff3e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn039-78815a",
+   "path": "zakon/2004/sn039-78815a",
+   "short": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića",
+   "title": "Zakon o izmjenama i dopunama Zakona o posebnom porezu na bezalkoholna pića",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/26bos.htm",
+   "versions": [
+    {
+     "from": "2004-07-25",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/26bos.htm",
+     "sha256": "45f8e11867acbcdd0dd595159885be69481efe6564a6ba7d83ae271da2a8e756"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn042-f4ce4c",
+   "path": "zakon/2004/sn042-f4ce4c",
+   "short": "Zakon o raseljenim licima-prognanicima i izbjeglicama- povratnicima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o raseljenim licima-prognanicima i izbjeglicama- povratnicima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/31bos.htm",
+   "versions": [
+    {
+     "from": "2004-08-08",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/31bos.htm",
+     "sha256": "d916f9914f528ebb8d15f8318b75bea3e6938e134c8a4ed4f5b018dbaeba01ff"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn042-45533d",
+   "path": "zakon/2004/sn042-45533d",
+   "short": "Zakon o matičnoj evidenciji o osiguranicima i korisnicima prava iz penzijskog i invalidskog osiguranja",
+   "title": "Zakon o matičnoj evidenciji o osiguranicima i korisnicima prava iz penzijskog i invalidskog osiguranja",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/29bos.htm",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 49,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/29bos.htm",
+     "sha256": "3c8b6b414a7af040d7aa586166b5c1542564b9d72f7a93bccdce1db2b854d3f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn056-420cd7",
+   "path": "zakon/2004/sn056-420cd7",
+   "short": "Zakon o visini stope zatezne kamate na neizmirena dugovanja",
+   "title": "Zakon o visini stope zatezne kamate na neizmirena dugovanja",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/42bos.htm",
+   "versions": [
+    {
+     "from": "2004-10-24",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/42bos.htm",
+     "sha256": "7e83ed483aa400a66aacb34594649eed4d4fe8c0cdaf187649b24cbb03795947"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn056-503750",
+   "path": "zakon/2004/sn056-503750",
+   "short": "Zakon o prestanku važenja Zakona o unutrašnjem platnom prometu",
+   "title": "Zakon o prestanku važenja Zakona o unutrašnjem platnom prometu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/40bos.htm",
+   "versions": [
+    {
+     "from": "2004-10-24",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/40bos.htm",
+     "sha256": "687cf0a597c775f5447f3213700215fad34c2e1c1cd855bd770cb92f5da25672"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn064-975619",
+   "path": "zakon/2004/sn064-975619",
+   "short": "Zakon o trgovini",
+   "title": "Zakon o trgovini",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/43bos.htm",
+   "versions": [
+    {
+     "from": "2004-11-28",
+     "units": 78,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/43bos.htm",
+     "sha256": "b86c46d0c114fc12265d9a8a3797768030223f625418eb6ff305468ec22d72b2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn064-f94984",
+   "path": "zakon/2004/sn064-f94984",
+   "short": "Zakon o slatkovodnom ribarstvu",
+   "title": "Zakon o slatkovodnom ribarstvu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/44bos.htm",
+   "versions": [
+    {
+     "from": "2004-11-28",
+     "units": 71,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/44bos.htm",
+     "sha256": "fdc8b5aba99b91034c5edb05700e8bc0d437090f3225481abaa5efb41bac08be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn070-f4edd3",
+   "path": "zakon/2004/sn070-f4edd3",
+   "short": "Zakon o prestanku važenja Zakona o sprečavanju pranja novca u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o prestanku važenja Zakona o sprečavanju pranja novca u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/46bos.htm",
+   "versions": [
+    {
+     "from": "2004-12-12",
+     "units": 3,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/46bos.htm",
+     "sha256": "0584cb07d844a251eb5ea49cca37c5f2d0f9d6b3bb690a9bcb9999db9e5e0c83"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn077-e874f8",
+   "path": "zakon/2004/sn077-e874f8",
+   "short": "Zakon o investiranju javnih sredstava",
+   "title": "Zakon o investiranju javnih sredstava",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/50bos.htm",
+   "versions": [
+    {
+     "from": "2004-12-31",
+     "units": 19,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/50bos.htm",
+     "sha256": "bd2f491cbfdcedd609ae798c2bfdcb7bac16bd44cef5eb995ffc28493d374119"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-sn076-3586c8",
+   "path": "zakon/2004/sn076-3586c8",
+   "short": "Zakon o poštanskom prometu Federacije Bosne i Hercegovine",
+   "title": "Zakon o poštanskom prometu Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/49bos.htm",
+   "versions": [
+    {
+     "from": "2005-01-05",
+     "units": 66,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/49bos.htm",
+     "sha256": "cbda1fa1719ea0797cada41e0f02f8d6e48514c1b37d903b03d78e53e71b5665"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn008-fcbc08",
+   "path": "zakon/2005/sn008-fcbc08",
+   "short": "Zakon o javnim preduzećima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o javnim preduzećima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/2bos.htm",
+   "versions": [
+    {
+     "from": "2005-02-10",
+     "units": 54,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/2bos.htm",
+     "sha256": "d483038b147f507fad5a8ad1037216c2032f81852a8bfc96062a74ed120b54e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn015-1ab566",
+   "path": "zakon/2005/sn015-1ab566",
+   "short": "Zakon o raseljenim licima i povratnicima u Federaciji Bosne i Hercegovine i izbjeglicama iz Bosne i Hercegovine",
+   "title": "Zakon o raseljenim licima i povratnicima u Federaciji Bosne i Hercegovine i izbjeglicama iz Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/5bos.htm",
+   "versions": [
+    {
+     "from": "2005-03-17",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/5bos.htm",
+     "sha256": "e67fc0be77a05744c8dc02fd1ce447a541f31c129bf83156a59e1160441b8636"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn018-209a74",
+   "path": "zakon/2005/sn018-209a74",
+   "short": "Zakon o prestanku važenja Zakona o registriranim zalogama na pokretnim stvarima i članskim udjelima",
+   "title": "Zakon o prestanku važenja Zakona o registriranim zalogama na pokretnim stvarima i članskim udjelima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/9bos.htm",
+   "versions": [
+    {
+     "from": "2005-03-24",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/9bos.htm",
+     "sha256": "92e5085e497264c77e5225e778716a5ce628f2ebcd6fca8f35d8d11286361bb3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn022-857422",
+   "path": "zakon/2005/sn022-857422",
+   "short": "Zakon o zaštiti od nasilja u porodici",
+   "title": "Zakon o zaštiti od nasilja u porodici",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/11bos.htm",
+   "versions": [
+    {
+     "from": "2005-04-07",
+     "units": 29,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/11bos.htm",
+     "sha256": "1a3b76d0941da381c688d0f62eb20fd88a580782d77384392062fca839ca7583"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn022-ef1424",
+   "path": "zakon/2005/sn022-ef1424",
+   "short": "Zakon o izmjenama i dopunama Zakona o posredovanju u zapošljavanju i socijalnoj sigurnosti nezaposlenih osoba",
+   "title": "Zakon o izmjenama i dopunama Zakona o posredovanju u zapošljavanju i socijalnoj sigurnosti nezaposlenih osoba",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/13bos.htm",
+   "versions": [
+    {
+     "from": "2005-04-14",
+     "units": 20,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/13bos.htm",
+     "sha256": "e635cbe2a98b08bd3a74286b871aa6365bd97802a4897d2f42a3a0e0611c15e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn024-9044a7",
+   "path": "zakon/2005/sn024-9044a7",
+   "short": "Zakon o društvima za osiguranje u privatnom osiguranju",
+   "title": "Zakon o društvima za osiguranje u privatnom osiguranju",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/14bos.htm",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 90,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/14bos.htm",
+     "sha256": "a5098b28faff78c6015819944fad11024d9e17ed15bd486ee40c78d73145ae5b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn024-ad7b7d",
+   "path": "zakon/2005/sn024-ad7b7d",
+   "short": "Zakon o osiguranju od odgovornosti za motorna vozila i ostale odredbe o obaveznom osiguranju od odgovornosti",
+   "title": "Zakon o osiguranju od odgovornosti za motorna vozila i ostale odredbe o obaveznom osiguranju od odgovornosti",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/15bos.htm",
+   "versions": [
+    {
+     "from": "2005-04-26",
+     "units": 33,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/15bos.htm",
+     "sha256": "e14facca5dd8a6607245b5dbc155093610e644349b77c07785cce53c140dbbfc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn028-f1c5d3",
+   "path": "zakon/2005/sn028-f1c5d3",
+   "short": "Zakon o vraćanju, dodjeli i prodaji stanova",
+   "title": "Zakon o vraćanju, dodjeli i prodaji stanova",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/18bos.htm",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 16,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/18bos.htm",
+     "sha256": "e9d952790622cf98e1ddf36c6e71574c6dd07932193d5828e1c674a108d5bad9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn029-f8b881",
+   "path": "zakon/2005/sn029-f8b881",
+   "short": "Zakon o izmjenama i dopunama Zakona o lijekovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o lijekovima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/23bos.htm",
+   "versions": [
+    {
+     "from": "2005-05-19",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/23bos.htm",
+     "sha256": "b3b650a900e823725b8ae0643a246bed9e415f64c6c3716e70efb181bca5a39b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn032-1a0fc3",
+   "path": "zakon/2005/sn032-1a0fc3",
+   "short": "Zakon o računovodstvu i reviziji u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o računovodstvu i reviziji u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/24bos.htm",
+   "versions": [
+    {
+     "from": "2005-06-16",
+     "units": 28,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/24bos.htm",
+     "sha256": "4b415afeb8e946f502bd4c055402672146848fc624371feb83151e97d40afe62"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn038-d685f8",
+   "path": "zakon/2005/sn038-d685f8",
+   "short": "Zakon o sudovima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o sudovima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/28bos.htm",
+   "versions": [
+    {
+     "from": "2005-07-12",
+     "units": 91,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/28bos.htm",
+     "sha256": "b75c85fac7bf21ad426c01aaeb34091e3f5959e2c3be4d2391b2000605165399"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn068-17d1aa",
+   "path": "zakon/2005/sn068-17d1aa",
+   "short": "Zakon o izmjenama Zakona o privrednim društvima",
+   "title": "Zakon o izmjenama Zakona o privrednim društvima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/39bos.htm",
+   "versions": [
+    {
+     "from": "2005-12-08",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/39bos.htm",
+     "sha256": "b77d1f0d32ba8e288008f1f88a4ba33d22caea782bdfb7f091bb6bfb131afcdf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn069-a6785f",
+   "path": "zakon/2005/sn069-a6785f",
+   "short": "Zakon o inspekcijama u Federaciji BiH",
+   "title": "Zakon o inspekcijama u Federaciji BiH",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/40bos-OK.htm",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 184,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/40bos-OK.htm",
+     "sha256": "f5bba7c14f59fb17b7a52b4c24dda8a4b70c059f6363d8fd1a70d8bc1eca2ff6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-sn070-aeb65f",
+   "path": "zakon/2005/sn070-aeb65f",
+   "short": "Zakon o posebnim pravima dobitnika ratnih priznanja i odlikovanja i članova njihovih porodica",
+   "title": "Zakon o posebnim pravima dobitnika ratnih priznanja i odlikovanja i članova njihovih porodica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/40bos.htm",
+   "versions": [
+    {
+     "from": "2005-12-23",
+     "units": 34,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/40bos.htm",
+     "sha256": "339a6bf64812f50231947bcf9206b1712ad7bfc3e2e7223a2741664bf800d04e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn022-e77f36",
+   "path": "zakon/2009/sn022-e77f36",
+   "short": "Zakon o plaćama i drugim naknadama sudija i tužioca u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o plaćama i drugim naknadama sudija i tužioca u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/9bos.htm",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 21,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/9bos.htm",
+     "sha256": "bf5229346fc23f5fc488763b1045b94c8727de4563634060d108dbbc6d41a00c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn002-2eaf21",
+   "path": "zakon/2006/sn002-2eaf21",
+   "short": "Zakon izmjenama i dopunama Zakona o federalnim ministarstvima i drugim tijelima federalne uprave",
+   "title": "Zakon izmjenama i dopunama Zakona o federalnim ministarstvima i drugim tijelima federalne uprave",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/3bos.htm",
+   "versions": [
+    {
+     "from": "2006-01-19",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/3bos.htm",
+     "sha256": "a92a5af718f03ae95e9293fa8ff7fbeaaf591141938a89167b958df6cc84687b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn002-2bea89",
+   "path": "zakon/2006/sn002-2bea89",
+   "short": "Zakon o prestanku važenja Zakona o službi u vojsci Federacije Bosne i Hercegovine",
+   "title": "Zakon o prestanku važenja Zakona o službi u vojsci Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/1bos.htm",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/1bos.htm",
+     "sha256": "b5cc7cd9c33ce4d859a7836029702014ae408ed4ab6489a9ee2d34fc6cad7b79"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn002-305e44",
+   "path": "zakon/2006/sn002-305e44",
+   "short": "Zakon o prostornom planiranju i korištenju zemljišta na nivou Federacije Bosne i Hercegovine",
+   "title": "Zakon o prostornom planiranju i korištenju zemljišta na nivou Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/5bos.htm",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 127,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/5bos.htm",
+     "sha256": "d5569d6478dfe66488a1b4f85c82412b23c1043ba1f1859d969af767ae4579f0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn002-321dcd",
+   "path": "zakon/2006/sn002-321dcd",
+   "short": "Zakon o prestanku važenja Zakona o odbrani Federacije Bosne i Hercegovine",
+   "title": "Zakon o prestanku važenja Zakona o odbrani Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/4bos.htm",
+   "versions": [
+    {
+     "from": "2006-01-26",
+     "units": 11,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/4bos.htm",
+     "sha256": "78877ab9a3ee8f29a6a67cb46a1850ff0cdd786dea3bdbb77d7cf6e132ff0b0c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn004-f9d741",
+   "path": "zakon/2006/sn004-f9d741",
+   "short": "Zakon o lovstvu",
+   "title": "Zakon o lovstvu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/6bos.htm",
+   "versions": [
+    {
+     "from": "2006-02-09",
+     "units": 103,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/6bos.htm",
+     "sha256": "8896de10a4a584e191a0c9d965f8f6e4cc73fad9dfec56dbc07d178da465cf6f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn008-f37123",
+   "path": "zakon/2006/sn008-f37123",
+   "short": "Zakon o izmjenama Zakona o Vladi Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama Zakona o Vladi Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/9bos.htm",
+   "versions": [
+    {
+     "from": "2006-02-25",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/9bos.htm",
+     "sha256": "97648a53f68f8faf297bb7f6790cf42c763a4cae21cdde3f6ffefc2f8609746a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn007-35e31a",
+   "path": "zakon/2006/sn007-35e31a",
+   "short": "Zakon o preuzimanju dioničkih društava",
+   "title": "Zakon o preuzimanju dioničkih društava",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/7bos.htm",
+   "versions": [
+    {
+     "from": "2006-03-02",
+     "units": 64,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/7bos.htm",
+     "sha256": "8d87d1042510db31db80ccde98ad709c75c37bc608d3be6bbf8a55e06a88db65"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn012-79e77f",
+   "path": "zakon/2006/sn012-79e77f",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2006. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2006. godinu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/11bos.htm",
+   "versions": [
+    {
+     "from": "2006-03-17",
+     "units": 54,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/11bos.htm",
+     "sha256": "b97ad805ac5d9c9d366d4458d223143d9ee0fb873206775e80fc5c7af8f5987a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn019-bf44ae",
+   "path": "zakon/2006/sn019-bf44ae",
+   "short": "Zakon o budžetima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o budžetima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/13bos.htm",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 90,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/13bos.htm",
+     "sha256": "94bdafee19128fcf8fa4503ffb85629e2d4f81affcbee738944c9846d41ce467"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn019-d821bb",
+   "path": "zakon/2006/sn019-d821bb",
+   "short": "Zakon o poticaju razvoja male privrede",
+   "title": "Zakon o poticaju razvoja male privrede",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/14bos.htm",
+   "versions": [
+    {
+     "from": "2006-04-27",
+     "units": 26,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/14bos.htm",
+     "sha256": "8263b4bf7cf5b380d251a29a6ba97efab5529395b25aa76bbce77508cbbbdb33"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn022-1c5f3c",
+   "path": "zakon/2006/sn022-1c5f3c",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih i drugih nesreća",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih i drugih nesreća",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/16bos.htm",
+   "versions": [
+    {
+     "from": "2006-05-09",
+     "units": 100,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/16bos.htm",
+     "sha256": "666c6ce3bf530f39671e9894a0baaf71d9d0329ad855ffb0432621c71a9a9cb4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn022-845506",
+   "path": "zakon/2006/sn022-845506",
+   "short": "Zakon o pripadnosti javnih prihoda u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o pripadnosti javnih prihoda u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/19bos.htm",
+   "versions": [
+    {
+     "from": "2006-05-09",
+     "units": 30,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/19bos.htm",
+     "sha256": "ca58e44459b1db4a65805c7e2244926b671d7da8831dd81e09b7a0d022609a84"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn025-c5666c",
+   "path": "zakon/2006/sn025-c5666c",
+   "short": "Zakon o naplati i djelimičnom otpisu dospjelih, a nenaplaćenih doprinosa za socijalno osiguranje",
+   "title": "Zakon o naplati i djelimičnom otpisu dospjelih, a nenaplaćenih doprinosa za socijalno osiguranje",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/21bos.htm",
+   "versions": [
+    {
+     "from": "2006-06-01",
+     "units": 23,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/21bos.htm",
+     "sha256": "bd36b9ba2da775704174cef33daa6a81642199d5396c32a419cd5852d43cf94e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn028-26cb22",
+   "path": "zakon/2006/sn028-26cb22",
+   "short": "Zakon o crvenom krstu/križu Federacije Bosne i Hercegovine",
+   "title": "Zakon o crvenom krstu/križu Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/23bos.htm",
+   "versions": [
+    {
+     "from": "2006-06-08",
+     "units": 30,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/23bos.htm",
+     "sha256": "3416b14d9a6ab4871d2a7f10fafc8b719b9984f8389cabc285be9c76b794ccda"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn028-a86384",
+   "path": "zakon/2006/sn028-a86384",
+   "short": "Zakon o cestovnom prijevozu Federacije Bosne i Hercegovine",
+   "title": "Zakon o cestovnom prijevozu Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/22bos.htm",
+   "versions": [
+    {
+     "from": "2006-06-15",
+     "units": 118,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/22bos.htm",
+     "sha256": "a21ccf9d1d5e41da16d7a7022a4938ad7d1495cf0ba09eb1bbbffc2a637d632d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn049-6a1041",
+   "path": "zakon/2006/sn049-6a1041",
+   "short": "Zakon o principima lokalne samouprave u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o principima lokalne samouprave u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/34bos.htm",
+   "versions": [
+    {
+     "from": "2006-09-07",
+     "units": 75,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/34bos.htm",
+     "sha256": "79bc8f16c2e4420e31497b86f41d77959f916c52257babfdcec88f24870e1a42"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2006-sn061-e26469",
+   "path": "zakon/2006/sn061-e26469",
+   "short": "Zakon o pravima demobiliziranih branilaca i članova njihovih porodica",
+   "title": "Zakon o pravima demobiliziranih branilaca i članova njihovih porodica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/39bos.htm",
+   "versions": [
+    {
+     "from": "2006-10-24",
+     "units": 50,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/39bos.htm",
+     "sha256": "91c3bc10a250bf68a23eaae7aa61a7463ecbfbebd0c716991fb42293a8d3118f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn034-229781",
+   "path": "zakon/2007/sn034-229781",
+   "short": "Zakon o prestanku važenja Zakona o građenju",
+   "title": "Zakon o prestanku važenja Zakona o građenju",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/3bos.htm",
+   "versions": [
+    {
+     "from": "2007-05-24",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/3bos.htm",
+     "sha256": "15550c7b22646acda72ba0c766fb6e637bfecb0817752824aa405a9d64d10c1e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn064-2f72d6",
+   "path": "zakon/2007/sn064-2f72d6",
+   "short": "Zakon o klasifikaciji djelatnosti u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o klasifikaciji djelatnosti u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/12bos.htm",
+   "versions": [
+    {
+     "from": "2007-09-25",
+     "units": 16,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/12bos.htm",
+     "sha256": "239fa0d9756d59340a1e61419996b2fac459700fe29aabecede569fcab2e00ca"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn070-d1e990",
+   "path": "zakon/2007/sn070-d1e990",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima branilaca i članova njihovih porodica",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima branilaca i članova njihovih porodica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/14bos.htm",
+   "versions": [
+    {
+     "from": "2007-10-02",
+     "units": 18,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/14bos.htm",
+     "sha256": "049f0aaa116f1f2e3fd1d8e5e0cbe759bfaae45f6b4878211ec796146ca21e84"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn070-12bc5d",
+   "path": "zakon/2007/sn070-12bc5d",
+   "short": "Zakon o eksproprijaciji",
+   "title": "Zakon o eksproprijaciji",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/15bos.htm",
+   "versions": [
+    {
+     "from": "2007-10-09",
+     "units": 79,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/15bos.htm",
+     "sha256": "077834e84b5a6f47ef448e1cdf7c1cf46eacefd1d7f4cc80a8568386abb96905"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn070-f48a7a",
+   "path": "zakon/2007/sn070-f48a7a",
+   "short": "Zakon o osnivanju Instituta za medicinsko vještačenje zdravstvenog stanja (bosanski jezi",
+   "title": "Zakon o osnivanju Instituta za medicinsko vještačenje zdravstvenog stanja (bosanski jezi",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/16bos.htm",
+   "versions": [
+    {
+     "from": "2007-10-09",
+     "units": 43,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/16bos.htm",
+     "sha256": "ecb757ad96eaeebe0dcbd7d9870dcae27c842b756ebd790511f7e9a7437135f8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn086-6abd6c",
+   "path": "zakon/2007/sn086-6abd6c",
+   "short": "Zakon o dugu, zaduživanju i garancijama u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o dugu, zaduživanju i garancijama u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/22bos.htm",
+   "versions": [
+    {
+     "from": "2007-12-04",
+     "units": 75,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/22bos.htm",
+     "sha256": "57a88804a0b7bd9ccbd9c2f4fda10ccf47d753cfaee78e7f5ce04bbbb6c329cf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn088-ded771",
+   "path": "zakon/2007/sn088-ded771",
+   "short": "Zakon o poljoprivredi",
+   "title": "Zakon o poljoprivredi",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/23bos.htm",
+   "versions": [
+    {
+     "from": "2007-12-11",
+     "units": 83,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/23bos.htm",
+     "sha256": "46861949755d38ade1a557a82849267af85258e661f1e989c06431fe38554f57"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2007-sn097-dfbe35",
+   "path": "zakon/2007/sn097-dfbe35",
+   "short": "Zakon o porezu na dobit",
+   "title": "Zakon o porezu na dobit",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/28bos.htm",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 75,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2007/zakoni/28bos.htm",
+     "sha256": "3a843b0e91c3b4d46474a249a56707268fec8a615784ac2f1e4ed56180151943"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn010-d2c23a",
+   "path": "zakon/2008/sn010-d2c23a",
+   "short": "Zakon o porezu na dohodak",
+   "title": "Zakon o porezu na dohodak",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/4bos.htm",
+   "versions": [
+    {
+     "from": "2008-03-13",
+     "units": 60,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/4bos.htm",
+     "sha256": "a7629b155fac7638d69bb5d2a2f5e5d20f02a6440bf267140d1ca22509f73402"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn014-e1da71",
+   "path": "zakon/2008/sn014-e1da71",
+   "short": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "title": "Zakon o izmjenama i dopunama Zakona o doprinosima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/5bos.htm",
+   "versions": [
+    {
+     "from": "2008-04-01",
+     "units": 24,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/5bos.htm",
+     "sha256": "f805e10bc3c4366f95374547a30432c07ad7d2e4222c781064ea46bae2647f4d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn031-884ceb",
+   "path": "zakon/2008/sn031-884ceb",
+   "short": "Zakon o preuzimanju prava i obaveza osnivača nad ustanovama socijalne zaštite u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o preuzimanju prava i obaveza osnivača nad ustanovama socijalne zaštite u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/11bos.htm",
+   "versions": [
+    {
+     "from": "2008-06-03",
+     "units": 22,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/11bos.htm",
+     "sha256": "7efb2335d4a853f939768000aa97efff78fbf9ddd818f39006345ff55372cd5a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn038-040536",
+   "path": "zakon/2008/sn038-040536",
+   "short": "Zakon o izmjenama i dopunama o vještacima",
+   "title": "Zakon o izmjenama i dopunama o vještacima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/17bos.htm",
+   "versions": [
+    {
+     "from": "2008-06-26",
+     "units": 4,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/17bos.htm",
+     "sha256": "f2d2c7cbda5d4e55534adc19201cf6fe4bf06e56bb62078c437998f11b2d6128"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn037-9b543d",
+   "path": "zakon/2008/sn037-9b543d",
+   "short": "Zakon o Razvojnoj banci Federacije Bosne i Hercegovine",
+   "title": "Zakon o Razvojnoj banci Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/15bos.htm",
+   "versions": [
+    {
+     "from": "2008-07-04",
+     "units": 48,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/15bos.htm",
+     "sha256": "707296663cbeb1952f065e6952db2ecb59d2975b44566a713a1fbb086609c87f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn044-ee3473",
+   "path": "zakon/2008/sn044-ee3473",
+   "short": "Zakon o Nacionalnom parku \"Una\"",
+   "title": "Zakon o Nacionalnom parku \"Una\"",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/19bos.htm",
+   "versions": [
+    {
+     "from": "2008-07-24",
+     "units": 46,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/19bos.htm",
+     "sha256": "dd2f9df6f60192009846cba9c3906b22f307ad264a915e660f1a84fa7e853289"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn047-f5e252",
+   "path": "zakon/2008/sn047-f5e252",
+   "short": "ZAKONA o internoj reviziji u javnom sektoru u Federaciji Bosne i Hercegovine",
+   "title": "ZAKONA o internoj reviziji u javnom sektoru u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/20bos.htm",
+   "versions": [
+    {
+     "from": "2008-08-07",
+     "units": 37,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/20bos.htm",
+     "sha256": "8efc8df24979edba063c509e753d24b2728a2984581080e6327ad77b59f476ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn070-53838b",
+   "path": "zakon/2008/sn070-53838b",
+   "short": "Zakon o izmjenama i dopunama Zakona o lijekovima koji se upotrebljavaju u veterinarstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o lijekovima koji se upotrebljavaju u veterinarstvu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/25bos.htm",
+   "versions": [
+    {
+     "from": "2008-11-06",
+     "units": 12,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/25bos.htm",
+     "sha256": "c5e0ee06b5cdd81be6dfdeee8e95fa4ed3da66650580ad6054a4a929c689f35e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn076-e2c511",
+   "path": "zakon/2008/sn076-e2c511",
+   "short": "Zakon o izmjeni Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjeni Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/31bos.htm",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/31bos.htm",
+     "sha256": "020f680bb001ec64e275b8babb55d35274e0f02a3c1d916d9fb10446dc9cb698"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn078-5e4358",
+   "path": "zakon/2008/sn078-5e4358",
+   "short": "Zakon o agencijama i unutrašnjim službama za zaštitu ljudi i imovine",
+   "title": "Zakon o agencijama i unutrašnjim službama za zaštitu ljudi i imovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/33bos.htm",
+   "versions": [
+    {
+     "from": "2008-12-11",
+     "units": 79,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/33bos.htm",
+     "sha256": "33e629039cab7b281ea40f5bf82752b385ae1cab7133e6fcf7bd7809277c6d31"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn084-a37202",
+   "path": "zakon/2008/sn084-a37202",
+   "short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima",
+   "title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/36bos.htm",
+   "versions": [
+    {
+     "from": "2008-12-26",
+     "units": 49,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/36bos.htm",
+     "sha256": "b4d015d93412fdc26e73a95af4d12d2cd906f82306eb89b13f252e3f6afc54e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn081-a7143a",
+   "path": "zakon/2008/sn081-a7143a",
+   "short": "Zakon o finansijskoj konsolidaciji rudnika uglja u Federaciji Bosne i Hercegovine prema obračunatim, a neuplaćenim javnim prihodima u periodu od 2009. do 2015. godine",
+   "title": "Zakon o finansijskoj konsolidaciji rudnika uglja u Federaciji Bosne i Hercegovine prema obračunatim, a neuplaćenim javnim prihodima u periodu od 2009. do 2015. godine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/34bos.htm",
+   "versions": [
+    {
+     "from": "2008-12-30",
+     "units": 15,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/34bos.htm",
+     "sha256": "738e3cd3e6db9bd6287a777f41609044716324b70f16b901186746f659b60bd9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn085-5a25fb",
+   "path": "zakon/2008/sn085-5a25fb",
+   "short": "Zakon o investicijskim fondovima",
+   "title": "Zakon o investicijskim fondovima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/38bos.htm",
+   "versions": [
+    {
+     "from": "2009-01-03",
+     "units": 259,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/38bos.htm",
+     "sha256": "e2d32d92a585f38f018d4de5371f02a4c69f0d7e302252ea0126fdb047fb325d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-sn085-faa9fc",
+   "path": "zakon/2008/sn085-faa9fc",
+   "short": "Zakon o tržištu vrijednosnih papira",
+   "title": "Zakon o tržištu vrijednosnih papira",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/40bos.htm",
+   "versions": [
+    {
+     "from": "2009-01-03",
+     "units": 284,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/40bos.htm",
+     "sha256": "cdb579d70213686b0970fa67592c066c976702eab45d0b122fcb8a4e1784accb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn005-5be1e4",
+   "path": "zakon/2009/sn005-5be1e4",
+   "short": "Zakon o izmjeni Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjeni Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/4bos.htm",
+   "versions": [
+    {
+     "from": "2009-01-09",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/4bos.htm",
+     "sha256": "dd7521ebedef71e936abbe19742fb55752f0296419ea0ad6ebc0382894e3c303"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn022-bf2bf1",
+   "path": "zakon/2009/sn022-bf2bf1",
+   "short": "Zakon o pomilovanju",
+   "title": "Zakon o pomilovanju",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/12bos.htm",
+   "versions": [
+    {
+     "from": "2009-04-07",
+     "units": 30,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/12bos.htm",
+     "sha256": "4810cca94b0be50205b193a0b7e378a58b58fa1245cb77e110363261a40dd2a4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn032-13ccd4",
+   "path": "zakon/2009/sn032-13ccd4",
+   "short": "Zakon o izmjeni Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjeni Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/21bos.htm",
+   "versions": [
+    {
+     "from": "2009-05-12",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/21bos.htm",
+     "sha256": "a8461f23bc7c2c4f11e456106ad29726f04cb64bff39b9cfdf99992bf2fc1790"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn035-7c9588",
+   "path": "zakon/2009/sn035-7c9588",
+   "short": "Zakon o obrtu i srodnim djelatnostima",
+   "title": "Zakon o obrtu i srodnim djelatnostima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/22bos.htm",
+   "versions": [
+    {
+     "from": "2009-06-02",
+     "units": 130,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/22bos.htm",
+     "sha256": "37c6b6d8708c9194b406f8dfb7705f7d25feb3f695c745df60c3230b510ac2f7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn038-8ba6cb",
+   "path": "zakon/2009/sn038-8ba6cb",
+   "short": "Zakon o izmjenama i dopunama Zakona za zaštitu okoliša",
+   "title": "Zakon o izmjenama i dopunama Zakona za zaštitu okoliša",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/24bos.htm",
+   "versions": [
+    {
+     "from": "2009-06-18",
+     "units": 40,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/24bos.htm",
+     "sha256": "368fd14785ede7acd8acc2dd4ecd88b9d766c88e1cc35f78b156281b004f42c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn042-13c0cf",
+   "path": "zakon/2009/sn042-13c0cf",
+   "short": "Zakon o jedinstvenom sistemu registracije, kontrole i naplate doprinosa",
+   "title": "Zakon o jedinstvenom sistemu registracije, kontrole i naplate doprinosa",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/28bos.htm",
+   "versions": [
+    {
+     "from": "2009-07-14",
+     "units": 45,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/28bos.htm",
+     "sha256": "406b3d6626680900132225449f8dd2565fe06cf931b28c01de1ae9dac3c68def"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn043-b88d19",
+   "path": "zakon/2009/sn043-b88d19",
+   "short": "Zakon o izmjenama i dopunama Zakona o registraciji poslovnih subjekata u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o registraciji poslovnih subjekata u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/29bos.htm",
+   "versions": [
+    {
+     "from": "2009-07-16",
+     "units": 28,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/29bos.htm",
+     "sha256": "9da83ccac5cd66641ce2b9cad845e32d822e0a80e2e2b317ad250a79dc3f2a8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn057-69f69b",
+   "path": "zakon/2009/sn057-69f69b",
+   "short": "Zakon o osiguranju sredstava za redovno i bezbjedno snabdijevanje prirodnim gasom potrošača u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o osiguranju sredstava za redovno i bezbjedno snabdijevanje prirodnim gasom potrošača u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/34bos.htm",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 6,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/34bos.htm",
+     "sha256": "58b0cdabb8a9898c9e28bfbde0b7d9c4e02c481cfc00f86d41337b14fbc65748"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn057-dba9a0",
+   "path": "zakon/2009/sn057-dba9a0",
+   "short": "Zakon o izmjenama i dopunama Zakona o naplati i djelimičnom otpisu dospjelih, a nenaplaćenih doprinosa za socijalno osiguranje",
+   "title": "Zakon o izmjenama i dopunama Zakona o naplati i djelimičnom otpisu dospjelih, a nenaplaćenih doprinosa za socijalno osiguranje",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/35bos.htm",
+   "versions": [
+    {
+     "from": "2009-09-03",
+     "units": 9,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/35bos.htm",
+     "sha256": "824e13e4854f3c20639d4ece15f8884e98fd6425e9f491ccd0f07d7b204d6667"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn062-c515b8",
+   "path": "zakon/2009/sn062-c515b8",
+   "short": "Zakon o izmirenju obaveza na osnovu računa stare devizne štednje u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmirenju obaveza na osnovu računa stare devizne štednje u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/38bos.htm",
+   "versions": [
+    {
+     "from": "2009-10-01",
+     "units": 18,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/38bos.htm",
+     "sha256": "42828a098097bde42c3b5895a6e7778d3018d79f4c5cb5c77c690a6bc41613a9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn064-5e29d9",
+   "path": "zakon/2009/sn064-5e29d9",
+   "short": "Zakon o zaštiti od požara i vatrogastvu",
+   "title": "Zakon o zaštiti od požara i vatrogastvu",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/39bos.htm",
+   "versions": [
+    {
+     "from": "2009-10-20",
+     "units": 191,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/39bos.htm",
+     "sha256": "9044b786101c4be359d28aa0deee23b6f17317bb3dd3977bf678f995baa7beaa"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2009-sn082-1d5f58",
+   "path": "zakon/2009/sn082-1d5f58",
+   "short": "Zakon o provođenju kontrole zakonitosti korištenja prava iz oblasti branilačko-invalidske zaštite",
+   "title": "Zakon o provođenju kontrole zakonitosti korištenja prava iz oblasti branilačko-invalidske zaštite",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/52bos.htm",
+   "versions": [
+    {
+     "from": "2009-12-30",
+     "units": 29,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/52bos.htm",
+     "sha256": "64c289f7f1f081dc37fedd5965bf284a6c486c08011048bdbeaa9a6fba2486ef"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn002-fa194a",
+   "path": "zakon/2010/sn002-fa194a",
+   "short": "Zakon o izmjenama i dopunama Zakona o cestovnom prijevozu Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o cestovnom prijevozu Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/1bos.htm",
+   "versions": [
+    {
+     "from": "2010-01-26",
+     "units": 50,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/1bos.htm",
+     "sha256": "7556d2fb001a39780347d1101fb6a66402c05d5f038e1c240b2380207065182f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn004-2e144a",
+   "path": "zakon/2010/sn004-2e144a",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti zraka",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti zraka",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/2bos.htm",
+   "versions": [
+    {
+     "from": "2010-02-04",
+     "units": 25,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/2bos.htm",
+     "sha256": "702c4ea8e263c546788398da60acd93202ac5f1cca30e03e1d57642dd32d31c2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn009-0107ba",
+   "path": "zakon/2010/sn009-0107ba",
+   "short": "Zakon o prestanku važenja Zakona o pravima demobilisanih branilaca i članova njihovih porodica",
+   "title": "Zakon o prestanku važenja Zakona o pravima demobilisanih branilaca i članova njihovih porodica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/16bos.htm",
+   "versions": [
+    {
+     "from": "2010-02-27",
+     "units": 5,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/16bos.htm",
+     "sha256": "458425a3b8720b34c64cc9c8955d15c4c99a155baa32c11a5c3d82a570917351"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn009-6f7854",
+   "path": "zakon/2010/sn009-6f7854",
+   "short": "Zakon o jedinstvenom uređivanju prava na gotovinsku naknadu pojedincima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o jedinstvenom uređivanju prava na gotovinsku naknadu pojedincima u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/15bos.htm",
+   "versions": [
+    {
+     "from": "2010-02-27",
+     "units": 18,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/15bos.htm",
+     "sha256": "ccbfd8afb8b9d4c4d7bcdea725f160f19c52a02f4591d4dfc15d16d935566e9e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn009-c33fbf",
+   "path": "zakon/2010/sn009-c33fbf",
+   "short": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "title": "Zakon o izmjenama i dopunama Zakona o porezu na dohodak",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/17bos.htm",
+   "versions": [
+    {
+     "from": "2010-02-27",
+     "units": 9,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/17bos.htm",
+     "sha256": "a24d741a2fe5816ef928515b49073802e7e20c1adb372cd5230dbc999374ade6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn009-fadeb0",
+   "path": "zakon/2010/sn009-fadeb0",
+   "short": "Zakon o izmjenama i dopunama Zakona o pravima branilaca i članova njihovih porodica",
+   "title": "Zakon o izmjenama i dopunama Zakona o pravima branilaca i članova njihovih porodica",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/11bos.htm",
+   "versions": [
+    {
+     "from": "2010-02-27",
+     "units": 6,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/11bos.htm",
+     "sha256": "749d9d29d9dac29fb828a31bb3a55b62706ab1100b400962d6e35dc6aa1b09e8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn009-78fe9e",
+   "path": "zakon/2010/sn009-78fe9e",
+   "short": "Zakon o geološkim istraživanjima Federacije Bosne i Hercegovine",
+   "title": "Zakon o geološkim istraživanjima Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/9bos.htm",
+   "versions": [
+    {
+     "from": "2010-03-06",
+     "units": 106,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/9bos.htm",
+     "sha256": "3a1e451feee04be4f63bf7f53798b7dd68e9839967ef0196cfb0d4d569125456"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn040-4d3213",
+   "path": "zakon/2010/sn040-4d3213",
+   "short": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o Poreznoj upravi Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/26bos.html",
+   "versions": [
+    {
+     "from": "2010-07-22",
+     "units": 48,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/26bos.html",
+     "sha256": "354dae19cbd804b8887418b9d4e52f173c3aad65d8e3bc0ad44e0f89f13fa8c0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn040-6f2e18",
+   "path": "zakon/2010/sn040-6f2e18",
+   "short": "Zakon o izmjenama i dopunama Zakona o igrama na sreću",
+   "title": "Zakon o izmjenama i dopunama Zakona o igrama na sreću",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/30bos.html",
+   "versions": [
+    {
+     "from": "2010-07-22",
+     "units": 14,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/30bos.html",
+     "sha256": "a9947f3a9fc1cd5af38d271d57c69e603226271b6bf1a4a77b1a1ed53bbde432"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn040-7d073c",
+   "path": "zakon/2010/sn040-7d073c",
+   "short": "Zakon o unutrašnjoj trgovini",
+   "title": "Zakon o unutrašnjoj trgovini",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/27bos.html",
+   "versions": [
+    {
+     "from": "2010-07-22",
+     "units": 83,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/27bos.html",
+     "sha256": "8445cc67487104a8a58933a9ad12f5451fa4f00f3c43c5dbda0954ec81264002"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn043-65384c",
+   "path": "zakon/2010/sn043-65384c",
+   "short": "Zakon o izmjenama i dopunama Zakona o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih i drugih nesreća",
+   "title": "Zakon o izmjenama i dopunama Zakona o zaštiti i spašavanju ljudi i materijalnih dobara od prirodnih i drugih nesreća",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/33bos.html",
+   "versions": [
+    {
+     "from": "2010-07-27",
+     "units": 33,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/33bos.html",
+     "sha256": "1674c9ace9efad8969268776f87206d1b59584d8771f3f6bb97df7a857e0acb9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2010-sn045-a0b5a7",
+   "path": "zakon/2010/sn045-a0b5a7",
+   "short": "Zakon o plaćama i naknadama u organima vlasti Federacije Bosne i Hercegovine",
+   "title": "Zakon o plaćama i naknadama u organima vlasti Federacije Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/35bos.html",
+   "versions": [
+    {
+     "from": "2010-07-30",
+     "units": 78,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/35bos.html",
+     "sha256": "1fa2fe1cbe0c0171cd1dd7da60240ee179eaf40ff012b75647a2fa4b220c9bb9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn042-b61b6a",
+   "path": "zakon/2011/sn042-b61b6a",
+   "short": "Zakon o potvrđivanju prava na prijevremenu starosnu penziju ostvarenu pod povoljnijim uvjetima",
+   "title": "Zakon o potvrđivanju prava na prijevremenu starosnu penziju ostvarenu pod povoljnijim uvjetima",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/8bos.html#vrh",
+   "versions": [
+    {
+     "from": "2011-07-14",
+     "units": 6,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/8bos.html#vrh",
+     "sha256": "b4bba2c5c38d3c5bd96fdbeb478c7bc47f1a3a809ec0df91010fcc88fbec1e92"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn042-509c9e",
+   "path": "zakon/2011/sn042-509c9e",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršenju krivičnih sankcija u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršenju krivičnih sankcija u Federaciji Bosne i Hercegovine",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/10bos.html#vrh",
+   "versions": [
+    {
+     "from": "2011-07-21",
+     "units": 29,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/10bos.html#vrh",
+     "sha256": "4a406bb94a68195bfbb722819040bed89059b4c543f8518c25cefe96e01ae443"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2011-sn083-0fed15",
+   "path": "zakon/2011/sn083-0fed15",
+   "short": "Zakon o izmjenama i dopunama Zakona o električnoj energiji („Službene novine Federacije BiH“, br. 41/02 i 38/05)",
+   "title": "Zakon o izmjenama i dopunama Zakona o električnoj energiji („Službene novine Federacije BiH“, br. 41/02 i 38/05)",
+   "url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/28bos.html#vrh",
+   "versions": [
+    {
+     "from": "2011-12-10",
+     "units": 2,
+     "source_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/28bos.html#vrh",
+     "sha256": "d94cc858cf97155484daa7a6382bfdc9abd264dcc9bdf0c7547e10e1cc0a1d88"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn034-ba3483",
+   "path": "zakon/2012/sn034-ba3483",
+   "short": "Zakon o izmjenama i dopunama Zakona o Agenciji za bankarstvo Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o Agenciji za bankarstvo Federacije Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/15.html",
+   "versions": [
+    {
+     "from": "2012-04-28",
+     "units": 9,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/15.html",
+     "sha256": "3aa7944a80a394d691f3f5e533978a15d8c5363fa5595e0187e8e0336b2a45c7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn037-51ea12",
+   "path": "zakon/2012/sn037-51ea12",
+   "short": "Zakon o matičnim knjigama",
+   "title": "Zakon o matičnim knjigama",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/18.html",
+   "versions": [
+    {
+     "from": "2012-05-11",
+     "units": 99,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/18.html",
+     "sha256": "9e0d712c2df71b93be21e3ab9c55675d053d1bf2607d8e6912c46d37cfc9bc2e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn055-5701f1",
+   "path": "zakon/2012/sn055-5701f1",
+   "short": "Zakon o reviziji privatizacije državnog kapitala u privrednim društvima i bankama",
+   "title": "Zakon o reviziji privatizacije državnog kapitala u privrednim društvima i bankama",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/23.html",
+   "versions": [
+    {
+     "from": "2012-07-05",
+     "units": 22,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/23.html",
+     "sha256": "ae4e31f65cdbbb4283d87487af4e02f958f3bf4d089e32c218a98766658cf544"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn109-06ce6f",
+   "path": "zakon/2012/sn109-06ce6f",
+   "short": "Zakon o izmjenama i dopunama Zakona o finansijskoj konsolidaciji rudnika uglja u Federaciji Bosne i Hercegovine prema obračunatim, a neuplaćenim javnim prihodima u periodu od 2009. do 2015. godine",
+   "title": "Zakon o izmjenama i dopunama Zakona o finansijskoj konsolidaciji rudnika uglja u Federaciji Bosne i Hercegovine prema obračunatim, a neuplaćenim javnim prihodima u periodu od 2009. do 2015. godine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/30.html",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 8,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/30.html",
+     "sha256": "8b3bd033a4417ceb1564d13a23aff23ba84dbd8a1515fb3a0b0a63b9caf17643"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2012-sn111-41e2b3",
+   "path": "zakon/2012/sn111-41e2b3",
+   "short": "Zakon o zapošljavanju stranaca",
+   "title": "Zakon o zapošljavanju stranaca",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/41bos.html",
+   "versions": [
+    {
+     "from": "2013-01-03",
+     "units": 33,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/41bos.html",
+     "sha256": "f472d2964673f822e548a2e6babcfd4a4b406352ad1ef33322d5fe96f36e91dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn008-17af1f",
+   "path": "zakon/2013/sn008-17af1f",
+   "short": "Zakon o autoputu na Koridoru Vc",
+   "title": "Zakon o autoputu na Koridoru Vc",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/6.html",
+   "versions": [
+    {
+     "from": "2013-01-31",
+     "units": 64,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/6.html",
+     "sha256": "80ac13976abb22ae0ea0ceb0e4a253e37b6871d8cdee9aa20baca865a6b2d7a4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn020-0f6a78",
+   "path": "zakon/2013/sn020-0f6a78",
+   "short": "Zakon o zaštiti od nasilja u porodici",
+   "title": "Zakon o zaštiti od nasilja u porodici",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/9.html",
+   "versions": [
+    {
+     "from": "2013-03-21",
+     "units": 58,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/9.html",
+     "sha256": "5620ac753c99645d76412d3d72db2d39a37b6c92affb6e40b1897a9f1fc0920b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn041-2d777d",
+   "path": "zakon/2013/sn041-2d777d",
+   "short": "Zakon o prijevremenom povoljnijem penzionisanju branilaca Odbrambeno-oslobodilačkog rata",
+   "title": "Zakon o prijevremenom povoljnijem penzionisanju branilaca Odbrambeno-oslobodilačkog rata",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/11bos.html",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 40,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/11bos.html",
+     "sha256": "8fc1b063f9b1093271ca24b7b4e3cf89cbad125dd3e732ec2b16e4eb7b9a34f2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn066-027b0c",
+   "path": "zakon/2013/sn066-027b0c",
+   "short": "Zakon o poljoprivrednim savjetodavnim službama",
+   "title": "Zakon o poljoprivrednim savjetodavnim službama",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/24bos.html",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 41,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/24bos.html",
+     "sha256": "342f7be86bad58fa2a75de1082dec84fdfacf0d1fa7fa6174d99cfad1547a63a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn066-7a1dac",
+   "path": "zakon/2013/sn066-7a1dac",
+   "short": "Zakon o električnoj energiji u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o električnoj energiji u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/28bos.html",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 141,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/28bos.html",
+     "sha256": "888040607841ed01bdcb5f8349cbe8b7f294a8b03317bfc525ffcae9bf942350"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn066-7e472a",
+   "path": "zakon/2013/sn066-7e472a",
+   "short": "Zakon o zaštiti prirode",
+   "title": "Zakon o zaštiti prirode",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/27bos.html",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 268,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/27bos.html",
+     "sha256": "869295e0f6689b3ea3c80d51e8fdae1b042b4f503087c534e7b38e135797e371"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn066-86a345",
+   "path": "zakon/2013/sn066-86a345",
+   "short": "Zakon o stvarnim pravima",
+   "title": "Zakon o stvarnim pravima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/26bos.html",
+   "versions": [
+    {
+     "from": "2013-09-05",
+     "units": 374,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/26bos.html",
+     "sha256": "ce7d0779e3542fb1946899bbc4da180f83f129303fa6a707a6650526aabb577a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn067-c47b23",
+   "path": "zakon/2013/sn067-c47b23",
+   "short": "Zakon o izmjenama i dopunama Zakona o agencijama i unutrašnjim službama za zaštitu ljudi i imovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o agencijama i unutrašnjim službama za zaštitu ljudi i imovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/29bos.html",
+   "versions": [
+    {
+     "from": "2013-09-07",
+     "units": 53,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/29bos.html",
+     "sha256": "6efae0147dbfd183c2243dcd190b0fbfafa053794b02cb28995d1c77e0b5916d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn070-32ed2d",
+   "path": "zakon/2013/sn070-32ed2d",
+   "short": "Zakon o korištenju obnovljivih izvora energije i efikasne kogeneracije",
+   "title": "Zakon o korištenju obnovljivih izvora energije i efikasne kogeneracije",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/30bos.html",
+   "versions": [
+    {
+     "from": "2013-09-19",
+     "units": 53,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/30bos.html",
+     "sha256": "9a61114244c7f6f7f45b42d682473b8467cb9c11f8515f098bcd53b5434ff541"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn077-66b8ff",
+   "path": "zakon/2013/sn077-66b8ff",
+   "short": "Zakon o istraživanju i eksploataciji nafte i plina u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o istraživanju i eksploataciji nafte i plina u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/34bos.html",
+   "versions": [
+    {
+     "from": "2013-10-12",
+     "units": 85,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/34bos.html",
+     "sha256": "02d32698d9a0f8b215467787ac203491da713a035783f04d2b4d3cb3b362946e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn100-e4ff9d",
+   "path": "zakon/2013/sn100-e4ff9d",
+   "short": "Zakon o zaštiti žiranta u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o zaštiti žiranta u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/41bos.html",
+   "versions": [
+    {
+     "from": "2013-12-26",
+     "units": 39,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/41bos.html",
+     "sha256": "62a5829c521db2a7671d52a5d3afe9d57122552ee6839dc46572fbf288c3768d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-sn102-d4b1c9",
+   "path": "zakon/2013/sn102-d4b1c9",
+   "short": "Zakon o budžetima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o budžetima u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/42bos.html",
+   "versions": [
+    {
+     "from": "2014-01-02",
+     "units": 119,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2013/zakoni/42bos.html",
+     "sha256": "7265d4e37bbd006a8ee9e56323856b282d414fb1a7bf48cc1c164607d382094e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn007-7b0a4b",
+   "path": "zakon/2014/sn007-7b0a4b",
+   "short": "Zakon o zaštiti i postupanju sa djecom i maloljetnicima u krivičnom postupku",
+   "title": "Zakon o zaštiti i postupanju sa djecom i maloljetnicima u krivičnom postupku",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/4.html",
+   "versions": [
+    {
+     "from": "2014-02-06",
+     "units": 203,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/4.html",
+     "sha256": "a12db41b05032418a7eaf7137f6502f74bca690dbb69a54d9c00b511cf27e779"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn031-bf63df",
+   "path": "zakon/2014/sn031-bf63df",
+   "short": "Zakon o zaštiti korisnika finansijskih usluga",
+   "title": "Zakon o zaštiti korisnika finansijskih usluga",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/9.html",
+   "versions": [
+    {
+     "from": "2014-05-01",
+     "units": 57,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/9.html",
+     "sha256": "a2de5274eb65b618914f408e3d5b87c602d834752cf266a978d8435fabb49c3d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn035-1bda4e",
+   "path": "zakon/2014/sn035-1bda4e",
+   "short": "Zakon o izmjenama Zakona o utvrđivanju i načinu izmirenja unutrašnjih obaveza Federacije Bosne i Hercegovine",
+   "title": "Zakon o izmjenama Zakona o utvrđivanju i načinu izmirenja unutrašnjih obaveza Federacije Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/12.html",
+   "versions": [
+    {
+     "from": "2014-05-17",
+     "units": 3,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/12.html",
+     "sha256": "b32f4d46fa1eb2262cfd8d1c733a2325364e42a6d2d4f9c730d475edef897a2c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn037-1c316d",
+   "path": "zakon/2014/sn037-1c316d",
+   "short": "Zakon o naplati i djelimičnom otpisu dugovanja sportskim kolektivima",
+   "title": "Zakon o naplati i djelimičnom otpisu dugovanja sportskim kolektivima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/14.html",
+   "versions": [
+    {
+     "from": "2014-05-17",
+     "units": 10,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/14.html",
+     "sha256": "392e52e51bf59441fa442bfacb104d0f17f331f6c6da06e8beefa43d35d57bc7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn052-3de499",
+   "path": "zakon/2014/sn052-3de499",
+   "short": "Zakon o naftnim derivatima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o naftnim derivatima u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/19.html",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 72,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/19.html",
+     "sha256": "f8f652342faa4f4de0e587c944e1dc4267dcd00a84e8786191afa445101371c1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn052-b0368a",
+   "path": "zakon/2014/sn052-b0368a",
+   "short": "Zakon o finansijskoj konsolidaciji privrednih društava u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o finansijskoj konsolidaciji privrednih društava u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/18.html",
+   "versions": [
+    {
+     "from": "2014-07-10",
+     "units": 24,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/18.html",
+     "sha256": "5819459fbb87b6b72cc8b4b84ea015ac4ee987155022ff4fa8d66ec8037144b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn059-4660bf",
+   "path": "zakon/2014/sn059-4660bf",
+   "short": "Zakon o osnivanju Federalnog fonda za pomoć nastradalim područjima od prirodne nesreće na teritoriji Federacije Bosne i Hercegovine",
+   "title": "Zakon o osnivanju Federalnog fonda za pomoć nastradalim područjima od prirodne nesreće na teritoriji Federacije Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/24.html",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 29,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/24.html",
+     "sha256": "a757ba60903dcd46c3400d1e3b4ca1636ab7804ece2243d5a814e2021eb7fa75"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn059-52ebb5",
+   "path": "zakon/2014/sn059-52ebb5",
+   "short": "Zakon o finansiranju pomoći za otklanjanje posljedica prirodne nesreće i obnovu područja zahvaćenih prirodnom nesrećom",
+   "title": "Zakon o finansiranju pomoći za otklanjanje posljedica prirodne nesreće i obnovu područja zahvaćenih prirodnom nesrećom",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/23.html",
+   "versions": [
+    {
+     "from": "2014-07-24",
+     "units": 11,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/23.html",
+     "sha256": "84cf8acabd27ced8b5e4be4e9b325a3fa6739bc43f08a169972651559d53c918"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn063-f3725d",
+   "path": "zakon/2014/sn063-f3725d",
+   "short": "Zakon o prekršajima",
+   "title": "Zakon o prekršajima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/27.htm",
+   "versions": [
+    {
+     "from": "2014-08-14",
+     "units": 132,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/27.htm",
+     "sha256": "1b8d69a11305f5c390c6cfd5a6419dd99b449785779f7c88bba8299037bdd095"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn073-719766",
+   "path": "zakon/2014/sn073-719766",
+   "short": "Zakon o inspekcijama Federacije Bosne i Hercegovine",
+   "title": "Zakon o inspekcijama Federacije Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/34.htm",
+   "versions": [
+    {
+     "from": "2014-09-11",
+     "units": 190,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/34.htm",
+     "sha256": "856cc4ef09c89e9a71bbe11750a50849c970e357a2d3b311c29024e35b123fc7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn080-ba3e86",
+   "path": "zakon/2014/sn080-ba3e86",
+   "short": "Zakon o izdvajanju i usmjeravanju dijela prihoda preduzeća ostvarenih radom termoelektrana",
+   "title": "Zakon o izdvajanju i usmjeravanju dijela prihoda preduzeća ostvarenih radom termoelektrana",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/42.htm",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 12,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/42.htm",
+     "sha256": "a4226981cbcb3b62849fcbbf66d8d4aa17ceba0b85084384543c5281b8983778"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn080-ba46ed",
+   "path": "zakon/2014/sn080-ba46ed",
+   "short": "Zakon o nasljeđivanju u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o nasljeđivanju u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/43.htm",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 295,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/43.htm",
+     "sha256": "d293859f24bcc667a6c8a285d0f74eca7ff902c77fff9ae1224d455bf39d85ec"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-sn081-cbc480",
+   "path": "zakon/2014/sn081-cbc480",
+   "short": "Zakon o izmjenama i dopunama Zakona o lovstvu",
+   "title": "Zakon o izmjenama i dopunama Zakona o lovstvu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/45.html",
+   "versions": [
+    {
+     "from": "2014-10-11",
+     "units": 41,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2014/zakoni/45.html",
+     "sha256": "179862492455ef01a2a5275ad5855736ce61a9382907dd974ce59519d07b4fd6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn048-1f9ed1",
+   "path": "zakon/2015/sn048-1f9ed1",
+   "short": "Zakon o igrama na sreću",
+   "title": "Zakon o igrama na sreću",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/5.html",
+   "versions": [
+    {
+     "from": "2015-07-02",
+     "units": 146,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/5.html",
+     "sha256": "2982b2f1176d7b3c95365080adb9a373dd26ada84a318d1ea8156cab7182f613"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn062-3ad222",
+   "path": "zakon/2015/sn062-3ad222",
+   "short": "Zakon o radu",
+   "title": "Zakon o radu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/6.html",
+   "versions": [
+    {
+     "from": "2015-08-20",
+     "units": 206,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/6.html",
+     "sha256": "a9774173fbc891f858f0aef217f9e44a4178aa3bd05bd15dbd58903e94202681"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn081-817b7a",
+   "path": "zakon/2015/sn081-817b7a",
+   "short": "Zakon o privrednim društvima",
+   "title": "Zakon o privrednim društvima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/12.html",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 399,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/12.html",
+     "sha256": "b3f5725e8c4d65bbfac6493817b60cc36e2f22d01dce669ba2a3130735b17726"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-sn099-7d54e6",
+   "path": "zakon/2015/sn099-7d54e6",
+   "short": "Zakon o izmjenama i dopunama Zakona o državnoj službi u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o državnoj službi u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/27.html",
+   "versions": [
+    {
+     "from": "2015-12-26",
+     "units": 25,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/27.html",
+     "sha256": "ad69d30ba973b099d8876198366ec23a5cfe24e12b02158eb75ebeb11bd46474"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn015-064153",
+   "path": "zakon/2016/sn015-064153",
+   "short": "Zakon o porezu na dobit",
+   "title": "Zakon o porezu na dobit",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/2h.html",
+   "versions": [
+    {
+     "from": "2016-03-05",
+     "units": 76,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/2h.html",
+     "sha256": "0e72e1fc2ac13dbc03655478cbc6a45ee8d738786c76d1464ab96d31b0f483fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn026-6d44a5",
+   "path": "zakon/2016/sn026-6d44a5",
+   "short": "Zakon o radu",
+   "title": "Zakon o radu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/5.html",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 206,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/5.html",
+     "sha256": "07960c8588ce16064808d954b544d782d4088362a052b07a1389bd9128d762e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn026-c5f94e",
+   "path": "zakon/2016/sn026-c5f94e",
+   "short": "Zakon o trezoru u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o trezoru u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/4.html",
+   "versions": [
+    {
+     "from": "2016-04-14",
+     "units": 36,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/4.html",
+     "sha256": "84913a525185af18a8fa0e153acabeec771686ef9d643e3b0437b30c1b74d09a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn057-b0f3e6",
+   "path": "zakon/2016/sn057-b0f3e6",
+   "short": "Zakon o komasaciji",
+   "title": "Zakon o komasaciji",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/17.html",
+   "versions": [
+    {
+     "from": "2016-07-30",
+     "units": 110,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/17.html",
+     "sha256": "f4e2d6e6e565cd58673a9f4fdec93da8d2258f66871ab8255694da4d2774822e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn104-f54584",
+   "path": "zakon/2016/sn104-f54584",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2017. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2017. godinu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/27.html",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 57,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/27.html",
+     "sha256": "a07a7da448a97ee43dac5a3c224dc8c65a22fd0fc5a8d6cd7877df1edeecb16f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-sn104-a69ab8",
+   "path": "zakon/2016/sn104-a69ab8",
+   "short": "Zakon o izmjenama i dopunama Zakona o lizingu",
+   "title": "Zakon o izmjenama i dopunama Zakona o lizingu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/29.html",
+   "versions": [
+    {
+     "from": "2017-01-07",
+     "units": 26,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/29.html",
+     "sha256": "93b480d6eaa5713c6c90d81c86319e2c059f5012815532a1a64ef86b8adc27e4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn022-3fc370",
+   "path": "zakon/2017/sn022-3fc370",
+   "short": "Zakon o energijskoj efikasnosti u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o energijskoj efikasnosti u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/7.html",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 75,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/7.html",
+     "sha256": "d68b15e5a0ee517615f9bf86a053f2fdc26334b4b4a1e7ea9bb739866748c6e7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn023-052d85",
+   "path": "zakon/2017/sn023-052d85",
+   "short": "Zakon o osiguranju",
+   "title": "Zakon o osiguranju",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/8.html",
+   "versions": [
+    {
+     "from": "2017-04-06",
+     "units": 245,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/8.html",
+     "sha256": "b69adb25b9ac3b4440e59da8713e3d24ea2a7379ede3bbd0f4d27cf7261bdc45"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn025-e58be3",
+   "path": "zakon/2017/sn025-e58be3",
+   "short": "Zakon o izmjenama i dopunama Zakona o investicijskim fondovima",
+   "title": "Zakon o izmjenama i dopunama Zakona o investicijskim fondovima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/10.html",
+   "versions": [
+    {
+     "from": "2017-04-13",
+     "units": 15,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/10.html",
+     "sha256": "0f48e792ef21927f84b6d1a9f95370e593f4a772504631f0980c51b059f2ee6b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn027-95196c",
+   "path": "zakon/2017/sn027-95196c",
+   "short": "Zakon o bankama",
+   "title": "Zakon o bankama",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/12b.html",
+   "versions": [
+    {
+     "from": "2017-04-20",
+     "units": 265,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/12b.html",
+     "sha256": "3ed28cbdaff448bc46d9690c556f24423c43791b9ecabc67b33369fd6318f577"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn090-46c307",
+   "path": "zakon/2017/sn090-46c307",
+   "short": "Zakon o izmjenama i dopunama Zakona o prijevremenom povoljnijem penzionisanju branilaca odbrambeno-oslobodilačkog rata",
+   "title": "Zakon o izmjenama i dopunama Zakona o prijevremenom povoljnijem penzionisanju branilaca odbrambeno-oslobodilačkog rata",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/23.html",
+   "versions": [
+    {
+     "from": "2017-11-23",
+     "units": 7,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/23.html",
+     "sha256": "da6f6f84a0c311e2c92103fc0300339cdb80eb1d780d46d826980edb4e839f1a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-sn096-009086",
+   "path": "zakon/2017/sn096-009086",
+   "short": "Zakon o izmjenama i dopunama Zakona o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2017. godinu",
+   "title": "Zakon o izmjenama i dopunama Zakona o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2017. godinu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/26.html",
+   "versions": [
+    {
+     "from": "2017-12-14",
+     "units": 8,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2017/zakoni/26.html",
+     "sha256": "ff7bd20b8536955ae309ce30fca1e95822a8d72d5f15f71b487e834a065e77ae"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn013-0ef182",
+   "path": "zakon/2018/sn013-0ef182",
+   "short": "Zakon o penzijskom i invalidskom osiguranju",
+   "title": "Zakon o penzijskom i invalidskom osiguranju",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/7.htm",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 177,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/7.htm",
+     "sha256": "c4870f2e91ba0586ad65ad081e2cf129b7f085473780e3281bb22aa310bf18e5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn040-0866a1",
+   "path": "zakon/2018/sn040-0866a1",
+   "short": "Zakon o prestanku važenja Zakona o osnivanju Federalnog fonda za pomoć nastradalim područjima od prirodne nesreće na teritoriji Federacije Bosne i Hercegovine",
+   "title": "Zakon o prestanku važenja Zakona o osnivanju Federalnog fonda za pomoć nastradalim područjima od prirodne nesreće na teritoriji Federacije Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/13.htm",
+   "versions": [
+    {
+     "from": "2018-05-26",
+     "units": 3,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/13.htm",
+     "sha256": "4eacc6b156ef154bbe315a561e8b0558ceebc81f8564c3c2f74f5824ef030686"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-sn059-289c1e",
+   "path": "zakon/2018/sn059-289c1e",
+   "short": "Zakon o liječenju neplodnosti biomedicinski potpomognutom oplodnjom",
+   "title": "Zakon o liječenju neplodnosti biomedicinski potpomognutom oplodnjom",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/17.htm",
+   "versions": [
+    {
+     "from": "2018-08-04",
+     "units": 75,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/17.htm",
+     "sha256": "ee85a086dd5769ef5fbc2c3791a4b0daf074f6bbcac45a3383b56f3cf4774bbc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sn011-694d2c",
+   "path": "zakon/2019/sn011-694d2c",
+   "short": "Zakon o dopuni Zakona o budžetima u Federaciji Bosne i Hercegovine za 2019. godinu",
+   "title": "Zakon o dopuni Zakona o budžetima u Federaciji Bosne i Hercegovine za 2019. godinu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/3.htm",
+   "versions": [
+    {
+     "from": "2019-02-21",
+     "units": 2,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/3.htm",
+     "sha256": "6b9c23c2cbfd0b84d11034bf5842808129671b3d14f734179d9e6dd80356af93"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-sn054-e07359",
+   "path": "zakon/2019/sn054-e07359",
+   "short": "Zakon o pravima demobiliziranih branilaca i članova njihovih porodica",
+   "title": "Zakon o pravima demobiliziranih branilaca i članova njihovih porodica",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/15.htm",
+   "versions": [
+    {
+     "from": "2019-08-08",
+     "units": 56,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/15.htm",
+     "sha256": "1b3203103d299067434f4e070d8cc5d80099e52b623d8ac92240c01f6a16b241"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn018-398642",
+   "path": "zakon/2020/sn018-398642",
+   "short": "Zakon o visini stope zatezne kamate",
+   "title": "Zakon o visini stope zatezne kamate",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/3.htm",
+   "versions": [
+    {
+     "from": "2020-03-14",
+     "units": 7,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/3.htm",
+     "sha256": "8acb4b8541b456fc80a5825143013b9936630c5ae5fd4ffd3cf834f1d42bc95a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn074-1d14d0",
+   "path": "zakon/2020/sn074-1d14d0",
+   "short": "Zakon o izmjenama i dopunama Zakona o krivičnom postupku",
+   "title": "Zakon o izmjenama i dopunama Zakona o krivičnom postupku",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/14.htm",
+   "versions": [
+    {
+     "from": "2020-10-17",
+     "units": 8,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/14.htm",
+     "sha256": "9e614c7d29388e0155cd665857b3499e206dbe1aa37994f6e9b4261bde08d189"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn074-16430e",
+   "path": "zakon/2020/sn074-16430e",
+   "short": "Zakon o izmjenama i dopunama Zakona o faktoringu",
+   "title": "Zakon o izmjenama i dopunama Zakona o faktoringu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/12.htm",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 4,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/12.htm",
+     "sha256": "366a066b962bb43f25faa67f8c79772eca1ecdfb37cb23e02d6b5baff11fd6c9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn074-9cccf8",
+   "path": "zakon/2020/sn074-9cccf8",
+   "short": "Zakon o izmjeni Zakona o zaštiti i postupanju sa djecom i maloljetnicima u krivičnom postupku",
+   "title": "Zakon o izmjeni Zakona o zaštiti i postupanju sa djecom i maloljetnicima u krivičnom postupku",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/13.htm",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 2,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/13.htm",
+     "sha256": "3cdfeb0bc7610de75d74b229aebb3614896fabd92696962efc303e01831f2f82"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2020-sn077-711715",
+   "path": "zakon/2020/sn077-711715",
+   "short": "Zakon o sudskoj policiji u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o sudskoj policiji u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/16.htm",
+   "versions": [
+    {
+     "from": "2020-10-31",
+     "units": 176,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/16.htm",
+     "sha256": "52d80a138268a21bf8e9b63342ee0162c20961904f3f16d820fb31c4daac8efd"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn004-921cb9",
+   "path": "zakon/2021/sn004-921cb9",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2021. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2021. godinu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/5-5.htm",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 57,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/5-5.htm",
+     "sha256": "679e4b2027d4d824b864a0b11712195886f559229f98d9805ff37871fde9437b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn004-e82f78",
+   "path": "zakon/2021/sn004-e82f78",
+   "short": "Zakon o izmjeni Zakona o doprinosima",
+   "title": "Zakon o izmjeni Zakona o doprinosima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/4-4.htm",
+   "versions": [
+    {
+     "from": "2021-01-20",
+     "units": 2,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/4-4.htm",
+     "sha256": "e141b710042cc5d942da9dce0133cb15822e897c9e11a9a1761269ffce4c15fc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn007-2e5a56",
+   "path": "zakon/2021/sn007-2e5a56",
+   "short": "Zakon o Registru finansijskih izvještaja",
+   "title": "Zakon o Registru finansijskih izvještaja",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/6-6.htm",
+   "versions": [
+    {
+     "from": "2021-02-04",
+     "units": 23,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/6-6.htm",
+     "sha256": "614a28ca0e1d1d2c402f482cfe54b7af8c8f56385749b1c03302c3d3b5fa7cd3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn011-5121ec",
+   "path": "zakon/2021/sn011-5121ec",
+   "short": "Zakon o dopunama Zakona o vanparničnom postupku",
+   "title": "Zakon o dopunama Zakona o vanparničnom postupku",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/7-7.htm",
+   "versions": [
+    {
+     "from": "2021-02-11",
+     "units": 2,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/7-7.htm",
+     "sha256": "ee4840faa6a7b62a99683e30606ef7260500b9284162f91a4ef28f09e05c85a3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn015-9c7955",
+   "path": "zakon/2021/sn015-9c7955",
+   "short": "Zakon o računovodstvu i reviziji u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o računovodstvu i reviziji u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/8-8.htm",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 149,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/8-8.htm",
+     "sha256": "c3e66debedd426f8b8e9c58bd3f4d6d797d0d5122abf35814aec930c3cff716a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn015-db6ac2",
+   "path": "zakon/2021/sn015-db6ac2",
+   "short": "Zakon o zaštiti okoliša",
+   "title": "Zakon o zaštiti okoliša",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/9-9.htm",
+   "versions": [
+    {
+     "from": "2021-03-04",
+     "units": 167,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/9-9.htm",
+     "sha256": "fd61d96ab85acf4c36b9e832d7814c85652bacdca99eb1f7ca306254bb0ae14a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn024-d26bbe",
+   "path": "zakon/2021/sn024-d26bbe",
+   "short": "Zakon o Јedinstvenom registru taksi i naknada u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o Јedinstvenom registru taksi i naknada u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/10bos.htm",
+   "versions": [
+    {
+     "from": "2021-04-03",
+     "units": 27,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/10bos.htm",
+     "sha256": "97977b7da48029a030d5a9e286a98cfec8b9d7ab9c1bc97971f8a0696279575f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn048-8a9a2d",
+   "path": "zakon/2021/sn048-8a9a2d",
+   "short": "Zakon o izmjenama Zakona o visini stope zatezne kamate na javne prihode",
+   "title": "Zakon o izmjenama Zakona o visini stope zatezne kamate na javne prihode",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/13bos.htm",
+   "versions": [
+    {
+     "from": "2021-06-19",
+     "units": 3,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/13bos.htm",
+     "sha256": "5eec1150dc0acdc4d93a37103c601072a98bb66a824ef8dbf880f751ea9ffe8b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn048-e6d1c5",
+   "path": "zakon/2021/sn048-e6d1c5",
+   "short": "Zakon o izmjenama Zakona o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2021. godinu",
+   "title": "Zakon o izmjenama Zakona o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2021. godinu",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/12bos.htm",
+   "versions": [
+    {
+     "from": "2021-06-19",
+     "units": 2,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/12bos.htm",
+     "sha256": "c9190156f08da837a08d8bb132b71a86bef4d0d43eb0f263e36425376bacdea1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn048-f3f835",
+   "path": "zakon/2021/sn048-f3f835",
+   "short": "Zakon o izmjenama Zakona o finansijskoj konsolidaciji privrednih društava u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama Zakona o finansijskoj konsolidaciji privrednih društava u Federaciji Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/11bos.htm",
+   "versions": [
+    {
+     "from": "2021-06-26",
+     "units": 6,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/11bos.htm",
+     "sha256": "e9d01eaefee5a2e5f4625640b57fa76f29472f99a91be124871dc21635d1a0e6"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn049-6120c1",
+   "path": "zakon/2021/sn049-6120c1",
+   "short": "Zakon o mirnom rješavanju radnih sporova",
+   "title": "Zakon o mirnom rješavanju radnih sporova",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/14BOS.htm",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 39,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/14BOS.htm",
+     "sha256": "4b20127ba08636e83fccb700cc0aae7264591bcb15cc6ee56e49600fac0aab29"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn053-d87a47",
+   "path": "zakon/2021/sn053-d87a47",
+   "short": "Zakon o stečaju",
+   "title": "Zakon o stečaju",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/15BOS.htm",
+   "versions": [
+    {
+     "from": "2021-07-15",
+     "units": 307,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/15BOS.htm",
+     "sha256": "6a0862c6a544f8b5fd058e114a2e7eece8b5c036f1abc3368a283e32a20e0326"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn055-444e87",
+   "path": "zakon/2021/sn055-444e87",
+   "short": "Zakon o infrastrukturi prostornih podataka Federacije Bosne i Hercegovine",
+   "title": "Zakon o infrastrukturi prostornih podataka Federacije Bosne i Hercegovine",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/16bos.htm",
+   "versions": [
+    {
+     "from": "2021-07-22",
+     "units": 37,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/16bos.htm",
+     "sha256": "bb83d6a83bfa98f1b03a3618864b83fecd2b31270f2ffda61ec697e9ea9a25be"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn075-395319",
+   "path": "zakon/2021/sn075-395319",
+   "short": "Zakon o izmjenama i dopunama Zakona o privrednim društvima",
+   "title": "Zakon o izmjenama i dopunama Zakona o privrednim društvima",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/17bosanski.htm",
+   "versions": [
+    {
+     "from": "2021-09-23",
+     "units": 6,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/17bosanski.htm",
+     "sha256": "578687a62b257085dcd1ddfd4c74557da1dd5fd51edf9e38b20711ed572fac0c"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-sn075-0ca58f",
+   "path": "zakon/2021/sn075-0ca58f",
+   "short": "Zakon o posredovanju u prometu nekretnina",
+   "title": "Zakon o posredovanju u prometu nekretnina",
+   "url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/19bosanski.htm",
+   "versions": [
+    {
+     "from": "2021-09-30",
+     "units": 42,
+     "source_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/19bosanski.htm",
+     "sha256": "6ba9e9f51124ba844231628fbdec0e0afc2a155d882fc640b2fee8f9078f30b7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn025-25d61d",
+   "path": "zakon/2022/sn025-25d61d",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2022. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2022. godinu",
+   "url": "https://fbihvlada.gov.ba/bs/14-zakon-o-izvrsavanju-budzeta-federacije-bosne-i-hercegovine-za-2022-godinu",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 57,
+     "source_url": "https://fbihvlada.gov.ba/bs/14-zakon-o-izvrsavanju-budzeta-federacije-bosne-i-hercegovine-za-2022-godinu",
+     "sha256": "b21f0cc13ea52f15e7dd639cc9f5e68072e4af796a6fac93ce97bac5a51219df"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn025-4e1daa",
+   "path": "zakon/2022/sn025-4e1daa",
+   "short": "Zakon o izmjenama i dopunama Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopunama Zakona o budžetima u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/17-zakon-o-izmjenama-i-dopunama-zakona-o-budzetima-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2022-04-01",
+     "units": 35,
+     "source_url": "https://fbihvlada.gov.ba/bs/17-zakon-o-izmjenama-i-dopunama-zakona-o-budzetima-u-federaciji-bosne-i-hercegovine",
+     "sha256": "ce1be38dbc42bc76bfdcece6327c07c670ef3a7f8787ccd8b688e28ae63da338"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn052-0a874a",
+   "path": "zakon/2022/sn052-0a874a",
+   "short": "Zakon o materijalnoj podršci porodicama s djecom u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o materijalnoj podršci porodicama s djecom u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/29-zakon-o-materijalnoj-podrsci-porodicama-s-djecom-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2022-07-09",
+     "units": 61,
+     "source_url": "https://fbihvlada.gov.ba/bs/29-zakon-o-materijalnoj-podrsci-porodicama-s-djecom-u-federaciji-bosne-i-hercegovine",
+     "sha256": "ed9669f5d1ecdc7c89ee45ee6d2ce09061daf1764b7aafb3fd27fe75a7c96cf3"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn061-2fa64e",
+   "path": "zakon/2022/sn061-2fa64e",
+   "short": "Zakon o dopunama Zakona o premjeru i katastru nekretnina",
+   "title": "Zakon o dopunama Zakona o premjeru i katastru nekretnina",
+   "url": "https://fbihvlada.gov.ba/bs/37-zakon-o-dopunama-zakona-o-premjeru-i-katastru-nekretnina",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 3,
+     "source_url": "https://fbihvlada.gov.ba/bs/37-zakon-o-dopunama-zakona-o-premjeru-i-katastru-nekretnina",
+     "sha256": "5875b175df4c30042cf89bf843f6bd34880346445ec669b40c8e624624ed551b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-sn061-a87781",
+   "path": "zakon/2022/sn061-a87781",
+   "short": "Zakon o dopunama Zakona o premjeru i katastru zemljišta",
+   "title": "Zakon o dopunama Zakona o premjeru i katastru zemljišta",
+   "url": "https://fbihvlada.gov.ba/bs/36-zakon-o-dopunama-zakona-o-premjeru-i-katastru-zemljista",
+   "versions": [
+    {
+     "from": "2022-08-11",
+     "units": 3,
+     "source_url": "https://fbihvlada.gov.ba/bs/36-zakon-o-dopunama-zakona-o-premjeru-i-katastru-zemljista",
+     "sha256": "8a602fcb3998f2daf8779920bc83588524a98d18e6be0b5170610a129ff5ef90"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn006-185814",
+   "path": "zakon/2023/sn006-185814",
+   "short": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2023. godinu",
+   "title": "Zakon o izvršavanju Budžeta Federacije Bosne i Hercegovine za 2023. godinu",
+   "url": "https://fbihvlada.gov.ba/bs/3-zakon-o-izvrsavanju-budzeta-federacije-bosne-i-hercegovine-za-2023-godinu-15657",
+   "versions": [
+    {
+     "from": "2023-01-28",
+     "units": 58,
+     "source_url": "https://fbihvlada.gov.ba/bs/3-zakon-o-izvrsavanju-budzeta-federacije-bosne-i-hercegovine-za-2023-godinu-15657",
+     "sha256": "e251d62de698dcd5a0e97e23207a84496fae6adbab10efeca29cc8fc9decfacb"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-sn094-4ae86b",
+   "path": "zakon/2023/sn094-4ae86b",
+   "short": "Zakon o izmjenama i dopuni Zakona o finansijskoj konsolidaciji privrednih društava u Federaciji Bosne i Hercegovine",
+   "title": "Zakon o izmjenama i dopuni Zakona o finansijskoj konsolidaciji privrednih društava u Federaciji Bosne i Hercegovine",
+   "url": "https://fbihvlada.gov.ba/bs/17-zakon-o-izmjenama-i-dopuni-zakona-o-finansijskoj-konsolidaciji-privrednih-drustava-u-federaciji-bosne-i-hercegovine",
+   "versions": [
+    {
+     "from": "2023-12-14",
+     "units": 6,
+     "source_url": "https://fbihvlada.gov.ba/bs/17-zakon-o-izmjenama-i-dopuni-zakona-o-finansijskoj-konsolidaciji-privrednih-drustava-u-federaciji-bosne-i-hercegovine",
+     "sha256": "28f6481e450d540e64f2cd772290c39111195ea72b7ef77a648c4452e6df44b4"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-sn047-03123d",
+   "path": "zakon/2024/sn047-03123d",
+   "short": "Zakon o dopuni Zakona o utvrđivanju naseljenih mjesta i izmjenama u nazivima naseljenih mjesta u određenim opštinama",
+   "title": "Zakon o dopuni Zakona o utvrđivanju naseljenih mjesta i izmjenama u nazivima naseljenih mjesta u određenim opštinama",
+   "url": "https://fbihvlada.gov.ba/bs/zakon-o-dopuni-zakona-o-utvrdivanju-naseljenih-mjesta-i-izmjenama-u-nazivima-naseljenih-mjesta-u-odredenim-opstinama",
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "units": 4,
+     "source_url": "https://fbihvlada.gov.ba/bs/zakon-o-dopuni-zakona-o-utvrdivanju-naseljenih-mjesta-i-izmjenama-u-nazivima-naseljenih-mjesta-u-odredenim-opstinama",
+     "sha256": "8643559226be12dc0fc65b317167bbe36850f982a9b4f57100e8ae9a59da2acf"
+    }
+   ]
   }
  ]
 }
