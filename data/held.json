@@ -1,0 +1,3157 @@
+{
+"note": "Laws of the Federation listed in the gazette publisher's index of Službene novine Federacije BiH that are not in this repository, each with the reason and its official page (the Government's page for the law where there is one, else the gazette issue's page in the publisher's index).",
+"as_of": "2026-11-09",
+"count": 350,
+"acts": [
+{
+"gazette": "1/94",
+"gazette_day": "1994-07-21",
+"kind": "law",
+"title": "ZAKON O VLADI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/3K5z19RKzVQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/3K5z19RKzVQ="
+},
+{
+"gazette": "1/94",
+"gazette_day": "1994-07-21",
+"kind": "law",
+"title": "ZAKON O SLUŽBENIM NOVINAMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/3K5z19RKzVQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/3K5z19RKzVQ="
+},
+{
+"gazette": "2/94",
+"gazette_day": "1994-08-01",
+"kind": "law",
+"title": "ZAKON O MINISTARSTVIMA I DRUGIM ORGANIMA DRŽAVNE UPRAVE FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/CKCmEEPC18s=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/CKCmEEPC18s="
+},
+{
+"gazette": "2/94",
+"gazette_day": "1994-08-01",
+"kind": "law",
+"title": "ZAKON O PEČATU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/CKCmEEPC18s=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/CKCmEEPC18s="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O FEDERALNOM TUŽILAŠTVU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA ZAKONA O MINISTARSTVIMA I DRUGIM ORGANIMA DRŽAVNE UPRAVE FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O AMNESTIJI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O HUMANITARNOJ POMOĆI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O PRAVOSUDNOM ISPITU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O TRŽIŠNOJ INSPEKCIJI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O TRGOVINI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O FEDERALNOM PRAVOBRANILAŠTVU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O KONTROLI CIJENA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O VRHOVNOM SUDU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O RASELJENIM LICIMA - PROGNANICIMA I IZBJEGLICAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O STRANIM ULAGANJIMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O SLOBODNIM ZONAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O PREDUZEĆIMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O VANJSKOTRGOVINSKOM POSLOVANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O BANKAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O FINANCIJSKOM POSLOVANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O CARINSKOJ TARIFI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O CARINSKOJ SLUŽBI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O UNUTRAŠNJEM PLATNOM PROMETU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O RAČUNOVODSTVU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O REVIZIJI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O OSIGURANJU IMOVINE I OSOBA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "CARINSKI ZAKON",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O FINANSIJSKOJ POLICIJI-FINANCIJSKOJ POLICIJI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "2/95",
+"gazette_day": "1995-02-11",
+"kind": "law",
+"title": "ZAKON O POSEBNOJ PRISTOJBI NA UVEZENU ROBU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DhehVZ58FKM="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSTUPKU ZA UPIS U SUDSKI REGISTAR",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSTUPKU PRED USTAVNIM SUDOM FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O SUDU ZA LJUDSKA PRAVA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O OSNOVAMA LOKALNE SAMOUPRAVE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O UDRUŽIVANJU GRAĐANA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O STATISTIČKIM ISTRAŽIVANJIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O PRIVREDNIM PRIJESTUPIMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POREZU NA PROMET PROIZVODA I USLUGA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA NAFTNE DERIVATE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA PIVO",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA KAHVU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA UVOZ PUTNIČKIH AUTOMOBILA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA BEZALKOHOLNA PIĆA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA ALKOHOL",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O POSEBNOM POREZU NA DUHANSKE PRERAĐEVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "6/95",
+"gazette_day": "1995-11-08",
+"kind": "law",
+"title": "ZAKON O STANDARDNOJ KLASIFIKACIJI DJELATNOSTI U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0OUNHiJl4XY="
+},
+{
+"gazette": "8/95",
+"gazette_day": "1995-12-27",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VLADI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/XLXptyaMHxc=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/XLXptyaMHxc="
+},
+{
+"gazette": "8/95",
+"gazette_day": "1995-12-27",
+"kind": "law",
+"title": "ZAKON O FEDERALNIM MINISTARSTVIMA I DRUGIM ORGANIMA FEDERALNE UPRAVE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/XLXptyaMHxc=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/XLXptyaMHxc="
+},
+{
+"gazette": "8/95",
+"gazette_day": "1995-12-27",
+"kind": "law",
+"title": "ZAKON O FEDERALNIM MINISTARSTVIMA I DRUGIM TIJELIMA FEDERALNE UPRAVE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/XLXptyaMHxc=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/XLXptyaMHxc="
+},
+{
+"gazette": "1/96",
+"gazette_day": "1996-02-01",
+"kind": "law",
+"title": "ZAKON O UNUTRAŠNJIM POSLOVIMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/o%20un%20pos%20fed%20bih.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/nrQsPefC4tY="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "law",
+"title": "ZAKON O PREKRŠAJIMA KOJIMA SE POVREĐUJU FEDERALNI PROPISI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "law",
+"title": "ZAKON O FEDERALNIM JEDINICAMA (KANTONIMA - ŽUPANIJAMA)",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FEDERALNIM MINISTARSTVIMA I DRUGIM TIJELIMA FEDERALNE UPRAVE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "law",
+"title": "ZAKON O POMILOVANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "law",
+"title": "ZAKON O AMNESTIJI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA ZAKONA O FEDERALNOM TUŽITELJSTVU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA ZAKONA O VRHOVNOM SUDU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "law",
+"title": "ZAKON O AGENCIJI ZA BANKARSTVO FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O BANKAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA CARINSKOG ZAKONA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "budget",
+"title": "ZAKON O PRORAČUNU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU PRORAČUNA FEDERACIJE BOSNE I HERCEGOVINE ZA 1996. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "9/96",
+"gazette_day": "1996-06-30",
+"kind": "law",
+"title": "ZAKON O IZRUČENJU OKRIVLJENIH OSOBA PO ZAHTJEVU MEĐUNARODNOG SUDA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KCohz4nh78h778PJuQ8BQ="
+},
+{
+"gazette": "15/96",
+"gazette_day": "1996-08-26",
+"kind": "law",
+"title": "ZAKON O OBRANI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/1IZoWhHayDo=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/1IZoWhHayDo="
+},
+{
+"gazette": "18/96",
+"gazette_day": "1996-10-01",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA CARINSKOG ZAKONA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20iz%20i%20dop%20car.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/dA7d1e06mTw="
+},
+{
+"gazette": "18/96",
+"gazette_day": "1996-10-01",
+"kind": "law",
+"title": "ZAKON O VISINI STOPE ZATEZNE KAMATE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20zat%20kamatama.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/dA7d1e06mTw="
+},
+{
+"gazette": "18/96",
+"gazette_day": "1996-10-01",
+"kind": "law",
+"title": "ZAKON O POREZNOJ UPRAVI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20poreznoj%20upr.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/dA7d1e06mTw="
+},
+{
+"gazette": "18/96",
+"gazette_day": "1996-10-01",
+"kind": "law",
+"title": "ZAKON O AGENCIJI ZA PRIVATIZACIJU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20agen%20za%20priv.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/dA7d1e06mTw="
+},
+{
+"gazette": "19/96",
+"gazette_day": "1996-10-10",
+"kind": "law",
+"title": "ZAKON O SUDSKOJ POLICIJI",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20sudskoj%20pol.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DfKnOf1kNFM="
+},
+{
+"gazette": "19/96",
+"gazette_day": "1996-10-10",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O AMNESTIJI",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20izmj%20zak%20o%20amnestiji.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DfKnOf1kNFM="
+},
+{
+"gazette": "19/96",
+"gazette_day": "1996-10-10",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O TRGOVINI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20izmj%20i%20dop%20trg.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DfKnOf1kNFM="
+},
+{
+"gazette": "19/96",
+"gazette_day": "1996-10-10",
+"kind": "law",
+"title": "ZAKON O TURISTIČKO-UGOSTITELJSKOJ DJELATNOSTI",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20turizmu%20i%20ugost.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DfKnOf1kNFM="
+},
+{
+"gazette": "19/96",
+"gazette_day": "1996-10-10",
+"kind": "law",
+"title": "ZAKON O TURISTIČKIM ZAJEDNICAMA I PROMICANJU TURIZMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20turistickim%20zajed.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/DfKnOf1kNFM="
+},
+{
+"gazette": "21/96",
+"gazette_day": "1996-11-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PEČATU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20pecatu.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/F9mmajujPCU="
+},
+{
+"gazette": "26/96",
+"gazette_day": "1996-12-30",
+"kind": "law",
+"title": "ZAKON O UPOTREBI GRBA I ZASTAVE FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20upotrebi%20grba%20i%20zast.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/E1gztz5k76kjn45hSohz4nh78h77DSaVdc="
+},
+{
+"gazette": "26/96",
+"gazette_day": "1996-12-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O GRBU I ZASTAVI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20izmj%20o%20grbu%20i%20zast.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/E1gztz5k76kjn45hSohz4nh78h77DSaVdc="
+},
+{
+"gazette": "26/96",
+"gazette_day": "1996-12-30",
+"kind": "law",
+"title": "ZAKON O PRIPADNOSTI JAVNIH PRIHODA U FEDERACIJI BOSNE I HERCEGOVINE I FINANCIRANJU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20prip%20javnih%20prih.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/E1gztz5k76kjn45hSohz4nh78h77DSaVdc="
+},
+{
+"gazette": "26/96",
+"gazette_day": "1996-12-30",
+"kind": "law",
+"title": "ZAKON O POREZU NA PLAĆU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1996/zakoni/id%20o%20porezu%20na%20placu.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/E1gztz5k76kjn45hSohz4nh78h77DSaVdc="
+},
+{
+"gazette": "14/97",
+"gazette_day": "1997-06-16",
+"kind": "law",
+"title": "ZAKON O POTVRĐIVANJU ZAKONA KOJE JE DONIJELA USTAVOTVORNA SKUPŠTINA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20potvr%20zak%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/D3kRRmohz4nh78h77UqMk="
+},
+{
+"gazette": "21/97",
+"gazette_day": "1997-09-13",
+"kind": "law",
+"title": "ZAKON O KONTROLI KAKVOĆE ODREĐENIH PROIZVODA PRI UVOZU I IZVOZU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20kont%20kakv%20pri%20uv%20i%20izv.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/xQgztz5k76kjn45hbQOAaEPE="
+},
+{
+"gazette": "22/97",
+"gazette_day": "1997-09-20",
+"kind": "law",
+"title": "ZAKON O SLUŽBENOM GLASILU BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0geyT4D0XGA=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0geyT4D0XGA="
+},
+{
+"gazette": "25/97",
+"gazette_day": "1997-11-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O BANKAMA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20izm%20i%20dop%20bank.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/AHgTJY8fqu0="
+},
+{
+"gazette": "25/97",
+"gazette_day": "1997-11-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA PROMET PROIZVODA I USLUGA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20izm%20i%20dop%20por%20na%20prom.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/AHgTJY8fqu0="
+},
+{
+"gazette": "25/97",
+"gazette_day": "1997-11-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA CARINSKOG ZAKONA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20izm%20car%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/AHgTJY8fqu0="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "law",
+"title": "ZAKON O PRODAJI STANOVA NA KOJIMA POSTOJI STANARSKO PRAVO",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20prod%20st%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "law",
+"title": "ZAKON O UTVRĐIVANJU I REALIZACIJI POTRAŽIVANJA GRAĐANA U POSTUPKU PRIVATIZACIJE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20trazb%20u%20priv%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "law",
+"title": "ZAKON O PODSTICAJNIM I ZAŠTITNIM MJERAMA DOMAĆE PROIZVODNJE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20pot%20i%20zas%20mj%20dom%20pr%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "law",
+"title": "ZAKON O PRIVATIZACIJI PREDUZEĆA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20priv%20pred%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "law",
+"title": "ZAKON O PLAĆAMA SUDIJA SUDOVA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20pl%20sud%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "law",
+"title": "ZAKON O UVJETIMA I NAČINU OBAVLJANJA DJELATNOSTI REZANJA DRVETA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20rez%20drv%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "27/97",
+"gazette_day": "1997-11-28",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU PRORAČUNA - BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 1997. GODINU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20izvr%20proracuna.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2pxSuebCwYY="
+},
+{
+"gazette": "28/97",
+"gazette_day": "1997-12-04",
+"kind": "law",
+"title": "ZAKON O UPRAVI U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20upr%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iJju3ztTzDE="
+},
+{
+"gazette": "28/97",
+"gazette_day": "1997-12-04",
+"kind": "law",
+"title": "ZAKON O ZADRUGAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20zadr%20(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iJju3ztTzDE="
+},
+{
+"gazette": "29/97",
+"gazette_day": "1997-12-13",
+"kind": "law",
+"title": "ZAKON O ZDRAVSTVENOJ ZAŠTITI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20zdravstvenoj%20zastiti(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/hFn0P9vZu2g="
+},
+{
+"gazette": "30/97",
+"gazette_day": "1997-12-25",
+"kind": "law",
+"title": "ZAKON O ZDRAVSTVENOM OSIGURANJU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1997/zakoni/o%20zdr%20osig(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Yt1LrRG6e18="
+},
+{
+"gazette": "33/97",
+"gazette_day": "1997-12-31",
+"kind": "law",
+"title": "ZAKON O POREZU NA DOBIT PODUZEĆA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/2ijohz4nh78h77uQWKFhc=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/2ijohz4nh78h77uQWKFhc="
+},
+{
+"gazette": "2/98",
+"gazette_day": "1998-01-20",
+"kind": "law",
+"title": "ZAKON O UPRAVNOM POSTUPKU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/1%20b%20zakon_o_upravnom_postupku.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5VYdIERVPMI="
+},
+{
+"gazette": "2/98",
+"gazette_day": "1998-01-20",
+"kind": "law",
+"title": "ZAKON O VANPARNIČNOM POSTUPKU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/2%20b%20zakon_o_vanparnickom_postupku.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5VYdIERVPMI="
+},
+{
+"gazette": "2/98",
+"gazette_day": "1998-01-20",
+"kind": "law",
+"title": "ZAKON O UPRAVNIM SPOROVIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/3%20b%20zakon_o_upravnim_sporovima.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5VYdIERVPMI="
+},
+{
+"gazette": "2/98",
+"gazette_day": "1998-01-20",
+"kind": "law",
+"title": "ZAKON O POLJOPRIVREDNOM ZEMLJIŠTU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/4%20b%20zakon_o_poljoprivrednom_zemljistu.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5VYdIERVPMI="
+},
+{
+"gazette": "4/98",
+"gazette_day": "1998-02-18",
+"kind": "law",
+"title": "ZAKON O PRIZNAVANJU JAVNIH ISPRAVA NA TERITORIJI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/5%20b%20priz%20jav%20ispr.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/MVD1HUgztz5k76kjn45h8vbI="
+},
+{
+"gazette": "6/98",
+"gazette_day": "1998-03-09",
+"kind": "amending",
+"title": "ZAKON O KONSTITUIRANJU NOVIH OPĆINA U FEDERACIJI BOSNE I HERCEGOVINE I IZMJENI PODRUČJA OPĆINA PODIJELJENIH MEĐUENTITETSKOM I MEĐUKANTONALNOM-MEĐUŽUPANIJSKOM CRTOM",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/6%20b%20kons%20novi%20opcina.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZFFbktbvd74="
+},
+{
+"gazette": "6/98",
+"gazette_day": "1998-03-09",
+"kind": "law",
+"title": "ZAKON O OGRANIČENOJ UPOTREBI DUHANSKIH PRERAĐEVINA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/7%20b%20zakon%20o%20granic.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZFFbktbvd74="
+},
+{
+"gazette": "6/98",
+"gazette_day": "1998-03-09",
+"kind": "law",
+"title": "ZAKON O VLASNIČKO-PRAVNIM ODNOSIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/8%20zakon%20b%20o%20vlas-pravnim%20odnosima.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZFFbktbvd74="
+},
+{
+"gazette": "6/98",
+"gazette_day": "1998-03-09",
+"kind": "law",
+"title": "ZAKON O FEDERALNIM UPRAVNIM PRISTOJBAMA I TARIFI FEDERALNIH UPRAVNIH PRISTOJBI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/9%20zakon%20b%20o%20fed%20upravnim%20postrojbama%20i%20tarifi.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZFFbktbvd74="
+},
+{
+"gazette": "6/98",
+"gazette_day": "1998-03-09",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O OSIGURANJU IMOVINE I OSOBA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/10%20zak%20b%20oosiguranje%20imovine%20i%20osoba.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZFFbktbvd74="
+},
+{
+"gazette": "11/98",
+"gazette_day": "1998-04-03",
+"kind": "repeal",
+"title": "ZAKON O PRESTANKU PRIMJENE ZAKONA O NAPUŠTENIM STANOVIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/11%20zak%20b%20o%20napustenim%20stanovima.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/uOLYkOvMegztz5k76kjn45hY="
+},
+{
+"gazette": "11/98",
+"gazette_day": "1998-04-03",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRODAJI STANOVA NA KOJIMA POSTOJI STANARSKO PRAVO",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/12%20zak%20b%20o%20prodaji%20stanova%20sa%20stan%20pravom.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/uOLYkOvMegztz5k76kjn45hY="
+},
+{
+"gazette": "11/98",
+"gazette_day": "1998-04-03",
+"kind": "law",
+"title": "ZAKON O PREUZIMANJU ZAKONA O STAMBENIM ODNOSIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/13%20zak%20b%20o%20stambenim%20odnosima.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/uOLYkOvMegztz5k76kjn45hY="
+},
+{
+"gazette": "11/98",
+"gazette_day": "1998-04-03",
+"kind": "repeal",
+"title": "ZAKON O PRESTANKU PRIMJENE ZAKONA O PRIVREMENO NAPUŠTENIM NEKRETNINAMA U SVOJINI GRAĐANA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/14%20zak%20b%20o%20%20priv%20napustenim%20nekretninama.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/uOLYkOvMegztz5k76kjn45hY="
+},
+{
+"gazette": "12/98",
+"gazette_day": "1998-04-08",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O REVIZIJI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/15%20b%20izmjen%20i%20dopun.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aly1gFDIqno="
+},
+{
+"gazette": "12/98",
+"gazette_day": "1998-04-08",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O RAČUNOVODSTVU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/16%20b%20iz%20i%20do%20tacunovodstvo.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aly1gFDIqno="
+},
+{
+"gazette": "12/98",
+"gazette_day": "1998-04-08",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FEDERALNOM PRAVOBRANILAŠTVU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/18%20b%20izmjen%20i%20dop%20zak%20prav.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aly1gFDIqno="
+},
+{
+"gazette": "12/98",
+"gazette_day": "1998-04-08",
+"kind": "law",
+"title": "ZAKON O POČETNOM BILANSU STANJA PREDUZEĆA I BANAKA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/19%20b%20poc%20bil%20stanja%20zak.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aly1gFDIqno="
+},
+{
+"gazette": "12/98",
+"gazette_day": "1998-04-08",
+"kind": "law",
+"title": "ZAKON O PRIVATIZACIJI BANAKA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/20%20b%20zakon%20priv%20banak.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aly1gFDIqno="
+},
+{
+"gazette": "13/98",
+"gazette_day": "1998-04-11",
+"kind": "law",
+"title": "ZAKON O RADNIM ODNOSIMA I PLAĆAMA SLUŽBENIKA ORGANA UPRAVE U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/21%20b%20zakon%20o%20rad%20odnos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/8bgztz5k76kjn45hFoiohz4nh78h770sSk="
+},
+{
+"gazette": "15/98",
+"gazette_day": "1998-04-23",
+"kind": "law",
+"title": "ZAKON O LIJEKOVIMA KOJI SE UPOTREBLJAVAJU U VETERINARSTVU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/22%20zakon%20bos%20o%20ljekovima%20koji%20se%20upot%20u%20veterinarstvu.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/tKjCZzBGLtI="
+},
+{
+"gazette": "16/98",
+"gazette_day": "1998-04-30",
+"kind": "law",
+"title": "ZAKON O FONDACIJAMA I ZAKLADAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/23%20b%20fond%20%20i%20zaklad.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/uLlgwykSmbI="
+},
+{
+"gazette": "18/98",
+"gazette_day": "1998-05-11",
+"kind": "law",
+"title": "ZAKON O VODAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/24%20b%20o%20vodama.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/m8Oohz4nh78h77MF7Jk88="
+},
+{
+"gazette": "19/98",
+"gazette_day": "1998-05-11",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O UNUTRAŠNJIM POSLOVIMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/25%20b%20izmje%20dopun%20zakona%20o%20unutras%20pos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/owh0rzv36Fw="
+},
+{
+"gazette": "20/98",
+"gazette_day": "1998-05-21",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 1998. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/MsEdgicqPWk=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/MsEdgicqPWk="
+},
+{
+"gazette": "20/98",
+"gazette_day": "1998-05-21",
+"kind": "budget",
+"title": "ZAKON O PRORAČUNIMA-BUDŽETIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/26%20%20b%20proracun%20budz%20u%20FBiH.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/MsEdgicqPWk="
+},
+{
+"gazette": "23/98",
+"gazette_day": "1998-06-11",
+"kind": "law",
+"title": "ZAKON O PRIJEVOZU U UNUTARNJEM CESTOVNOM PROMETU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/27%20b%20prijev%20u%20unut%20cest.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ELW7M6hDB1w="
+},
+{
+"gazette": "23/98",
+"gazette_day": "1998-06-11",
+"kind": "law",
+"title": "ZAKON O STEČAJU I LIKVIDACIJI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/28%20b%20stec%20i%20likvid.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ELW7M6hDB1w="
+},
+{
+"gazette": "23/98",
+"gazette_day": "1998-06-11",
+"kind": "law",
+"title": "ZAKON O MJERAMA ZA UNAPREĐIVANJE STOČARSTVA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/29%20b%20unapredivanje%20stocarstva.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ELW7M6hDB1w="
+},
+{
+"gazette": "27/98",
+"gazette_day": "1998-07-06",
+"kind": "law",
+"title": "ZAKON O NOVČANIM PRIMANJIMA POSLANIKA I DELEGATA U PARLAMENTU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/30%20b%20novcana%20primanja%20posl%20i%20delegata.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/NFK4yPWLSaA="
+},
+{
+"gazette": "27/98",
+"gazette_day": "1998-07-06",
+"kind": "law",
+"title": "ZAKON O PLAĆAMA I NAKNADAMA RUKOVODITELJA IZVRŠNIH ORGANA VLASTI FEDERACIJE BOSNE I HERCEGOVINE I SLUŽBENIKA KOJE IMENUJE ODNOSNO POSTAVLJA VLADA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/31%20b%20place%20i%20naknede%20rukovoditelja.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/NFK4yPWLSaA="
+},
+{
+"gazette": "27/98",
+"gazette_day": "1998-07-06",
+"kind": "law",
+"title": "ZAKON O POLAGANJU ISPITA ZA VOĐENJE POSTUPKA O PREKRŠAJIMA KOJIMA SE POVRIJEĐUJU FEDERALNI PROPISI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/34%20b%20polaganje%20ispita%20za%20vodenje%20postupka.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/NFK4yPWLSaA="
+},
+{
+"gazette": "29/98",
+"gazette_day": "1998-07-23",
+"kind": "law",
+"title": "ZAKON O PENZIJSKOM I INVALIDSKOM OSIGURANJU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/36%20b%20penzijsko%20i%20invalidsko%20osiguranje.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/qSBnjKMEdXE="
+},
+{
+"gazette": "32/98",
+"gazette_day": "1998-08-17",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRIPADNOSTI JAVNIH PRIHODA U FEDERACIJI BOSNE I HERCEGOVINE I FINANSIRANJU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/37%20b%20izm%20i%20dop.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/kZfmyhxfgz4="
+},
+{
+"gazette": "35/98",
+"gazette_day": "1998-09-03",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRAVOSUDNOM ISPITU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/39%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PcFdAoqFw2k="
+},
+{
+"gazette": "35/98",
+"gazette_day": "1998-09-03",
+"kind": "law",
+"title": "ZAKON O HUMANITARNOJ DJELATNOSTI I HUMANITARNIM ORGANIZACIJAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/40%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PcFdAoqFw2k="
+},
+{
+"gazette": "35/98",
+"gazette_day": "1998-09-03",
+"kind": "law",
+"title": "ZAKON O PRIKUPLJANJU, PROIZVODNJI I PROMETU SEKUNDARNIH SIROVINA I OTPADNIH MATERIJALA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/43%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PcFdAoqFw2k="
+},
+{
+"gazette": "35/98",
+"gazette_day": "1998-09-03",
+"kind": "law",
+"title": "ZAKON O PRIVREDNIM KOMORAMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its title matches the same Government page as another law in the index (the register gives one page for both): which law the page holds is not decided by hand",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/43%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PcFdAoqFw2k="
+},
+{
+"gazette": "35/98",
+"gazette_day": "1998-09-03",
+"kind": "law",
+"title": "ZAKON O DEVIZNOM POSLOVANJU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/44%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PcFdAoqFw2k="
+},
+{
+"gazette": "35/98",
+"gazette_day": "1998-09-03",
+"kind": "law",
+"title": "ZAKON O DOPRINOSIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/45%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PcFdAoqFw2k="
+},
+{
+"gazette": "39/98",
+"gazette_day": "1998-10-15",
+"kind": "law",
+"title": "ZAKON O BANKAMA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/46_bosanski.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7WU2TLkxa9A="
+},
+{
+"gazette": "39/98",
+"gazette_day": "1998-10-15",
+"kind": "law",
+"title": "ZAKON O PRIVREMENOJ OBUSTAVI OD IZVRŠENJA POTRAŽIVANJA NASTALIH ZA VRIJEME RATNOG STANJA I NEPOSREDNE RATNE OPASNOSTI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/47_bosanski.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7WU2TLkxa9A="
+},
+{
+"gazette": "39/98",
+"gazette_day": "1998-10-15",
+"kind": "law",
+"title": "ZAKON O VRIJEDNOSNIM PAPIRIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/48%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7WU2TLkxa9A="
+},
+{
+"gazette": "39/98",
+"gazette_day": "1998-10-15",
+"kind": "law",
+"title": "ZAKON O REGISTRU VRIJEDNOSNIH PAPIRA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/49%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7WU2TLkxa9A="
+},
+{
+"gazette": "39/98",
+"gazette_day": "1998-10-15",
+"kind": "law",
+"title": "ZAKON O KOMISIJI ZA VRIJEDNOSNE PAPIRE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/Armin/o%20kom%20za%20vrij%20pap(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7WU2TLkxa9A="
+},
+{
+"gazette": "41/98",
+"gazette_day": "1998-10-22",
+"kind": "law",
+"title": "ZAKON O DRUŠTVIMA ZA UPRAVLJANJE FONDOVIMA I O INVESTICIONIM FONDOVIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/Armin/o%20dr%20za%20up%20fon(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/tAMZf7m93aM="
+},
+{
+"gazette": "41/98",
+"gazette_day": "1998-10-22",
+"kind": "law",
+"title": "ZAKON O VANJSKOM DUGU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/Armin/o%20vanj%20dug%20fed%20bih(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/tAMZf7m93aM="
+},
+{
+"gazette": "41/98",
+"gazette_day": "1998-10-22",
+"kind": "law",
+"title": "ZAKON O OSIGURANJU DEPOZITA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/Armin/o%20os%20dep(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/tAMZf7m93aM="
+},
+{
+"gazette": "41/98",
+"gazette_day": "1998-10-22",
+"kind": "law",
+"title": "ZAKON O POTRAŽIVANJIMA U POSTUPKU PRIVATIZACIJE PO OSNOVU RAZLIKE PRIMANJA KORISNIKA PRAVA IZ PENZIJSKOG I INVALIDSKOG OSIGURANJA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/Armin/o%20pot%20u%20pos%20priv(bh).html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/tAMZf7m93aM="
+},
+{
+"gazette": "42/98",
+"gazette_day": "1998-11-03",
+"kind": "law",
+"title": "ZAKON O PARNIČNOM POSTUPKU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/55%20b%20zakon.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7JPucwHNN4U="
+},
+{
+"gazette": "43/98",
+"gazette_day": "1998-11-20",
+"kind": "law",
+"title": "KRIVIČNI ZAKON FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/56%20zak%20b%20krivicni%20zakon%20fed%20bih.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/GDAanPNnUqw="
+},
+{
+"gazette": "43/98",
+"gazette_day": "1998-11-20",
+"kind": "law",
+"title": "ZAKON O KRIVIČNOM POSTUPKU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/57%20zak%20b%20o%20krivicnom%20postupku.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/GDAanPNnUqw="
+},
+{
+"gazette": "44/98",
+"gazette_day": "1998-11-23",
+"kind": "law",
+"title": "ZAKON O IZVRŠENJU KRIVIČNIH SANKCIJA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1998/zakoni/58%20zak%20b%20izvrsenje%20kaznenih%20sankcija.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Eh7RV0ofK7I="
+},
+{
+"gazette": "8/99",
+"gazette_day": "1999-03-05",
+"kind": "law",
+"title": "ZAKON O ZAPOŠLJAVANJU STRANACA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakon%20o%20zaposljavanju%20stranaca.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Dgztz5k76kjn45hbyWPdohz4nh78h777QM="
+},
+{
+"gazette": "19/99",
+"gazette_day": "1999-05-28",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PREUZIMANJU ZAKONA O STAMBENIM ODNOSIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zak%20o%20id%20o%20preuz%20zakona%20o%20stamb%20odnosima.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/kC6GA3wAdPs="
+},
+{
+"gazette": "23/99",
+"gazette_day": "1999-06-21",
+"kind": "law",
+"title": "ZAKON O PRIVREDNIM DRUŠTVIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakon%20o%20privrednim%20drustvima.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JKQmSTNTwnU="
+},
+{
+"gazette": "28/99",
+"gazette_day": "1999-07-10",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 1999.GODINU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zak%20o%20izvr%20buzdeta%20fed%20bih.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KjASohz4nh78h77iQtohz4nh78h77Ic="
+},
+{
+"gazette": "36/99",
+"gazette_day": "1999-09-06",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VRIJEDNOSNIM PAPIRIMA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20vrijdnosnim%20papirima%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5gztz5k76kjn45hQhUafUnc4="
+},
+{
+"gazette": "36/99",
+"gazette_day": "1999-09-06",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KOMISIJI ZA VRIJEDNOSNE PAPIRE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20komisiji%20za%20vrijednosne%20papire%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5gztz5k76kjn45hQhUafUnc4="
+},
+{
+"gazette": "36/99",
+"gazette_day": "1999-09-06",
+"kind": "law",
+"title": "ZAKON O OSNOVAMA SOCIJALNE ZAŠTITE, ZAŠTITE CIVILNIH ŽRTAVA RATA I ZAŠTITE PORODICE SA DJECOM",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zakon%20o%20osn%20soc%20zastite.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5gztz5k76kjn45hQhUafUnc4="
+},
+{
+"gazette": "43/99",
+"gazette_day": "1999-10-28",
+"kind": "law",
+"title": "ZAKON O RADU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20radu%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/13WP1mohz4nh78h77C3nA="
+},
+{
+"gazette": "46/99",
+"gazette_day": "1999-11-20",
+"kind": "law",
+"title": "ZAKON O FEDERALNIM ROBNIM REZERVAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20fed%20robnim%20rezervama%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/yVPPsWFDjqg="
+},
+{
+"gazette": "48/99",
+"gazette_day": "1999-12-03",
+"kind": "law",
+"title": "ZAKON O AMNESTIJI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20amnestiji%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fST0h59Jkdk="
+},
+{
+"gazette": "48/99",
+"gazette_day": "1999-12-03",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FEDERALNIM MINISTARSTVIMA I DRUGIM TIJELIMA FEDERALNE UPRAVE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20id%20o%20fed%20ministarstvima%20i%20dr%20tjelima%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fST0h59Jkdk="
+},
+{
+"gazette": "48/99",
+"gazette_day": "1999-12-03",
+"kind": "budget",
+"title": "ZAKON O REVIZIJI BUDŽETA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20reviziji%20budzeta%20u%20fed%20bih.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fST0h59Jkdk="
+},
+{
+"gazette": "48/99",
+"gazette_day": "1999-12-03",
+"kind": "law",
+"title": "ZAKON O SUDSKIM TAKSAMA U POSTUPKU PRED VRHOVNIM SUDOM FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20sud%20taksama%20u%20postupku%20pred%20vrh%20sudom%20bih.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fST0h59Jkdk="
+},
+{
+"gazette": "49/99",
+"gazette_day": "1999-12-10",
+"kind": "law",
+"title": "ZAKON O JAVNOM BILJEŽNIŠTVU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/zak%20o%20javnom%20biljeznistvu%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/T5ohz4nh78h779ohz4nh78h77b13WQE="
+},
+{
+"gazette": "51/99",
+"gazette_day": "1999-12-24",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POSEBNOM POREZU NA ALKOHOL",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/1999/zakoni/zakoni%20x/alkohol%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/reSXdpLVflM="
+},
+{
+"gazette": "4/00",
+"gazette_day": "2000-02-14",
+"kind": "law",
+"title": "ZAKON O POSTUPKU UPISA PRAVNIH OSOBA U SUDSKI REGISTAR",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/2%20b%20post%20upis%20prav%20osoba%20u%20sud%20reg.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/hDCjoOIiftQ="
+},
+{
+"gazette": "8/00",
+"gazette_day": "2000-03-15",
+"kind": "law",
+"title": "ZAKON O SPREČAVANJU PRANJA NOVCA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/5%20b%20o%20sprec%20pranja%20novca.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/yoEZ7I1gztz5k76kjn45hSzk="
+},
+{
+"gazette": "8/00",
+"gazette_day": "2000-03-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FEDERALNIM UPRAVNIM PRISTOJBAMA I TARIFI FEDERALNIH UPRAVNIH PRISTOJBI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/6%20b%20o%20izmjen%20i%20dop%20zak%20fed%20uprav%20pris%20i%20tar.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/yoEZ7I1gztz5k76kjn45hSzk="
+},
+{
+"gazette": "8/00",
+"gazette_day": "2000-03-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POSEBNOM POREZU NA DUHANSKE PRERAĐEVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/7%20b%20izmjen%20i%20dopun%20zakon%20o%20poseb%20por%20duhan%20prer.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/yoEZ7I1gztz5k76kjn45hSzk="
+},
+{
+"gazette": "13/00",
+"gazette_day": "2000-04-13",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2000. GODINU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/8%20b%20izvrs%20prorac%20fbih%20za%202000.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JWcSiv6gztz5k76kjn45hDaA="
+},
+{
+"gazette": "13/00",
+"gazette_day": "2000-04-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POSEBNOM POREZU NA DUHANSKE PRERAĐEVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/9%20b%20izjen%20i%20dop%20zak%20o%20pos%20na%20duh%20preradj.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JWcSiv6gztz5k76kjn45hDaA="
+},
+{
+"gazette": "13/00",
+"gazette_day": "2000-04-13",
+"kind": "law",
+"title": "ZAKON O AMNESTIJI ZA NEDOPUŠTENO DRŽANJE MINSKO-EKSPLOZIVNIH SREDSTAVA I ORUŽJA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/11%20b%20amnes%20za%20nedop%20drzanj%20min%20eksp%20sred%20oruzj.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JWcSiv6gztz5k76kjn45hDaA="
+},
+{
+"gazette": "13/00",
+"gazette_day": "2000-04-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FINANSIJSKOM POSLOVANJU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/12%20b%20izmjen%20i%20dopun%20zakon%20o%20finan%20poslov.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JWcSiv6gztz5k76kjn45hDaA="
+},
+{
+"gazette": "13/00",
+"gazette_day": "2000-04-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O OSIGURANJU DEPOZITA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/13%20b%20iz%20i%20dom%20zk%20o%20osiguranju%20depozita.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JWcSiv6gztz5k76kjn45hDaA="
+},
+{
+"gazette": "14/00",
+"gazette_day": "2000-04-24",
+"kind": "law",
+"title": "ZAKON O ŠTRAJKU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/14%20b%20o%20strajku.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/LYRCU0UXlUE="
+},
+{
+"gazette": "15/00",
+"gazette_day": "2000-05-03",
+"kind": "law",
+"title": "ZAKON O UNUTRAŠNJEM PLATNOM PROMETU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/15%20b%20o%20unutr%20plat%20promet.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5GMZO6m5Ed8="
+},
+{
+"gazette": "18/00",
+"gazette_day": "2000-05-23",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FEDERALNOM PRAVOBRANILAŠTVU- FEDERALNOM PRAVOBRANITELJSTVU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/16%20b%20o%20izmjen%20i%20dopun%20zak%20fed%20pravbran.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0cR4ezvTVdw="
+},
+{
+"gazette": "18/00",
+"gazette_day": "2000-05-23",
+"kind": "law",
+"title": "ZAKON O JAVNIM KORPORACIJAMA OSNOVANIM PREMA ANEKSU 9. OPĆEG OKVIRNOG SPORAZUMA ZA MIR U BOSNI I HERCEGOVINI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/17%20b%20jav%20kor%20osnov%20prema%20anex.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0cR4ezvTVdw="
+},
+{
+"gazette": "19/00",
+"gazette_day": "2000-05-26",
+"kind": "law",
+"title": "ZAKON O RASELJENIM OSOBAMA - PROGNANICIMA I IZBJEGLICAMA - POVRATNICIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/18%20b%20ras%20osob-progran%20i%20izbjeg.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ohz4nh78h776bmohz4nh78h77bOsbkw="
+},
+{
+"gazette": "24/00",
+"gazette_day": "2000-06-30",
+"kind": "law",
+"title": "ZAKON O MIKROKREDITNIM ORGANIZACIJAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/19%20b%20mikro%20organ.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/NvWwblcY67U="
+},
+{
+"gazette": "29/00",
+"gazette_day": "2000-08-04",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA KRIVI�NOG ZAKONA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/22%20b%20dop%20krivic%20zak%20fbih.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/sPIpmuS7HsQ="
+},
+{
+"gazette": "29/00",
+"gazette_day": "2000-08-04",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O OSIGURANJU DEPOZITA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/23%20b%20iz%20i%20do%20zak%20osigu%20depozita.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/sPIpmuS7HsQ="
+},
+{
+"gazette": "29/00",
+"gazette_day": "2000-08-04",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O FINANSIJSKOM POSLOVANJU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/25%20b%20izm%20i%20dop%20zak%20o%20fins%20posl.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/sPIpmuS7HsQ="
+},
+{
+"gazette": "29/00",
+"gazette_day": "2000-08-04",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRIVATIZACIJI BANAKA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/26%20b%20iz%20i%20dom%20zak%20o%20priv%20banaka.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/sPIpmuS7HsQ="
+},
+{
+"gazette": "31/00",
+"gazette_day": "2000-08-23",
+"kind": "law",
+"title": "ZAKON O PRIZNAVANJU I ZAŠTITI SORTI POLJOPRIVREDNOG I ŠUMSKOG BILJA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/27%20b%20priz%20i%20zastiti%20sorti%20poljop%20i%20sums%20bilja.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/cBbqkpQJGZ0="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA ZAKONA O PRIVATIZACIJI PREDUZEĆA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/29%20b%20o%20dop%20zak%20o%20privat%20pred.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "law",
+"title": "ZAKON O MJENICI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/31%20b%20o%20mjenici.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "law",
+"title": "ZAKON O ČEKU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/32%20b%20zakon%20o%20ceku.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O RADU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/33%20b%20im%20dop%20zakona%20o%20radu.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "law",
+"title": "ZAKON O OMBUDSMENIMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/34%20b%20o%20obdusmeni.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POREZNOJ UPRAVI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/35%20b%20iz%20i%20dop%20zak%20o%20porez%20na%20prom%20proiz%20i%20usl.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "32/00",
+"gazette_day": "2000-08-30",
+"kind": "law",
+"title": "ZAKON O PLATNIM TRANSAKCIJAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/36%20b%20zakon%20o%20plat%20trans.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/11e3KKzEAMw="
+},
+{
+"gazette": "45/00",
+"gazette_day": "2000-10-25",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O AGENCIJI ZA BANKARSTVO FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/38%20b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mgztz5k76kjn45h8Ta4AalcU="
+},
+{
+"gazette": "46/00",
+"gazette_day": "2000-11-02",
+"kind": "law",
+"title": "ZAKON O CARINSKOJ SLUŽBI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/42%20b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aaaHAMcDzLQ="
+},
+{
+"gazette": "46/00",
+"gazette_day": "2000-11-02",
+"kind": "law",
+"title": "ZAKON O CARINSKIM PREKRŠAJIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/43%20b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aaaHAMcDzLQ="
+},
+{
+"gazette": "46/00",
+"gazette_day": "2000-11-02",
+"kind": "law",
+"title": "ZAKON O POSEBNIM UVJETIMA ZA OBAVLJANJE POSLOVA MEĐUNARODNE ŠPEDICIJE U VEZI SA CARINJENJEM ROBE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/44b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aaaHAMcDzLQ="
+},
+{
+"gazette": "46/00",
+"gazette_day": "2000-11-02",
+"kind": "law",
+"title": "ZAKON O VETERINARSTVU",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2000/zakoni/45b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/aaaHAMcDzLQ="
+},
+{
+"gazette": "20/01",
+"gazette_day": "2001-05-19",
+"kind": "law",
+"title": "ZAKON O SUDAČKOJ I TUŽITELJSKOJ FUNKCIJI U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/6%20b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7EJ9Sg5jSaI="
+},
+{
+"gazette": "20/01",
+"gazette_day": "2001-05-19",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VRHOVNOM SUDU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/7%20b.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7EJ9Sg5jSaI="
+},
+{
+"gazette": "32/01",
+"gazette_day": "2001-07-24",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POSTUPKU UPISA PRAVNIH OSOBA U SUDSKI REGISTAR",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/10%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/LEen5ohz4nh78h77KCgztz5k76kjn45hCU="
+},
+{
+"gazette": "32/01",
+"gazette_day": "2001-07-24",
+"kind": "law",
+"title": "ZAKON O SLOBODI PRISTUPA INFORMACIJAMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/11%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/LEen5ohz4nh78h77KCgztz5k76kjn45hCU="
+},
+{
+"gazette": "32/01",
+"gazette_day": "2001-07-24",
+"kind": "law",
+"title": "ZAKON O UTVRĐIVANJU KRITERIJA ZA ODREĐIVANJE PRVOSTUPANJSKE NADLEŽNOSTI OPĆINSKIH I KANTONALNIH SUDOVA I OPĆINSKIH I KANTONALNIH TUŽITELJSTAVA U KAZNENIM PREDMETIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/12%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/LEen5ohz4nh78h77KCgztz5k76kjn45hCU="
+},
+{
+"gazette": "32/01",
+"gazette_day": "2001-07-24",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O MIROVINSKOM I INVALIDSKOM OSIGURANJU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/13%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/LEen5ohz4nh78h77KCgztz5k76kjn45hCU="
+},
+{
+"gazette": "32/01",
+"gazette_day": "2001-07-24",
+"kind": "law",
+"title": "ZAKON O ORGANIZACIJI MIROVINSKOG I INVALIDSKOG OSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/14%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/LEen5ohz4nh78h77KCgztz5k76kjn45hCU="
+},
+{
+"gazette": "37/01",
+"gazette_day": "2001-08-15",
+"kind": "repeal",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRESTANKU PRIMJENE ZAKONA O PRIVREMENO NAPUŠTENIM NEKRETNINAMA U SVOJINI GRAĐANA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/15%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4KvrKrozoA4="
+},
+{
+"gazette": "37/01",
+"gazette_day": "2001-08-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DOPRINOSIMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/16%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4KvrKrozoA4="
+},
+{
+"gazette": "37/01",
+"gazette_day": "2001-08-15",
+"kind": "law",
+"title": "ZAKON O ZAŠTITI OSOBA SA DUŠEVNIM SMETNJAMA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/19%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4KvrKrozoA4="
+},
+{
+"gazette": "41/01",
+"gazette_day": "2001-10-02",
+"kind": "law",
+"title": "ZAKON O ŽELJEZNICAMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/20%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/unekAxhBINI="
+},
+{
+"gazette": "41/01",
+"gazette_day": "2001-10-02",
+"kind": "law",
+"title": "ZAKON O POSREDOVANJU U ZAPOŠLJAVANJU I SOCIJALNOJ SIGURNOSTI NEZAPOSLENIH OSOBA",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/21%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/unekAxhBINI="
+},
+{
+"gazette": "43/01",
+"gazette_day": "2001-10-08",
+"kind": "law",
+"title": "ZAKON O UTVRĐIVANJU I OSTVARIVANJU POTRAŽIVANJA NASTALIH ZA VRIJEME RATNOG STANJA I NEPOSREDNE RATNE OPASNOSTI",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/22%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fQXzsE1Xpxk="
+},
+{
+"gazette": "43/01",
+"gazette_day": "2001-10-08",
+"kind": "law",
+"title": "ZAKON O DRŽAVLJANSTVU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "the only free text is a transliterated copy without diacritics, not the gazette text",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/23%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fQXzsE1Xpxk="
+},
+{
+"gazette": "47/01",
+"gazette_day": "2001-10-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POMILOVANJU",
+"reason": "an article heading on the page is out of sequence ('Član 1.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/25%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/VvbHrohz4nh78h77NOwEI="
+},
+{
+"gazette": "51/01",
+"gazette_day": "2001-11-30",
+"kind": "law",
+"title": "ZAKON O RADIO-TELEVIZIJI FEDERACIJE BOSNE L HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 1.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/28%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wrflPa90Z8="
+},
+{
+"gazette": "51/01",
+"gazette_day": "2001-11-30",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VISINI STOPE ZATEZNE KAMATE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/0wrflPa90Z8=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wrflPa90Z8="
+},
+{
+"gazette": "57/01",
+"gazette_day": "2001-12-27",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O SUDIJSKOJ I TUŽILAČKOJ FUNKCIJI U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/38%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/B93vdZ2mVQA="
+},
+{
+"gazette": "61/01",
+"gazette_day": "2001-12-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRODAJI STANOVA NA KOJIMA POSTOJI STANARSKO PRAVO",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2001/zakoni/41%20bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/evRJWcfXhzo="
+},
+{
+"gazette": "1/02",
+"gazette_day": "2002-01-15",
+"kind": "law",
+"title": "ZAKON O IGRAMA NA SREĆU",
+"reason": "an article heading on the page is out of sequence ('Član 72.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/zakon%20o%20igrama%20na%20srecu_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Axrut62LIME="
+},
+{
+"gazette": "15/02",
+"gazette_day": "2002-04-27",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRODAJI STANOVA NA KOJIMA POSTOJI STANARSKO PRAVO (\"SLUŽBENE NOVINE FEDERACIJE BIH\", BR. 27/97, 11/98, 22/99, 27/99 I 7/00)",
+"reason": "its title matches the same Government page as another law in the index (the register gives one page for both): which law the page holds is not decided by hand",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/10%20o%20prodaji%20stanova_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/5j979WlEJFs="
+},
+{
+"gazette": "27/02",
+"gazette_day": "2002-06-28",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POREZU NA PLAĆU",
+"reason": "an article heading on the page is out of sequence ('Član 25.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/30_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/bW1awqlumoY="
+},
+{
+"gazette": "40/02",
+"gazette_day": "2002-08-21",
+"kind": "law",
+"title": "ZAKON O CENTRU ZA EDUKACIJU SUDACA I TUŽITELJA U FEDERACIJI BOSNE L HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 22.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/40_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fH9d59iD0OY="
+},
+{
+"gazette": "40/02",
+"gazette_day": "2002-08-21",
+"kind": "law",
+"title": "ZAKON O ODVJETNIŠTVU FEDERACIJE BOSNE L HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 16.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/41_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/fH9d59iD0OY="
+},
+{
+"gazette": "41/02",
+"gazette_day": "2002-08-23",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O BANKAMA (FEDERACIJA BOSNE I HERCEGOVINE)",
+"reason": "an article heading on the page is out of sequence ('Član 22.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/44_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/1uM0YxvXSGA="
+},
+{
+"gazette": "44/02",
+"gazette_day": "2002-09-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DRUŠTVIMA ZA UPRAVLJANJE FONDOVIMA I O INVESTICIJSKIM FONDOVIMA",
+"reason": "an article heading on the page is out of sequence ('Član 12.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/46_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Md8Fgztz5k76kjn45hJM4A2o="
+},
+{
+"gazette": "49/02",
+"gazette_day": "2002-10-07",
+"kind": "law",
+"title": "Zakon O POREZU NA PROMET PROIZVODA I USLUGA (prečišćeni tekst)",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/51_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/XAhC7mn0RYA="
+},
+{
+"gazette": "52/02",
+"gazette_day": "2002-10-28",
+"kind": "law",
+"title": "ZAKON O OBRTU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2002/zakoni/54_bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7rLn0p2ocas="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "amending",
+"title": "ZAKON O DOPUNI ZAKONA O POSTUPKU UPISA PRAVNIH OSOBA U SUDSKI REGISTAR",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/2bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "law",
+"title": "ZAKON O UNUTRAŠNJIM POSLOVIMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/3bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O VISOKOM SUDSKOM I TUŽILAČKOM VIJEĆU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/4bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "law",
+"title": "ZAKON O IMUNITETU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/5bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "law",
+"title": "ZAKON O TREZORU U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/8bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "law",
+"title": "ZAKON O ZEMLJIŠNIM KNJIGAMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 70.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/11bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "19/03",
+"gazette_day": "2003-05-13",
+"kind": "repeal",
+"title": "ZAKON O PRESTANKU VAŽENJA ZAKONA O OSIGURANJU DEPOZITA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/12bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/0wfAPEAhRag="
+},
+{
+"gazette": "33/03",
+"gazette_day": "2003-07-19",
+"kind": "law",
+"title": "ZAKON O UPRAVLJANJU OTPADOM",
+"reason": "an article heading on the page is out of sequence ('Član 38.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/38bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/L5gztz5k76kjn45hAicGDyVY="
+},
+{
+"gazette": "36/03",
+"gazette_day": "2003-07-29",
+"kind": "law",
+"title": "KRIVIČNOG ZAKON FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 286.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/47bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Cx3eaohz4nh78h77tgztz5k76kjn45hI7I="
+},
+{
+"gazette": "37/03",
+"gazette_day": "2003-07-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POSTUPKU PRED USTAVNIM SUDOM FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/qWoKEohz4nh78h77CNqOA=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/qWoKEohz4nh78h77CNqOA="
+},
+{
+"gazette": "39/03",
+"gazette_day": "2003-08-08",
+"kind": "law",
+"title": "ZAKON O ZAŠTITI I SPAŠAVANJU LJUDI I MATERIJALNIH DOBARA OD PRIRODNIH I DRUGIH NESREĆA",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/59bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/bS7IbgTFKL8="
+},
+{
+"gazette": "53/03",
+"gazette_day": "2003-10-28",
+"kind": "law",
+"title": "ZAKON O PARNIČNOM POSTUPKU",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/64%20zakon%20bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/GzladsODrck="
+},
+{
+"gazette": "57/03",
+"gazette_day": "2003-11-21",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O UTVRĐIVANJU I REALIZACIJI POTRAŽIVANJA GRAĐANA U POSTUPKU PRIVATIZACIJE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2003/zakoni/66bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7mNG8YVk4Vg="
+},
+{
+"gazette": "17/04",
+"gazette_day": "2004-04-01",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2004. GODINU",
+"reason": "an article heading on the page is out of sequence ('Član 13.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/8bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iHiAm751Tbg="
+},
+{
+"gazette": "20/04",
+"gazette_day": "2004-04-15",
+"kind": "law",
+"title": "ZAKON O DIREKTNOM IZBORU OPĆINSKOG NAČELNIKA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/ALohz4nh78h77YOPZphAI=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ALohz4nh78h77YOPZphAI="
+},
+{
+"gazette": "38/04",
+"gazette_day": "2004-07-17",
+"kind": "law",
+"title": "ZAKON O VIJEĆU ZAPOSLENIKA",
+"reason": "an article heading on the page is out of sequence ('Član 28.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/24bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZIkzy3HTKrQ="
+},
+{
+"gazette": "42/04",
+"gazette_day": "2004-08-07",
+"kind": "law",
+"title": "ZAKON O VRSTAMA I PROCENTIMA FIZIČKIH ONESPOSOBLJENOSTI",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2004/zakoni/32bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Pp4ohz4nh78h77NaBe7xg="
+},
+{
+"gazette": "66/04",
+"gazette_day": "2004-11-27",
+"kind": "law",
+"title": "ZAKON O UTVRĐIVANJU I NAČINU IZMIRENJA UNUTARNJIH OBVEZA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/kYgAcly9hOc=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/kYgAcly9hOc="
+},
+{
+"gazette": "78/04",
+"gazette_day": "2004-12-31",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2005. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/lUvgohz4nh78h77VBoxFQ=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/lUvgohz4nh78h77VBoxFQ="
+},
+{
+"gazette": "18/05",
+"gazette_day": "2005-03-23",
+"kind": "amending",
+"title": "ZAKON O IZMJENI I DOPUNI ZAKONA O ORGANIZACIJI PENZIJSKOG I INVALIDSKOG OSIGURANJA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/6bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Sxgztz5k76kjn45h2zsVJeMk="
+},
+{
+"gazette": "18/05",
+"gazette_day": "2005-03-23",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA KRIVIČNOG ZAKONA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/7bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Sxgztz5k76kjn45h2zsVJeMk="
+},
+{
+"gazette": "18/05",
+"gazette_day": "2005-03-23",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POMILOVANJU",
+"reason": "its title matches the same Government page as another law in the index (the register gives one page for both): which law the page holds is not decided by hand",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/6bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Sxgztz5k76kjn45h2zsVJeMk="
+},
+{
+"gazette": "22/05",
+"gazette_day": "2005-04-06",
+"kind": "law",
+"title": "ZAKON O POSREDOVANJU U PRIVATNOM OSIGURANJU",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/12bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/vezKrWZHlYI="
+},
+{
+"gazette": "27/05",
+"gazette_day": "2005-05-04",
+"kind": "law",
+"title": "ZAKON O REGISTRACIJI POSLOVNIH SUBJEKATA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/16bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZloNbzfd9rM="
+},
+{
+"gazette": "27/05",
+"gazette_day": "2005-05-04",
+"kind": "law",
+"title": "ZAKON O POLICIJSKIM SLUŽBENICIMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/17bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ZloNbzfd9rM="
+},
+{
+"gazette": "28/05",
+"gazette_day": "2005-05-11",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KRIVIČNOM POSTUPKU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/19bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Ygztz5k76kjn45hJBl2R2P20="
+},
+{
+"gazette": "35/05",
+"gazette_day": "2005-06-20",
+"kind": "law",
+"title": "PORODIČNI ZAKON FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/25bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/xtagjfRuHL0="
+},
+{
+"gazette": "35/05",
+"gazette_day": "2005-06-20",
+"kind": "law",
+"title": "ZAKON O ORGANIZACIJI ORGANA UPRAVE U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/26bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/xtagjfRuHL0="
+},
+{
+"gazette": "38/05",
+"gazette_day": "2005-07-04",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O ELEKTRIČNOJ ENERGIJI",
+"reason": "its final article names no in-force day this parser reads (no \"stupa na snagu\" sentence)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/27bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/BpntHEf8JbM="
+},
+{
+"gazette": "59/05",
+"gazette_day": "2005-10-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O UTVRĐIVANJU NASELJENIH MJESTA I O IZMJENAMA U NAZIVIMA NASELJENIH MJESTA U ODREĐENIM OPĆINAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w="
+},
+{
+"gazette": "59/05",
+"gazette_day": "2005-10-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O PRIJENOSU I RJEŠAVANJU NERIJEŠENIH ZAHTJEVA ZA VRAĆANJE U POSJED STANA NA KOJEM POSTOJI STANARSKO PRAVO ILI NEKRETNINE U VLASNIŠTVU KOJI SU PODNESENI KOMISIJI ZA IMOVINSKE ZAHTJEVE RASELJENIH LICA I IZBJEGLICA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w="
+},
+{
+"gazette": "59/05",
+"gazette_day": "2005-10-12",
+"kind": "law",
+"title": "ZAKON O KRETANJU SLIJEPOG LICA UZ POMOĆ PSA VODIČA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w="
+},
+{
+"gazette": "59/05",
+"gazette_day": "2005-10-12",
+"kind": "law",
+"title": "ZAKON O SISTEMU POBOLJŠANJA KVALITETA, SIGURNOSTI I O AKREDITACIJI U ZDRAVSTVU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/VeAthC2L32w="
+},
+{
+"gazette": "67/05",
+"gazette_day": "2005-11-30",
+"kind": "law",
+"title": "ZAKON O GRAĐEVINSKOM ZEMLJIŠTU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 88.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2005/zakoni/34bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/sSohz4nh78h77H5t28Xos="
+},
+{
+"gazette": "71/05",
+"gazette_day": "2005-12-21",
+"kind": "law",
+"title": "ZAKON O SJEMENU I SADNOM MATERIJALU ŠUMSKIH I HORTIKULTURNIH VRSTA DRVEĆA I GRMLJA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hnF0I6Auyr4=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/gztz5k76kjn45hnF0I6Auyr4="
+},
+{
+"gazette": "31/06",
+"gazette_day": "2006-06-21",
+"kind": "law",
+"title": "ZAKON O PREKRŠAJIMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/24bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/h37PoaJzUPw="
+},
+{
+"gazette": "39/06",
+"gazette_day": "2006-07-26",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O OSNOVAMA SOCIJALNE ZAŠTITE, ZAŠTITE CIVILNIH ŽRTAVA RATA I ZAŠTITE PORODICE SA DJECOM",
+"reason": "an article heading on the page is out of sequence ('Član 7.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/28bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/CMWzpc9nwfw="
+},
+{
+"gazette": "70/06",
+"gazette_day": "2006-11-20",
+"kind": "law",
+"title": "ZAKON O VODAMA",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2006/zakoni/47bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/hCw5SDCYGiE="
+},
+{
+"gazette": "25/07",
+"gazette_day": "2007-04-05",
+"kind": "budget",
+"title": "ZAKON O IZVRŠENJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2007. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/4J19rcTpyJU=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4J19rcTpyJU="
+},
+{
+"gazette": "97/07",
+"gazette_day": "2007-12-31",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2008. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/cAfXwOpLsIM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/cAfXwOpLsIM="
+},
+{
+"gazette": "6/08",
+"gazette_day": "2008-02-06",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O RUDARSTVU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/2bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Zohz4nh78h77Ohtvpwa8M="
+},
+{
+"gazette": "85/08",
+"gazette_day": "2008-12-26",
+"kind": "law",
+"title": "ZAKON O LEASINGU",
+"reason": "an article heading on the page is out of sequence ('Član 24.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2008/zakoni/39bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/rYv0VwZlVq8="
+},
+{
+"gazette": "87/08",
+"gazette_day": "2008-12-30",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2009. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/A17jYabZ5zg=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/A17jYabZ5zg="
+},
+{
+"gazette": "32/09",
+"gazette_day": "2009-05-11",
+"kind": "law",
+"title": "ZAKON O UGOSTITELJSKOJ DJELATNOSTI",
+"reason": "an article heading on the page is out of sequence ('Član 12.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/19bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/C7tYFs7N0c4="
+},
+{
+"gazette": "65/09",
+"gazette_day": "2009-10-14",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O UTVRĐIVANJU I REALIZACIJI POTRAŽIVANJA GRAĐANA U POSTUPKU PRIVATIZACIJE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/41bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/hN74UksNDTY="
+},
+{
+"gazette": "81/09",
+"gazette_day": "2009-12-28",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2010. GODINU",
+"reason": "the Government register links a page that is not there (404)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2009/zakoni/Zakona%20o%20izvrsenju%20budzeta%20Federacije%20BiH%20za%202010.%20(bosanski).pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/A5FvK6zYkRQ="
+},
+{
+"gazette": "12/10",
+"gazette_day": "2010-03-15",
+"kind": "law",
+"title": "ZAKON O CESTAMA FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 99.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/19bos.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Ufbo3uD4moE="
+},
+{
+"gazette": "26/10",
+"gazette_day": "2010-05-05",
+"kind": "law",
+"title": "ZAKON O RUDARSTVU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 12.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/21bos.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/PpJohz4nh78h779v3olGA="
+},
+{
+"gazette": "46/10",
+"gazette_day": "2010-08-02",
+"kind": "law",
+"title": "ZAKON O ZDRAVSTVENOJ ZAŠTITI",
+"reason": "an article heading on the page is out of sequence ('Član 6.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2010/zakoni/40bos.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/doQHy8gztz5k76kjn45hjuXU="
+},
+{
+"gazette": "47/10",
+"gazette_day": "2010-08-04",
+"kind": "law",
+"title": "ZAKON O DEVIZNOM POSLOVANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/Fkjq26Zxyeo=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Fkjq26Zxyeo="
+},
+{
+"gazette": "14/11",
+"gazette_day": "2011-03-30",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2011. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/zJieJ0zELi0=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/zJieJ0zELi0="
+},
+{
+"gazette": "42/11",
+"gazette_day": "2011-07-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O OBLIGACIONIM ODNOSIMA",
+"reason": "an article heading on the page is out of sequence ('Član 1.'): the articles do not split cleanly",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/4bos.html#vrh",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/o5zXkOdAUgA="
+},
+{
+"gazette": "42/11",
+"gazette_day": "2011-07-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O IZMIRENJU OBAVEZA NA OSNOVU RAČUNA STARE DEVIZNE ŠTEDNJE U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its title matches the same Government page as another law in the index (the register gives one page for both): which law the page holds is not decided by hand",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/4bos.html#vrh",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/o5zXkOdAUgA="
+},
+{
+"gazette": "42/11",
+"gazette_day": "2011-07-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O ADVOKATURI FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/o5zXkOdAUgA=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/o5zXkOdAUgA="
+},
+{
+"gazette": "50/11",
+"gazette_day": "2011-08-08",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2011. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/8SjA5bklgztz5k76kjn45hzs=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/8SjA5bklgztz5k76kjn45hzs="
+},
+{
+"gazette": "52/11",
+"gazette_day": "2011-08-12",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI OSOBA SA DUŠEVNIM SMETNJAMA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/22bos.html#vrh",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/63JppDCljp0="
+},
+{
+"gazette": "52/11",
+"gazette_day": "2011-08-12",
+"kind": "law",
+"title": "ZAKON O MATIČNOJ EVIDENCIJI O OSIGURANICIMA, OBVEZNICIMA UPLATE DOPRINOSA I KORISNICIMA PRAVA IZ PENZIJSKOG I INVALIDSKOG OSIGURANJA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://www.fbihvlada.gov.ba/bosanski/zakoni/2011/zakoni/23bos.html#vrh",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/63JppDCljp0="
+},
+{
+"gazette": "3/12",
+"gazette_day": "2012-01-12",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2012. GODINU",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://fbihvlada.gov.ba/bosanski/budzet/2012/zakon-bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/XBVkcVKdgEc="
+},
+{
+"gazette": "27/12",
+"gazette_day": "2012-03-28",
+"kind": "amending",
+"title": "ZAKON O DOPUNI ZAKONA O POLJOPRIVREDI",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2012/zakoni/12.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/1pLgztz5k76kjn45hvGJgztz5k76kjn45hqYo="
+},
+{
+"gazette": "106/12",
+"gazette_day": "2012-12-10",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2013. GODINU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/bosanski/budzet/2013/Zakon-bos.doc",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Ke5vFGft75I="
+},
+{
+"gazette": "99/13",
+"gazette_day": "2013-12-13",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2014. GODINU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/91ohz4nh78h77XHwQU0fA=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/91ohz4nh78h77XHwQU0fA="
+},
+{
+"gazette": "25/15",
+"gazette_day": "2015-03-31",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2015. GODINU",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/2015_d/zakon_bos.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/70jLSyMJHbw="
+},
+{
+"gazette": "48/15",
+"gazette_day": "2015-06-24",
+"kind": "law",
+"title": "ZAKON O UNUTRAŠNJEM PLATNOM PROMETU",
+"reason": "an article heading on the page is out of sequence ('Član 6.'): the articles do not split cleanly",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2015/zakoni/4.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/StTqScYjfss="
+},
+{
+"gazette": "86/15",
+"gazette_day": "2015-11-06",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2015. GODINU",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://fbihvlada.gov.ba/bosanski/budzet/2015/izmjene_budzeta/bos/zakon1.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/NwoyaAtLVo4="
+},
+{
+"gazette": "102/15",
+"gazette_day": "2015-12-31",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2016. GODINU",
+"reason": "its Government page is a PDF file, which this parser does not read",
+"official_url": "http://fbihvlada.gov.ba/bosanski/budzet/2016/zakon_b.pdf",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/qXq16ZCqmKE="
+},
+{
+"gazette": "14/16",
+"gazette_day": "2016-02-24",
+"kind": "law",
+"title": "ZAKON O FAKTORINGU",
+"reason": "an article heading on the page is out of sequence ('Član 9.'): the articles do not split cleanly",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2016/zakoni/1.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/9OYFblQx8r0="
+},
+{
+"gazette": "5/18",
+"gazette_day": "2018-01-24",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2018. GODINU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2018/zakoni/2.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Gx6o9FM8MOs="
+},
+{
+"gazette": "11/19",
+"gazette_day": "2019-02-20",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2019. GODINU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2019/Zakoni/2.html",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JIBz0fohz4nh78h77zmi0="
+},
+{
+"gazette": "99/19",
+"gazette_day": "2019-12-31",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2020. GODINU",
+"reason": "the Government register links a page that is not there (404)",
+"official_url": "http://fbihvlada.gov.ba/zakon-bos%20%281%29.docx",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ygztz5k76kjn45hbgztz5k76kjn45hdacZor8="
+},
+{
+"gazette": "99/19",
+"gazette_day": "2019-12-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O BUDŽETIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/zakoni20192019/ZAKON%2020.%20o%20izm.%20i%20dop.%20bud%C5%BEeta-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ygztz5k76kjn45hbgztz5k76kjn45hdacZor8="
+},
+{
+"gazette": "99/19",
+"gazette_day": "2019-12-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O NOVČANIM PODRŠKAMA U POLJOPRIVREDI I RURALNOM RAZVOJU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/zakoni20192019/ZAKON%2021.%20o%20izm.zak%20o%20nov%C4%8Danim%20podr%C5%A1kama-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ygztz5k76kjn45hbgztz5k76kjn45hdacZor8="
+},
+{
+"gazette": "99/19",
+"gazette_day": "2019-12-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O DOPRINOSIMA",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/zakoni20192019/ZAKON%2022.%20o%20izm.zak.%20o%20doprinosima-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ygztz5k76kjn45hbgztz5k76kjn45hdacZor8="
+},
+{
+"gazette": "99/19",
+"gazette_day": "2019-12-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O VISINI STOPE ZATEZNE KAMATE NA JAVNE PRIHODE",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "http://fbihvlada.gov.ba/zakoni20192019/ZAKON%2023.%20o%20izm.%20zak%20o%20visini%20stope%20zat.kamate-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ygztz5k76kjn45hbgztz5k76kjn45hdacZor8="
+},
+{
+"gazette": "28/20",
+"gazette_day": "2020-05-07",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2020. GODINU",
+"reason": "an article heading on the page is out of sequence ('Član 7.'): the articles do not split cleanly",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/4.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/NT1WCfxKBKk="
+},
+{
+"gazette": "74/20",
+"gazette_day": "2020-10-16",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O KRIVIČNOM POSTUPKU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "its title matches the same Government page as another law in the index (the register gives one page for both): which law the page holds is not decided by hand",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2020/Zakoni/14.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/9vKxP4BGGL4="
+},
+{
+"gazette": "4/21",
+"gazette_day": "2021-01-19",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O UNUTRAŠNJEM PLATNOM PROMETU",
+"reason": "an article heading on the page is out of sequence ('Član 8b.'): the articles do not split cleanly",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/3-3.htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/3JAWAyZWlfk="
+},
+{
+"gazette": "75/21",
+"gazette_day": "2021-09-22",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA ZAKONA O ZAŠTITI OD NASILJA U PORODICI",
+"reason": "the Government register links a page that is not there (404)",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/ZAKON%2018.%20o%20dop.%20zak.%20o%20za%C5%A1titi%20od%20nasilja%20u%20por.-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/cFcSX4ohz4nh78h777CEM="
+},
+{
+"gazette": "75/21",
+"gazette_day": "2021-09-22",
+"kind": "law",
+"title": "ZAKON O OBRTU I SRODNIM DJELATNOSTIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "the Government register links a page that is not there (404)",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/ZAKON%2020.%20o%20obrtu-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/cFcSX4ohz4nh78h777CEM="
+},
+{
+"gazette": "75/21",
+"gazette_day": "2021-09-22",
+"kind": "law",
+"title": "ZAKON O RODITELJIMA NJEGOVATELJIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "its title matches the same Government page as another law in the index (the register gives one page for both): which law the page holds is not decided by hand",
+"official_url": "http://fbihvlada.gov.ba/bosanski/zakoni/2021/Zakoni/ZAKON%2020.%20o%20obrtu-bos..htm",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/cFcSX4ohz4nh78h777CEM="
+},
+{
+"gazette": "82/21",
+"gazette_day": "2021-10-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O POLJOPRIVREDI",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/s5gztz5k76kjn45hQEeXKkkM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/s5gztz5k76kjn45hQEeXKkkM="
+},
+{
+"gazette": "85/21",
+"gazette_day": "2021-10-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENI I DOPUNI ZAKONA O SUDOVIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/vwViEJohz4nh78h77gztz5k76kjn45hj7o=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/vwViEJohz4nh78h77gztz5k76kjn45hj7o="
+},
+{
+"gazette": "85/21",
+"gazette_day": "2021-10-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O REGISTRACIJI POSLOVNIH SUBJEKATA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/vwViEJohz4nh78h77gztz5k76kjn45hj7o=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/vwViEJohz4nh78h77gztz5k76kjn45hj7o="
+},
+{
+"gazette": "85/21",
+"gazette_day": "2021-10-22",
+"kind": "amending",
+"title": "ZAKON O DOPUNAMA ZAKONA O PROSTORNOM PLANIRANJU I KORIŠTENJU ZEMLJIŠTA NA NIVOU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/vwViEJohz4nh78h77gztz5k76kjn45hj7o=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/vwViEJohz4nh78h77gztz5k76kjn45hj7o="
+},
+{
+"gazette": "90/21",
+"gazette_day": "2021-11-10",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O PENZIJSKOM I INVALIDSKOM OSIGURANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/qfptcrWAAoI=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/qfptcrWAAoI="
+},
+{
+"gazette": "92/21",
+"gazette_day": "2021-11-17",
+"kind": "amending",
+"title": "ZAKON O DOPUNI ZAKONA O PROSTORNOM PLANIRANJU I KORIŠTENJU ZEMLJIŠTA NA NIVOU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/egcr7l4AGgztz5k76kjn45hI=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/egcr7l4AGgztz5k76kjn45hI="
+},
+{
+"gazette": "103/21",
+"gazette_day": "2021-12-22",
+"kind": "law",
+"title": "ZAKON O REPREZENTATIVNOSTI SINDIKATA I UDRUŽENJA POSLODAVACA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws="
+},
+{
+"gazette": "103/21",
+"gazette_day": "2021-12-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O UTVRĐIVANJU I OSTVARIVANJU POTRAŽIVANJA GRAĐANA U POSTUPKU PRIVATIZACIJE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws="
+},
+{
+"gazette": "103/21",
+"gazette_day": "2021-12-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNI ZAKONA O NAMJEŠTENICIMA U ORGANIMA DRŽAVNE SLUŽBE U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws="
+},
+{
+"gazette": "103/21",
+"gazette_day": "2021-12-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O OBAVEZNIM OSIGURANJIMA U SAOBRAĆAJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws="
+},
+{
+"gazette": "103/21",
+"gazette_day": "2021-12-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O OSIGURANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws="
+},
+{
+"gazette": "103/21",
+"gazette_day": "2021-12-22",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PROVOĐENJU KONTROLE ZAKONITOSTI KORIŠTENJA PRAVA IZ OBLASTI BRANILAČKO-INVALIDSKE ZAŠTITE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/iXxKnJ6qiws="
+},
+{
+"gazette": "105/21",
+"gazette_day": "2021-12-29",
+"kind": "amending",
+"title": "ZAKON O DOPUNI ZAKONA O IZDVAJANJU I USMJERAVANJU DIJELA PRIHODA PREDUZEĆA OSTVARENOG KORIŠTENJEM HIDROAKUMULACIONIH OBJEKATA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/KV1L31mt2Sk=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/KV1L31mt2Sk="
+},
+{
+"gazette": "25/22",
+"gazette_day": "2022-03-31",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O POLJOPRIVREDNIM SAVJETODAVNIM SLUŽBAMA",
+"reason": "an article heading on the page is out of sequence ('Član 10.'): the articles do not split cleanly",
+"official_url": "https://fbihvlada.gov.ba/bs/11-zakon-o-izmjenama-i-dopunama-zakona-o-poljoprivrednim-savjetodavnim-sluzbama",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/kaHKtOMKypc="
+},
+{
+"gazette": "16/23",
+"gazette_day": "2023-03-08",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O OSNOVAMA SOCIJALNE ZAŠTITE, ZAŠTITE CIVILNIH ŽRTAVA RATA I ZAŠTITE PORODICE SA DJECOM",
+"reason": "an article on the page is empty",
+"official_url": "https://fbihvlada.gov.ba/bs/5-zakon-o-izmjenama-zakona-o-osnovama-socijalne-zastite-zastite-civilnih-zrtava-rata-i-zastite-porodice-sa-djecom",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/RiTrq6aNdGk="
+},
+{
+"gazette": "81/23",
+"gazette_day": "2023-10-20",
+"kind": "law",
+"title": "ZAKON O UJEDNAČAVANJU PENZIJA OSTVARENIH PO ZAKONU O SLUŽBI U ORUŽANIM SNAGAMA BOSNE I HERCEGOVINE",
+"reason": "its page holds only the promulgating decree, not the text of the law",
+"official_url": "https://fbihvlada.gov.ba/bs/10-zakon-o-ujednacavanju-penzija-ostvarenih-po-zakonu-o-sluzbi-u-oruzanim-snagama-bosne-i-hercegovine",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4Zohz4nh78h77jJLf9F84="
+},
+{
+"gazette": "81/23",
+"gazette_day": "2023-10-20",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O VISINI STOPE ZATEZNE KAMATE NA JAVNE PRIHODE",
+"reason": "its Government page has not been fetched yet",
+"official_url": "https://fbihvlada.gov.ba/bs/11-zakon-o-izmjenama-zakona-o-visini-stope-zatezne-kamate-na-javne-prihodež",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4Zohz4nh78h77jJLf9F84="
+},
+{
+"gazette": "81/23",
+"gazette_day": "2023-10-20",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA DEMOBILIZIRANIH BRANILACA I ČLANOVA NJIHOVIH PORODICA",
+"reason": "its page holds only the promulgating decree, not the text of the law",
+"official_url": "https://fbihvlada.gov.ba/bs/12-zakon-o-izmjenama-i-dopunama-zakona-o-pravima-demobiliziranih-branilaca-i-clanova-njihovih-porodica",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4Zohz4nh78h77jJLf9F84="
+},
+{
+"gazette": "81/23",
+"gazette_day": "2023-10-20",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O KONSTITUIRANJU NOVIH OPĆINA U FEDERACIJI BOSNE I HERCEGOVINE I IZMJENI PODRUČJA OPĆINA PODIJELJENIH MEĐUENTITETSKOM I MEĐUKANTONALNOM CRTOM",
+"reason": "its page holds only the promulgating decree, not the text of the law",
+"official_url": "https://fbihvlada.gov.ba/bs/13-zakon-o-izmjeni-zakona-o-konstituiranju-novih-opcina-u-federaciji-bosne-i-hercegovine-i-izmjeni-podrucja-opcina-podijeljenih-meduentitetskom-i-medukantonalnom-crtom",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4Zohz4nh78h77jJLf9F84="
+},
+{
+"gazette": "81/23",
+"gazette_day": "2023-10-20",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O UTVRĐIVANJU I OSTVARIVANJU POTRAŽIVANJA GRAĐANA U POSTUPKU PRIVATIZACIJE",
+"reason": "its page holds only the promulgating decree, not the text of the law",
+"official_url": "https://fbihvlada.gov.ba/bs/14-zakon-o-izmjeni-zakona-o-utvrdivanju-i-ostvarivanju-potrazivanja-gradana-u-postupku-privatizacije",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/4Zohz4nh78h77jJLf9F84="
+},
+{
+"gazette": "82/23",
+"gazette_day": "2023-10-25",
+"kind": "law",
+"title": "ZAKON O KORIŠTENJU OBNOVLJIVIH IZVORA ENERGIJE I EFIKASNE KOGENERACIJE",
+"reason": "its page holds only the promulgating decree, not the text of the law",
+"official_url": "https://fbihvlada.gov.ba/bs/15-zakon-o-koristenju-obnovljivih-izvora-energije-i-efikasne-kogeneracije",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/f7SryBUJRvo="
+},
+{
+"gazette": "7/24",
+"gazette_day": "2024-01-26",
+"kind": "budget",
+"title": "ZAKON O IZVRŠAVANJU BUDŽETA FEDERACIJE BOSNE I HERCEGOVINE ZA 2024. GODINU",
+"reason": "an article heading on the page is out of sequence ('Član 35.'): the articles do not split cleanly",
+"official_url": "https://fbihvlada.gov.ba/bs/2-zakon-o-izvrsavanju-budzeta-federacije-bosne-i-hercegovine-za-2024-godinu",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/JLqgipkt6Kw="
+},
+{
+"gazette": "13/24",
+"gazette_day": "2024-02-16",
+"kind": "law",
+"title": "ZAKON O POSEBNOM REGISTRU LICA PRAVOMOĆNO OSUĐENIH ZA KRIVIČNA DJELA PROTIV SPOLNE SLOBODE I MORALA PREMA DJECI I MALOLJETNICIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/zlb2hSl1wAY=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/zlb2hSl1wAY="
+},
+{
+"gazette": "72/24",
+"gazette_day": "2024-09-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PROSTORNOM PLANIRANJU I KORIŠTENJU ZEMLJIŠTA NA NIVOU FEDERACIJE BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 46a.'): the articles do not split cleanly",
+"official_url": "https://fbihvlada.gov.ba/bs/18-zakon-o-izmjenama-i-dopunama-zakona-o-prostornom-planiranju-i-koristenju-zemljista-na-nivou-federacije-bosne-i-hercegovine",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ViiEohz4nh78h77sMA9SI="
+},
+{
+"gazette": "72/24",
+"gazette_day": "2024-09-13",
+"kind": "law",
+"title": "ZAKON O ZAŠTITI ZRAKA",
+"reason": "an article heading on the page is out of sequence ('Član 1.'): the articles do not split cleanly",
+"official_url": "https://fbihvlada.gov.ba/bs/20-zakon-o-zastiti-zraka",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/ViiEohz4nh78h77sMA9SI="
+},
+{
+"gazette": "19/25",
+"gazette_day": "2025-03-14",
+"kind": "amending",
+"title": "ZAKON O DOPUNI ZAKONA O UTVRĐIVANJU NASELJENIH MJESTA I O IZMJENAMA U NAZIVIMA NASELJENIH MJESTA U ODREĐENIM OPĆINAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/mEaa9MpmDn4=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mEaa9MpmDn4="
+},
+{
+"gazette": "19/25",
+"gazette_day": "2025-03-14",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O PENZIJSKOM I INVALIDSKOM OSIGURANJU",
+"reason": "its page has no articles this parser can read (Član N.)",
+"official_url": "https://fbihvlada.gov.ba/bs/12-zakon-o-izmjenama-zakona-o-penzijskom-i-invalidskom-osiguranju",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mEaa9MpmDn4="
+},
+{
+"gazette": "49/25",
+"gazette_day": "2025-07-02",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O NAFTNIM DERIVATIMA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "an article heading on the page is out of sequence ('Član 4.'): the articles do not split cleanly",
+"official_url": "https://fbihvlada.gov.ba/bs/21-zakon-o-izmjenama-i-dopunama-zakona-o-naftnim-derivatima-u-federaciji-bih",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/CsEfYAagwG8="
+},
+{
+"gazette": "77/25",
+"gazette_day": "2025-10-08",
+"kind": "law",
+"title": "ZAKON O POSTUPKU PRENOSA PRAVA VLASNIŠTVA NA NEKRETNINAMA U VLASNIŠTVU FEDERACIJE BOSNE I HERCEGOVINE, KANTONA, GRADOVA I OPĆINA NA NASTRADALIM PODRUČJIMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/Im0kdPRP3zg=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/Im0kdPRP3zg="
+},
+{
+"gazette": "9/26",
+"gazette_day": "2026-02-04",
+"kind": "law",
+"title": "ZAKON O FISKALIZACIJI TRANSAKCIJA U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/dphjp1eZeYw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/dphjp1eZeYw="
+},
+{
+"gazette": "29/26",
+"gazette_day": "2026-04-17",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O GASOVODU \"JUŽNA INTERKONEKCIJA BOSNA I HERCEGOVINA I REPUBLIKA HRVATSKA\"",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/a7fAG5tzuNw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/a7fAG5tzuNw="
+},
+{
+"gazette": "35/26",
+"gazette_day": "2026-05-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O UTVRĐIVANJU I OSTVARIVANJU POTRAŽIVANJA GRAĐANA U POSTUPKU PRIVATIZACIJE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw="
+},
+{
+"gazette": "35/26",
+"gazette_day": "2026-05-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O DEVIZNOM POSLOVANJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw="
+},
+{
+"gazette": "35/26",
+"gazette_day": "2026-05-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA ZAKONA O OBAVEZNIM OSIGURANJIMA U SAOBRAĆAJU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw="
+},
+{
+"gazette": "35/26",
+"gazette_day": "2026-05-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O VISINI STOPE ZATEZNE KAMATE NA JAVNE PRIHODE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw="
+},
+{
+"gazette": "35/26",
+"gazette_day": "2026-05-13",
+"kind": "amending",
+"title": "ZAKON O IZMJENI ZAKONA O NAPLATI I DJELIMIČNOM OTPISU DUGOVANJA SPORTSKIM KOLEKTIVIMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/mG3I3C8E0Lw="
+},
+{
+"gazette": "36/26",
+"gazette_day": "2026-05-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O LIZINGU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/7damWmlu2hE=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7damWmlu2hE="
+},
+{
+"gazette": "36/26",
+"gazette_day": "2026-05-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O ZAPOŠLJAVANJU STRANACA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/7damWmlu2hE=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7damWmlu2hE="
+},
+{
+"gazette": "36/26",
+"gazette_day": "2026-05-15",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O JEDINSTVENIM NAČELIMA I OKVIRU MATERIJALNE PODRŠKE LICIMA SA INVALIDITETOM U FEDERACIJI BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/7damWmlu2hE=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/7damWmlu2hE="
+},
+{
+"gazette": "45/26",
+"gazette_day": "2026-06-17",
+"kind": "law",
+"title": "ZAKON O POSTUPKU VANREDNE UPRAVE U PRIVREDNOM DRUŠTVU NOVA ŽELJEZARA ZENICA D.O.O. ZENICA OD POSEBNOG SISTEMSKOG ZNAČAJA ZA FEDERACIJU BOSNE I HERCEGOVINE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/wEsTqNNZwdk=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/wEsTqNNZwdk="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "amending",
+"title": "ZAKON O DOPUNI ZAKONA O BANKAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O ZAŠTITI KORISNIKA FINANSIJSKIH USLUGA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O MIKROKREDITNIM ORGANIZACIJAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "law",
+"title": "ZAKON O RAČUNIMA ZA PLAĆANJE",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "amending",
+"title": "ZAKON O IZMJENAMA I DOPUNAMA ZAKONA O PRAVIMA DEMOBILIZIRANIH BRANILACA I ČLANOVA NJIHOVIH PORODICA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "law",
+"title": "ZAKON O ELEKTRONSKOM NOVCU",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+},
+{
+"gazette": "59/26",
+"gazette_day": "2026-08-05",
+"kind": "law",
+"title": "ZAKON O PLATNIM USLUGAMA",
+"reason": "no free official text: the Government register lists no page for it (the gazette text needs a subscription)",
+"official_url": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM=",
+"gazette_index": "https://www.sluzbenilist.ba/page/i/792xSqtQ1OM="
+}
+]
+}

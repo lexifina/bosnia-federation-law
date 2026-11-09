@@ -1,0 +1,190 @@
+{
+"shards": [
+{
+"shard": "zakon/1996",
+"kind": "zakon",
+"file": "data/freshness/zakon/1996.csv",
+"acts": 2
+},
+{
+"shard": "zakon/1997",
+"kind": "zakon",
+"file": "data/freshness/zakon/1997.csv",
+"acts": 2
+},
+{
+"shard": "zakon/1998",
+"kind": "zakon",
+"file": "data/freshness/zakon/1998.csv",
+"acts": 6
+},
+{
+"shard": "zakon/1999",
+"kind": "zakon",
+"file": "data/freshness/zakon/1999.csv",
+"acts": 14
+},
+{
+"shard": "zakon/2000",
+"kind": "zakon",
+"file": "data/freshness/zakon/2000.csv",
+"acts": 12
+},
+{
+"shard": "zakon/2001",
+"kind": "zakon",
+"file": "data/freshness/zakon/2001.csv",
+"acts": 23
+},
+{
+"shard": "zakon/2002",
+"kind": "zakon",
+"file": "data/freshness/zakon/2002.csv",
+"acts": 47
+},
+{
+"shard": "zakon/2003",
+"kind": "zakon",
+"file": "data/freshness/zakon/2003.csv",
+"acts": 55
+},
+{
+"shard": "zakon/2004",
+"kind": "zakon",
+"file": "data/freshness/zakon/2004.csv",
+"acts": 46
+},
+{
+"shard": "zakon/2005",
+"kind": "zakon",
+"file": "data/freshness/zakon/2005.csv",
+"acts": 32
+},
+{
+"shard": "zakon/2006",
+"kind": "zakon",
+"file": "data/freshness/zakon/2006.csv",
+"acts": 42
+},
+{
+"shard": "zakon/2007",
+"kind": "zakon",
+"file": "data/freshness/zakon/2007.csv",
+"acts": 20
+},
+{
+"shard": "zakon/2008",
+"kind": "zakon",
+"file": "data/freshness/zakon/2008.csv",
+"acts": 36
+},
+{
+"shard": "zakon/2009",
+"kind": "zakon",
+"file": "data/freshness/zakon/2009.csv",
+"acts": 43
+},
+{
+"shard": "zakon/2010",
+"kind": "zakon",
+"file": "data/freshness/zakon/2010.csv",
+"acts": 40
+},
+{
+"shard": "zakon/2011",
+"kind": "zakon",
+"file": "data/freshness/zakon/2011.csv",
+"acts": 19
+},
+{
+"shard": "zakon/2012",
+"kind": "zakon",
+"file": "data/freshness/zakon/2012.csv",
+"acts": 34
+},
+{
+"shard": "zakon/2013",
+"kind": "zakon",
+"file": "data/freshness/zakon/2013.csv",
+"acts": 38
+},
+{
+"shard": "zakon/2014",
+"kind": "zakon",
+"file": "data/freshness/zakon/2014.csv",
+"acts": 42
+},
+{
+"shard": "zakon/2015",
+"kind": "zakon",
+"file": "data/freshness/zakon/2015.csv",
+"acts": 22
+},
+{
+"shard": "zakon/2016",
+"kind": "zakon",
+"file": "data/freshness/zakon/2016.csv",
+"acts": 26
+},
+{
+"shard": "zakon/2017",
+"kind": "zakon",
+"file": "data/freshness/zakon/2017.csv",
+"acts": 27
+},
+{
+"shard": "zakon/2018",
+"kind": "zakon",
+"file": "data/freshness/zakon/2018.csv",
+"acts": 14
+},
+{
+"shard": "zakon/2019",
+"kind": "zakon",
+"file": "data/freshness/zakon/2019.csv",
+"acts": 12
+},
+{
+"shard": "zakon/2020",
+"kind": "zakon",
+"file": "data/freshness/zakon/2020.csv",
+"acts": 16
+},
+{
+"shard": "zakon/2021",
+"kind": "zakon",
+"file": "data/freshness/zakon/2021.csv",
+"acts": 15
+},
+{
+"shard": "zakon/2022",
+"kind": "zakon",
+"file": "data/freshness/zakon/2022.csv",
+"acts": 35
+},
+{
+"shard": "zakon/2023",
+"kind": "zakon",
+"file": "data/freshness/zakon/2023.csv",
+"acts": 8
+},
+{
+"shard": "zakon/2024",
+"kind": "zakon",
+"file": "data/freshness/zakon/2024.csv",
+"acts": 17
+},
+{
+"shard": "zakon/2025",
+"kind": "zakon",
+"file": "data/freshness/zakon/2025.csv",
+"acts": 21
+},
+{
+"shard": "zakon/2026",
+"kind": "zakon",
+"file": "data/freshness/zakon/2026.csv",
+"acts": 6
+}
+]
+}
