@@ -1,21 +1,21 @@
 {
  "note": "Update status of this repository, refreshed by every refresh run.",
- "as_of": "2026-11-10T00:06:37+00:00",
+ "as_of": "2026-11-11T02:59:42+00:00",
  "updates": "idle",
- "last_published": "2026-11-09T23:52:27Z",
+ "last_published": "2026-11-10T00:06:49Z",
  "published_last_24h": {
-  "commits": 1
+  "commits": 0
  },
  "official_sources": [
   {
    "source": "Službene novine Federacije BiH, index of acts (sluzbenilist.ba)",
    "state": "available",
-   "last_successful_contact": "2026-11-10"
+   "last_successful_contact": "2026-11-11"
   },
   {
    "source": "Government of the Federation, chronological law registers (fbihvlada.gov.ba)",
    "state": "available",
-   "last_successful_contact": "2026-11-10"
+   "last_successful_contact": "2026-11-11"
   }
  ]
 }

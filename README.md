@@ -24,7 +24,7 @@ Not included: the laws listed in [data/held.json](data/held.json), each with the
 Every version names the official page it was read from (its `Source:` trailer, and `portal` in the act indexes), so every act can be checked against its source.
 
 <!-- freshness-summary -->
-Checked against the official sources: 2026-11-10; 99% of acts verified in the last 7 days, 99% in the last 30 ([data/freshness.json](data/freshness.json)).
+Checked against the official sources: 2026-11-11; 99% of acts verified in the last 7 days, 99% in the last 30 ([data/freshness.json](data/freshness.json)).
 <!-- /freshness-summary -->
 
 `python tools/freshness.py <act>` gives an act's status, its last check and the official link; `python tools/freshness.py --summary` the overall picture. An act is checked by reading the gazette publisher's index of Službene novine Federacije BiH (every issue, every act's title) through the newest issue and matching every law that amends, repeals, interprets or corrects it, and by reading the Government's register of laws for new texts. The check runs daily; [data/status.json](data/status.json) says whether updates are running and when each official source last answered. Threshold: 7 days (every act here is a law). Statuses (`current`, `pending-change`, `stale`, `unverified`, `source-unavailable`) and columns are explained in [data/freshness.json](data/freshness.json). Acts labelled `amended, not consolidated` are `pending-change`: the gazette lists an amendment that no consolidated text here applies; their amending laws are named in [registry/data/acts.json](registry/data/acts.json) (`amended_by`).
