@@ -13,7 +13,9 @@ The text is in Bosnian (Latin script), as the Government of the Federation publi
 Laws of the Federation published in the Službene novine Federacije BiH, each in its text as enacted (one version, in force on the day its own final article names):
 
 - `zakon/<year>/sn<issue>-<id>/`: laws from 2001 on whose Government page reads cleanly, listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json) (status, gazette issue, official page). Amending laws are published as acts of their own.
-- `<law>/` folders at the top: the first build (October 2026), 38 laws of 2019 to 2026, listed in [data/versions.json](data/versions.json).
+- `zakon/<year>/sn<issue>-<slug>/`: the first build (October 2026), 38 laws of 2019 to 2026, listed in [data/versions.json](data/versions.json) (`zakon/2019/sn030-o-gradu-capljina/` is Zakon o Gradu Čapljina, Službene novine Federacije BiH 30/19). Until 2026-11-15 these were folders at the top named by the act id (`o-gradu-capljina/`); `git log --follow` and `tools/on.py` read both.
+
+[registry/data/paths.json](registry/data/paths.json) maps every act id to its folder. The top level holds only the documentation, one folder per kind of act (`zakon/`), the gazette index (`sluzbene-novine/`), `data/`, `registry/`, `tools/`, `visualisations/` and `vulnerabilities/`.
 
 A law later amended is published as enacted all the same and labelled `amended, not consolidated` in `registry/data/acts.json`, with the amending laws named (`amended_by`); no consolidated text is made, so its text here is the text as enacted, not the text in force. The Government publishes no consolidated texts.
 
@@ -43,12 +45,13 @@ Laws of the Federation in the gazette that are not here are listed, each with it
 
 ## Files
 
-In `zakon/`: `art-001.md` is Član 1, `art-005-a.md` Član 5a; a chapter heading is its own file after the article it follows (`art-002-zz-heading-1.md`, before Član 1 `0-heading-1.md`). In the first build's folders: `clan-001.md` is Član 1, `ukaz.md` the President's decree promulgating the law, `naslov.md` the title, `potpis.md` the signatures.
+In `zakon/`: `art-001.md` is Član 1, `art-005-a.md` Član 5a; a chapter heading is its own file after the article it follows (`art-002-zz-heading-1.md`, before Član 1 `0-heading-1.md`). In the first build's folders (`zakon/<year>/sn<issue>-o-…/`): `clan-001.md` is Član 1, `ukaz.md` the President's decree promulgating the law, `naslov.md` the title, `potpis.md` the signatures.
 
 ## How it is checked
 
 - Every version is read back from git on the day it took effect and on the day before (`registry/tools/build/check_repo.py`, `tools/check_repo.py`).
 - Health checks: no merge commits, commit dates never go backwards, nothing dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in Federation of Bosnia and Herzegovina law, found by global-law's detectors and checked by hand (a placeholder: the detectors have not been run here yet).
 
 ## What "author" means
 
@@ -57,3 +60,14 @@ The author of a commit is the law that made it, named by its gazette number, wit
 ## Limits
 
 This is not an official publication. The binding text is the one published in the Službene novine Federacije BiH.
+
+## Visualisations
+
+[visualisations/](visualisations/): charts of Federation of Bosnia and Herzegovina law drawn from this repository. A placeholder for now: no charts have been drawn yet.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
