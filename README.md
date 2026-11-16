@@ -12,14 +12,14 @@ The text is in Bosnian (Latin script), as the Government of the Federation publi
 
 Laws of the Federation published in the Službene novine Federacije BiH, each in its text as enacted (one version, in force on the day its own final article names):
 
-- `zakon/<year>/sn<issue>-<id>/`: laws from 2001 on whose Government page reads cleanly, listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json) (status, gazette issue, official page). Amending laws are published as acts of their own.
+- `zakon/<year>/sn<issue>-<id>/`: laws from 2001 on whose Government page reads cleanly, listed in [registry/ACTS.md](registry/ACTS.md) and [registry/data/acts.json](registry/data/acts.json) (status, gazette issue, official page). Amending laws are published as acts of their own. The core codes held back before are here too, as enacted (not yet in those tables): Zakon o upravnom postupku (2/98), Krivični zakon (36/03), Zakon o parničnom postupku (53/03) and Porodični zakon (35/05); the first and third as the Government prints them, without some or all diacritics.
 - `zakon/<year>/sn<issue>-<slug>/`: the first build (October 2026), 38 laws of 2019 to 2026, listed in [data/versions.json](data/versions.json) (`zakon/2019/sn030-o-gradu-capljina/` is Zakon o Gradu Čapljina, Službene novine Federacije BiH 30/19). Until 2026-11-15 these were folders at the top named by the act id (`o-gradu-capljina/`); `git log --follow` and `tools/on.py` read both.
 
-[registry/data/paths.json](registry/data/paths.json) maps every act id to its folder. The top level holds only the documentation, one folder per kind of act (`zakon/`), the gazette index (`sluzbene-novine/`), `data/`, `registry/`, `tools/`, `visualisations/` and `vulnerabilities/`.
+[registry/data/paths.json](registry/data/paths.json) maps every act id to its folder. The top level holds only the documentation, one folder per kind of act (`zakon/`, and `ustav/` for the Constitution), the gazette index (`sluzbene-novine/`), `data/`, `registry/`, `tools/`, `visualisations/` and `vulnerabilities/`.
 
 A law later amended is published as enacted all the same and labelled `amended, not consolidated` in `registry/data/acts.json`, with the amending laws named (`amended_by`); no consolidated text is made, so its text here is the text as enacted, not the text in force. The Government publishes no consolidated texts.
 
-Not included: the laws listed in [data/held.json](data/held.json), each with the reason (most often: the Government's register has no free page for it, or its only free copy is an old transliteration without diacritics; laws of 1994 to 2000 are mostly of this kind); the Constitution of the Federation (the only free text is a consolidation that stops at Amendment CIX of 2008); laws passed but not yet in force ([data/pending.json](data/pending.json)).
+Not included: the laws listed in [data/held.json](data/held.json), each with the reason (most often: the Government's register has no free page for it, or its only free copy is an old transliteration without diacritics; laws of 1994 to 2000 are mostly of this kind); the High Representative's 2022 amendments to the Constitution of the Federation (the Constitution is in `ustav/1994/sn001-fb05d7/`: the Parliament's unofficial consolidated text, which stops at Amendment CIX of 2008); the Zakon o obligacionim odnosima (no free official text); laws passed but not yet in force ([data/pending.json](data/pending.json)).
 
 ## Freshness
 
